@@ -1,0 +1,32 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+journals/tsas/GemsaHN15;article;2016-11-22;"Multirow Boundary-Labeling Algorithms for Panorama Images.";"";"2015";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2794299";0
+journals/tsas/SkoumasPKS16;article;2017-01-04;"Location Estimation Using Crowdsourced Spatial Relations.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2894745";0
+journals/tsas/ThatPZ15;article;2016-11-22;"TRIFL: A Generic Trajectory Index for Flash Storage.";"";"2015";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2786758";0
+journals/tsas/BelussiMNP16;article;2017-01-04;"Snap Rounding with Restore: An Algorithm for Producing Robust Geometric Datasets.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2811256";0
+journals/tsas/TengKC17;article;2017-10-05;"Toward Mining Stop-by Behaviors in Indoor Space.";"";"2017";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/3106736";0
+journals/tsas/ToSK15;article;2016-11-22;"A Server-Assigned Spatial Crowdsourcing Framework.";"";"2015";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2729713";0
+journals/tsas/AlyBY17;article;2017-10-05;"Accurate and Energy-Efficient GPS-Less Outdoor Localization.";"";"2017";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/3085575";0
+journals/tsas/AgarwalBM16;article;2017-01-04;"TerraNNI: Natural Neighbor Interpolation on 2D and 3D Grids Using a GPU.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2786757";0
+journals/tsas/EfstathiadesEP16;article;2017-01-04;"Efficient Processing of Relevant Nearest-Neighbor Queries.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2934675";0
+journals/tsas/PelekisSTT16;article;2017-01-04;"Simulating Our LifeSteps by Example.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2937753";0
+journals/tsas/AmagataH17;article;2017-06-29;"A General Framework for MaxRS and MaxCRS Monitoring in Spatial Data Streams.";"";"2017";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/3080554";0
+journals/tsas/FerreiraAMF16;article;2017-01-04;"An Efficient External Memory Algorithm for Terrain Viewshed Computation.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2903206";0
+journals/tsas/LongH17;article;2017-10-05;"Spatial Partition-Based Particle Filtering for Data Assimilation in Wildfire Spread Simulation.";"";"2017";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/3099471";0
+journals/tsas/ChawlaEGH17;article;2017-10-05;"Classification of Passes in Football Matches Using Spatiotemporal Data.";"";"2017";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/3105576";0
+journals/tsas/KovanenS15;article;2016-11-22;"Tilewise Accumulated Cost Surface Computation with Graphics Processing Units.";"";"2015";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2803172";0
+journals/tsas/TangYZO15;article;2017-06-14;"Efficient Geo-Fencing via Hybrid Hashing: A Combination of Bucket Selection and In-Bucket Binary Search.";"";"2015";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2774219";0
+journals/tsas/McKennneyF15;article;2016-11-22;"Generating Moving Regions from Snapshots of Complex Regions.";"";"2015";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2774220";0
+journals/tsas/BudigDW16;article;2017-01-04;"Matching Labels and Markers in Historical Maps: An Algorithm with Interactive Postprocessing.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2994598";0
+journals/tsas/PillaiABKAM16;article;2017-09-16;"Mining At Most Top-K&percnt; Spatiotemporal Co-occurrence Patterns in Datasets with Extended Spatial Representations.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2936775";0
+journals/tsas/HungYL16;article;2017-01-04;"Social Influence-Aware Reverse Nearest Neighbor Search.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2964906";0
+journals/tsas/IwataSNU17;article;2017-06-29;"Estimating People Flow from Spatiotemporal Population Data via Collective Graphical Mixture Models.";"";"2017";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/3080555";0
+journals/tsas/PurushothamK16;article;2017-01-04;"Personalized Group Recommender Systems for Location- and Event-Based Social Networks.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2987381";0
+journals/tsas/AhmedFHW15;article;2016-11-22;"A Path-Based Distance for Street Map Comparison.";"";"2015";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2729977";0
+journals/tsas/AliTSNK16;article;2017-01-04;"Spatial Consensus Queries in a Collaborative Environment.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2829943";0
+journals/tsas/GhinitaDSB16;article;2017-01-04;"Protecting Against Velocity-Based, Proximity-Based, and External Event Attacks in Location-Centric Social Networks.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2910580";0
+journals/tsas/GutingVD15;article;2016-11-22;"Symbolic Trajectories.";"";"2015";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2786756";0
+journals/tsas/ZhaoCLR16;article;2017-01-04;"Online Spatial Event Forecasting in Microblogs.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2997642";0
+journals/tsas/NiuLC16;article;2017-01-04;"On Local Expert Discovery via Geo-Located Crowds, Queries, and Candidates.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2994599";0
+journals/tsas/GoelKR16;article;2017-01-04;"Privacy-Aware Dynamic Ride Sharing.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2845080";0
+journals/tsas/BuchinMRS16;article;2017-01-04;"Area-Preserving Simplification and Schematization of Polygonal Subdivisions.";"";"2016";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/2818373";0
+journals/tsas/KaragiorgouPS17;article;2017-06-29;"A Layered Approach for More Robust Generation of Road Network Maps from Vehicle Tracking Data.";"";"2017";"ACM Trans. Spatial Algorithms and Systems";"http://doi.acm.org/10.1145/3061713";0

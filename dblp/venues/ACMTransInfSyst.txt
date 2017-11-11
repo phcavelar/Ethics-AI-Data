@@ -1,0 +1,695 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+journals/tois/CroftL84;article;2003-11-25;"Task Support in an Office System.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1206.1483";0
+journals/tois/DewanC92;article;2006-04-03;"A High-Level and Flexible Framework for Implementing Multiuser User Interfaces.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146486.146495";0
+journals/tois/ChangL87;article;2006-04-03;"A Knowledge-Based Message Management System.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/27641.27642";0
+journals/tois/FengCD02;article;2003-11-25;"A semantic network-based design methodology for XML documents.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/582415.582417";0
+journals/tois/Limb83;article;2003-11-25;"Editor's introduction.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357423.357424";0
+journals/tois/LuCL04;article;2006-02-09;"Anchor text mining for translation of Web queries: A transitive translation approach.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/984321.984324";0
+journals/tois/BaiACF17;article;2017-10-05;"Understanding and Leveraging the Impact of Response Latency on User Behaviour in Web Search.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3106372";0
+journals/tois/ZhouH17;article;2017-10-05;"Modeling and Mining Domain Shared Knowledge for Sentiment Analysis.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3091995";0
+journals/tois/DatoLNOPTV16;article;2017-01-04;"Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2987380";0
+journals/tois/PibiriV17;article;2017-10-05;"Clustered Elias-Fano Indexes.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3052773";0
+journals/tois/DongCTYY17;article;2017-08-30;"User Modeling on Demographic Attributes in Big Mobile Social Networks.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3057278";0
+journals/tois/Hirschheim86;article;2006-04-03;"Understanding the Office: A Social-Analytic Perspective.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/9760.9763";0
+journals/tois/NongCHW15;article;2015-10-28;"Induced Sorting Suffixes in External Memory.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699665";0
+journals/tois/GanesanGW03;article;2003-11-25;"Exploiting hierarchical domain structure to compute similarity.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/635484.635487";0
+journals/tois/LeroyLC03;article;2003-11-25;"The use of dynamic context to improve casual internet searching.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/858476.858477";0
+journals/tois/TigelaarHT12;article;2017-06-09;"Peer-to-Peer Information Retrieval: An Overview.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2180868.2180871";0
+journals/tois/Nutt83;article;2003-11-25;"An Experimental Distributed Modeling System.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357431.357432";0
+journals/tois/BrownG87;article;2006-04-03;"An Experimental Study of People Creating Spreadsheets.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/27641.28058";0
+journals/tois/EastmanJ03;article;2017-06-09;"Coverage, relevance, and ranking: The impact of query operators on Web search engine results.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/944012.944015";0
+journals/tois/GauchS91;article;2006-04-03;"Search Improvement via Automatic Query Reformulation.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/125187.125193";0
+journals/tois/CaiRR16;article;2017-01-03;"Diversifying Query Auto-Completion.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2910579";0
+journals/tois/BingLWJ15;article;2015-04-20;"Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699666";0
+journals/tois/BuiJ86;article;2006-04-03;"Communications Design for Co-oP: A Group Decision Support System.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/6168.6169";0
+journals/tois/Bodoff04;article;2006-02-09;"Relevance models to help estimate document and query parameters.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1010614.1010615";0
+journals/tois/Lehtonen06;article;2007-03-06;"Preparing heterogeneous XML for full-text search.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1185881";0
+journals/tois/RiloffL94;article;2006-04-03;"Information as Basic for High-Precision Text Classification.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/183422.183428";0
+journals/tois/HigginsS84;article;2003-11-25;"A Critical Appraisal of Task Taxonomies as a Tool for Studying Office Activities.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2275.2279";0
+journals/tois/SandersonR99;article;2003-11-25;"The impact on retrieval effectiveness of skewed frequency distributions.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/326440.326447";0
+journals/tois/BaileyHMW07;article;2017-09-17;"Adaptive hypermedia through contextualized open hypermedia structures.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1281485.1281487";0
+journals/tois/ChaiZJ07;article;2017-01-12;"An empirical investigation of user term feedback in text-based targeted image search.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1198296.1198299";0
+journals/tois/ChangL03;article;2006-02-09;"MEGA - the maximizing expected generalization algorithm for learning complex query concepts.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/944012.944014";0
+journals/tois/CohenS99;article;2003-11-25;"Context-Sensitive Learning Methods for Text Categorization.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/306686.306688";0
+journals/tois/Hauzeur86;article;2006-04-03;"A Model for Naming, Addressing, and Routing.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/9760.9761";0
+journals/tois/Suchman83;article;2003-11-25;"Office Procedure as Practical Action: Models of Work and System Design.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357442.357445";0
+journals/tois/WangXLC13;article;2017-01-12;"Regularized Latent Semantic Indexing: A New Approach to Large-Scale Topic Modeling.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2414782.2414787";0
+journals/tois/ChoudhurySJS10;article;2017-01-12;"Extraction, characterization and utility of prototypical communication groups in the blogosphere.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1877766.1877772";0
+journals/tois/CroftS88;article;2006-04-03;"Implementing Ranking Strategies Using Text Signatures.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42279.45947";0
+journals/tois/NieWZC12;article;2017-09-18;"Oracle in Image Search: A Content-Based Approach to Performance Prediction.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2180868.2180875";0
+journals/tois/KataokaMKO92;article;2006-04-03;"A Model for Input and Output for Multilingual Text in a Windowing Environment.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146486.146558";0
+journals/tois/MacdonaldOT11;article;2017-01-12;"Upper-bound approximations for dynamic pruning.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2037661.2037662";0
+journals/tois/AggarwalAY01;article;2003-11-25;"On the design of a learning crawler for topical resource discovery.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/502115.502119";0
+journals/tois/TriggW86;article;2006-04-03;"TEXTNET: A Network-Based Approach to Text Handling.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/5401.5402";0
+journals/tois/GenevesL06;article;2007-03-06;"A system for the static analysis of XPath.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1185882";0
+journals/tois/EntlichGLNOW97;article;2003-11-25;"Making a Digital Library: The Contents of the CORE Project.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/248625.248627";0
+journals/tois/Motro86a;article;2006-04-03;"SEAVE: A Mechanism for Verifying User Presuppositions in Query Systems.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/9760.9762";0
+journals/tois/VujovicB98;article;2005-08-26;"Evaluation of an Algorithm for Finding a Match of a Distorted Texture Pattern in a Large Image Database.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/267954.267956";0
+journals/tois/SunMGM11;article;2017-01-12;"Identifying, Indexing, and Ranking Chemical Formulae and Chemical Names in Digital Documents.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1961209.1961215";0
+journals/tois/ArguelloC16;article;2017-01-03;"The Effects of Aggregated Search Coherence on Search Behavior.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2935747";0
+journals/tois/AuramakiLL88;article;2006-04-03;"A Speech-Act-Based Office Modeling Approach.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45941.214328";0
+journals/tois/FuhrP94;article;2006-04-03;"Probabilistic Information Retrieval as a Combination of Abstraction, Inductive Learning, and Probabilistic Assumptions.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/174608.174612";0
+journals/tois/Koike95;article;2003-11-25;"Generalized Fractal Views: A Fractal-Based Method for Controlling Information Display.";"";"1995";"ACM Trans. Inf. Syst.";"";0
+journals/tois/Webber13;article;2017-01-12;"Approximate Recall Confidence Intervals.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2414782.2414784";0
+journals/tois/LeeL89;article;2017-06-09;"Partitioned Signature Files: Design Issues and Performance Evaluation.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65935.65937";0
+journals/tois/ChuaR95;article;2006-04-03;"A Video Retrieval and Sequencing System.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/211430.211431";0
+journals/tois/WangLGAH17;article;2017-08-30;"Understanding the Purpose of Permission Use in Mobile Apps.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086677";0
+journals/tois/PirkolaTKJ07;article;2017-01-12;"Frequency-based identification of correct translation equivalents (FITE) obtained through transformation rules.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1292591.1292593";0
+journals/tois/GemmellC92;article;2017-06-09;"Principles of Delay-Sensitive Multimedia Data Storage and Retrieval.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/128756.128758";0
+journals/tois/KharazmiSVS16;article;2017-01-03;"Examining Additivity and Weak Baselines.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2882782";0
+journals/tois/Malone83;article;2003-11-25;"How Do People Organize Their Desks? Implications for the Design of Office Information Systems.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357423.357430";0
+journals/tois/Ackerman98;article;2003-11-25;"Augmenting Organizational Memory: A Field Study of Answer Garden.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/290159.290160";0
+journals/tois/HuCCGXW17;article;2017-06-29;"Improving the Quality of Recommendations for Users and Items in the Tail of Distribution.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3052769";0
+journals/tois/Cohen97;article;2003-11-25;"Recursive Hashing Functions for n-Grams.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/256163.256168";0
+journals/tois/ParkR04;article;2006-02-09;"Information systems interoperability: What lies beneath?";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1028099.1028103";0
+journals/tois/CampagnoniE89;article;2006-04-03;"Information Retrieval Using a Hypertext-Based Help System.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65943.65948";0
+journals/tois/WebbBPRSWHEJ16;article;2017-06-09;"Digital Wildfires: Propagation, Verification, Regulation, and Responsible Innovation.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2893478";0
+journals/tois/AfsarmaneshM89;article;2006-04-03;"The 3DIS: An Extensible Object-Oriented Information Management Environment.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/76158.76892";0
+journals/tois/AndersonTW00;article;2017-06-09;"Chimera: hypermedia for heterogeneous software development enviroments.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/352595.352596";0
+journals/tois/Bier92;article;2006-04-03;"EmbeddedButtons: Supporting Buttons in Documents.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146486.146547";0
+journals/tois/ZhangM14;article;2015-05-07;"Trust Prediction via Belief Propagation.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2629530";0
+journals/tois/PlaisantSDB99;article;2003-11-25;"Interface and Data Architecture for Query Preview in Networked Information Systems.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/314516.314522";0
+journals/tois/ShenPSPWYY06;article;2013-12-11;"Query enrichment for web-query classification.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1165776";0
+journals/tois/Kwok90;article;2006-04-03;"Experiments with a Component Theory of Probabilistic Information Retrieval Based on Single Terms as Document Components.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/102675.102677";0
+journals/tois/Bulterman95;article;2006-04-03;"Embedded Video in Hypermedia Documents: Supporting Integration and Adaptive Control.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/211430.211439";0
+journals/tois/PoulovassilisL94;article;2006-04-03;"A Nested-Graph Model for the Representation and Manipulation of Complex Objects.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/174608.174610";0
+journals/tois/FishmanBCCCDDHKLMNRS87;article;2003-11-25;"Iris: An Object-Oriented Database Management System.";"";"1987";"ACM Trans. Inf. Syst.";"";0
+journals/tois/KolbeZP10;article;2017-09-05;"Efficient k-nearest neighbor searching in nonordered discrete data spaces.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1740592.1740595";0
+journals/tois/LauBS08;article;2017-06-09;"Towards a belief-revision-based adaptive and context-sensitive information retrieval system.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1344411.1344414";0
+journals/tois/KorodiT05;article;2006-02-09;"An efficient normalized maximum likelihood algorithm for DNA sequence compression.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1055709.1055711";0
+journals/tois/PurdySM87;article;2006-04-03;"Integrating an Object Server with Other Worlds.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/22890.23000";0
+journals/tois/SkaggsG14;article;2015-05-07;"Topic Modeling for Wikipedia Link Disambiguation.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2633044";0
+journals/tois/HuangSSZC09;article;2017-09-19;"Bounded coordinate system indexing for real-time video clip search.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1508850.1508855";0
+journals/tois/PanTS13;article;2017-06-09;"Transfer joint embedding for cross-domain named entity recognition.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2457465.2457467";0
+journals/tois/HeimbignerM85;article;2006-04-03;"A Federated Architecture for Information Management.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4229.4233";0
+journals/tois/TsaiMT06;article;2007-05-06;"CLAIRE: A modular support vector image indexing and classification system.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1165777";0
+journals/tois/Marchionini06;article;2007-03-06;"TOIS reviewers 2003--2005.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1125862";0
+journals/tois/WeyerB85;article;2006-04-03;"A Prototype Electronic Encyclopedia.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3864.3865";0
+journals/tois/Motro86;article;2006-04-03;"BAROQUE: A Browser for Relational Databases.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/6168.6172";0
+journals/tois/ParkR09;article;2017-06-09;"An analysis of latent semantic term self-correlation.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1462198.1462200";0
+journals/tois/SiochiE91;article;2006-04-03;"Computer Analysis of User Interfaces Based on Repetition in Transcripts of User Sessions.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/119311.119312";0
+journals/tois/LeeR96;article;2017-06-09;"Document Ranking on Weight-Partitioned Signature Files.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/226163.226164";0
+journals/tois/WangKFVET12;article;2017-06-09;"Direct posterior confidence for out-of-vocabulary spoken term detection.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2328967.2328969";0
+journals/tois/TrauthKB84;article;2003-11-25;"Channel Selection and Effective Communication for Managerial Decision Making.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/521.522";0
+journals/tois/BertinoFFHEZ03;article;2016-11-05;"A hierarchical access control model for video database systems.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/763693.763695";1
+journals/tois/HouLLTG17;article;2017-10-05;"Learning to Align Comments to News Topics.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3072591";0
+journals/tois/MoffatZ96;article;2003-11-25;"Self-Indexing Inverted Files for Fast Text Retrieval.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/237496.237497";0
+journals/tois/Savoy12;article;2017-01-12;"Authorship Attribution Based on Specific Vocabulary.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2180868.2180874";0
+journals/tois/Suchman88;article;2006-04-03;"Designing with the User - Book Review.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45941.383895";0
+journals/tois/YangHYPDBCE17;article;2017-10-05;"Yum-Me: A Personalized Nutrient-Based Meal Recommender System.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3072614";0
+journals/tois/ClementsVR10;article;2017-06-09;"The task-dependent effect of tags and ratings on social media access.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1852102.1852107";1
+journals/tois/GeraniCC12;article;2017-01-12;"Aggregation Methods for Proximity-Based Opinion Retrieval.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2382438.2382445";0
+journals/tois/FuhrR97;article;2003-11-25;"A Probabilistic Relational Algebra for the Integration of Information Retrieval and Database Systems.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/239041.239045";0
+journals/tois/Holt88;article;2006-04-03;"Diplans: A New Language for the Study and Implementation of Coordination.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45941.45942";0
+journals/tois/TurtleC91;article;2006-04-03;"Evaluation of an Inference Network-Based Retrieval Model.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/125187.125188";0
+journals/tois/ShtokKC16;article;2017-01-03;"Query Performance Prediction Using Reference Lists.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2926790";0
+journals/tois/WebberMZ10;article;2017-06-09;"A similarity measure for indefinite rankings.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1852102.1852106";0
+journals/tois/Croft91;article;2003-11-25;"Editorial.";"";"1991";"ACM Trans. Inf. Syst.";"";0
+journals/tois/DimitrovaG95;article;2006-04-03;"Motion Recovery for Video Content Classification.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/211430.211433";0
+journals/tois/Ah-PineCC15;article;2015-04-20;"Unsupervised Visual and Textual Information Fusion in CBMIR Using Graph-Based Methods.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699668";0
+journals/tois/Wilbur98;article;2003-11-25;"The Knowledge in Multiple Human Relevance Judgments.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/279339.279340";0
+journals/tois/WhangABHHHKKSSWZ87;article;2006-06-28;"Office-by-Example: An Integrated Office System and Database Manager.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42196.42200";0
+journals/tois/DarwishM07;article;2017-01-12;"Error correction vs. query garbling for Arabic OCR document retrieval.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1292591.1292596";0
+journals/tois/ArthurBW93;article;2006-04-03;"Evaluating 3D Task Performance for Fish Tank Virtual Worlds.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159161.155359";0
+journals/tois/WangZCHSYLH17;article;2017-08-30;"Computing Urban Traffic Congestions by Incorporating Sparse GPS Probe Data and Social Media Data.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3057281";0
+journals/tois/ZhaoZZWWC16;article;2017-01-03;"A Probabilistic Lifestyle-Based Trajectory Model for Social Strength Inference from Human Trajectory Data.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2948064";0
+journals/tois/NavarroB97;article;2003-11-25;"Proximal Nodes: A Model to Query Document Databases by Content and Structure.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/263479.263482";0
+journals/tois/NongCZG14;article;2017-01-03;"Suffix Array Construction in External Memory Using D-Critical Substrings.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2518175";0
+journals/tois/BrisaboaCN14;article;2017-06-14;"XXS: Efficient XPath Evaluation on Compressed XML Documents.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2629554";0
+journals/tois/WangVR08;article;2017-06-09;"Unified relevance models for rating prediction in collaborative filtering.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1361684.1361689";0
+journals/tois/BolchiniSST03;article;2017-06-09;"Logical and physical design issues for smart card databases.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/858476.858478";0
+journals/tois/UttingY89;article;2006-04-03;"Context and Orientation in Hypermedia Networks.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/64789.64992";0
+journals/tois/BanerjeeCGKWBK87;article;2006-04-03;"Data Model Issues for Object-Oriented Applications.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/22890.22945";0
+journals/tois/El-KwaeK00;article;2003-11-25;"Efficient content-based indexing of large image databases.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/348751.348762";0
+journals/tois/DoL16;article;2017-01-03;"Probabilistic Models for Contextual Agreement in Preferences.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2854147";0
+journals/tois/KingNS04;article;2006-02-09;"Distributed content-based visual information retrieval system on peer-to-peer networks.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1010614.1010619";0
+journals/tois/ZhangNLTCS17;article;2017-06-29;"Compact Indexing and Judicious Searching for Billion-Scale Microblog Retrieval.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3052771";0
+journals/tois/BallardLT84;article;2017-06-09;"LDC-1: A Transportable, Knowledge-Based Natural Language Processor for Office Environments.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357417.357418";0
+journals/tois/ZhelevaKG08;article;2017-01-12;"Trusting spam reporters: A reporter-based reputation system for email filtering.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1416950.1416953";0
+journals/tois/KleinBD89;article;2006-04-03;"Storing Text Retrieval Systems on CD-ROM: Compression and Encryption Considerations.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65943.65946";0
+journals/tois/Rowe96;article;2003-11-25;"Using Local Optimality Criteria for Efficient Information Retrieval with Redundant Information Filters.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/226163.226165";0
+journals/tois/Pal15;article;2015-04-20;"Metrics and Algorithms for Routing Questions to User Communities.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2724706";0
+journals/tois/Epstein85;article;2006-04-03;"Transportable Natural Language Processing through Simplicity - The PRE System.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3914.3985";0
+journals/tois/FangSC07;article;2017-01-12;"ServiceFinder: A method towards enhancing service portals.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1281485.1281488";0
+journals/tois/CrestaniR98;article;2003-11-25;"A Study of Probability Kinematics in Information Retrieval.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/290159.290161";0
+journals/tois/YangGZ15;article;2017-01-03;"The Query Change Model: Modeling Session Search as a Markov Decision Process.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2747874";0
+journals/tois/ConklinB88;article;2006-04-03;"gIBIS: A Hypertext Tool for Exploratory Policy Discussion.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/58566.59297";0
+journals/tois/WangLYTWL14;article;2017-08-16;"Cache Design of SSD-Based Search Engine Architectures: An Experimental Study.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2661629";0
+journals/tois/ApteDW94;article;2006-04-03;"Automated Learning of Decision Rules for Text Categorization.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/183422.183423";0
+journals/tois/Crouch06;article;2007-03-06;"Dynamic element retrieval in a structured environment.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1185880";0
+journals/tois/WilliamsZB04;article;2006-02-09;"Fast phrase querying with combined indexes.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1028099.1028102";0
+journals/tois/BergmanBNGW08;article;2017-01-12;"Improved search engines and navigation preference in personal information management.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402259";0
+journals/tois/Wiecha92;article;2006-04-03;"ITS and User Interface Consistency: A Response to Grudin.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/128756.128761";0
+journals/tois/ZhuHCCS13;article;2013-06-05;"Sparse hashing for fast multimedia search.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2457465.2457469";0
+journals/tois/AmatoRSZ03;article;2017-06-09;"Region proximity in metric spaces and its use for approximate similarity search.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/763693.763696";0
+journals/tois/BalogBR11;article;2017-06-09;"Query modeling for entity search based on terms, categories, and examples.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2037661.2037667";0
+journals/tois/Mackay88;article;2006-04-03;"Diversity in the Use of Electronic Mail: A Preliminary Inquiry.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/58566.58567";0
+journals/tois/PauschCD92;article;2006-04-03;"Lessons Learned from SUIT, the Simple User Interface Toolkit.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146486.146489";0
+journals/tois/MiddletonSR04;article;2017-06-14;"Ontological user profiling in recommender systems.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/963770.963773";0
+journals/tois/AltingovdeDCU08;article;2017-01-12;"Incremental cluster-based retrieval using compressed cluster-skipping inverted files.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1361684.1361688";0
+journals/tois/KongC95;article;2003-11-25;"On Deductive Database with Incomplete Information.";"";"1995";"ACM Trans. Inf. Syst.";"";0
+journals/tois/Williams05;article;2006-02-09;"Introduction to genomic information retrieval.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1055709.1055710";0
+journals/tois/Nong13;article;2013-08-22;"Practical linear-time ";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2493175.2493180";0
+journals/tois/GuiverMR09;article;2017-01-12;"A few good topics: Experiments in topic set reduction for retrieval evaluation.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1629096.1629099";0
+journals/tois/Motro88;article;2006-04-03;"VAGUE: A User Interface to Relational Databases that Permits Vague Queries.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45945.48027";0
+journals/tois/CuiLZLCY14;article;2017-01-03;"Social-Sensed Image Search.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2590974";0
+journals/tois/MelnikRYG01;article;2003-11-25;"Building a distributed full-text index for the web.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/502115.502116";0
+journals/tois/ChenL06;article;2007-03-06;"iVIBRATE: Interactive visualization-based framework for clustering large datasets.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1148024";0
+journals/tois/ChapelleJRY12;article;2017-01-12;"Large-scale validation and analysis of interleaved search evaluation.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2094072.2094078";0
+journals/tois/BharatM02;article;2003-11-25;"When experts agree: using non-affiliated experts to rank popular topics.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/503104.503107";0
+journals/tois/FuhrG04;article;2006-02-09;"XIRQL: An XML query language based on information retrieval concepts.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/984321.984326";0
+journals/tois/AmatiR02;article;2003-11-25;"Probabilistic models of information retrieval based on measuring the divergence from randomness.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/582415.582416";0
+journals/tois/PetersenSL16;article;2017-06-09;"Power Law Distributions in Information Retrieval.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2816815";0
+journals/tois/FagniPSO06;article;2017-06-09;"Boosting the performance of Web search engines: Caching and prefetching query results by exploiting historical usage data.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1125859";0
+journals/tois/TsichritzisC83;article;2003-11-25;"Message Files.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357423.357429";0
+journals/tois/IoannidisSW92;article;2006-04-03;"Conceptual Learning in Database Design.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146760.146779";0
+journals/tois/GouldLB85;article;2006-04-03;"Cursor Movement during Text Editing.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3864.3867";0
+journals/tois/ConnorCVR17;article;2017-06-29;"Hilbert Exclusion: Improved Metric Search through Finite Isometric Embeddings.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3001583";0
+journals/tois/LiddyPY94;article;2006-04-03;"Text Categorization for Multiple Users Based on Semantic Features from a Machine-Readable Dictionary.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/183422.183425";0
+journals/tois/MetzlerH89;article;2006-04-03;"The Constituent Object Parser: Syntactic Structure Matching for Information Retrieval.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65943.65949";0
+journals/tois/Hewitt86;article;2006-04-03;"Offices Are Open Systems.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214427.214432";0
+journals/tois/BertinoRG88;article;2006-04-03;"Query Processing in a Multimedia Document System.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42279.42281";0
+journals/tois/YangSZLC17;article;2017-08-30;"A Neural Network Approach to Jointly Modeling Social Networks and Mobile Trajectories.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3041658";0
+journals/tois/BhatiaM12;article;2017-01-12;"Summarizing figures, tables, and algorithms in scientific publications to augment search results.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2094072.2094075";0
+journals/tois/StottsFC98;article;2003-11-25;"Hyperdocuments as Automata: Verification of Trace-Based Browsing Properties by Model Checking.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/267954.267955";0
+journals/tois/SmithB83;article;2003-11-25;"Projecting Demand for Electronic Communications in Automated Offices.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357436.357438";0
+journals/tois/Gladney04;article;2006-02-09;"Trustworthy 100-year digital objects: Evidence after every witness is dead.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1010614.1010617";0
+journals/tois/IsraelL83;article;2003-11-25;"Authentication in Office System Internetworks.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357436.357437";0
+journals/tois/ThomasonGS16;article;2017-01-04;"Context Trees: Augmenting Geospatial Trajectories with Context.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2978578";0
+journals/tois/OlsonOSC93;article;2013-10-18;"Groupwork Close Up: A Comparison of the Group Design Process With and Without a Simple Group Editor.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159764.159763";0
+journals/tois/LuoXLZ16;article;2017-06-14;"Measuring the Semantic Uncertainty of News Events for Evolution Potential Estimation.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2903719";0
+journals/tois/FoxKMDW05;article;2006-02-09;"Evaluating implicit measures to improve web search.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1059981.1059982";0
+journals/tois/FuAZC12;article;2017-01-12;"Sentimental Spidering: Leveraging Opinion Information in Focused Crawlers.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2382438.2382443";0
+journals/tois/HerlockerKTR04;article;2006-02-09;"Evaluating collaborative filtering recommender systems.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/963770.963772";0
+journals/tois/BiermannFG85;article;2006-04-03;"An Imperative Sentence Processor for Voice Interactive Office Applications.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4656.4660";0
+journals/tois/BrisaboaFNP10;article;2017-06-14;"Dynamic lightweight text compression.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1777432.1777433";0
+journals/tois/Ellis84;article;2003-11-25;"Selected Papers from the Conference on Office Information Systems (Toronto, 1984) - Editor's Introduction.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1206.357412";0
+journals/tois/ShashaW90;article;2016-08-11;"New Techniques for Best-Match Retrieval.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/96105.96111";0
+journals/tois/XueC13;article;2013-06-05;"Modeling reformulation using query distributions.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2457465.2457466";0
+journals/tois/PaddockS84;article;2003-11-25;"Office Automation Projects and Their Impact on Organization, Planning, and Control.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2275.2277";0
+journals/tois/AbbasiCS08;article;2017-01-12;"Sentiment analysis in multiple languages: Feature selection for opinion classification in Web forums.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1361684.1361685";0
+journals/tois/MarkovC14;article;2017-01-03;"Theoretical, Qualitative, and Quantitative Analyses of Small-Document Approaches to Resource Selection.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2590975";0
+journals/tois/LauwLPT10;article;2017-09-16;"STEvent: Spatio-temporal event model for social network discovery.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1777432.1777438";1
+journals/tois/MackLC83;article;2003-11-25;"Learning to Use Word Processors: Problems and Prospects.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357436.357440";0
+journals/tois/Myers90;article;2006-04-03;"A New Model for Handling Input.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/98188.98204";0
+journals/tois/AlhindiKFA15;article;2017-06-14;"Profile-Based Summarisation for Web Site Navigation.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699661";0
+journals/tois/HarabagiuL10;article;2017-01-12;"Using topic themes for multi-document summarization.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1777432.1777436";0
+journals/tois/YoshiokaHYO01;article;2003-11-25;"Genre taxonomy: A knowledge repository of communicative actions.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/502795.502798";0
+journals/tois/MillerKR04;article;2006-02-09;"PocketLens: Toward a personal recommender system.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1010614.1010618";0
+journals/tois/Culnan84;article;2003-11-25;"The Dimensions of Accessibility to Online Information: Implications for Implementing Office Information Systems.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/521.523";0
+journals/tois/ZhuRZ02;article;2003-11-25;"Theory of keyblock-based image retrieval.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/506309.506313";0
+journals/tois/Anagnostopoulos15;article;2015-04-20;"Stochastic Query Covering for Fast Approximate Document Retrieval.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699671";0
+journals/tois/KingN93;article;2006-04-03;"Designing Database Interfaces with DBface.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/130226.134481";0
+journals/tois/HouZSL13;article;2017-06-09;"Mining pure high-order word associations via information geometry for information retrieval.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2493175.2493177";0
+journals/tois/HudsonK86;article;2006-04-03;"A Generator of Direct Manipulation Office Systems.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/6168.6171";0
+journals/tois/MeussS01;article;2003-11-25;"Complete answer aggregates for treelike databases: a novel approach to combine querying and navigation.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/382979.383042";0
+journals/tois/BuchmanBG85;article;2006-04-03;"DITROFF/FFORTID, An Adaptation of the UNIX DITROFF for Formatting Bidirectional Text.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4656.4658";0
+journals/tois/Melucci08;article;2017-01-12;"A basis for information retrieval in context.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1361684.1361687";0
+journals/tois/BuyukkoktenKGPW02;article;2003-11-25;"Efficient web browsing on handheld devices using page and form summarization.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/503104.503109";0
+journals/tois/StottsF89;article;2006-04-03;"Petri-Net-Based Hypertext: Document Structure with Browsing Semantics.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/64789.64791";0
+journals/tois/SadeghiBMSSV17;article;2017-06-29;"Re-Finding Behaviour in Vertical Domains.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2975590";0
+journals/tois/CormackL07;article;2017-01-12;"Online supervised spam filter evaluation.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1247715.1247717";0
+journals/tois/KingM85;article;2006-04-03;"A Database Design Methodology and Tool for Information Systems.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3864.3869";0
+journals/tois/LiuALTHFM17;article;2017-10-17;"Deriving User Preferences of Mobile Apps from Their Management Activities.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3015462";0
+journals/tois/OrlikowskiG94;article;2006-04-03;"Technological Frames: Making Sense of Information Technology in Organizations.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/196734.196745";0
+journals/tois/MerzK94;article;2006-04-03;"Direct: A Query Facility for Multiple Databases.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/185462.185472";0
+journals/tois/TryfonopoulosKD09;article;2017-01-12;"Information filtering and query indexing for an information retrieval model.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1462198.1462202";0
+journals/tois/MoldovanPHS03;article;2003-11-25;"Performance issues and error analysis in an open-domain question answering system.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/763693.763694";0
+journals/tois/Panko85;article;2006-04-03;"Productivity Trends in Certain Office-Intensive Sectors of the U.S. Federal Government.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4656.214329";0
+journals/tois/TalvensaariLJJK07;article;2017-01-12;"Creating and exploiting a comparable corpus in cross-language information retrieval.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1198296.1198300";0
+journals/tois/WiechaBBGG90;article;2015-07-07;"ITS: A Tool for Rapidly Developing Interactive Applications.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/98188.98194";0
+journals/tois/HindusSH93;article;2006-04-03;"Capturing, Structuring, and Representing Ubiquitous Audio.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159764.159761";0
+journals/tois/PiwowarskiGD07;article;2017-01-12;"Precision recall with user modeling (PRUM): Application to structured information retrieval.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1198296.1198297";0
+journals/tois/KaszkielZS99;article;2003-11-25;"Efficient passage ranking for document databases.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/326440.326445";0
+journals/tois/MorsyK16;article;2017-01-03;"Accounting for Language Changes Over Time in Document Similarity Search.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2934671";0
+journals/tois/KincaidDK85;article;2006-04-03;"Electronic Calendars in the Office: An Assessment of User Needs and Current Technology.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3864.3868";0
+journals/tois/HofmannWR13;article;2017-01-03;"Fidelity, Soundness, and Efficiency of Interleaved Comparison Methods.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2536736.2536737";0
+journals/tois/MinkovC10;article;2017-01-12;"Improving graph-walk-based similarity with reranking: Case studies for personal information management.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1877766.1877770";0
+journals/tois/WhiteDG17;article;2017-06-29;"Search Result Prefetching on Desktop and Mobile.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3015466";0
+journals/tois/ForsatiMSS14;article;2015-04-29;"Matrix Factorization with Explicit Trust and Distrust Side Information for Improved Social Recommendation.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2641564";0
+journals/tois/ClarkeC00;article;2003-11-25;"Shortest-substring retrieval and ranking.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/333135.333137";0
+journals/tois/Gasser86;article;2006-04-03;"The Integration of Computing and Routine Work.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214427.214429";0
+journals/tois/PapadiasMD01;article;2003-11-25;"Approximate spatio-temporal retrieval.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/366836.366874";0
+journals/tois/LiWSA10;article;2017-01-12;"Learning with click graph for query intent classification.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1777432.1777435";0
+journals/tois/ChengS16;article;2017-01-03;"On Effective Location-Aware Music Recommendation.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2846092";0
+journals/tois/ParameswaranVG11;article;2017-01-12;"Recommendation systems with complex constraints: A course recommendation perspective.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2037661.2037665";0
+journals/tois/Allen89;article;2003-11-25;"A New Name - ACM Transactions on Information Systems, Editorial.";"";"1989";"ACM Trans. Inf. Syst.";"";0
+journals/tois/PeelsJN85;article;2006-04-03;"Document Architecture and Text Formatting.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4656.4657";0
+journals/tois/CandanDHKLS09;article;2017-01-12;"SEA: Segment-enrich-annotate paradigm for adapting dialog-based content for improved accessibility.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1508850.1508853";0
+journals/tois/Markus94;article;2006-04-03;"Finding a Happy Medium: Explaining the Negative Effects of Electronic Communication on Social Life at Work.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/196734.196738";0
+journals/tois/UmemotoSNXTR17;article;2017-08-30;"Search by Screenshots for Universal Article Clipping in Mobile Apps.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3091107";0
+journals/tois/MagalhaesR10;article;2017-01-12;"An information-theoretic framework for semantic-multimedia retrieval.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1852102.1852105";0
+journals/tois/PowellF03;article;2017-06-09;"Comparing the performance of collection selection algorithms.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/944012.944016";0
+journals/tois/HafnerG85;article;2006-04-03;"Portability of Syntax and Semantics in Datalog.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3914.3982";0
+journals/tois/MouraSASCN08;article;2017-06-09;"Locality-Based pruning methods for web search.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1344411.1344415";0
+journals/tois/PurvyFK83;article;2003-11-25;"The Design of Star's Records Processing: Data Processing for the Noncomputer Professional.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357423.357425";0
+journals/tois/Lin07;article;2017-01-12;"An exploration of the principles underlying redundancy-based factoid question answering.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1229179.1229180";0
+journals/tois/FischerLMM91;article;2006-04-03;"The Role of Critiquing in Cooperative Problem Solving.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/123078.128727";0
+journals/tois/ChiuTHHL13;article;2017-01-03;"Efficient Video Stream Monitoring for Near-Duplicate Detection and Localization in a Large-Scale Repository.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2516890";0
+journals/tois/Barber83;article;2003-11-25;"Supporting Organizational Problem Solving with a Work Station.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357423.357427";0
+journals/tois/ChenBZ11;article;2017-01-12;"Ranking function adaptation with boosting trees.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2037661.2037663";0
+journals/tois/CarpinetoMRB01;article;2014-03-13;"An information-theoretic approach to automatic query expansion.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/366836.366860";0
+journals/tois/PalHK12;article;2017-01-12;"Exploring Question Selection Bias to Identify Experts and Potential Experts in Community Question Answering.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2180868.2180872";0
+journals/tois/SlocumJ85;article;2006-04-03;"Transportability to Other Languages: The Natural Language Processing Project in the AI Program at MCC.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3914.3981";0
+journals/tois/ZhangTMTJLLM17;article;2017-10-05;"Fast and Flexible Top-";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086695";0
+journals/tois/LiangYSRC17;article;2017-10-05;"Search Result Diversification in Short Text Streams.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3057282";0
+journals/tois/Brotz83;article;2003-11-25;"Message System Mores: Etiquette in Laurel.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357431.357435";0
+journals/tois/AdomaviciusSST05;article;2006-02-09;"Incorporating contextual information in recommender systems using a multidimensional approach.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1055709.1055714";0
+journals/tois/WooL86;article;2006-04-03;"Supporting Distributed Office Problem Solving in Organizations.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214427.214428";0
+journals/tois/HicksLNS98;article;2003-11-25;"A Hypermedia Version Control Framework.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/279339.279341";0
+journals/tois/FuhrB91;article;2006-04-03;"A Probabilistic Learning Approach for Document Indexing.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/125187.125189";0
+journals/tois/SunYXMZ17;article;2017-08-30;"Collaborative Intent Prediction with Real-Time Contextual Data.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3041659";0
+journals/tois/WangLSLC17;article;2017-08-30;"Search, Mining, and Their Applications on Mobile Devices: Introduction to the Special Issue.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086665";0
+journals/tois/ZhangJT16;article;2017-01-03;"Causal Relationship Detection in Archival Collections of Product Reviews for Understanding Technology Evolution.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2937752";0
+journals/tois/ConradC03;article;2003-11-25;"Early user - system interaction for database selection in massive domain-specific online environments.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/635484.635488";0
+journals/tois/BaileyGMW83;article;2003-11-25;"An OIS Model for Internal Accounting Control Evaluation.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357423.357426";0
+journals/tois/CiacciaZ93;article;2006-04-03;"Estimating Accesses in Partitioned Signature File Organizations.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/130226.145014";0
+journals/tois/Kelley84;article;2003-11-25;"An Iterative Design Methodology for User-Friendly Natural Language Office Information Applications.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357417.357420";0
+journals/tois/DupplawDHLS09;article;2017-01-12;"A distributed, service-based framework for knowledge applications with multimedia.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1629096.1629100";0
+journals/tois/PaikMPJ11;article;2017-01-12;"GRAS: An effective and efficient stemming algorithm for information retrieval.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2037661.2037664";0
+journals/tois/RamR98;article;2003-11-25;"Collaborative Conceptual Schema Design: A Process Model and Prototype System.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/291128.291130";0
+journals/tois/Ruhleder94;article;2006-04-03;"Rich and Lean Representations of Information for Knowledge Work: The Role of Computing Packages in the Work of Classical Scholars.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/196734.196746";0
+journals/tois/GeXTL14;article;2017-01-03;"Cost-Aware Collaborative Filtering for Travel Tour Recommendations.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2559169";0
+journals/tois/JiangTLCLY17;article;2017-10-05;"GVoS: A General System for Near-Duplicate Video-Related Applications on Storm.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3041657";0
+journals/tois/LuccheseOPST13;article;2017-09-16;"Discovering tasks from search engine query logs.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2493175.2493179";0
+journals/tois/X94;article;2003-11-25;"TOIS Charter.";"";"1994";"ACM Trans. Inf. Syst.";"";0
+journals/tois/TureL14;article;2016-05-22;"Exploiting Representations from Statistical Machine Translation for Cross-Language Information Retrieval.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2644807";0
+journals/tois/TaoP05;article;2017-06-09;"Historical spatio-temporal aggregation.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1055709.1055713";0
+journals/tois/VoorheesSS17;article;2017-10-05;"Using Replicates in Information Retrieval Evaluation.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086701";0
+journals/tois/Damerau85;article;2006-04-03;"Problems and Some Solutions in Customization of Natural Language Database Front Ends.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3914.3915";0
+journals/tois/CaiZZZWCD17;article;2017-10-05;"Active Learning for Classification with Maximum Model Change.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086820";0
+journals/tois/CelentanoFP95;article;2017-06-09;"Document Retrieval in Office Environment: Knowledge Modelling and Browsing.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/203052.203056";0
+journals/tois/GibbsT83;article;2003-11-25;"A Data Modeling Approach for Office Information Systems.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357442.357444";0
+journals/tois/DonahueW86;article;2006-04-03;"Whiteboards: A Graphical Database Tool.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/5401.5403";0
+journals/tois/LimL99;article;2003-11-25;"Harp: A Distributed Query System for Legacy Public Libraries and Structured Databases.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/314516.314521";0
+journals/tois/WuW10;article;2017-01-12;"Arnoldi versus GMRES for computing pageRank: A theoretical contribution to google's pageRank problem.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1777432.1777434";0
+journals/tois/IvoryM05;article;2006-04-06;"Evolution of web site design patterns.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1095872.1095876";0
+journals/tois/PossasZMR05;article;2006-04-06;"Set-based vector model: An efficient approach for correlation-based ranking.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1095872.1095874";0
+journals/tois/BastC13;article;2013-06-05;"Efficient fuzzy search in large text collections.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2457465.2457470";0
+journals/tois/Allen94;article;2003-11-25;"Editorial.";"";"1994";"ACM Trans. Inf. Syst.";"";0
+journals/tois/RadaM87;article;2006-04-03;"Augmenting Thesauri for Information Systems.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42196.42246";0
+journals/tois/StefikBFLT87;article;2006-04-03;"WYSIWIS Revised: Early Experiences with Multiuser Interfaces.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/27636.28056";0
+journals/tois/Carterette12;article;2017-01-12;"Multiple testing in statistical analysis of systems-based information retrieval experiments.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2094072.2094076";0
+journals/tois/GouldB83;article;2003-11-25;"Human Factors Challenges in Creating a Principal Support Office System - The Speech Filing System Approach.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357442.357443";0
+journals/tois/IshiiKG93;article;2006-04-03;"Integration of Interpersonal Space and Shared Workspace: ClearBoard Design and Experiments.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159764.159762";0
+journals/tois/ChangGP99;article;2003-11-25;"Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/297117.297120";0
+journals/tois/SongMNZC16;article;2017-01-03;"Volunteerism Tendency Prediction via Harvesting Multiple Social Networks.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2832907";0
+journals/tois/MiottoO12;article;2017-01-12;"A Probabilistic Model to Combine Tags and Acoustic Similarity for Music Retrieval.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2180868.2180870";0
+journals/tois/WuZZ04;article;2017-06-09;"Efficient mining of both positive and negative association rules.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1010614.1010616";0
+journals/tois/GerstelKLMPPS07;article;2017-01-12;"Reducing human interactions in Web directory searches.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1281485.1281491";0
+journals/tois/KimBGW91;article;2006-04-03;"A Distributed Object-Oriented Database System Supporting Shared and Private Databases.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/103731.103733";0
+journals/tois/MoffatBST17;article;2017-06-29;"Incorporating User Expectations and Behavior into the Measurement of Search Effectiveness.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3052768";0
+journals/tois/Can93;article;2006-04-03;"Incremental Clustering for Dynamic Information Processing.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/130226.134466";0
+journals/tois/CaoHNWHWC17;article;2017-08-30;"Cross-Platform App Recommendation by Jointly Modeling Ratings and Texts.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3017429";0
+journals/tois/HeO07;article;2017-01-12;"On setting the hyper-parameters of term frequency normalization for information retrieval.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1247715.1247719";0
+journals/tois/CarpinetoRG02;article;2014-03-13;"Improving retrieval feedback with multiple term-ranking function combination.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/568727.568728";0
+journals/tois/AltingovdeOU12;article;2017-01-12;"Static index pruning in web search engines: Combining term and document popularities with query views.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2094072.2094074";0
+journals/tois/CumminsPL15;article;2017-01-03;"A Pólya Urn Document Language Model for Improved Information Retrieval.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2746231";0
+journals/tois/PerniciBFMRR89;article;2006-04-03;"C-TODOS: An Automatic Tool for Office System Conceptual Design.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/76158.76893";0
+journals/tois/RamanBC14;article;2017-07-12;"Understanding Intrinsic Diversity in Web Search: Improving Whole-Session Relevance.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2629553";0
+journals/tois/BernsteinKKs08;article;2017-01-12;"Information scraps: How and why information eludes our personal information management tools.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402263";0
+journals/tois/PiaoR16;article;2017-01-03;"Subspace Frequency Analysis-Based Field Indices Extraction for Electricity Customer Classification.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2858657";0
+journals/tois/GottlobSR96;article;2003-11-25;"Extending Object-Oriented Systems with Roles.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/230538.230540";0
+journals/tois/WattersS90;article;2006-04-03;"A Transient Hypergraph-Based Model for Data Access.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/96105.96107";0
+journals/tois/FitzmauriceZC93;article;2017-09-16;"Virtual Reality for Palmtop Computers.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159161.159160";0
+journals/tois/FarseevC17;article;2017-08-30;"Tweet Can Be Fit: Integrating Data from Wearable Sensors and Multiple Social Networks for Wellness Profile Learning.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086676";0
+journals/tois/YaoZWTXL17;article;2017-08-30;"Version-Aware Rating Prediction for Mobile App Recommendation.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3015458";0
+journals/tois/MarchioniniC94;article;2015-01-06;"Evaluating Hypermedia and Learning: Methods and Results from the Perseus Project.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/174608.174609";0
+journals/tois/MolinoAL16;article;2017-01-03;"Social Question Answering: Textual, User, and Network Features for Best Answer Prediction.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2948063";0
+journals/tois/ZhouFLST07;article;2017-01-12;"Discovering personally meaningful places: An interactive clustering approach.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1247715.1247718";0
+journals/tois/VlissidesL90;article;2006-04-03;"Unidraw: A Framework for Building Domain-Specific Graphical Editors.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/98188.98197";0
+journals/tois/ShawGLS93;article;2017-06-09;"Decoupled Simulation in Virtual Reality with the MR Toolkit.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159161.173948";0
+journals/tois/RanganRS95;article;2006-04-03;"Feedback Techniques for Continuity and Synchronisation in Multimedia Information Retrieval.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/201040.201044";0
+journals/tois/Mana-LopezRG04;article;2017-06-09;"Multidocument summarization: An added value to clustering in interactive retrieval.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/984321.984323";0
+journals/tois/MayerJH15;article;2017-01-03;"Identifying Opportunities for Valuable Encounters: Toward Context-Aware Social Matching Systems.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2751557";0
+journals/tois/GreiffCT99;article;2003-11-25;"PIC matrices: a computationally tractable class of probabilistic query operators.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/326440.326444";0
+journals/tois/ZhaoZLSNYW15;article;2015-04-20;"A General SIMD-Based Approach to Accelerating Compression Algorithms.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2735629";0
+journals/tois/TomasicGLSH97;article;2003-11-25;"Data Structures for Efficient Broker Implementation.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/256163.256165";0
+journals/tois/XuC98;article;2003-11-25;"Corpus-Based Stemming Using Cooccurrence of Word Cariants.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/267954.267957";0
+journals/tois/QianZXP06;article;2017-09-05;"A space-partitioning-based indexing method for multidimensional non-ordered discrete data spaces.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1125860";0
+journals/tois/Gomez-Rodriguez16;article;2017-01-03;"Influence Estimation and Maximization in Continuous-Time Diffusion Networks.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2824253";0
+journals/tois/GreifS87;article;2006-04-03;"Data Sharing in Group Work.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/27636.27640";0
+journals/tois/Luz12;article;2017-06-09;"The nonverbal structure of patient case discussions in multidisciplinary medical team meetings.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2328967.2328970";0
+journals/tois/King94;article;2003-11-25;"Introduction to the Special Issue on Social Science Perspectives on IS.";"";"1994";"ACM Trans. Inf. Syst.";"";0
+journals/tois/WangNSZC17;article;2017-10-05;"Unifying Virtual and Physical Worlds: Learning Toward Local and Global Consistency.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3052774";0
+journals/tois/FerranteFM17;article;2017-10-05;"AWARE: Exploiting Evaluation Measures to Combine Multiple Assessors.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3110217";0
+journals/tois/PapadopoulosBJL16;article;2017-01-03;"Overview of the Special Issue on Trust and Veracity of Information in Social Media.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2870630";0
+journals/tois/HamdiGBY16;article;2017-01-03;"TISoN: Trust Inference in Trust-Oriented Social Networks.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2858791";0
+journals/tois/HicksDPM08;article;2017-06-09;"Organizing and managing personal electronic files: A mechanical engineer's perspective.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402262";0
+journals/tois/JungclausSHS96;article;2003-11-25;"TROLL - A Language for Object-Oriented Specification of Information Systems.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/226163.226166";0
+journals/tois/MoffatZ08;article;2017-06-09;"Rank-biased precision for measurement of retrieval effectiveness.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1416950.1416952";1
+journals/tois/RamaS93;article;2006-04-03;"An Investigation of Content Representation Using Text Grammars.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/151480.151490";0
+journals/tois/ShokouhiZ09;article;2017-01-12;"Robust result merging using sample-based score estimates.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1508850.1508852";0
+journals/tois/CallanC01;article;2003-11-25;"Query-based sampling of text databases.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/382979.383040";0
+journals/tois/YuKHW06;article;2007-05-02;"A large scale, corpus-based approach for automatically disambiguating biomedical abbreviations.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1165778";0
+journals/tois/LempelS02;article;2003-11-25;"PicASHOW: pictorial authority search by hyperlinks on the web.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/503104.503105";0
+journals/tois/ShtokKCRM12;article;2017-01-12;"Predicting Query Performance by Query-Drift Estimation.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2180868.2180873";0
+journals/tois/AbbasiZK12;article;2017-01-12;"Detecting Fake Medical Web Sites Using Recursive Trust Labeling.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2382438.2382441";0
+journals/tois/Teevan08;article;2017-01-12;"How people recall, recognize, and reuse search results.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402258";0
+journals/tois/LinWA08;article;2017-01-12;"Toward automatic facet analysis and need negotiation: Lessons from mediated search.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1416950.1416956";0
+journals/tois/ZobelH06;article;2007-03-06;"Detection of video sequences using compact signatures.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1125858";0
+journals/tois/Olson89;article;2006-04-03;"Work at Home for Computer Professionals: Current Attitudes and Future Prospects.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/76158.76891";0
+journals/tois/SaliminenTM95;article;2006-04-03;"From Text to Hypertext by Indexing.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/195705.195717";0
+journals/tois/SrihariHC83;article;2003-11-25;"Integrating Diverse Knowledge Sources in Text Recognition.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357423.357428";0
+journals/tois/Allen91;article;2003-11-25;"Computer-Human Interaction and ACM TOIS - Editorial.";"";"1991";"ACM Trans. Inf. Syst.";"";0
+journals/tois/LiJHL17;article;2017-09-07;"A Time-Aware Personalized Point-of-Interest Recommendation via High-Order Tensor Factorization.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3057283";0
+journals/tois/KoldaO98;article;2017-06-09;"A Semidiscrete Matrix Decomposition for Latent Semantic Indexing Information Retrieval.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/291128.291131";0
+journals/tois/Callan12;article;2017-01-12;"TOIS Reviewers: October 2009 To September 2012.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2382438.2382446";0
+journals/tois/CarrollR92;article;2017-06-09;"Getting Around the Task-Artifact Cycle: How to Make Claims and Design by Scenario.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146802.146834";0
+journals/tois/TransierS10;article;2017-01-12;"Engineering basic algorithms of an in-memory text search engine.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1877766.1877768";0
+journals/tois/YouHSJN12;article;2017-01-12;"Efficient Entity Translation Mining: A Parallelized Graph Alignment Approach.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2382438.2382444";0
+journals/tois/Konstan04;article;2006-02-09;"Introduction to recommender systems: Algorithms and Evaluation.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/963770.963771";0
+journals/tois/BerghelR96;article;2003-11-25;"An Extension of Ukkonen's Enhanced Dynamic Programming ASM Algorithm.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214174.214183";0
+journals/tois/Dunlop97;article;2017-06-14;"The Effect of Accessing Nonmatching Documents on Relevance Feedback.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/248625.248650";0
+journals/tois/Grudin92;article;2006-04-03;"Consistency, Standards, and Formal Approaches to Interface Development and Evaluation: A Note on Wiecha, Bennett, Boies, Gould, and Greene.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/128756.128760";0
+journals/tois/HudsonM90;article;2006-04-03;"Interactive Specification of Flexible User Interface Displays.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/98188.98201";0
+journals/tois/MostafaMLP97;article;2006-03-17;"A Multilevel Approach to Intelligent Information Filtering: Model, System, and Evaluation.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/263479.263481";0
+journals/tois/Ferro17;article;2017-10-05;"What Does Affect the Correlation Among Evaluation Measures?";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3106371";0
+journals/tois/AikenSV91;article;2006-04-03;"Integrating Expert Systems with Group Decision Support Systems.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/103731.103735";0
+journals/tois/RobeyN96;article;2003-11-25;"Sequential Patterns in Information Systems Development: An Application of a Social Process Model.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214174.214178";0
+journals/tois/CardMR91;article;2006-04-03;"A Morphological Analysis of the Design Space of Input Devices.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/123078.128726";0
+journals/tois/FaloutsosC84;article;2017-06-09;"Signature Files: An Access Method for Documents and Its Analytical Performance Evaluation.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2275.357411";0
+journals/tois/PedroSS11;article;2017-06-09;"Content redundancy in YouTube and its application to video tagging.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1993036.1993037";0
+journals/tois/TaghvaBC96;article;2003-11-25;"Evaluation of Model-Based Retrieval Effectiveness with OCR Text.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214174.214180";0
+journals/tois/OliveiraTM01;article;2003-11-25;"A statechart-based model for hypermedia applications.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/366836.366869";0
+journals/tois/HoiJZL09;article;2017-01-12;"Semisupervised SVM batch mode active learning with applications to image retrieval.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1508850.1508854";0
+journals/tois/WongSBC01;article;2003-11-25;"Application of aboutness to functional benchmarking in information retrieval.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/502795.502796";0
+journals/tois/KoSNM10;article;2017-01-12;"Probabilistic models for answer-ranking in multilingual question-answering.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1777432.1777439";0
+journals/tois/BeitzelJLCF07;article;2017-01-12;"Automatic classification of Web queries using very large unlabeled query logs.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1229179.1229183";0
+journals/tois/LewisH94;article;2003-11-25;"Guest Editorial - Special Issue on Text Categorization.";"";"1994";"ACM Trans. Inf. Syst.";"";0
+journals/tois/GravanoIS03;article;2017-06-09;"QProber: A system for automatic classification of hidden-Web databases.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/635484.635485";0
+journals/tois/WangTSSZ08;article;2017-01-12;"DirichletRank: Solving the zero-one gap problem of PageRank.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1344411.1344416";0
+journals/tois/HevnerWY85;article;2006-04-03;"Query Optimization on Local Area Networks.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3864.3866";0
+journals/tois/KingS85;article;2006-04-03;"Ensuring the Court Admissibility of Computer-Generated Records.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4656.4659";0
+journals/tois/KurlandL09;article;2017-01-12;"Clusters, language models, and ad hoc information retrieval.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1508850.1508851";0
+journals/tois/KampsMRS06;article;2007-03-06;"Articulating information needs in XML query languages.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1185879";0
+journals/tois/ChimeraS94;article;2006-04-03;"An Exploratory Evaluation of Three Interfaces for Browsing Large Hierarchical Tables of Contents.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/185462.185483";0
+journals/tois/ElsweilerBR08;article;2017-01-12;"Exploring memory in email refinding.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402260";0
+journals/tois/Morrissey90;article;2006-04-03;"Imprecise Information and Uncertainty in Information Systems.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/96105.96113";0
+journals/tois/ClementG87;article;2006-04-03;"Evolution of an Organizational Interface: The New Business Department at a Large Insurance Firm.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42196.42266";0
+journals/tois/NguyenGMD17;article;2017-10-05;"Social Influence Spectrum at Scale: Near-Optimal Solutions for Multiple Budgets at Once.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086700";0
+journals/tois/HartsonSH90;article;2006-04-03;"The UAN: A User-Oriented Representation for Direct Manipulation Interface Designs.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/98188.98191";0
+journals/tois/IbrahimC16;article;2017-01-03;"Comparing Pointwise and Listwise Objective Functions for Random-Forest-Based Learning-to-Rank.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2866571";0
+journals/tois/Resnick93;article;2006-04-03;"Phone-Based CSCW: Tools and Trials.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159764.159760";0
+journals/tois/GauchWR99;article;2003-11-25;"A Corpus Analysis Approach for Automatic Query Expansion and Its Extension to Multiple Databases.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/314516.314519";0
+journals/tois/BoldiSV09;article;2017-09-16;"PageRank: Functional dependencies.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1629096.1629097";0
+journals/tois/BastC14;article;2017-01-03;"Efficient Index-Based Snippet Generation.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2590972";0
+journals/tois/Hofmann04;article;2006-02-09;"Latent semantic models for collaborative filtering.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/963770.963774";0
+journals/tois/MengWYL01;article;2003-11-25;"A highly scalable and effective method for metasearch.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/502115.502120";0
+journals/tois/WhiteH15;article;2017-01-03;"Belief Dynamics and Biases in Web Search.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2746229";0
+journals/tois/LiuHSC11;article;2017-09-19;"Correlation-based retrieval for heavily changed near-duplicate videos.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2037661.2037666";0
+journals/tois/JonesD07;article;2017-01-12;"Temporal profiles of queries.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1247715.1247720";0
+journals/tois/PintoH07;article;2017-06-09;"A novel XML music information retrieval method using graph invariants.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1281485.1281490";0
+journals/tois/HeL17;article;2017-08-30;"Mining Exploratory Behavior to Improve Mobile App Recommendations.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3072588";0
+journals/tois/Marchionini08a;article;2017-01-12;"TOIS reviewers June 2007 through May 2008.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402265";0
+journals/tois/ComasTM12;article;2017-01-12;"Sibyl, a factoid question-answering system for spoken documents.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2328967.2328972";0
+journals/tois/YanLSLM11;article;2017-06-09;"Toward a semantic granularity model for domain-specific information retrieval.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1993036.1993039";0
+journals/tois/LuMWZWL14;article;2015-04-29;"Browse-to-Search: Interactive Exploratory Search with Visual Entities.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2630420";0
+journals/tois/FriedmanN96;article;2003-11-25;"Bias in Computer Systems.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/230538.230561";0
+journals/tois/AsadiL13;article;2016-05-23;"Fast candidate generation for real-time tweet search with bloom filter chains.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2493175.2493178";0
+journals/tois/JarkeMSV92;article;2006-04-03;"DAIDA: An Environment for Evolving Information Systems.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/128756.128757";0
+journals/tois/FordC91;article;2017-06-09;"Optimal Placement of High-Probability Randomly Retrieved Blocks on CLV Optical Discs.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/103731.103732";0
+journals/tois/Baeza-YatesFM06;article;2007-03-06;"Introduction to the special issue on XML retrieval.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1185878";0
+journals/tois/Pahlavan88;article;2006-04-03;"Wireless Intraoffice Networks.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45945.45946";0
+journals/tois/LeeM90;article;2006-04-03;"Partially Shared Views: A Scheme for Communicating among Groups that Use Different Type Hierarchies.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/78915.78916";0
+journals/tois/Esuli013;article;2017-06-14;"Improving Text Classification Accuracy by Training Label Cleaning.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2516889";0
+journals/tois/StraubeO90;article;2006-04-03;"Queries and Query Processing in Object-Oriented Database Systems.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/102675.102678";0
+journals/tois/GaoWLC06;article;2007-03-06;"A maximal figure-of-merit (MFoM)-learning approach to robust classifier design for text categorization.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1148022";0
+journals/tois/CulpepperM10;article;2017-06-09;"Efficient set intersection for inverted indexing.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1877766.1877767";0
+journals/tois/CaladoRZMS03;article;2017-06-09;"Local versus global link information in the Web.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/635484.635486";0
+journals/tois/HoHK86;article;2006-04-03;"A Society Model for Office Information Systems.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/6168.6170";0
+journals/tois/LiuHGXD12;article;2017-08-24;"Detecting and Tracking Topics and Events from Web Search Logs.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2382438.2382440";0
+journals/tois/RusS97;article;2003-11-25;"Customizing Information Capture and Access.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/239041.239048";0
+journals/tois/ChenHS99;article;2016-02-03;"Integrating geometrical and linguistic analysis for email signature block parsing.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/326440.326442";0
+journals/tois/HammainenEA90;article;2006-04-03;"Distributed Form Management.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/78915.78918";0
+journals/tois/AdomaviciusZ12;article;2017-01-12;"Stability of Recommendation Algorithms.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2382438.2382442";0
+journals/tois/MahdabiC14;article;2015-04-29;"Patent Query Formulation by Synthesizing Multiple Sources of Relevance Evidence.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2651363";0
+journals/tois/LiuCLZZ17;article;2017-10-05;"DBpedia-Based Entity Linking via Greedy Search and Adjusted Monte Carlo Random Walk.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086703";0
+journals/tois/DavisonZ86;article;2006-04-03;"A Visual Interface for a Database with Version Management.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214427.214430";0
+journals/tois/ChenJZBZSY16;article;2017-01-04;"Boosting Recommendation in Unexplored Categories by User Price Preference.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2978579";0
+journals/tois/SchumakerC09;article;2017-01-12;"Textual analysis of stock market prediction using breaking financial news: The AZFin text system.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1462198.1462204";0
+journals/tois/ShirakawaHN17;article;2017-10-05;"IDF for Word N-grams.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3052775";0
+journals/tois/BooksteinK90;article;2006-04-03;"Compression, Information Theory, and Grammars: A Unified Approach.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/78915.78917";0
+journals/tois/TsichritzisFGN87;article;2017-06-09;"KNOs: KNowledge Acquisition, Dissemination, and Manipulation Objects.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/22890.23001";0
+journals/tois/CostaOR13;article;2017-06-09;"X-Class: Associative Classification of XML Documents by Structure.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2414782.2414785";0
+journals/tois/Marchionini07;article;2017-06-09;"TOIS reviewers January 2006 through May 2007.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1281485.1281486";0
+journals/tois/JonesD86;article;2006-04-03;"The Spatial Metaphor for User Interfaces: Experimental Tests of Reference by Location versus Name.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/5401.5405";0
+journals/tois/BlakeBT92;article;2003-11-25;"Shortening the OED: Experience with a Grammar-Defined Database.";"";"1992";"ACM Trans. Inf. Syst.";"";0
+journals/tois/HongHWL01;article;2003-11-25;"WebQuilt: A proxy-based approach to remote web usability testing.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/502115.502118";0
+journals/tois/JarvelinVABJKKK15;article;2017-06-09;"Task-Based Information Interaction Evaluation: The Viewpoint of Program Theory.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699660";0
+journals/tois/BracchiP84;article;2017-06-09;"The Design Requirements of Office Systems.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/521.357416";0
+journals/tois/FloresGHW88;article;2006-04-03;"Computer Systems and the Design of Organizational Interaction.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45941.45943";0
+journals/tois/LeeSOS06;article;2007-03-06;"User evaluation of Físchlár-News: An automatic broadcast news delivery system.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1148021";0
+journals/tois/BertinoJS99;article;2003-11-25;"A Flexible Authorization Mechanism for Relational Data Management Systems.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/306686.306687";0
+journals/tois/ZhangLW16;article;2017-08-24;"Trip Recommendation Meets Real-World Constraints: POI Availability, Diversity, and Traveling Time Uncertainty.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2948065";0
+journals/tois/WeiMJ05;article;2017-06-14;"A market-based approach to recommender systems.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1080343.1080344";0
+journals/tois/CheungH96;article;2003-11-25;"The Model-Assisted Global Query System for Multiple Databases in Distributed Enterprises.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/237496.237499";0
+journals/tois/ChowdhuryFGM02;article;2003-11-25;"Collection statistics for fast duplicate document detection.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/506309.506311";0
+journals/tois/ZhaiL04;article;2006-02-09;"A study of smoothing methods for language models applied to information retrieval.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/984321.984322";0
+journals/tois/Pollock88;article;2006-04-03;"A Rule-Based Message Filtering System.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45945.214327";0
+journals/tois/BrafmanDS04;article;2006-02-09;"Qualitative decision making in adaptive presentation of structured information.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1028099.1028100";0
+journals/tois/MacdonaldSOH13;article;2017-06-09;"About learning models with multiple query-dependent features.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2493175.2493176";0
+journals/tois/FoxCDH91;article;2006-04-03;"Order-Preserving Minimal Perfect Hash Functions and Information Retrieval.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/125187.125200";0
+journals/tois/SturmanZ93;article;2006-04-03;"A Design Method for "Whole-Hand" Human-Computer Interaction.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159161.159159";0
+journals/tois/AzmiA16;article;2017-01-03;"Answering Arabic Why-Questions: Baseline vs. RST-Based Approach.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2950049";0
+journals/tois/SongSYXLA17;article;2017-08-30;"DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3057280";0
+journals/tois/ZhangGNSWS17;article;2017-06-29;"Targeted Advertising in Public Transportation Systems with Quantitative Evaluation.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3003725";0
+journals/tois/HanYH15;article;2017-06-09;"Understanding and Supporting Cross-Device Web Search for Exploratory Tasks with Mobile Touch Interactions.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2738036";0
+journals/tois/PostelFKR88;article;2006-04-03;"An Experimental Multimedia Mail System.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42279.42280";0
+journals/tois/HarrisB85;article;2006-04-03;"Design Implications of a Task-Driven Approach to Unstructured Cognitive Tasks in Office Work.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4229.4230";0
+journals/tois/PiwowarskiTL08;article;2017-06-14;"Sound and complete relevance assessment for XML retrieval.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1416950.1416951";0
+journals/tois/Panko84;article;2003-11-25;"38 Offices: Analyzing Needs in Individual Offices.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1206.1485";0
+journals/tois/BlancoB10;article;2017-06-14;"Probabilistic static pruning of inverted files.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1658377.1658378";0
+journals/tois/GutingZC89;article;2006-04-03;"An Algebra for Structured Office Documents.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65935.65939";0
+journals/tois/BaralisCFG15;article;2017-06-14;"MWI-Sum: A Multilingual Summarizer Based on Frequent Weighted Itemsets.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2809786";0
+journals/tois/GuttenbrunnerR12;article;2017-01-12;"A Measurement Framework for Evaluating Emulators for Digital Preservation.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2180868.2180876";0
+journals/tois/RiceS88;article;2006-04-03;"Access to, Usage of, and Outcomes from an Electronic Messaging System.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45945.214325";0
+journals/tois/CohenDZ08;article;2017-01-12;"On ranking techniques for desktop search.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1344411.1344417";0
+journals/tois/BroschartS12;article;2017-06-09;"High-performance processing of text queries with tunable pruned term and term pair indexes.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2094072.2094077";0
+journals/tois/KazaiL06;article;2007-03-06;"eXtended cumulated gain measures for the evaluation of content-oriented XML retrieval.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1185883";0
+journals/tois/WangHLMCV16;article;2017-01-04;"Ranking-Oriented Collaborative Filtering: A Listwise Approach.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2960408";0
+journals/tois/HartE91;article;2006-04-03;"Inter-Organization Networks, Computer Integration, and Shifts in Interdependence: The Case of the Semiconductor Industry.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/119311.119314";0
+journals/tois/Marchionini08;article;2017-06-09;"Editorial: Reviewer merits and review control in an age of electronic manuscript management systems.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402264";1
+journals/tois/HuCCGXY16;article;2017-01-04;"Learning Informative Priors from Heterogeneous Domains to Improve Recommendation in Cold-Start User Domains.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2976737";0
+journals/tois/AbbasiC08;article;2017-01-12;"Writeprints: A stylometric approach to identity-level identification and similarity detection in cyberspace.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1344411.1344413";0
+journals/tois/LamCH07;article;2017-01-12;"Named entity translation matching and learning: With application for mining unseen translations.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1198296.1198298";0
+journals/tois/KrovetzC92;article;2006-04-03;"Lexical Ambiguity and Information Retrieval.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146802.146810";0
+journals/tois/Rosen-ZviCGSS10;article;2017-01-12;"Learning author-topic models from text corpora.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1658377.1658381";0
+journals/tois/HornickZ87;article;2006-04-03;"A Shared, Segmented Memory System for an Object-Oriented Database.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/22890.22891";0
+journals/tois/XuC05;article;2006-02-09;"CrimeNet explorer: a framework for criminal network knowledge discovery.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1059981.1059984";0
+journals/tois/Yom-TovD13;article;2017-06-09;"The Effect of Social and Physical Detachment on Information Need.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2414782.2414786";0
+journals/tois/Yang15;article;2015-11-24;"Browsing Hierarchy Construction by Minimum Evolution.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2714574";0
+journals/tois/ChenCC09;article;2017-06-09;"An adaptive threshold framework for event detection using HMM-based life profiles.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1462198.1462201";0
+journals/tois/AllenS83;article;2003-11-25;"Details of Command-Language Keystrokes.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357431.357434";0
+journals/tois/ZhouCD06;article;2007-03-06;"Enhancing relevance feedback in image retrieval using unlabeled data.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1148023";0
+journals/tois/LucarellaZ96;article;2003-11-25;"A Visual Retrieval Environment for Hypermedia Information Systems.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214174.214175";0
+journals/tois/GuglielmoR96;article;2003-11-25;"Natural-Language Retrieval of Images Based on Descriptive Captions.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/230538.230539";0
+journals/tois/LaereSTDJ14;article;2017-06-09;"Georeferencing Wikipedia Documents Using Data from Social Media Sources.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2629685";0
+journals/tois/JensenBCF07;article;2017-01-12;"Repeatable evaluation of search services in dynamic environments.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1292591.1292592";0
+journals/tois/Cummins14;article;2017-01-03;"Document Score Distribution Models for Query Performance Inference and Prediction.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2559170";0
+journals/tois/LempelM01;article;2003-11-25;"SALSA: the stochastic approach for link-structure analysis.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/382979.383041";0
+journals/tois/LaiMY88;article;2006-04-03;"Object Lens: A "Spreadsheet" for Cooperative Work.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/58566.59298";0
+journals/tois/YinCZWHS16;article;2017-09-19;"Joint Modeling of User Check-in Behaviors for Real-time Point-of-Interest Recommendation.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2873055";0
+journals/tois/YehWYL08;article;2017-01-12;"Extended probabilistic HAL with close temporal association for psychiatric query document retrieval.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1416950.1416954";0
+journals/tois/PuppinSPB10;article;2017-06-09;"Tuning the capacity of search engines: Load-driven routing and incremental caching to reduce and balance the load.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1740592.1740593";0
+journals/tois/SzczurS93;article;2006-04-03;"TAE Plus: Transportable Applications Environment Plus: A User Interface Development Environment.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/151480.151509";0
+journals/tois/SiC03;article;2006-02-09;"A semisupervised learning method to merge search engine results.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/944012.944017";0
+journals/tois/Jacob91;article;2006-04-03;"The Use of Eye Movements in Human-Computer Interaction Techniques: What You Look At is What You Get.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/123078.128728";0
+journals/tois/TerryA84;article;2003-11-25;"The COSIE Communication Subsystem: Support for Distributed Office Applications.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/521.357414";0
+journals/tois/AwadOK14;article;2017-06-14;"Content-Based Video Copy Detection Benchmarking at TRECVID.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2629531";0
+journals/tois/MaddalenaMST17;article;2017-06-29;"On Crowdsourcing Relevance Magnitudes for Information Retrieval Evaluation.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3002172";0
+journals/tois/Tuzhilin95;article;2006-04-03;"Templar: A Knowledge-Based Language for Software Specifications Using Temporal Logic.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/203052.203061";0
+journals/tois/KurlandL10;article;2017-01-12;"PageRank without hyperlinks: Structural reranking using links induced by language models.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1852102.1852104";0
+journals/tois/KellerEL95;article;2006-04-03;"XMovie: Architecture and Implementation of a Distributed Movie System.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/211430.211440";0
+journals/tois/Nicholson85;article;2006-04-03;"Usage Patterns in an Integrated Voice and Data Communications System.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4229.4231";0
+journals/tois/IsakowitzSL95;article;2006-04-03;"Toward a Logical/Physical Theory of Spreadsheet Modeling.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/195705.195708";0
+journals/tois/MatsuokaTKY92;article;2006-04-03;"A General Framework for Bidirectional Translation between Abstract and Pictorial Data.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146486.146557";0
+journals/tois/AlkwaiNW17;article;2017-10-05;"Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3041656";0
+journals/tois/TanM10;article;2017-01-12;"Clustering-based incremental web crawling.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1852102.1852103";0
+journals/tois/CooperG05;article;2006-02-09;"Ad Hoc, self-supervising peer-to-peer search networks.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1059981.1059983";0
+journals/tois/Lee88;article;2006-04-03;"Bureaucracies as Deontic Systems.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45941.45944";0
+journals/tois/LuFH00;article;2017-06-05;"Beyond intratransaction association analysis: mining multidimensional intertransaction association rules.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/358108.358114";0
+journals/tois/TagarelliG10;article;2017-06-14;"Semantic clustering of XML documents.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1658377.1658380";0
+journals/tois/ThomaSWCR85;article;2006-04-03;"A Prototype System for the Electronic Storage and Retrieval of Document Images.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4229.4232";0
+journals/tois/UpstillCH03;article;2003-11-25;"Query-independent evidence in home page finding.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/858476.858479";0
+journals/tois/TanWW99;article;2003-11-25;"The Equalizing Impact of a Group Support System on Status Differentials.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/297117.297126";0
+journals/tois/BradeskoWSHGM17;article;2017-08-30;"Curious Cat-Mobile, Context-Aware Conversational Crowdsourcing Knowledge Acquisition.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086686";0
+journals/tois/XuC00;article;2003-11-25;"Improving the effectiveness of information retrieval with local context analysis.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/333135.333138";0
+journals/tois/GladneyL05;article;2006-04-06;"Trustworthy 100-year digital objects: durable encoding for when it's too late to ask.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1080343.1080346";0
+journals/tois/VardasbiFA17;article;2017-10-05;"SWIM: Stepped Weighted Shell Decomposition Influence Maximization for Large-Scale Networks.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3072652";0
+journals/tois/Trigg88;article;2006-04-03;"Guided Tours and Tabletops: Tools for Communicating in a Hypertext Environment.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/58566.59299";0
+journals/tois/WhiteRJR05;article;2017-06-09;"Evaluating implicit feedback models using searcher simulations.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1080343.1080347";0
+journals/tois/Sciore89;article;2006-04-03;"Object Specialization.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65935.65936";0
+journals/tois/SchableW94;article;2006-04-03;"On the Expressive Power of Query Languages.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/174608.174611";0
+journals/tois/BennettCKWZ15;article;2016-03-08;"Overview of the Special Issue on Contextual Search and Recommendation.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2691351";0
+journals/tois/BarreauCDJP08;article;2017-01-12;"Introduction to keeping, refinding and sharing personal information.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402257";0
+journals/tois/PalaniappanYFLHCM92;article;2006-04-03;"The Envoy Framework: An Open Architecture for Agents.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146760.146770";0
+journals/tois/Gulla96;article;2003-11-25;"A General Explanation Component for Conceptual Modeling in CASE Environments.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/230538.230560";0
+journals/tois/AridorCMSL02;article;2003-11-25;"Knowledge encapsulation for focused search from pervasive devices.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/503104.503106";0
+journals/tois/BaralisGQT07;article;2017-06-09;"Answering XML queries by means of data summaries.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1247715.1247716";0
+journals/tois/ChuangC05;article;2006-04-06;"Taxonomy generation for text segments: A practical web-based approach.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1095872.1095873";0
+journals/tois/DeshpandeK04;article;2006-02-09;"Item-based top-";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/963770.963776";0
+journals/tois/WongY95;article;2017-06-09;"On Modeling Information Retrieval with Probabilistic Inference.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/195705.195713";0
+journals/tois/EganRGLEL89;article;2006-04-03;"Formative Design-Evaluation of SuperBook.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/64789.64790";0
+journals/tois/ShiZS17;article;2017-10-05;"Local Representative-Based Matrix Factorization for Cold-Start Recommendation.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3108148";0
+journals/tois/WangR98;article;2003-11-25;"Structured Hypertext with Domain Semantics.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/291128.291132";0
+journals/tois/YinCSHC14;article;2017-09-19;"LCARS: A Spatial Item Recommender System.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2629461";0
+journals/tois/KonowNCL17;article;2017-06-29;"Inverted Treaps.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3007186";0
+journals/tois/PaikPPR13;article;2017-01-03;"Effective and Robust Query-Based Stemming.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2536736.2536738";0
+journals/tois/Gladney97;article;2003-11-25;"Access Control for Large Collections.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/248625.248652";0
+journals/tois/WiilL97;article;2003-11-25;"Hyperform: A Hypermedia System Development Environment.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/239041.239043";0
+journals/tois/ChuklinSZR15;article;2015-04-20;"A Comparative Analysis of Interleaving Methods for Aggregated Search.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2668120";0
+journals/tois/GudivadaR95;article;2015-09-28;"Design and Evaluation of Algorithms for Image Retrieval by Spatial Similarity.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/201040.201041";0
+journals/tois/ChristodoulakisTHPP86;article;2013-07-25;"Multimedia Document Presentation, Information Extraction, and Document Formation in MINOS: A Model and a System.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/9760.9764";0
+journals/tois/KellyFS10;article;2017-06-14;"Effects of position and number of relevant documents retrieved on users' evaluations of system performance.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1740592.1740597";0
+journals/tois/SchnaseLHS93;article;2006-04-03;"Semantic Data Modeling of Hypermedia Associations.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/151480.151521";0
+journals/tois/FinkelsteinGMRSWR02;article;2003-11-25;"Placing search in context: the concept revisited.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/503104.503110";0
+journals/tois/CooperG02;article;2005-11-16;"Peer-to-peer data trading to preserve information.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/506309.506310";0
+journals/tois/DreilingerH97;article;2003-11-25;"Experiences with Selecting Search Engines Using Metasearch.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/256163.256164";0
+journals/tois/KrikonKB10;article;2017-01-12;"Utilizing inter-passage and inter-document similarities for reranking search results.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1877766.1877769";0
+journals/tois/MazerL84;article;2003-11-25;"Logical Routing Specification in Office Information Systems.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2275.2278";0
+journals/tois/OberweisS96;article;2003-11-25;"Information System Behavior Specification by High-Level Petri Nets.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/237496.237498";0
+journals/tois/ZhangLFGSS17;article;2017-06-29;"Processing Long Queries Against Short Text: Top-";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3052772";0
+journals/tois/JoachimsGPHRG07;article;2017-01-12;"Evaluating the accuracy of implicit feedback from clicks and query reformulations in Web search.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1229179.1229181";0
+journals/tois/FaloutsosC87;article;2017-06-09;"Description and Performance Analysis of Signature File Methods for Office Filing.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/27641.28057";0
+journals/tois/LiuXWNZM17;article;2017-06-29;"Time-Aware Click Model.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2988230";0
+journals/tois/Kwok95;article;2003-11-25;"A Network Approach to Probabilistic Information Retrieval.";"";"1995";"ACM Trans. Inf. Syst.";"";0
+journals/tois/ParkPGK04;article;2006-02-09;"Analysis of lexical signatures for improving information persistence on the World Wide Web.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1028099.1028101";0
+journals/tois/LiDWZSM17;article;2017-10-05;"Enhancing Topic Modeling for Short Texts with Auxiliary Word Embeddings.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3091108";0
+journals/tois/RosaciSG09;article;2017-06-09;"MUADDIB: A distributed recommender system supporting device adaptivity.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1629096.1629102";0
+journals/tois/ShipmanM99;article;2003-11-25;"Incremental Formalization with the Hyper-Object Substrate.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/306686.306690";0
+journals/tois/PantS05;article;2006-04-06;"Learning to crawl: Comparing classification schemes.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1095872.1095875";0
+journals/tois/ZhangALTN16;article;2017-01-03;"Misinformation in Online Social Networks: Detect Them All with a Limited Budget.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2885494";0
+journals/tois/OppenD83;article;2003-11-25;"The Clearinghouse: A Decentralized Agent for Locating Named Objects in a Distributed Environment.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357436.357439";0
+journals/tois/KulkarniC15;article;2017-01-03;"Selective Search: Efficient and Effective Search of Large Textual Collections.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2738035";0
+journals/tois/PengGWZHXHT17;article;2017-10-05;"Parallelization of Massive Textstream Compression Based on Compressed Sensing.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3086702";0
+journals/tois/ChiaSLN10;article;2017-06-14;"Statistical lattice-based spoken document retrieval.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1658377.1658379";0
+journals/tois/MartinT86;article;2006-04-03;"Complete Logical Routings in Computer Mail Systems.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/5401.5404";0
+journals/tois/WantHFG92;article;2006-04-03;"The Active Badge Location System.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/128756.128759";0
+journals/tois/RodriguezBS09;article;2017-06-09;"Automatic metadata generation using associative networks.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1462198.1462199";0
+journals/tois/WenNZ02;article;2003-11-25;"Query clustering using user logs.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/503104.503108";0
+journals/tois/HeinzZW02;article;2003-11-25;"Burst tries: a fast, efficient data structure for string keys.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/506309.506312";0
+journals/tois/FarinaBNCPR12;article;2017-06-14;"Word-based self-indexes for natural language text.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2094072.2094073";0
+journals/tois/MajumderMPKMD07;article;2017-01-12;"YASS: Yet another suffix stripper.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1281485.1281489";0
+journals/tois/GoncalvesFWK04;article;2006-02-09;"Streams, structures, spaces, scenarios, societies (5s): A formal model for digital libraries.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/984321.984325";0
+journals/tois/FraternaliP00;article;2003-11-25;"Model-driven development of Web applications: the AutoWeb system.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/358108.358110";0
+journals/tois/BastC11;article;2017-01-12;"Fast construction of the HYB index.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1993036.1993040";0
+journals/tois/MaPS07;article;2017-01-12;"Interest-based personalized search.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1198296.1198301";0
+journals/tois/EgenhoferS98;article;2003-11-25;"Metric Details for Natural-Language Spatial Relations.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/291128.291129";0
+journals/tois/GersonS86;article;2006-04-03;"Analyzing Due Process in the Workplace.";"";"1986";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/214427.214431";0
+journals/tois/XueHYY09;article;2017-08-22;"User language model for collaborative personalized search.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1462198.1462203";0
+journals/tois/MoonCLZC12;article;2017-01-12;"An Online Learning Framework for Refining Recency Search Results with User Click Feedback.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2382438.2382439";0
+journals/tois/CaoCCJY12;article;2017-09-19;"Approaches to Exploring Category Information for Question Retrieval in Community Question-Answer Archives.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2180868.2180869";0
+journals/tois/IpeirotisG08;article;2017-06-09;"Classification-aware hidden-web text database selection.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1344411.1344412";0
+journals/tois/BelussiF98;article;2017-06-09;"Self-Spacial Join Selectivity Estimation Using Fractal Concepts.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/279339.279342";0
+journals/tois/Na15;article;2015-04-20;"Two-Stage Document Length Normalization for Information Retrieval.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699669";0
+journals/tois/Manber97;article;2003-11-25;"A text Compression Scheme that Allows Fast Searching Directly in the Compressed File.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/248625.248639";0
+journals/tois/ChanW94;article;2006-04-03;"A Speech-Act Negotiation Protocol: Design, Implementation, and Test Use.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/185462.185477";0
+journals/tois/QuanWZSL15;article;2017-01-03;"Latent Discriminative Models for Social Emotion Detection with Emotional Dependency.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2749459";0
+journals/tois/FangTZ11;article;2017-01-12;"Diagnostic Evaluation of Information Retrieval Models.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1961209.1961210";0
+journals/tois/MakLF91;article;2006-04-03;"Exploiting Parallelism in Pattern Matching: An Information Retrieval Application.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/103731.103734";0
+journals/tois/ChelmisP13;article;2017-01-03;"Social Link Prediction in Online Social Tagging Systems.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2516891";0
+journals/tois/ValletHJC11;article;2017-06-09;"Effects of Usage-Based Feedback on Video Retrieval: A Simulation-Based Study.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1961209.1961214";0
+journals/tois/MeiYHL11;article;2017-01-12;"Contextual Video Recommendation by Multimodal Relevance and User Feedback.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1961209.1961213";0
+journals/tois/LosadaA08;article;2017-01-12;"Assessing multivariate Bernoulli models for information retrieval.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1361684.1361690";0
+journals/tois/CahoonML00;article;2003-11-25;"Evaluating the performance of distributed architectures for information retrieval using a variety of workloads.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/333135.333136";0
+journals/tois/MaZLK11;article;2017-01-12;"Improving Recommender Systems by Incorporating Social Contextual Information.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1961209.1961212";0
+journals/tois/JiaYM13;article;2017-01-03;"The Impacts of Structural Difference and Temporality of Tweets on Retrieval Effectiveness.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2500751";0
+journals/tois/DannenbergH85;article;2006-04-03;"A Butler Process for Resource Sharing on Spice Machines.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/4229.4234";0
+journals/tois/ZezulaRT91;article;2006-04-03;"Dynamic Partitioning of Signature Files.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/119311.119313";0
+journals/tois/DangWLW09;article;2017-06-09;"Building a framework for the probability ranking principle by a family of expected weighted rank.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1629096.1629098";0
+journals/tois/JiangTS16;article;2017-01-04;"Cross-Lingual Topic Discovery From Multilingual Search Engine Query Log.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2956235";0
+journals/tois/LiCJLC16;article;2017-01-03;"A Tensor-Based Information Framework for Predicting the Stock Market.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2838731";0
+journals/tois/GohBMS99;article;2003-11-25;"Context Interchange: New Features and Formalisms for the Intelligent Integration of Information.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/314516.314520";0
+journals/tois/KayeK87;article;2006-04-03;"Cooperating Knowledge-Based Assistants for the Office.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42196.42197";0
+journals/tois/CannaneW02;article;2003-11-25;"A general-purpose compression scheme for large collections.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/568727.568730";0
+journals/tois/Ehrlich87;article;2006-04-03;"Strategies for Encouraging Successful Adoption of Office Communication Systems.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42196.42198";0
+journals/tois/DellAmicoC10;article;2017-01-12;"Dependable filtering: Philosophy and realizations.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1877766.1877771";0
+journals/tois/WhiteH09;article;2017-01-12;"Cyberchondria: Studies of the escalation of medical concerns in Web search.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1629096.1629101";0
+journals/tois/HuangCZ04;article;2006-05-02;"Applying associative retrieval techniques to alleviate the sparsity problem in collaborative filtering.";"";"2004";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/963770.963775";0
+journals/tois/HawkingT99;article;2003-11-25;"Methods for Information Server Selection.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/297117.297123";0
+journals/tois/MouraNZB00;article;2003-11-25;"Fast and flexible word searching on compressed text.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/348751.348754";0
+journals/tois/LiangRZMYR17;article;2017-10-05;"Inferring Dynamic User Interests in Streams of Short Texts for User Clustering.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3072606";0
+journals/tois/WuLWK08;article;2017-06-09;"Interpreting TF-IDF term weights as making relevance decisions.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1361684.1361686";0
+journals/tois/BooksteinKR97;article;2003-11-25;"Modeling Word Occurrences for the Compression of Concordances.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/256163.256166";0
+journals/tois/ComaiDF01;article;2003-11-25;"Computing graphical queries over XML data.";"";"2001";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/502795.502797";0
+journals/tois/Sassone87;article;2006-04-03;"Cost-Benefit Methodology for Office Systems.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/27641.28059";0
+journals/tois/GouldS87;article;2006-04-03;"Behavioral Experiments on Handmarkings.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/42196.42199";0
+journals/tois/ShenSCT09;article;2017-09-19;"A novel framework for efficient automated singer identification in large music databases.";"";"2009";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1508850.1508856";0
+journals/tois/MylopoulosBJKT90;article;2006-04-03;"Telos: Representing Knowledge About Information Systems.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/102675.102676";0
+journals/tois/MaslennikovC10;article;2017-01-12;"Combining relations for information extraction from free text.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1777432.1777437";0
+journals/tois/Fuhr99;article;2003-11-25;"A Decision-Theoretic Approach to Database Selection in Networked IR.";"";"1999";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/314516.314517";0
+journals/tois/MoffatNW98;article;2003-11-25;"Arithmetic Coding Revisited.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/290159.290162";0
+journals/tois/TurneyL03;article;2006-02-09;"Measuring praise and criticism: Inference of semantic orientation from association.";"";"2003";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/944012.944013";0
+journals/tois/McDonaldC06;article;2007-03-06;"Summary in context: Searching versus browsing.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1125861";0
+journals/tois/WanX10;article;2017-09-17;"Exploiting neighborhood knowledge for single document summarization and keyphrase extraction.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1740592.1740596";0
+journals/tois/GaoNNZWH10;article;2017-01-12;"Exploiting query logs for cross-lingual query suggestions.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1740592.1740594";0
+journals/tois/MiddletonK16;article;2017-06-14;"Geoparsing and Geosemantics for Social Media: Spatiotemporal Grounding of Content Propagating Rumors to Support Trust and Veracity Analysis during Breaking News.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2842604";0
+journals/tois/DangLA15;article;2017-09-16;"Fast-Forward Index Methods for Pseudo-Relevance Feedback Retrieval.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2744199";0
+journals/tois/SiersdorferS08;article;2017-01-12;"Meta methods for model sharing in personal information systems.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1402256.1402261";0
+journals/tois/CostaBM15;article;2017-01-03;"A Document Retrieval Model Based on Digital Signal Filtering.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2809787";0
+journals/tois/TejedorFSCG12;article;2017-01-12;"Comparison of methods for language-dependent and language-independent query-by-example spoken term detection.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2328967.2328971";0
+journals/tois/DourishELLPSTT00;article;2007-05-22;"Extending document management systems with user-specific active properties.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/348751.348758";0
+journals/tois/WalshamW94;article;2008-04-08;"Information Systems Strategy and Implementation: A Case Study of a Building Society.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/196734.196744";0
+journals/tois/KerneKSWD08;article;2017-01-12;"combinFormation: Mixed-initiative composition of image and text surrogates promotes information discovery.";"";"2008";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1416950.1416955";0
+journals/tois/Neches88;article;2006-04-03;"Knowledge-Based Tools to Promote Shared Goals and Terminology Between Interface Designers.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/45945.48028";0
+journals/tois/BanslerB93;article;2006-04-03;"A Reappraisal of Structured Analysis: Design in an Organizational Context.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/130226.148055";0
+journals/tois/Radicati84;article;2003-11-25;"Managing Transient Internetwork Links in the Xerox Internet.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1206.1484";0
+journals/tois/YangC94;article;2006-04-03;"An Example-Based Mapping Method for Text Categorization and Retrieval.";"";"1994";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/183422.183424";0
+journals/tois/SanderNSYJ05;article;2007-02-02;"A methodology for analyzing SAGE libraries for cancer profiling.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1055709.1055712";0
+journals/tois/TangM91;article;2006-04-03;"VideoDraw: A Video Interface for Collaborative Drawing.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/123078.128729";0
+journals/tois/KatzensteinL00;article;2003-11-25;"Beneath the surface of organizational processes: a social representation framework for business process redesign.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/358108.358111";1
+journals/tois/ColeHBS15;article;2017-06-14;"User Activity Patterns During Information Search.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699656";0
+journals/tois/Cooper95;article;2006-04-03;"Some Inconsistencies and Misidentified Modeling Assumptions in Probabilistic Information Retrieval.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/195705.195735";0
+journals/tois/MarshF85;article;2006-04-03;"Transporting the Linguistic String Project System from a Medical to a Navy Domain.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3914.3984";0
+journals/tois/Cohen00;article;2003-11-25;"Data integration using similarity joins and a word-based information representation language.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/352595.352598";0
+journals/tois/TianQH15;article;2015-04-20;"TASC: A Transformation-Aware Soft Cascading Approach for Multimodal Video Copy Detection.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699662";0
+journals/tois/KacmarL91;article;2006-04-03;"PROXHY: A Process-Oriented Extensible Hypertext Architecture.";"";"1991";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/119311.119315";0
+journals/tois/RommP98;article;2003-11-25;"Electronic Mail as a Coalition-Building Information Technology.";"";"1998";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/267954.267958";0
+journals/tois/MiaoHZ16;article;2017-01-03;"TopPRF: A Probabilistic Framework for Integrating Topic Space into Pseudo Relevance Feedback.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2956234";0
+journals/tois/Wong94;article;2003-11-25;"Preference-Based Decision Making for Cooperative Knowledge-Based Systems.";"";"1994";"ACM Trans. Inf. Syst.";"";0
+journals/tois/BalyHHESS16;article;2017-01-03;"A Meta-Framework for Modeling the Human Reading Process in Sentiment Analysis.";"";"2016";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2950050";0
+journals/tois/YaoHSL84;article;2003-11-25;"FORMANAGER: An Office Forms Management System.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1206.357413";0
+journals/tois/ZhaoHY14;article;2017-01-03;"Modeling Term Associations for Probabilistic Information Retrieval.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2590988";0
+journals/tois/SchedlPKW11;article;2017-01-12;"Exploring the music similarity space on the web.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1993036.1993038";0
+journals/tois/CuiKC07;article;2017-01-12;"Soft pattern matching models for definitional question answering.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1229179.1229182";0
+journals/tois/HuangQZ17;article;2017-06-29;"Encoding Syntactic Knowledge in Neural Networks for Sentiment Classification.";"";"2017";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3052770";0
+journals/tois/HuangHCSLZ10;article;2017-01-12;"Mining near-duplicate graph for cluster-based reranking of web video search results.";"";"2010";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1852102.1852108";0
+journals/tois/SmithSGC89;article;2017-09-16;"Knowledge-Based Search Tactics for an Intelligent Intermediary System.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65943.65947";0
+journals/tois/KimbroughM97;article;2003-11-25;"On Automated Message Processing in Electronic Commerce and Work Support Systems: Speech Act Theory and Expressive Felicity.";"";"1997";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/263479.263480";0
+journals/tois/KimLHK13;article;2017-01-12;"Enriching Documents with Examples: A Corpus Mining Approach.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2414782.2414783";0
+journals/tois/GreiffP00;article;2003-11-25;"The maximum entropy approach and probabilistic IR models.";"";"2000";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/352595.352597";0
+journals/tois/MaloneLF95;article;2006-04-03;"Experiments with Oval: A Radically Tailorable Tool for Cooperative Work.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/201040.201047";0
+journals/tois/Fuhr89;article;2006-04-03;"Optimal Polynomial Retrieval Functions Based on the Probability Ranking Principle.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65943.65944";0
+journals/tois/ImH07;article;2017-01-12;"Does a one-size recommendation system fit all? the effectiveness of collaborative filtering based recommendation systems across different domains and search modes.";"";"2007";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1292591.1292595";0
+journals/tois/EvelandB88;article;2006-04-03;"Work Group Structures and Computer Support: A Field Experiment.";"";"1988";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/58566.58568";0
+journals/tois/AhlsenBBHS84;article;2017-03-09;"An Architecture for Object Management in OIS.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1206.1207";0
+journals/tois/CookEGRS87;article;2006-04-03;"Project Nick: Meetings Augmentation and Analysis.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/27636.27638";0
+journals/tois/StrongM95;article;2006-04-03;"Exceptions and Exception Handling in Computerized Information Processes.";"";"1995";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/201040.201049";0
+journals/tois/BotafogoRS92;article;2006-04-03;"Structural Analysis of Hypertexts: Identifying Hierarchies and Useful Metrics.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146802.146826";0
+journals/tois/YinCCHZ15;article;2017-09-19;"Dynamic User Modeling in Social Media Systems.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699670";0
+journals/tois/Koike93;article;2006-04-03;"The Role of Another Spatial Dimension in Software Visualization.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/159161.155370";0
+journals/tois/Tsichritzis84;article;2003-11-25;"Message Addressing Schemes.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357417.357422";0
+journals/tois/NieZWSC14;article;2017-01-03;"Learning to Recommend Descriptive Tags for Questions in Social Forums.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2559157";0
+journals/tois/KeM13;article;2013-06-05;"Studying the clustering paradox and scalability of search in highly distributed environments.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2457465.2457468";0
+journals/tois/StonebrakerSLKG83;article;2003-11-25;"Document Processing in a Relational Database System.";"";"1983";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/357431.357433";0
+journals/tois/JarvelinK02;article;2017-06-09;"Cumulated gain-based evaluation of IR techniques.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/582415.582418";0
+journals/tois/RaghavanJB89;article;2015-09-28;"A Critical Investigation of Recall and Precision as Measures of Retrieval System Performance.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/65943.65945";0
+journals/tois/YuanCZMS15;article;2015-04-20;"Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2699667";0
+journals/tois/LyngbaekM84;article;2003-11-25;"Object Management in Distributed Information Systems.";"";"1984";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/521.357415";0
+journals/tois/Tompa89;article;2006-04-03;"A Data Model for Flexible Hypertext Database Systems.";"";"1989";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/64789.64993";0
+journals/tois/GarzottoPS93;article;2017-06-09;"HDM - A Model-Based Approach to Hypertext Application Design.";"";"1993";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/151480.151483";0
+journals/tois/CuiGBQDL15;article;2017-01-03;"KNET: A General Framework for Learning Word Embedding Using Morphological Knowledge.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2797137";0
+journals/tois/MaloneGLRR87;article;2006-04-03;"Semistructured Messages Are Surprisingly Useful for Computer-Supported Coordination.";"";"1987";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/27636.27637";0
+journals/tois/YanW15;article;2017-09-17;"Deep Dependency Substructure-Based Learning for Multidocument Summarization.";"";"2015";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2766447";0
+journals/tois/Rada92;article;2006-04-03;"Converting a Textbook to Hypertext.";"";"1992";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/146760.146791";0
+journals/tois/EgoziMG11;article;2017-01-12;"Concept-Based Information Retrieval Using Explicit Semantic Analysis.";"";"2011";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1961209.1961211";0
+journals/tois/ThompsonT85;article;2006-04-03;"ASK is Transportable in Half a Dozen Ways.";"";"1985";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/3914.3983";0
+journals/tois/Owei02;article;2003-11-25;"An intelligent approach to handling imperfect information in concept-based natural language queries.";"";"2002";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/568727.568729";0
+journals/tois/RadinskySDSTBH13;article;2013-08-22;"Behavioral dynamics on the web: Learning, modeling, and prediction.";"";"2013";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2493175.2493181";0
+journals/tois/HustonCC14;article;2017-06-09;"Indexing Word Sequences for Ranked Retrieval.";"";"2014";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2559168";0
+journals/tois/GrantH96;article;2003-11-25;"Computerized Performance Monitors as Multidimensional Systems: Derivation and Application.";"";"1996";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/226163.226167";0
+journals/tois/Moss90;article;2016-06-23;"Design of the Mneme Persistent Object Store.";"";"1990";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/96105.96109";0
+journals/tois/ParkRP05;article;2017-06-09;"A novel document retrieval method using the discrete wavelet transform.";"";"2005";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1080343.1080345";0
+journals/tois/LarsonJKR12;article;2017-06-14;"Special issue on searching speech.";"";"2012";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/2328967.2328968";0
+journals/tois/JiangZ06;article;2007-03-06;"Extraction of coherent relevant passages using hidden Markov models.";"";"2006";"ACM Trans. Inf. Syst.";"http://doi.acm.org/10.1145/1165775";0

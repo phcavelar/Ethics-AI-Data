@@ -1,0 +1,92 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+conf/iros/KanadeKKYO95;inproceedings;2017-05-22;"Development of a video-rate stereo machine.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525868";0
+conf/iros/TomiyamaKSB95;inproceedings;2017-05-22;"Versatile robot vision based on features of objects: comparison of norm criterion and neural network.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525915";0
+conf/iros/XiongS95;inproceedings;2017-05-22;"Moment filters for high precision computation of focus and stereo.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525870";0
+conf/iros/BajdZK95;inproceedings;2017-05-22;"Timing and kinematics of quadrupedal walking pattern.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525900";0
+conf/iros/HuiG95;inproceedings;2017-05-22;"The virtual handle [force-reflecting mechanisms].";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525873";0
+conf/iros/InabaKKI95;inproceedings;2017-05-22;"Two-armed bipedal robot that can walk, roll over and stand up.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525899";0
+conf/iros/TremblayC95;inproceedings;2017-05-22;"Using sensor fusion and contextual information to perform event detection during a phase-based manipulation task.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525893";0
+conf/iros/EomKPL95;inproceedings;2017-05-22;"The problem of stability in the application of neural network to continuous-time dynamic systems.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525904";0
+conf/iros/GravesV95;inproceedings;2017-05-22;"Action selection in teleautonomous systems.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525855";0
+conf/iros/YeapT95;inproceedings;2017-05-22;"Dynamic whole-arm dexterous manipulation in the plane.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525917";0
+conf/iros/IskarousK95;inproceedings;2017-05-22;"Intelligent control using a neuro-fuzzy network.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525908";1
+conf/iros/OnoKS95;inproceedings;2017-05-22;"Strategy for unfolding a fabric piece by cooperative sensing of touch and vision.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525922";0
+conf/iros/FarahatGT95;inproceedings;2017-05-22;"Identifying contact formations in the presence of uncertainty.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525862";0
+conf/iros/OtaMAYKS95;inproceedings;2017-09-16;"Transferring and regrasping a large object by cooperation of multiple mobile robots.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525938";0
+conf/iros/WadaTM95;inproceedings;2017-05-22;"Omnidirectional holonomic mobile robot using nonholonomic wheels.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525923";0
+conf/iros/KaticV95;inproceedings;2017-05-22;"Learning control algorithms for robot contact task using feedforward neural networks.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525935";1
+conf/iros/ChenSU95;inproceedings;2017-05-22;"Planning conditional shortest paths through an unknown environment: a framed-quadtree approach.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525858";0
+conf/iros/FukudaI95;inproceedings;2017-05-22;"Construction mechanism of group behavior with cooperation.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525937";0
+conf/iros/KoyachiAAAI95;inproceedings;2017-05-22;"Geometric design of hexapod with integrated limb mechanism of leg and arm.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525898";0
+conf/iros/BarbehennH95;inproceedings;2017-05-22;"Toward an exact incremental geometric robot motion planner.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525859";0
+conf/iros/SchneiderB95;inproceedings;2017-05-22;"Cooperative coaching in robot learning.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525905";0
+conf/iros/BaegHHM95;inproceedings;2017-05-22;"Pose estimation of quadratic surface using surface fitting technique.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525885";0
+conf/iros/KimuroN95;inproceedings;2017-05-22;"Image processing on an omni-directional view using a spherical hexagonal pyramid: vanishing points extraction and hexagonal chain coding.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525909";0
+conf/iros/YuGXT95;inproceedings;2017-05-22;"Multi-sensor based planning and control for robotic manufacturing systems.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525888";1
+conf/iros/WakitaniMMUM95;inproceedings;2017-05-22;"Wrist-mounted laser rangefinder.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525910";0
+conf/iros/BooneH95;inproceedings;2017-05-22;"Reflexive responses to slipping in bipedal running robots.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525878";0
+conf/iros/TakanishiYI95;inproceedings;2017-05-22;"Dynamic quadruped walking stabilized with trunk motion.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525879";0
+conf/iros/SkubicKWKVA95;inproceedings;2017-05-22;"A telerobotics construction set with integrated performance analysis.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525856";0
+conf/iros/LiuW95;inproceedings;2017-05-22;"Parts manipulation on an intelligent motion surface.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525916";0
+conf/iros/ChirikjianL95;inproceedings;2017-05-22;"Inverse kinematics of binary manipulators with applications to service robotics.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525863";0
+conf/iros/Jia95;inproceedings;2017-05-22;"On computing optimal planar grasps.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525920";0
+conf/iros/SabatiniGGMSGGMRRD95;inproceedings;2017-05-22;"A low-cost, composite sensor array combining ultrasonic and infrared proximity sensors.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525872";0
+conf/iros/BorensteinF95;inproceedings;2017-05-22;"Correction of systematic odometry errors in mobile robots.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525942";0
+conf/iros/OsumiAFMT95;inproceedings;2017-05-22;"Cooperative control of two industrial robots with force control devices.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525939";1
+conf/iros/ShibataATN95;inproceedings;2017-05-22;"Motion planning of a redundant manipulator-modeling of criteria of skilled operators and global optimization of redundancy.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525860";0
+conf/iros/ZillesS95;inproceedings;2017-05-22;"A constraint-based god-object method for haptic display.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525876";0
+conf/iros/BroganH95;inproceedings;2017-05-22;"Group behaviors for systems with significant dynamics.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525936";0
+conf/iros/MorrowNK95;inproceedings;2017-05-22;"Vision and force driven sensorimotor primitives for robotic assembly skills.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525977";0
+conf/iros/HitakaI95;inproceedings;2017-05-22;"Minimum energy driving a flexible link hammer using neural networks.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525903";0
+conf/iros/AhmadiB95;inproceedings;2017-05-22;"A control strategy for stable passive running.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525877";1
+conf/iros/ApostolopoulosB95;inproceedings;2017-05-22;"Locomotion configuration of a robust rappelling robot.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525896";0
+conf/iros/MochidaIAU95;inproceedings;2017-05-22;"Behavior arbitration for autonomous mobile robots using emotion mechanisms.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525934";0
+conf/iros/TarnXGB95;inproceedings;2017-05-22;"Function-based control sharing for robotic systems.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525853";1
+conf/iros/DesaiRJ95;inproceedings;2017-05-22;"Kaa: an autonomous serpentine robot utilizes behavior control.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525891";1
+conf/iros/SekiST95;inproceedings;2017-05-22;"Detection of kinematic constraint from search motion of a robot using link weights of a neural network.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525931";0
+conf/iros/ThompsonRPLS95;inproceedings;2017-05-22;"Performance comparison of various control strategies for a mobile manipulator.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525927";1
+conf/iros/TanzawaKKM95;inproceedings;2017-05-22;"The ultrasonic range finder for outdoor mobile robots.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525911";0
+conf/iros/ThomasN95;inproceedings;2017-05-22;"Properties of assembly Petri net.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525883";0
+conf/iros/OhKSYL95;inproceedings;2017-05-22;"A compliance control strategy for robot manipulators using a self-controlled stiffness function.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525881";1
+conf/iros/LauST95;inproceedings;2017-05-22;"Some remarks on the geometry of contact formation cells.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525919";0
+conf/iros/KakutaniITYT95;inproceedings;2017-05-22;"Development of a transfer supporting equipment.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525894";0
+conf/iros/Hayward95;inproceedings;2017-05-22;"Toward a seven axis haptic device.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525874";0
+conf/iros/VoylesK95;inproceedings;2017-05-22;"Tactile gestures for human/robot interaction.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525854";0
+conf/iros/SchlemmerFG95;inproceedings;2017-05-22;"Dynamic trajectory optimization in real time for moving obstacles avoidance by a ten degrees of freedom manipulator.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525864";0
+conf/iros/Li95;inproceedings;2017-05-22;"Real time 3-D scene analysis by fast features detection.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525913";0
+conf/iros/HuangS95;inproceedings;2017-05-22;"Manipulator motion planning for stabilizing a mobile-manipulator.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525926";0
+conf/iros/NechybaX95;inproceedings;2017-05-22;"Human skill transfer: neural networks as learners and teachers.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525902";0
+conf/iros/WettergreenPB95;inproceedings;2017-05-22;"Behavior-based gait execution for the Dante II walking robot.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525895";0
+conf/iros/LazzariniMD95;inproceedings;2017-05-22;"A tactile array sensor layered in an artificial skin.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525871";0
+conf/iros/ColgateSB95;inproceedings;2017-05-22;"Issues in the haptic display of tool use.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525875";0
+conf/iros/KoideSD95;inproceedings;2017-05-22;"A palletize-planning system for multiple kinds of loads using GA search and traditional search.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525933";0
+conf/iros/OlleroH95;inproceedings;2017-05-22;"Stability analysis of mobile robot path tracking.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525925";0
+conf/iros/UlyanovYMTF95;inproceedings;2017-05-22;"Intelligent fuzzy motion control of mobile robot for service use.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525929";1
+conf/iros/LeeY95;inproceedings;2017-05-22;"Evaluation of assemblability based on statistical analysis of tolerance propagation.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525892";0
+conf/iros/MacKenzieCA95;inproceedings;2017-05-22;"Specification and execution of multiagent missions.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525861";0
+conf/iros/OndaIN95;inproceedings;2017-05-22;"A handling system for randomly placed casting parts using plane fitting technique.";"IROS (3)";"1995";"";None;0
+conf/iros/AbellE95;inproceedings;2017-05-22;"Stably supported rotations of a planar polygon with two frictionless contacts.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525918";0
+conf/iros/CodoureyZBS95;inproceedings;2017-05-22;"A robot system for automated handling in micro-world.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525882";0
+conf/iros/JanetGCWL95;inproceedings;2017-05-22;"Global self-localization for autonomous mobile robots using self-organizing Kohonen neural networks.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525932";0
+conf/iros/BrownJ95;inproceedings;2017-05-22;"A pusher/steerer model for strongly cooperative mobile robot manipulation.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525941";0
+conf/iros/MataricNS95;inproceedings;2017-05-22;"Cooperative multi-robot box-pushing.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525940";0
+conf/iros/RafflinF95;inproceedings;2017-05-22;"Learning with a friendly interactive robot for service tasks in hospital environments.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525930";0
+conf/iros/MandelbaumM95;inproceedings;2017-05-22;"Feature-based localization using fixed ultrasonic transducers.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525886";0
+conf/iros/JeongYO95;inproceedings;2017-05-22;"A study on the support pattern of a quadruped walking robot for aperiodic motion.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525901";0
+conf/iros/AraiAHK95;inproceedings;2017-05-22;"Integration of parallel arm and legged mechanism.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525897";0
+conf/iros/KlarquistGB95;inproceedings;2017-05-22;"Maximum-likelihood depth-from-defocus for active vision.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525912";0
+conf/iros/KohC95;inproceedings;2017-05-22;"Wheel servo control based on feedforward compensation for an autonomous mobile robot.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525924";1
+conf/iros/BejczyK95;inproceedings;2017-05-22;"Sensor fusion in telerobotic task controls.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525890";1
+conf/iros/RichardsP95;inproceedings;2017-05-22;"The automatic detection and visual tracking of moving objects by eye-in-hand robotic systems.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525889";0
+conf/iros/TzafestasGM95;inproceedings;2017-05-22;"Two-stage adaptive impedance control applied to a legged robot.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525880";1
+conf/iros/SengOC95;inproceedings;2017-05-22;"Escapability of singular configuration for redundant manipulators via self-motion.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525865";0
+conf/iros/DavisS95;inproceedings;2017-05-22;"Sensor fusion for autonomous outdoor navigation using neural networks.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525906";0
+conf/iros/ParkCY95;inproceedings;2017-05-22;"Specification and control of motion for kinematically redundant manipulators.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525867";1
+conf/iros/ChenRZ95;inproceedings;2017-05-22;"Efficient edge detection from tactile data.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525914";0
+conf/iros/JochemPT95;inproceedings;2017-05-22;"Vision-based neural network road and intersection detection and traversal.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525907";0
+conf/iros/UmedaATI95;inproceedings;2017-05-22;"Strategy and fundamental algorithms of fusing range image and intensity image for object recognition.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525887";0
+conf/iros/AgahiK95;inproceedings;2017-05-22;"Approximate dynamic decoupling of multilimbed robotic systems.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525928";0
+conf/iros/LopesC95;inproceedings;2017-05-22;"A machine learning approach to error detection and recovery in assembly.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525884";0
+conf/iros/ChangK95;inproceedings;2017-05-22;"Manipulator control at kinematic singularities: a dynamically consistent strategy.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525866";1
+conf/iros/BluethmannASFG95;inproceedings;2017-05-22;"Experiments in dexterous hybrid force and position control of a master/slave electrohydraulic manipulator.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525857";1
+conf/iros/BrennemannH95;inproceedings;2017-05-22;"Magnetic and optical-fluorescence position sensing for planar linear motors.";"IROS (3)";"1995";"";"https://doi.org/10.1109/IROS.1995.525869";0

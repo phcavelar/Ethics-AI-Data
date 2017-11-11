@@ -1,0 +1,133 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+conf/aaai/JordanW96;inproceedings;2012-12-11;"Deciding to Remind During Collaborative Problem Solving: Empirical Evidence for Agent Strategies.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-003.php";0
+conf/aaai/Mahadevan96;inproceedings;2012-12-11;"An Average-Reward Reinforcement Learning Algorithm for Computing Bias-Optimal Policies.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-130.php";0
+conf/aaai/BailleuxC96;inproceedings;2012-12-11;"Approximate Resolution of Hard Numbering Problems.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-025.php";0
+conf/aaai/Knight96;inproceedings;2012-12-11;"Learning Word Meanings by Instruction.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-067.php";0
+conf/aaai/LindsayW96;inproceedings;2012-12-11;"Testing the Robustness of the Genetic Algorithm on the Floating Building Block Representation.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-118.php";0
+conf/aaai/Regin96;inproceedings;2012-12-11;"Generalized Arc Consistency for Global Cardinality Constraint.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-031.php";0
+conf/aaai/HerrmannT96;inproceedings;2012-12-11;"Reasoning about Continuous Processes.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-095.php";0
+conf/aaai/FreuderE96;inproceedings;2012-12-11;"Neighborhood Inverse Consistency Preprocessing.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-030.php";0
+conf/aaai/KollerH96;inproceedings;2012-12-11;"Irrelevance and Conditioning in First-Order Probabilistic Logic.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-085.php";0
+conf/aaai/ChmeissJ96;inproceedings;2012-12-11;"Path-Consistency: When Space Misses Time.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-029.php";0
+conf/aaai/SchiexRGV96;inproceedings;2012-12-11;"Lazy Arc Consistency.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-032.php";0
+conf/aaai/OkT96;inproceedings;2012-12-11;"Auto-Exploratory Average Reward Reinforcement Learning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-131.php";0
+conf/aaai/DelgrandeG96;inproceedings;2012-12-11;"A Representation for Efficient Temporal Reasoning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-058.php";0
+conf/aaai/AltermanG96;inproceedings;2012-12-11;"Improving Case Retrieval by Remembering Questions.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-101.php";0
+conf/aaai/KainzK96;inproceedings;2012-12-11;"Dynamic Improvements of Heuristic Evaluations during Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-047.php";0
+conf/aaai/Darwiche96;inproceedings;2012-12-11;"Utilizing Knowledge-Base Semantics in Graph-Based Algorithms.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-090.php";0
+conf/aaai/Massacci96;inproceedings;2012-12-11;"Contextual Reasoning Is NP-Complete.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-092.php";0
+conf/aaai/Sandholm96;inproceedings;2012-12-11;"A Second Order Parameter for 3SAT.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-039.php";0
+conf/aaai/ChristiansonAHSWC96;inproceedings;2012-12-11;"Declarative Camera Control for Automatic Cinematography.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-022.php";0
+conf/aaai/CorrubleG96;inproceedings;2012-12-11;"The Discovery of the Causes of Leprosy: A Computational Analysis.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-109.php";0
+conf/aaai/SgourosPT96;inproceedings;2012-12-11;"A Framework for Plot Control in Interactive Story Systems.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-024.php";0
+conf/aaai/Val96;inproceedings;2012-12-11;"Approximate Knowledge Compilation: The First Order Case.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-074.php";0
+conf/aaai/Ginsberg96;inproceedings;2012-12-11;"Partition Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-034.php";0
+conf/aaai/IshidaS96;inproceedings;2012-12-11;"Improving the Learning Efficiencies of Realtime Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-046.php";0
+conf/aaai/PrasadLL96;inproceedings;2012-12-11;"Cooperative Learning over Composite Search Spaces: Experiences with a Multi-Agent Design System.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-010.php";0
+conf/aaai/StoneL96;inproceedings;2012-12-11;"Dynamically Sequencing an Animated Pedagogical Agent.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-064.php";0
+conf/aaai/LevyR96a;inproceedings;2012-12-11;"Verification of Knowledge Bases Based on Containment Checking.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-087.php";0
+conf/aaai/Schrag96;inproceedings;2012-12-11;"Compilation for Critically Constrained Knowledge Bases.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-076.php";0
+conf/aaai/Zhang96;inproceedings;2012-12-11;"Forward Estimation for Game-Tree Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-036.php";0
+conf/aaai/Frank96;inproceedings;2012-12-11;"Weighting for Godot: Learning Heuristics for GSAT.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-051.php";0
+conf/aaai/HuK96;inproceedings;2012-12-11;"Generation of Attributes for Learning Algorithms.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-120.php";0
+conf/aaai/EtheringtonC96;inproceedings;2012-12-11;"Toward Efficient Default Reasoning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-093.php";0
+conf/aaai/LesterP96;inproceedings;2012-12-11;"Scaling Up Explanation Generation: Large-Scale Knowledge Bases and Empirical Studies.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-063.php";0
+conf/aaai/KrulwichB96;inproceedings;2012-12-11;"The ContactFinder Agent: Answering Bulletin Board Questions with Referrals.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-002.php";0
+conf/aaai/SqalliF96;inproceedings;2012-12-11;"Inference-Based Constraint Satisfaction Supports Explanation.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-048.php";0
+conf/aaai/SandholmL96;inproceedings;2012-12-11;"Advantages of a Leveled Commitment Contracting Protocol.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-019.php";0
+conf/aaai/FargierLS96;inproceedings;2012-12-11;"Mixed Constraint Satisfaction: A Framework for Decision Problems under Incomplete Knowledge.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-026.php";0
+conf/aaai/RajanS96;inproceedings;2012-12-11;"The Use of Artificially Intelligent Agents with Bounded Rationality in the Study of Economic Markets.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-015.php";0
+conf/aaai/ZhangF96;inproceedings;2016-05-11;"Updating Knowledge Bases with Disjunctive Information.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-084.php";0
+conf/aaai/Turner96;inproceedings;2012-12-11;"Splitting a Default Theory.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-096.php";0
+conf/aaai/KingstonST96;inproceedings;2012-12-11;"CommonKADS Models for Knowledge-Based Planning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-071.php";0
+conf/aaai/ChaI96;inproceedings;2012-12-11;"Adding New Clauses for Faster Local Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-050.php";0
+conf/aaai/YenLL96;inproceedings;2012-12-11;"Using a Hybrid Genetic Algorithm and Fuzzy Logic for Metabolic Modeling.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-111.php";0
+conf/aaai/GentMPW96;inproceedings;2012-12-11;"The Constrainedness of Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-037.php";0
+conf/aaai/DomeshekKG96;inproceedings;2012-12-11;"Interactive Information Retrieval Systems with Minimalist Representation.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-066.php";0
+conf/aaai/Buvac96;inproceedings;2012-12-11;"Quantificational Logic of Context.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-089.php";0
+conf/aaai/Mock96;inproceedings;2012-12-11;"Hybrid Hill-Climbing and Knowledge-Based Methods for Intelligent News Filtering.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-007.php";0
+conf/aaai/DrakengrenJ96;inproceedings;2012-12-11;"Maximal Tractable Subclasses of Allen's Interval Algebra: Preliminary Report.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-059.php";0
+conf/aaai/KaskD96;inproceedings;2012-12-11;"A Graph-Based Method for Improving GSAT.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-053.php";0
+conf/aaai/MurataS96;inproceedings;2012-12-11;"Machine Discovery Based on Numerical Data Generated in Computer Experiments.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-110.php";0
+conf/aaai/LeakeKW96;inproceedings;2012-12-11;"Acquiring Case Adaptation Knowledge: A Hybrid Approach.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-102.php";0
+conf/aaai/MarquisS96;inproceedings;2012-12-11;"A New Algorithm for Computing Theory Prime Implicates Compilations.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-075.php";0
+conf/aaai/AndreR96;inproceedings;2012-12-11;"Coping with Temporal Constraints in Multimedia Presentation Planning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-021.php";0
+conf/aaai/Ligozat96;inproceedings;2012-12-11;"A New Proof of Tractability for ORD-Horn Relations.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-060.php";0
+conf/aaai/KimR96;inproceedings;2012-12-11;"Learning Efficient Rules by Maintaining the Explanation Structure.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-114.php";0
+conf/aaai/Khardon96;inproceedings;2012-12-11;"Learning to Take Actions.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-117.php";0
+conf/aaai/ProvostH96;inproceedings;2012-12-11;"Scaling Up: Distributed Machine Learning with Cooperation.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-011.php";0
+conf/aaai/LiberatoreS96;inproceedings;2012-12-11;"The Complexity of Model Checking for Belief Revision and Update.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-083.php";0
+conf/aaai/HoltePZM96;inproceedings;2012-12-11;"Hierarchical A*: Searching Abstraction Hierarchies Efficiently.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-079.php";0
+conf/aaai/AlmuallimAK96;inproceedings;2012-12-11;"An Efficient Algorithm for Finding Optimal Gain-Ratio Multiple-Split Tests on Hierarchical Attributes in Decision Tree Learning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-105.php";0
+conf/aaai/IsozakiK96;inproceedings;2012-12-11;"A Semantic Characterization of an Algorithm for Estimating Others' Beliefs from Observation.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-081.php";0
+conf/aaai/Lin96;inproceedings;2012-12-11;"Embracing Causality in Specifying the Indeterminate Effects of Actions.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-100.php";0
+conf/aaai/MittalM96;inproceedings;2012-12-11;"Detecting Knowledge Base Inconsistencies Using Automated Generation of Text and Examples.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-072.php";0
+conf/aaai/CarverLW96;inproceedings;2012-12-11;"Nearly Monotonic Problems: A Key to Effective FA/C Distributed Sensor Interpretation?";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-013.php";0
+conf/aaai/CarmelM96a;inproceedings;2012-12-11;"Incorporating Opponent Models into Adversary Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-018.php";0
+conf/aaai/TsunetoEHN96;inproceedings;2012-12-11;"Commitment Strategies in Hierarchical Task Network Planning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-080.php";0
+conf/aaai/Vlasie96;inproceedings;2012-12-11;"The Very Particular Structure of the Very Hard Instances.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-040.php";0
+conf/aaai/BurkeHY96;inproceedings;2012-12-11;"Knowledge-Based Navigation of Complex Information Spaces.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-069.php";0
+conf/aaai/Bessiere96;inproceedings;2012-12-11;"A Simple Way to Improve Path Consistency Processing in Interval Algebra Networks.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-057.php";0
+conf/aaai/GilM96;inproceedings;2012-12-11;"Explicit Representations of Problem-Solving Strategies to Support Knowledge Acquisition.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-070.php";0
+conf/aaai/SmirnovKVS96;inproceedings;2012-12-11;"Efficient Goal-Directed Exploration.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-044.php";0
+conf/aaai/Weida96;inproceedings;2012-12-11;"Closed Terminologies in Description Logics.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-088.php";0
+conf/aaai/ZytkowF96;inproceedings;2012-12-11;"Incremental Discovery of Hidden Structure: Applications in Theory of Elementary Particles.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-112.php";0
+conf/aaai/HsuK96;inproceedings;2012-12-11;"Discovering Robust Knowledge from Dynamic Closed World Data.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-122.php";0
+conf/aaai/CrawfordDLMP96;inproceedings;2012-12-11;"Path-Based Rules in Object-Oriented Programming.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-073.php";0
+conf/aaai/BaralGP96;inproceedings;2012-12-11;"Formalizing Narratives Using Nested Circumscription.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-097.php";0
+conf/aaai/EverettF96;inproceedings;2012-12-11;"Scaling up Logic-Based Truth Maintenance Systems via Fact Garbage Collection.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-091.php";0
+conf/aaai/BrodleyF96;inproceedings;2012-12-11;"Identifying and Eliminating Mislabeled Training Instances.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-119.php";0
+conf/aaai/BaffesM96;inproceedings;2012-12-11;"A Novel Application of Theory Refinement to Student Modeling.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-061.php";0
+conf/aaai/Murray96;inproceedings;2012-12-11;"KI: A Tool for Knowledge Integration.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-124.php";0
+conf/aaai/Kartha96;inproceedings;2012-12-11;"On the Range of Applicability of Baker's Approach to the Frame Problem.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-099.php";0
+conf/aaai/ShimazuT96;inproceedings;2012-12-11;"Detecting Discontinuities in Case-Bases.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-103.php";0
+conf/aaai/BundyGSW96;inproceedings;2012-12-11;"Computing Abstraction Hierarchies by Numerical Simulation.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-078.php";0
+conf/aaai/KwokW96;inproceedings;2012-12-11;"Planning to Gather Information.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-005.php";0
+conf/aaai/CarmelM96;inproceedings;2012-12-11;"Learning Models of Intelligent Agents.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-009.php";0
+conf/aaai/BhattacharyaB96;inproceedings;2012-12-11;"Searching Game Trees Under Memory Constraints.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-033.php";0
+conf/aaai/Haase96;inproceedings;2012-12-11;"A Model of Poetic Comprehension.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-023.php";0
+conf/aaai/Kambhampati96;inproceedings;2012-12-11;"Formalizing Dependency Directed Backtracking and Explanation Based Learning in Refinement Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-113.php";0
+conf/aaai/EstlinM96;inproceedings;2012-12-11;"Multi-Strategy Learning of Search Control for Partial-Order Planning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-125.php";0
+conf/aaai/MiklerHW96;inproceedings;2012-12-11;"Analysis of Utility-Theoretic Heuristics for Intelligent Adaptive Network Routing.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-014.php";0
+conf/aaai/BayardoM96;inproceedings;2012-12-11;"A Complexity Analysis of Space-Bounded Learning Algorithms for the Constraint Satisfaction Problem.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-045.php";0
+conf/aaai/ShehoryK96;inproceedings;2012-12-11;"A Kernel-Oriented Model for Coalition-Formation in General Environments: Implementation and Results.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-020.php";0
+conf/aaai/ZhangZ96;inproceedings;2012-12-11;"Combining Local Search and Backtracking Techniques for Constraint Satisfaction.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-056.php";0
+conf/aaai/BloedornMM96;inproceedings;2012-12-11;"Machine Learning of User Profiles: Representational Issues.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-065.php";0
+conf/aaai/Tambe96;inproceedings;2012-12-11;"Tracking Dynamic Team Activity.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-012.php";0
+conf/aaai/RoscaB96;inproceedings;2012-12-11;"Evolution-Based Discovery of Hierarchical Behaviors.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-132.php";0
+conf/aaai/Gratch96;inproceedings;2012-12-11;"Sequential Inductive Learning.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-116.php";0
+conf/aaai/Bresina96;inproceedings;2012-12-11;"Heuristic-Biased Stochastic Sampling.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-041.php";0
+conf/aaai/PedersenKB96;inproceedings;2012-12-11;"Significant Lexical Relationships.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-068.php";0
+conf/aaai/WrayLJ96;inproceedings;2012-12-11;"Compilation of Non-Contemporaneous Constraints.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-115.php";0
+conf/aaai/KautzSM96;inproceedings;2012-12-11;"Agent Amplified Communication.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-001.php";0
+conf/aaai/BuiKV96;inproceedings;2012-12-11;"Learning other Agents' Preferences in Multiagent Negotiation.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-017.php";0
+conf/aaai/Engelson96;inproceedings;2012-12-11;"Learning Robust Plans for Mobile Robots from a Single Trial.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-129.php";0
+conf/aaai/IhrigK96;inproceedings;2012-12-11;"Design and Implementation of a Replay Framework Based on a Partial Order Planner.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-126.php";0
+conf/aaai/Kramer96;inproceedings;2015-01-02;"Structural Regression Trees.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-121.php";0
+conf/aaai/Haynes96;inproceedings;2012-12-11;"Duplication of Coding Segments in Genetic Programming.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-052.php";0
+conf/aaai/Korf96;inproceedings;2012-12-11;"Improved Limited Discrepancy Search.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-043.php";0
+conf/aaai/SmithC96;inproceedings;2012-12-11;"Toward a Semantics for an Agent Communications Language Based on Speech-Acts.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-004.php";0
+conf/aaai/Minton96;inproceedings;2012-12-11;"Is There Any Need for Domain-Dependent Control Information?: A Reply.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-127.php";0
+conf/aaai/PlaatSPB96;inproceedings;2012-12-11;"Exploiting Graph Properties of Game Trees.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-035.php";0
+conf/aaai/ParkesW96;inproceedings;2012-12-11;"Tuning Local Search for Satisfiability Testing.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-054.php";0
+conf/aaai/KoenigS96;inproceedings;2012-12-11;"Easy and Hard Testbeds for Real-Time Search Algorithms.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-042.php";0
+conf/aaai/OatesC96;inproceedings;2012-12-11;"Searching for Planning Operators with Context-Dependent and Probabilistic Effects.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-128.php";0
+conf/aaai/Bailey-KelloggZY96;inproceedings;2012-12-11;"Spatial Aggregation: Language and Applications.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-077.php";0
+conf/aaai/StubblefieldL96;inproceedings;2012-12-11;"Source Selection for Analogical Reasoning: An Empirical Approach.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-104.php";0
+conf/aaai/Quinlan96;inproceedings;2012-12-11;"Bagging, Boosting, and C4.5.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-108.php";0
+conf/aaai/EliotW96;inproceedings;2012-12-11;"A Simulation-Based Tutor that Reasons about Multiple Agents.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-062.php";0
+conf/aaai/VerfaillieLS96;inproceedings;2012-12-11;"Russian Doll Search for Solving Constraint Optimization Problems.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-027.php";0
+conf/aaai/Schaerf96;inproceedings;2012-12-11;"Tabu Search Techniques for Large High-School Timetabling Problems.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-055.php";0
+conf/aaai/FriedmanKY96;inproceedings;2012-12-11;"Lazy Decision Trees.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-107.php";0
+conf/aaai/GiacomoC96;inproceedings;2012-12-11;"Reasoning about Nondeterministic and Concurrent Actions: A Process Algebra Approach.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-098.php";0
+conf/aaai/PazzaniMB96;inproceedings;2012-12-11;"Syskill & Webert: Identifying Interesting Web Sites.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-008.php";0
+conf/aaai/Cohen96;inproceedings;2012-12-11;"Learning Trees and Rules with Set-Valued Features.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-106.php";0
+conf/aaai/LiuH96;inproceedings;2012-12-11;"Post-Analysis of Learned Rules.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-123.php";0
+conf/aaai/Fusaoka96;inproceedings;2012-12-11;"Situation Calculus on a Dense Flow of Time.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-094.php";0
+conf/aaai/PennockS96;inproceedings;2012-12-11;"Exploiting a Theory of Phase Transitions in Three-Satisfiability Problems.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-038.php";0
+conf/aaai/LiP96;inproceedings;2012-12-11;"What Is Believed Is What Is Explained (Sometimes).";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-082.php";0
+conf/aaai/BowenD96;inproceedings;2012-12-11;"Constraint Satisfaction Using A Hybrid Evolutionary Hill-Climbing Algorithm That Performs Opportunistic Arc and Path Revision.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-049.php";0
+conf/aaai/Wallace96;inproceedings;2012-12-11;"Enhancements of Branch and Bound Methods for the Maximal Constraint Satisfaction Problem.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-028.php";0
+conf/aaai/LevyR96;inproceedings;2012-12-11;"The Limits on Combining Recursive Horn Rules with Description Logics.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-086.php";0
+conf/aaai/SmithNT96;inproceedings;2012-12-11;"Total-Order Multi-Agent Task-Network Planning for Contract Bridge.";"AAAI/IAAI, Vol. 1";"1996";"";None;0
+conf/aaai/LevyRO96;inproceedings;2012-12-11;"Query-Answering Algorithms for Information Agents.";"AAAI/IAAI, Vol. 1";"1996";"";"http://www.aaai.org/Library/AAAI/1996/aaai96-006.php";0

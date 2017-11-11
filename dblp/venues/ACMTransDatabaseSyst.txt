@@ -1,0 +1,955 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+journals/tods/Kuo96;article;2012-01-25;"Model and Verification of a Data Manager Based on ARIES.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/236711.236712";0
+journals/tods/LiuDC11;article;2017-01-11;"Generating sound workflow views for correct provenance analysis.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1929934.1929940";0
+journals/tods/BunemanO96;article;2012-01-25;"Polymorphism and Type Inference in Database Programming.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/227604.227609";0
+journals/tods/BunemanFN82;article;2017-03-30;"An Implementation Technique for Database Query Languages.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319702.319711";0
+journals/tods/KaminskiKG17;article;2017-08-30;"Query Nesting, Assignment, and Aggregation in SPARQL 1.1.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3083898";0
+journals/tods/Graefe10;article;2017-01-11;"A survey of B-tree locking techniques.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1806907.1806908";0
+journals/tods/BlakeleyCL89;article;2017-03-30;"Updating Derived Relations: Detecting Irrelevant and Autonomously Computable Updates.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/68012.68015";0
+journals/tods/MaierMS79;article;2017-03-30;"Testing Implications of Data Dependencies.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320107.320115";0
+journals/tods/KuperV93;article;2017-03-30;"The Logical Data Model.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/155271.155274";0
+journals/tods/JalutaSS06;article;2006-08-21;"B-tree concurrency control and recovery in page-server database systems.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132866";1
+journals/tods/Sacco86;article;2017-03-30;"Fragmentation: A Technique for Efficient Query Processing.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5922.5638";0
+journals/tods/BayerHR80;article;2017-03-30;"Parallelism and Recovery in Database Systems.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320141.320146";0
+journals/tods/Schlorer81;article;2017-03-30;"Security of Statistical Databases: Multidimensional Transformation.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319540.319555";0
+journals/tods/Thomasian93;article;2017-03-30;"Two-Phase Locking Performance and Its Thrashing Behavior.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/169725.169720";0
+journals/tods/BurdickFKPT16;article;2017-01-03;"A Declarative Framework for Linking Entities.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2894748";0
+journals/tods/TendickM94;article;2012-01-25;"A Modified Random Perturbation Method for Database Security.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/174638.174641";0
+journals/tods/HsuZ92;article;2017-03-30;"Performance Evaluation of Cautious Waiting.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/132271.132275";0
+journals/tods/Jiao06;article;2007-03-06;"Maintaining stream statistics over multiscale sliding windows.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189773";0
+journals/tods/Sellis88;article;2017-06-14;"Multiple-Query Optimization.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/42201.42203";0
+journals/tods/NavatheF76;article;2012-01-25;"Restructuring for Large Data Bases: Three Levels of Abstraction.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320455.320461";0
+journals/tods/AggarwalY08;article;2017-01-11;"On static and dynamic methods for condensation-based privacy-preserving data mining.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1331904.1331906";0
+journals/tods/JungHFHY14;article;2015-04-20;"A Scalable Lock Manager for Multicores.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2691190.2691192";0
+journals/tods/LuLCWS14;article;2017-01-03;"Efficient Algorithms and Cost Models for Reverse Spatial-Keyword ";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2576232";0
+journals/tods/Bohm00;article;2003-11-19;"A cost model for query processing in high dimensional data spaces.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/357775.357776";0
+journals/tods/KemmeA00;article;2003-11-19;"A new approach to developing and implementing eager database replication protocols.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/363951.363955";0
+journals/tods/Batory79;article;2017-03-30;"On Searching Transposed Files.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320107.320125";0
+journals/tods/CahillRF09;article;2017-01-11;"Serializable isolation for snapshot databases.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1620585.1620587";0
+journals/tods/SarmaLGMH13;article;2017-01-03;"Consistent thinning of large geographical data for map visualization.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2539032.2539034";0
+journals/tods/CiacciaP02;article;2003-11-19;"Searching in metric spaces with user-defined and approximate distances.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/582410.582412";0
+journals/tods/Stemple76;article;2012-01-25;"A Data Base Management Facility for Automatic Generation of Data Base Managers.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320434.320452";0
+journals/tods/BoralD81;article;2017-03-30;"Processor Allocation Strategies for Multiprocessor Database Machines.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319566.319570";0
+journals/tods/WangY12;article;2017-01-03;"Revisiting answering tree pattern queries using views.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2338626.2338631";0
+journals/tods/SharafCLP08;article;2017-01-11;"Algorithms and metrics for processing multiple heterogeneous continuous queries.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1331904.1331909";0
+journals/tods/HurtadoGM05;article;2017-06-09;"Capturing summarizability with integrity constraints in OLAP.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1093382.1093388";0
+journals/tods/TattiMC14;article;2015-04-29;"Finding Robust Itemsets under Subsampling.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2656261";0
+journals/tods/RietveldW15;article;2017-01-03;"Reducing Layered Database Applications to their Essence through Vertical Integration.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2818180";0
+journals/tods/PangDR05;article;2017-06-09;"Incremental maintenance of shortest distance and transitive closure in first-order logic and SQL.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1093382.1093384";0
+journals/tods/Ariav86;article;2017-03-30;"A Temporally Oriented Data Model.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/7239.7350";0
+journals/tods/SchneiderCVY12;article;2017-01-11;"Cardinal directions between complex regions.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2188349.2188350";0
+journals/tods/BrunoC07;article;2017-01-11;"Physical design refinement: The 'merge-reduce' approach.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292618";0
+journals/tods/Roussopoulos91;article;2017-03-30;"An Incremental Access Method for ViewCache: Concept, Algorithms, and Cost Analysis.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/111197.111215";0
+journals/tods/Jensen15;article;2017-01-03;"Editorial: Updates to the Editorial Board.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2747020";0
+journals/tods/YanYH05;article;2017-06-05;"Graph indexing based on discriminative frequent structure analysis.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1114244.1114248";0
+journals/tods/YuSLS85;article;2017-03-30;"Adaptive Record Clustering.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3857.3861";0
+journals/tods/Jensen14a;article;2015-04-20;"Foreword to Invited Articles Issue.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2697050";0
+journals/tods/Claybrook77;article;2017-03-30;"A Facility for Defining and Manipulating Generalized Data Structures.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320576.320591";0
+journals/tods/Kim94;article;2003-11-19;"Charter and Scope.";"";"1994";"ACM Trans. Database Syst.";"";0
+journals/tods/ShiCDO17;article;2017-09-19;"UniAD: A Unified Ad Hoc Data Processing System.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3009957";0
+journals/tods/ArenasD16;article;2017-01-03;"The Exact Complexity of the First-Order Logic Definability Problem.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2886095";0
+journals/tods/Schwartz79;article;2017-03-30;"Linear Queries in Statistical Databases.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320071.320073";0
+journals/tods/IpeirotisNCG07;article;2017-06-09;"Modeling and managing changes in text databases.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1272743.1272744";0
+journals/tods/WuYJ13;article;2017-06-09;"Moving spatial keyword queries: Formulation, methods, and analysis.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2445583.2445590";0
+journals/tods/PapadimitriouK84;article;2017-03-30;"On Concurrency Control by Multiple Versions.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/348.318588";0
+journals/tods/Piwowarski85;article;2012-01-25;"Comments on Batched Searching of Sequential and Tree-Structured Files.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3857.214294";0
+journals/tods/PangD14;article;2017-09-16;"Privacy-Preserving Ad-Hoc Equi-Join on Outsourced Data.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2629501";0
+journals/tods/JajodiaSSS01;article;2003-11-19;"Flexible support for multiple access control policies.";"";"2001";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=383891.383894";1
+journals/tods/LeFevreDR08;article;2017-01-11;"Workload-aware anonymization techniques for large-scale datasets.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1386118.1386123";0
+journals/tods/GardyP89;article;2017-03-30;"On the Effects of Join Operations on Relation Sizes.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/76902.76907";0
+journals/tods/YiLCHKS09;article;2017-01-11;"Small synopses for group-by query verification on outsourced data streams.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1567274.1567277";0
+journals/tods/CongFKLL12;article;2017-01-03;"Partial Evaluation for Distributed XPath Query Processing and Beyond.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389251";0
+journals/tods/Fagin81;article;2017-03-30;"A Normal Form for Relational Databases That Is Based on Domians and Keys.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319587.319592";0
+journals/tods/Weddell92;article;2017-03-30;"Reasoning about Functional Dependencies Generalized for Semantic Data Models.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128765.128767";0
+journals/tods/Spyratos87;article;2012-01-25;"The Partition Model: A Deductive Database Model.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/12047.22718";0
+journals/tods/SaltonW78;article;2017-03-30;"Generation and Search of Clustered Files.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320289.320291";0
+journals/tods/SenT14;article;2017-01-03;"Deletion without rebalancing in multiway search trees.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2540068";0
+journals/tods/BowmanS05;article;2006-04-03;"Optimization of query streams using semantic prefetching.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1114244.1114250";0
+journals/tods/OzkarahanS77;article;2017-03-30;"Analysis of Architectural Features for Enhancing the Performance of a Database Machine.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320576.320577";0
+journals/tods/MahmoudR76;article;2017-03-30;"Optimal Allocation of Resources in Distributed Information Networks.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320434.320449";0
+journals/tods/Fagin77;article;2017-03-30;"Multivalued Dependencies and a New Normal Form for Relational Databases.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320557.320571";0
+journals/tods/Gadia88;article;2017-03-30;"A Homogeneous Relational Model and Query Languages for Temporal Databases.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/49346.50065";0
+journals/tods/LiLMS14;article;2017-09-12;"A Theory of Pricing Private Data.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2691190.2691191";0
+journals/tods/MartinenghiT12;article;2017-01-11;"Proximity measures for rank join.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2109196.2109198";0
+journals/tods/BaroodyD81;article;2017-03-30;"An Object-Oriented Approach to Database System Implementation.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319628.319645";0
+journals/tods/Bradley78;article;2017-03-30;"An Extended Owner-Coupled Set Data Model and Predicate Calculus for Database Management.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320289.320294";0
+journals/tods/Jagadish90;article;2017-03-30;"A Compression Technique to Materialize Transitive Closure.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/99935.99944";0
+journals/tods/KonopnickiS98;article;2017-03-30;"Information Gathering in the World-Wide Web: The W3QL Query Language and the W3QS System.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/296854.277639";0
+journals/tods/ZhengZCZ17;article;2017-08-30;"Efficient SimRank-Based Similarity Join.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3083899";0
+journals/tods/SmithS77;article;2012-01-25;"Database Abstractions: Aggregation and Generalization.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320544.320546";0
+journals/tods/AikenHW95;article;2012-01-25;"Static Analysis Techniques for Predicting the Behavior of Active Database Rules.";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/202106.202107";0
+journals/tods/Snodgrass87;article;2017-03-30;"The Temporal Query Language TQuel.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/22952.22956";0
+journals/tods/HartmannL09;article;2017-06-09;"Efficient reasoning about a robust XML key fragment.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1538909.1538912";0
+journals/tods/Langerak90;article;2017-03-30;"View Updates in Relational Databases with an Independent Scheme.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/77643.77645";0
+journals/tods/CanO90;article;2017-03-30;"Concepts and Effectiveness of the Cover-Coefficient-Based Clustering Methodology for Text Databases.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/99935.99938";0
+journals/tods/BohlenJS00;article;2003-11-19;"Temporal statement modifiers.";"";"2000";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=377674.377665";0
+journals/tods/Scholl81;article;2012-01-25;"New File Organizations Based on Dynamic Hashing.";"";"1981";"ACM Trans. Database Syst.";"";0
+journals/tods/DeyS96;article;2012-01-25;"A Probabilistic Relational Model and Algebra.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/232753.232796";0
+journals/tods/ShneidermanG76;article;2012-01-25;"Batched Searching of Sequential and Tree Structured Files.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320473.320487";0
+journals/tods/FanB08;article;2017-01-11;"Information preserving XML schema embedding.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1331904.1331908";0
+journals/tods/Comer79;article;2017-03-30;"Heuristics for Trie Index Minimization.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320083.320102";0
+journals/tods/Roussopoulos82;article;2017-03-30;"View Indexing in Relational Databases.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319702.319729";0
+journals/tods/LevandoskiEMK13;article;2017-01-03;"Flexible and extensible preference evaluation in database systems.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2493268";0
+journals/tods/AbiteboulG91;article;2017-03-30;"A Rule-Based Language with Functions and Sets.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/103140.103141";0
+journals/tods/YanZYH06;article;2017-06-05;"Feature-based similarity search in graph structures.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189777";0
+journals/tods/LometS90;article;2017-03-30;"The hB-Tree: A Multiattribute Indexing Method with Good Guaranteed Performance.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/99935.99949";0
+journals/tods/Jensen14;article;2015-04-29;"Editorial.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2662448";0
+journals/tods/JacoxS03;article;2004-03-18;"Iterative spatial join.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/937598.937600";0
+journals/tods/Chomicki95;article;2012-01-25;"Efficient Checking of Temporal Integrity Constraints Using Bounded History Encoding.";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/210197.210200";0
+journals/tods/MarianBG04;article;2006-02-09;"Evaluating top-";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1005566.1005569";0
+journals/tods/WongY76;article;2017-03-30;"Decomposition - A Strategy for Query Processing.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320473.320479";0
+journals/tods/JacobsAK82;article;2017-03-30;"On Interpretations of Relational Languages and Solutions to the Implied Constraint Problem.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319702.319730";0
+journals/tods/BernsteinGWRR81;article;2017-03-30;"Query Processing in a System for Distributed Databases (SDD-1).";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319628.319650";0
+journals/tods/BrightGR06;article;2006-08-21;"Adaptive pull-based policies for wide area data delivery.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1138394.1138399";0
+journals/tods/Donovan76;article;2017-03-30;"Database System Approach to Management Descision Support.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320493.320500";0
+journals/tods/Addis82;article;2017-03-30;"A Relation-Based Language Interpreter for Content Addressable File Store.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319702.319705";0
+journals/tods/GhelliRS08;article;2017-06-09;"Commutativity analysis for XML updates.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412341";0
+journals/tods/JacoxS08;article;2017-01-11;"Metric space similarity joins.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1366102.1366104";0
+journals/tods/ZhangMTGS08;article;2017-01-11;"On computing temporal aggregates with range predicates.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1366102.1366109";0
+journals/tods/FaginKPT08;article;2017-01-11;"Quasi-inverses of schema mappings.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1366102.1366108";0
+journals/tods/CastanoAFP98;article;2017-03-30;"Conceptual Schema Analysis: Techniques and Applications.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/293910.293150";0
+journals/tods/MayHM06;article;2007-03-06;"Strategies for query unnesting in XML databases.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166081";0
+journals/tods/LiuGGIJ17;article;2017-06-14;"Smart Meter Data Analytics: Systems, Algorithms, and Benchmarking.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3004295";0
+journals/tods/Malvestuto93;article;2017-03-30;"A Universal-Scheme Approach to Statistical Databases Containing Homogeneous Summary Tables.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/169725.169712";0
+journals/tods/ChenLWXML15;article;2017-09-13;"Optimal Location Queries in Road Networks.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2818179";0
+journals/tods/CateKQT17;article;2017-07-18;"Approximation Algorithms for Schema-Mapping Discovery from Data Examples.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3044712";0
+journals/tods/StoreyCDGS97;article;2017-03-30;"Database Design with Common Sense Business Reasoning and Learning.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/278245.278246";0
+journals/tods/WongFWP09;article;2017-08-22;"Anonymization-based attacks in privacy-preserving data publishing.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1538909.1538910";0
+journals/tods/OzsoyogluMO89;article;2017-03-30;"Query Processing Techniques in the Summary-Table-by-Example Database Query Language.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/76902.76906";0
+journals/tods/Kent83;article;2017-03-30;"The Universal Relation Revisited.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.320019";0
+journals/tods/BaralisW00;article;2003-11-19;"An algebraic approach to static analysis of active database rules.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/363951.363954";0
+journals/tods/LiYJ07;article;2017-01-11;"NaLIX: A generic natural language search environment for XML data.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292620";0
+journals/tods/YuanZWXYH15;article;2017-01-03;"Optimizing Batch Linear Queries under Exact and Approximate Differential Privacy.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2699501";0
+journals/tods/TiakasVPMG16;article;2017-01-03;"Processing Top-k Dominating Queries in Metric Spaces.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2847524";0
+journals/tods/HjaltasonS03;article;2004-03-23;"Index-driven similarity search in metric spaces.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/958942.958948";0
+journals/tods/ChaudhuriDHW06;article;2007-03-06;"Probabilistic information retrieval approach for ranking of database query results.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166085";0
+journals/tods/PentarisI06;article;2006-08-21;"Query optimization in distributed networks of autonomous database systems.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1138394.1138397";0
+journals/tods/MazeikaBKS07;article;2007-06-25;"Estimating the selectivity of approximate string queries.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1242524.1242529";0
+journals/tods/Chomicki03;article;2004-03-18;"Preference formulas in relational queries.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/958942.958946";0
+journals/tods/SororMASKK10;article;2017-01-11;"Automatic virtual machine configuration for database workloads.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1670243.1670250";0
+journals/tods/AndriesCPB01;article;2003-11-19;"Applying an update method to a set of receivers.";"";"2001";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=383734.383735";0
+journals/tods/OlteanuS16;article;2017-01-03;"ENFrame: A Framework for Processing Probabilistic Data.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2877205";0
+journals/tods/Lorie77;article;2012-01-25;"Physical Integrity in a Large Segmented Database.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320521.320540";0
+journals/tods/Yao79;article;2017-03-30;"Optimization of Query Evaluation Algorithms.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320071.320072";0
+journals/tods/PerezAG09;article;2017-06-09;"Semantics and complexity of SPARQL.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1567274.1567278";0
+journals/tods/HwangC07;article;2007-06-11;"Optimizing top-k queries for middleware access: A unified cost-based approach.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1206049.1206054";0
+journals/tods/0003K0BGK12;article;2017-01-03;"Entangled queries: Enabling declarative data-driven coordination.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2338626.2338629";0
+journals/tods/McLean81;article;2012-01-25;"Comments on SDD-1 Concurrency Control Mechanisms.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319566.319585";0
+journals/tods/GuhaKS06;article;2006-08-21;"Approximation and streaming algorithms for histogram construction problems.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132873";0
+journals/tods/LinKJPA09;article;2017-01-11;"Snapshot isolation and integrity constraints in replicated databases.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1538909.1538913";0
+journals/tods/KamU77;article;2012-01-25;"A Model of Statistical Databases and Their Security.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320521.320525";0
+journals/tods/AtzeniC89;article;2017-06-09;"Efficient Optimization of Simple Chase Join Expressions.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/63500.63520";0
+journals/tods/BenediktK09;article;2017-06-09;"From XQuery to relational logics.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1620585.1620592";0
+journals/tods/KoutrisW17;article;2017-06-29;"Consistent Query Answering for Self-Join-Free Conjunctive Queries Under Primary Key Constraints.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3068334";0
+journals/tods/DekhtyarRS01;article;2008-08-11;"Probabilistic temporal databases, I: algebra.";"";"2001";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=383734.383736";0
+journals/tods/DavidaWK81;article;2017-03-30;"A Database Encryption System with Subkeys.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319566.319580";0
+journals/tods/VincentLL04;article;2017-06-14;"Strong functional dependencies and their application to normal forms in XML.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1016028.1016029";0
+journals/tods/BaralisCP96;article;2017-06-09;"Modularization Techniques for Active Rules Design.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/227604.227605";0
+journals/tods/CeriGL07;article;2007-06-11;"Mining constraint violations.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1206049.1206055";0
+journals/tods/MooreRW90;article;2017-03-30;"A Decision-Theoretic Approach to Information Retrieval.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/88636.88597";0
+journals/tods/CasanovaFT91;article;2017-06-09;"A Software Tool for Modular Database Design.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/114325.103711";0
+journals/tods/KorthKFGU84;article;2017-03-30;"System/U: A Database System Based on the Universal Relation Assumption.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1270.1209";0
+journals/tods/ChenV84;article;2012-01-25;"Analysis of New Variants of Coalesced Hashing.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1994.2205";0
+journals/tods/RothnieBFGHLRSW80;article;2017-03-30;"Introduction to a System for Distributed Databases (SDD-1).";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320128.320129";0
+journals/tods/LuLWLX15;article;2017-01-03;"Boosting the Quality of Approximate String Matching by Synonyms.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2818177";0
+journals/tods/FaginKPT05;article;2006-04-04;"Composing schema mappings: Second-order dependencies to the rescue.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1114244.1114249";0
+journals/tods/Reuter84;article;2017-03-30;"Performance Analysis of Recovery Techniques.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1994.1996";0
+journals/tods/KolahiL10;article;2017-01-11;"An information-theoretic analysis of worst-case redundancy in database design.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1670243.1670248";0
+journals/tods/Ng01;article;2003-11-19;"An extension of the relational data model to incorporate ordered domains.";"";"2001";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/502030.502033";0
+journals/tods/Gross-Amblard11;article;2017-01-11;"Query-preserving watermarking of relational databases and Xml documents.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1929934.1929937";0
+journals/tods/MendelsonS86;article;2017-03-30;"Incomplete Information Costs and Database Design.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5922.5678";0
+journals/tods/KimCSSNKLBD11;article;2017-01-11;"Designing fast architecture-sensitive tree search on modern multicore/many-core processors.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2043652.2043655";0
+journals/tods/XiaZFCW12;article;2017-01-11;"Online subspace skyline query processing using the compressed skycube.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2188349.2188357";0
+journals/tods/KonradM13;article;2017-01-03;"Validating XML documents in the streaming model with external memory.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2504590";0
+journals/tods/KotidisR01;article;2003-11-19;"A case for dynamic view management.";"";"2001";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/503099.503100";0
+journals/tods/SuE78;article;2017-03-30;"CASDAL: CASSM'a DAta Language.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320241.320246";0
+journals/tods/MaddenFHH05;article;2017-10-19;"TinyDB: an acquisitional query processing system for sensor networks.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1061318.1061322";0
+journals/tods/HudsonK89;article;2017-03-30;"Cactis: A Self-Adaptive, Concurrent Implementation of an Object-Oriented Database Management System.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/68012.68013";0
+journals/tods/DavidsonKMR14;article;2015-04-20;"Top-k and Clustering with Noisy Comparisons.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2684066";0
+journals/tods/Dahl82;article;2017-03-30;"On Database Systems Development Through Logic.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319682.319700";0
+journals/tods/HammerM81;article;2017-03-30;"Database Description with SDM: A Semantic Database Model.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319587.319588";0
+journals/tods/Ozsoyoglu12;article;2017-01-03;"Foreword.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2338626.2338627";0
+journals/tods/HendrixSSS78;article;2017-03-30;"Developing a Natural Language Interface to Complex Data.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320251.320253";0
+journals/tods/BalminPV04;article;2006-02-09;"Incremental validation of XML documents.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1042046.1042050";0
+journals/tods/FaginNPS79;article;2017-03-30;"Extendible Hashing - A Fast Access Method for Dynamic Files.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320083.320092";0
+journals/tods/MarchS84;article;2017-03-30;"On the Selection of Efficient Record Segmentations and Backup Strategies for Large Shared Databases.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1270.1481";0
+journals/tods/CaldersNW02;article;2003-11-19;"Searching for dependencies at multiple abstraction levels.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/581751.581752";0
+journals/tods/Kolodner83;article;2017-03-30;"Indexing and Retrieval Strategies for Natural Language Fact Retrieval.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319989.319995";0
+journals/tods/Christodoulakis84;article;2017-06-09;"Implications of Certain Assumptions in Database Performance Evaluation.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/329.318578";0
+journals/tods/OzsoyogluY87;article;2017-03-30;"A New Normal Form for Nested Relations.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/12047.13676";0
+journals/tods/Larson88;article;2017-03-30;"Linear Hashing with Separators - A Dynamic Hashing Scheme Achieving One-Access Retrieval.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/44498.44500";0
+journals/tods/GuhaJKSY06;article;2006-08-21;"Integrating XML data sources using approximate joins.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132868";0
+journals/tods/LangWF77;article;2012-01-25;"Database Buffer Paging in Virtual Storage Systems.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320576.320585";0
+journals/tods/TariSS97;article;2017-03-30;"Object Normal Forms and Dependency Constraints for Object-Oriented Schemata.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/278245.278247";0
+journals/tods/ONeil86;article;2017-03-30;"The Escrow Transactional Method.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/7239.7265";0
+journals/tods/DayalB82;article;2017-03-30;"On the Correct Translation of Update Operations on Relational Views.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319740";0
+journals/tods/CaruccioPT16;article;2017-01-03;"Synchronization of Queries and Views Upon Schema Evolutions: A Survey.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2903726";0
+journals/tods/LamM79;article;2017-03-30;"Properties of Storage Hierarchy Systems with Multiple Page Sizes and Redundant Data.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320083.320095";0
+journals/tods/RothKS88;article;2017-03-30;"Extended Algebra and Calculus for Nested Relational Databases.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/49346.49347";0
+journals/tods/KiferL90;article;2017-03-30;"On Compile-Time Query Optimization in Deductive Databases by Means of Static Filtering.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/88636.87121";0
+journals/tods/McLeish89;article;2017-03-30;"Further Results on the Security of Partitioned Dynamic Statistical Databases.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/62032.62036";0
+journals/tods/DrenickS93;article;2017-03-30;"Stochastic Query Optimization in Distributed Databases.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151634.151637";0
+journals/tods/LawWZ11;article;2017-01-11;"Relational languages and data models for continuous queries on sequences and data streams.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1966385.1966386";0
+journals/tods/ChenNOT10;article;2017-01-11;"Continuous online index tuning in moving object databases.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1806907.1806909";0
+journals/tods/MuralidharS99;article;2008-06-25;"Security of Random Data Perturbation Methods.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/331983.331986";0
+journals/tods/HagmannF86;article;2017-03-30;"Performance Analysis of Several Back-End Database Architectures.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5236.5242";0
+journals/tods/ParchasGPB15;article;2017-01-03;"Uncertain Graph Processing through Representative Instances.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2818182";0
+journals/tods/Batory82;article;2017-03-30;"Optimal File Designs and Reorganization Points.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319682.319696";0
+journals/tods/MetwallyAA06;article;2007-03-06;"An integrated efficient solution for computing frequent and top-";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166084";0
+journals/tods/AgrawalAS93;article;2017-03-30;"Consistency and Orderability: Semantics-Based Correctness Criteria for Databases.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/155271.155276";0
+journals/tods/EiterLLS01;article;2003-11-19;"Probabilistic object bases.";"";"2001";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/502030.502031";0
+journals/tods/FranceschetGMP13;article;2017-06-14;"A graph-theoretic approach to map conceptual designs to XML schemas.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2445583.2445589";0
+journals/tods/BourhisMMP16;article;2017-09-16;"Guarded-Based Disjunctive Tuple-Generating Dependencies.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2976736";0
+journals/tods/GrayL06;article;2006-08-21;"Consensus on transaction commit.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132867";0
+journals/tods/SchubertSEKX17;article;2017-09-16;"DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3068335";0
+journals/tods/BuchananF84;article;2017-03-30;"A Database Management System for the Federal Courts.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/348.318587";0
+journals/tods/AgrawalD85;article;2017-03-30;"Integrated Concurrency Control and Recovery Mechanisms: Design and Performance Evaluation.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/4879.4958";0
+journals/tods/LiuWY10;article;2017-01-11;"Comments on "an integrated efficient solution for computing frequent and top-k elements in data streams".";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1735886.1735894";0
+journals/tods/GhotingM10;article;2017-01-11;"I/O efficient algorithms for serial and parallel suffix tree construction.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1862919.1862922";0
+journals/tods/AmsterdamerDMT12;article;2017-01-03;"On Provenance Minimization.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389249";0
+journals/tods/FanG10;article;2017-01-11;"Relative information completeness.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1862919.1862924";0
+journals/tods/ChomickiTB01;article;2003-11-19;"Querying ATSQL databases with temporal logic.";"";"2001";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=383891.383892";0
+journals/tods/SuWL09;article;2017-06-09;"ODE: Ontology-assisted data extraction.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1538909.1538914";0
+journals/tods/CeriFPT94;article;2017-06-09;"Automatic Generation of Production Rules for Integrity Maintenance.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/185827.185828";0
+journals/tods/BaiGKL11;article;2017-01-11;"Collaborative personalized top-k processing.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2043652.2043659";0
+journals/tods/PapadiasTFS05;article;2017-06-09;"Progressive skyline computation in database systems.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1061318.1061320";0
+journals/tods/Lomet87;article;2017-03-30;"Partial Expansions for File Organizations with an Index.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/12047.12049";0
+journals/tods/ScioreSR94;article;2012-01-25;"Using Semantic Values to Falilitate Interoperability Among Heterogeneous Information Systems.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/176567.176570";0
+journals/tods/Housel79;article;2017-03-30;"Pipelining: A Technique for Implementing Data Restructurers.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320107.320118";0
+journals/tods/Navathe80;article;2017-03-30;"Schema Analysis for Database Restructuring.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320141.320147";0
+journals/tods/DuttH16;article;2017-01-03;"Plan Bouquets: A Fragrant Approach to Robust Query Processing.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2901738";0
+journals/tods/BittonD83;article;2012-01-25;"Duplicate Record Elimination in Large Data Files.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319983.319987";0
+journals/tods/PapadimitriouKM16;article;2017-01-04;"The Goal Behind the Action: Toward Goal-Aware Systems and Applications.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2934666";0
+journals/tods/Jagadish95;article;2012-01-25;"The INCINERATE Data Model.";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/202106.202113";0
+journals/tods/Zhou0GD16;article;2017-01-03;"Faster Random Walks by Rewiring Online Social Networks On-the-Fly.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2847526";0
+journals/tods/ShashaLSV95;article;2016-08-11;"Transaction Chopping: Algorithms and Performance Studies";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/211414.211427";0
+journals/tods/ChoiCT14;article;2017-06-09;"Maximizing Range Sum in External Memory.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2629477";0
+journals/tods/LeeY11;article;2017-01-11;"A relational approach to functional decomposition of logic circuits.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1966385.1966391";0
+journals/tods/Babb82;article;2017-03-30;"Joined Normal Form: A Storage Encoding for Relational Databases.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319758.319768";0
+journals/tods/HaskinH83;article;2017-03-30;"Operational Characteristics of a Hardware-Based Pattern Matcher.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319830.319832";0
+journals/tods/TayGS85;article;2017-03-30;"Locking Performance in Centralized Databases.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/4879.4880";0
+journals/tods/MaCFHW14;article;2017-01-03;"Strong simulation: Capturing topology in graph pattern matching.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2528937";0
+journals/tods/Rybinski87;article;2017-03-30;"On First-Order-Logic Databases.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/27629.27630";0
+journals/tods/Subieta85;article;2017-03-30;"Semantics of Query Languages for Network Databases.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3979.214293";0
+journals/tods/PetropoulosDPK07;article;2017-01-11;"Exporting and interactively querying Web service-accessed sources: The CLIDE System.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292612";0
+journals/tods/TaoP03;article;2017-06-09;"Spatial queries in dynamic environments.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/777943.777944";0
+journals/tods/ManberL84;article;2017-03-30;"Concurrency Control In a Dynamic Search Structure.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1270.318576";0
+journals/tods/Kent81;article;2012-01-25;"Consequences of Assuming a Universal Relation.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319628.319630";0
+journals/tods/LeveneL93;article;2017-03-30;"Semantics for Null Extended Nested Relations.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/155271.155275";0
+journals/tods/AgarwalCHPWY13;article;2017-01-03;"Mergeable summaries.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2500128";0
+journals/tods/GrustKT04;article;2017-06-09;"Accelerating XPath evaluation in any RDBMS.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/974750.974754";0
+journals/tods/TeubnerWN13;article;2017-01-03;None;"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2536800";0
+journals/tods/LiuM96;article;2012-01-25;"The Building Blocks for Specifying Communication Behavior of Complex Objects: An Activity-Driven Approach.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/232616.232622";0
+journals/tods/RamamohanaraoS84;article;2012-01-25;"Recursive Linear Hashing.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1270.1285";0
+journals/tods/Tuel78;article;2012-01-25;"Optimum Reorganization Points for Linearly Growing Files.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320241.320244";0
+journals/tods/KatohIK85;article;2017-03-30;"Cautious Transaction Schedulers with Admission Control.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3857.3860";0
+journals/tods/IoannidisRW93;article;2017-03-30;"Transitive Closure Algorithms Based on Graph Traversal.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/155271.155273";0
+journals/tods/LiMDMS12;article;2017-01-03;"SCALLA: A Platform for Scalable One-Pass Analytics Using MapReduce.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389246";0
+journals/tods/Katsuno84;article;2017-03-30;"An Extension of Conflict-Free Multivalued Dependency Sets.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/329.354";0
+journals/tods/Garcia-MolinaW82;article;2012-01-25;"Read-Only Transactions in a Distributed Database.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319702.319704";0
+journals/tods/Biskup83;article;2017-03-30;"A Foundation of Codd's Relational Maybe-Operations.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.320014";0
+journals/tods/Reiss84;article;2017-03-30;"Practical Data-Swapping: The First Steps.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/348.349";0
+journals/tods/SichermanJR83;article;2012-01-25;"Answering Queries Without Revealing Secrets.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319830.319833";0
+journals/tods/Christodoulakis87;article;2017-06-09;"Analysis of Retrieval Performance for Records and Objects Using Optical Disk Technology.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/22952.23015";0
+journals/tods/MenascePM80;article;2017-03-30;"A Locking Protocol for Resource Coordination in Distributed Databases.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320141.320143";0
+journals/tods/GraefeKK12;article;2017-01-03;"Foster b-trees.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2338626.2338630";0
+journals/tods/AbbottG92;article;2017-03-30;"Scheduling Real-Time Transactions: A Performance Evaluation.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/132271.132276";0
+journals/tods/Ullman83;article;2012-09-14;"Corrigendum: The Theory of Joins in Relational Databases.";"";"1983";"ACM Trans. Database Syst.";"";0
+journals/tods/Langdon78;article;2017-03-30;"A Note on Associative Processors for Data Management.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320251.320254";0
+journals/tods/RothermelP93;article;2017-03-30;"Open Commit Protocols Tolerating Commission Failures.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151634.151638";0
+journals/tods/FranaszekR85;article;2017-03-30;"Limitations of Concurrency in Transaction Processing.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3148.3160";0
+journals/tods/GravanoGT99;article;2017-03-30;"GlOSS: Text-Source Discovery over the Internet.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320248.320252";0
+journals/tods/YuSL78;article;2012-01-25;"On a Partitioning Problem.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320263.320287";0
+journals/tods/RaoM06;article;2006-08-21;"Sequencing XML data and query twigs for fast pattern matching.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132871";0
+journals/tods/Apers88;article;2017-03-30;"Data Allocation in Distributed Database Systems.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/44498.45063";0
+journals/tods/KatzW83;article;2017-03-30;"Resolving Conflicts in Global Storage Design through Replication.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319830.319836";0
+journals/tods/TermehchyVCW15;article;2017-01-03;"Cost-Effective Conceptual Design for Information Extraction.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2716321";0
+journals/tods/KoutrikaI10;article;2017-01-11;"Personalizing queries based on networks of composite preferences.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1735886.1735892";0
+journals/tods/Wolfson87;article;2017-03-30;"The Overhead of Locking (and Commit) Protocols in Distributed Databases.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/27629.28053";0
+journals/tods/AngiulliFP09;article;2017-06-09;"Detecting outlying properties of exceptional objects.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1508857.1508864";0
+journals/tods/Lozinskii80;article;2017-03-30;"Construction of Relations in Relational Databases.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320141.320155";0
+journals/tods/YuMP89;article;2017-03-30;"A Framework for Effective Retrieval.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/63500.63519";0
+journals/tods/CormodeM05;article;2006-02-09;"What's hot and what's not: tracking most frequent items dynamically.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1061318.1061325";0
+journals/tods/MaiocchiPB92;article;2017-06-09;"Automatic Deduction of Temporal Information.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/146931.146934";0
+journals/tods/GriffithsW76;article;2017-03-30;"An Authorization Mechanism for a Relational Database System.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320473.320482";0
+journals/tods/WongZRW87;article;2017-03-30;"On Modeling of Information Retrieval Concepts in Vector Space.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/22952.22957";0
+journals/tods/Marx05;article;2006-04-03;"Conditional XPath.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1114244.1114247";0
+journals/tods/BergamaschiS92;article;2017-06-09;"On Taxonomic Reasoning in Conceptual Design.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/132271.132272";0
+journals/tods/WyssR05;article;2006-02-09;"Relational languages for metadata integration.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1071610.1071618";0
+journals/tods/FletcherBGV10;article;2017-01-11;"Towards a theory of search queries.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1862919.1862925";0
+journals/tods/Schmidt77;article;2017-03-30;"Some High Level Language Constructs for Data of Type Relation.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320557.320568";0
+journals/tods/VincentLLL15;article;2017-06-14;"Technical Correspondence: "Differential Dependencies: Reasoning and Discovery" Revisited.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2757214";0
+journals/tods/NagendraC15;article;2017-01-03;"Efficient Processing of Skyline-Join Queries over Multiple Data Sources.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2699483";0
+journals/tods/DenningS80;article;2017-03-30;"A Fast Procedure for Finding a Tracker in a Statistical Database.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320128.320138";0
+journals/tods/MumickFPR96;article;2012-01-25;"Magic Conditions.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/227604.227624";0
+journals/tods/Chen95;article;2012-01-25;"Declarative Updates of Relational Databases.";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/202106.202110";0
+journals/tods/BellNNS96;article;2012-01-25;"Implementing Deductive Databases by Mixed Integer Programming.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/232616.232691";0
+journals/tods/NegriPS91;article;2017-03-30;"Formal Semantics of SQL Queries.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/111197.111212";0
+journals/tods/BertinoBFS98;article;2017-03-30;"An Access Control Model Supporting Periodicity Constraints and Temporal Reasoning.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/293910.293151";0
+journals/tods/GrustR13;article;2017-01-11;"Observing SQL queries in their natural habitat.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2445583.2445586";0
+journals/tods/BailisFGHS16;article;2017-01-03;"Scalable Atomic Visibility with RAMP Transactions.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2909870";0
+journals/tods/HjaltasonS99;article;2017-03-30;"Distance Browsing in Spatial Databases.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320248.320255";0
+journals/tods/CattellS92;article;2017-03-30;"Object Operations Benchmark.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128765.128766";0
+journals/tods/WitkowskiBBFGHSS05;article;2006-02-09;"Advanced SQL modeling in RDBMS.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1061318.1061321";0
+journals/tods/Olteanu07;article;2007-06-11;"Forward node-selecting queries over trees.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1206049.1206052";0
+journals/tods/KarrasM08;article;2017-01-11;"Hierarchical synopses with optimal error guarantees.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1386118.1386124";0
+journals/tods/ZanioloM81;article;2017-03-30;"On the Design of Relational Database Schemata.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319540.319542";0
+journals/tods/RiesS77;article;2017-03-30;"Effects of Locking Granularity in a Database Management System.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320557.320566";0
+journals/tods/HeC06;article;2017-07-07;"Automatic complex schema matching across Web query interfaces: A correlation mining approach.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132872";0
+journals/tods/TaoYSK10;article;2017-06-09;"Efficient and accurate nearest neighbor and closest pair search in high-dimensional space.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1806907.1806912";0
+journals/tods/PelanisSJ06;article;2006-08-21;"Indexing the past, present, and anticipated future positions of moving objects.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132870";0
+journals/tods/BrosdaV88;article;2017-03-30;"Update and Retrieval in a Relational Database Through a Universal Schema Interface.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/49346.49884";0
+journals/tods/TaoSP03;article;2017-06-09;"Analysis of predictive spatio-temporal queries.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/958942.958943";0
+journals/tods/AhadRM89;article;2017-03-30;"On Estimating the Cardinality of the Projection of a Database Relation.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/62032.62034";0
+journals/tods/KimelfeldVW12;article;2017-01-03;"Maximizing Conjunctive Views in Deletion Propagation.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389243";0
+journals/tods/WolfsonJH97;article;2012-01-25;"An Adaptive Data Replication Algorithm.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/249978.249982";0
+journals/tods/ArenasL04;article;2006-02-09;"A normal form for XML documents.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/974750.974757";0
+journals/tods/AlexeCKT11;article;2017-01-11;"Characterizing schema mappings via data examples.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2043652.2043656";0
+journals/tods/Graham83;article;2017-03-30;"Functions in Databases.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319830.319835";0
+journals/tods/Larson85;article;2012-01-25;"Linear Hashing with Overflow-Handling by Linear Probing.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3148.3324";0
+journals/tods/SuDBNE87;article;2017-03-30;"A Cost-Benefit Decision Model: Analysis, Comparison, and Selection of Data Management Systems.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/27629.33403";0
+journals/tods/TruebloodHM83;article;2017-03-30;"MULTISAFE - A Modular Multiprocessing Approach to Secure Database Management.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319989.319993";0
+journals/tods/AugstenBG10;article;2017-01-11;"The ";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1670243.1670247";0
+journals/tods/BeeriK86;article;2017-03-30;"An Integrated Approach to Logical Design of Relational Database Schemes.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5922.214291";0
+journals/tods/EagerS83;article;2017-03-30;"Achieving Robustness in Distributed Database Systems.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319989.319992";0
+journals/tods/WandSW99;article;2008-06-25;"An Ontological Analysis of the Relationship Construct in Conceptual Modeling.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/331983.331989";0
+journals/tods/YuSLJ04;article;2006-02-09;"A compressed accessibility map for XML.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1005566.1005570";0
+journals/tods/ChrysanthisR94;article;2012-01-25;"Synthesis of Extended Transaction Models Using ACTA.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/185827.185843";0
+journals/tods/ShaoNS06;article;2007-03-06;"Triggers over nested views of relational data.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166080";0
+journals/tods/PourabbasS07;article;2007-06-11;"Efficient estimation of joint queries from multiple OLAP databases.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1206049.1206051";0
+journals/tods/LiuHC10;article;2017-01-11;"Improving XML search by generating and utilizing informative result snippets.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1806907.1806911";0
+journals/tods/CaoB07;article;2007-10-23;"SQL query optimization through nested relational algebra.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1272743.1272748";0
+journals/tods/PawlikA15;article;2017-01-03;"Efficient Computation of the Tree Edit Distance.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2699485";0
+journals/tods/AthitsosHKS07;article;2007-06-25;"Query-sensitive embeddings.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1242524.1242525";0
+journals/tods/GottlobOP14;article;2017-09-16;"Query Rewriting and Optimization for Ontological Databases.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2638546";0
+journals/tods/WhangVT90;article;2017-03-30;"A Linear-Time Probabilistic Counting Algorithm for Database Applications.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/78922.78925";0
+journals/tods/SeveranceL76;article;2017-03-30;"Differential Files: Their Application to the Maintenance of Large Databases.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320473.320484";0
+journals/tods/DeogunRT84;article;2017-03-30;"Organization of Clustered Files for Consecutive Retrieval.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1994.2208";0
+journals/tods/Rahm93;article;2017-03-30;"Empirical Performance Evaluation of Concurrency and Coherency Control Protocols for Database Sharing Systems.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151634.151639";0
+journals/tods/YamamotoTUI79;article;2017-03-30;"Design of a Balanced Multiple Valued File Organization Schema with the Least Redundancy.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320107.320123";0
+journals/tods/YuLS78;article;2017-03-30;"On the Estimation of the Number of Desired Records with Respect to a Given Query.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320241.320245";0
+journals/tods/KrishnakumarB94;article;2012-01-25;"Bounded Ignorance: A Technique for Increasing Concurrency in a Replicated System.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/195664.195670";0
+journals/tods/SuLL81;article;2017-03-30;"Transformation of Data Traversals and Operations in Application Programs to Account for Semantic Changes of Databases.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319566.319573";0
+journals/tods/Libkin08;article;2017-01-11;"Introduction to the PODS 2007 special section.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412336";0
+journals/tods/HammerS80;article;2017-03-30;"Reliability Mechanisms for SDD-1: A System for Distributed Databases.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320610.320621";0
+journals/tods/SchneiderB06;article;2013-04-11;"Topological relationships between complex spatial objects.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132865";0
+journals/tods/MohanLO86;article;2016-12-14;"Transaction Management in the R* Distributed Database Management System.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/7239.7266";0
+journals/tods/Ross96;article;2012-01-25;"Tail Recursion Elimination in Deductive Databases.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/232616.232628";0
+journals/tods/ChenLR04;article;2011-08-15;"Multiversion-based view maintenance over distributed data sources.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1042046.1042049";0
+journals/tods/LianC10;article;2017-06-14;"Reverse skyline search in uncertain databases.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1670243.1670246";0
+journals/tods/LinSS76;article;2017-03-30;"The Design of a Rotating Associative Array Memory for a Relational Database Management Application.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320434.320447";0
+journals/tods/FinkO16;article;2017-01-03;"Dichotomies for Queries with Negation in Probabilistic Databases.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2877203";0
+journals/tods/MarchS77;article;2012-01-25;"The Determination of Efficient Record Segmentations and Blocking Factors for Shared Data Files.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320557.320574";0
+journals/tods/ChakrabartiKMP02;article;2003-11-19;"Locally adaptive dimensionality reduction for indexing large time series databases.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/568518.568520";0
+journals/tods/ArenasDNUBV14;article;2015-04-20;"Discovering XSD Keys from XML Data.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2638547";0
+journals/tods/Kim82;article;2017-03-30;"On Optimizing an SQL-like Nested Query.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319745";0
+journals/tods/PhamSL16;article;2017-01-03;"Inferring Social Strength from Spatiotemporal Data.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2877200";0
+journals/tods/Shapiro86;article;2017-03-30;"Join Processing in Database Systems with Large Main Memories.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/6314.6315";0
+journals/tods/PalleyS87;article;2017-06-14;"The Use of Regression Methodology for the Compromise of Confidential Information in Statistical Databases.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/32204.42174";0
+journals/tods/ChoG03;article;2004-03-18;"Effective page refresh policies for Web crawlers.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/958942.958945";0
+journals/tods/MarkowitzS92;article;2017-03-30;"Representing Extended Entity-Relationship Structures in Relational Databases: A Modular Approach.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/132271.132273";0
+journals/tods/KiferM14;article;2017-01-03;"Pufferfish: A framework for mathematical privacy definitions.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2514689";0
+journals/tods/Borgida85;article;2017-03-30;"Language Features for Flexible Handling of Exceptions in Information Systems.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/4879.4995";0
+journals/tods/BeverL85;article;2017-03-30;"Database Hosting in Strongly-Typed Programming Languages.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3148.3327";0
+journals/tods/CaldersLNP06;article;2007-03-06;"Expressive power of an algebra for data mining.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189770";0
+journals/tods/CooperS84;article;2012-01-25;"The Average Time Until Bucket Overflow.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1270.318575";0
+journals/tods/XuJD08;article;2017-01-11;"Confidence bounds for sampling-based group by estimates.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1386118.1386122";0
+journals/tods/DengFG16;article;2017-01-03;"Capturing Missing Tuples and Missing Values.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2901737";0
+journals/tods/WangBBJ97;article;2017-03-30;"Logical Design for Temporal Databases with Multiple Granularities.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/249978.249979";0
+journals/tods/LangDJ89;article;2017-03-30;"A Unified Analysis of Batched Searching of Sequential and Tree-Structured Files.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/76902.76908";0
+journals/tods/ChomickiI93;article;2017-03-30;"Finite Representation of Infinite Query Answers.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151634.151635";0
+journals/tods/ChaudhuriDN07;article;2007-06-25;"Optimized stratified sampling for approximate query processing.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1242524.1242526";0
+journals/tods/Gyssens86;article;2017-03-30;"On the Complexity of Join Dependencies.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5236.5237";0
+journals/tods/BanerjeeHB78;article;2017-03-30;"Concepts and Capabilities of a Database Computer.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320289.320292";0
+journals/tods/GhanemELA10;article;2017-01-11;"Supporting views in data stream management systems.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1670243.1670244";0
+journals/tods/DattaVCK99;article;2016-04-13;"Broadcast Protocols to Support Efficient Retrieval from Databases by Mobile Users.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/310701.310710";0
+journals/tods/FraternaliT95;article;2008-06-25;"A Structured Approach for the Definition of the Semantics of Active Databases.";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/219035.219042";0
+journals/tods/Lipski79;article;2017-03-30;"On Semantic Issues Connected with Incomplete Information Databases.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320083.320088";0
+journals/tods/Lerner00;article;2003-11-19;"A model for compound type changes encountered in schema evolution.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/352958.352983";0
+journals/tods/SaccoS86;article;2017-03-30;"Buffer Management in Relational Database Systems.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/7239.7336";0
+journals/tods/ShashaG88;article;2017-03-30;"Concurrent Search Structure Algorithms.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/42201.42204";0
+journals/tods/CohenW11;article;2017-01-11;"Bag equivalence of tree patterns.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2043652.2043657";0
+journals/tods/KungR81;article;2017-03-30;"On Optimistic Methods for Concurrency Control.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319566.319567";0
+journals/tods/JacoxS07;article;2007-06-11;"Spatial join techniques.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1206049.1206056";0
+journals/tods/Fedorowicz87;article;2017-03-30;"Database Performance Evaluation in an Indexed File Environment.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/12047.13675";0
+journals/tods/DeneckerCBA10;article;2017-06-09;"Towards a logical reconstruction of a theory for locally closed databases.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1806907.1806914";0
+journals/tods/Klug80;article;2017-03-30;"Calculating Constraints on Relational Expressions.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320613.320615";0
+journals/tods/BartoliniCP14;article;2017-01-03;"Domination in the Probabilistic World: Computing Skylines for Arbitrary Correlations and Ranking Semantics.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2602135";0
+journals/tods/FuxmanKMT06;article;2007-03-06;"Peer data exchange.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189778";0
+journals/tods/MelnikG03;article;2003-11-19;"Adaptive algorithms for set containment joins.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/762471.762474";0
+journals/tods/0001ALYY17;article;2017-10-16;"Computational Fact Checking through Query Perturbations.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2996453";0
+journals/tods/Skopal07;article;2017-01-11;"Unified framework for fast exact and approximate search in dissimilarity spaces.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292619";0
+journals/tods/Revesz98;article;2017-03-30;"Safe Query Languages for Constraint Databases.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/288086.288088";0
+journals/tods/AbbadiT89;article;2017-03-30;"Maintaining Availability in Partitioned Replicated Databases.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/63500.63501";0
+journals/tods/PavlouS08;article;2017-01-11;"Forensic analysis of database tampering.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412342";0
+journals/tods/WhangK90;article;2017-03-30;"Query Optimization in a Memory-Resident Domain Relational Calculus Database System.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/77643.77646";0
+journals/tods/BernsteinG84;article;2017-03-30;"An Algorithm for Concurrency Control and Recovery in Replicated Distributed Databases.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1994.2207";0
+journals/tods/LakshmananSS01;article;2003-11-19;"SchemaSQL: An extension to SQL for multidatabase interoperability.";"";"2001";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/503099.503102";0
+journals/tods/Harder78;article;2017-03-30;"Implementing a Generalized Access Path Structure for a Relational Database System.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320263.320284";0
+journals/tods/JagadishOTYZ05;article;2007-01-19;"iDistance: An adaptive B";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1071610.1071612";0
+journals/tods/FarragO89;article;2017-06-09;"Using Semantic Knowledge of Transactions to Increase Concurrency.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/76902.76905";0
+journals/tods/PavlouS13;article;2017-01-11;"Generalizing database forensics.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2487259.2487264";0
+journals/tods/Segev86;article;2017-03-30;"Optimization of Join Operations in Horizontally Partitioned Database Systems.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5236.5241";0
+journals/tods/Nuray-TuranKM12;article;2017-01-11;"Exploiting Web querying for Web people search.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2109196.2109203";0
+journals/tods/AtzeniT92;article;2017-06-09;"Updating Relational Databases Through Weak Instance Interfaces.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/146931.146936";0
+journals/tods/WinslettSQ94;article;2012-01-25;"Formal Query Languages for Secure Relational Databases.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/195664.195675";0
+journals/tods/AgrawalDJ90;article;2017-03-30;"Direct Transitive Closure Algorithms: Design and Performance Evaluation.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/88636.88888";0
+journals/tods/FanGW12;article;2017-01-03;"Determining the Currency of Data.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389244";0
+journals/tods/CohenKS09;article;2017-01-11;"Incorporating constraints in probabilistic XML.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1567274.1567280";0
+journals/tods/ZobelMR98;article;2017-06-09;"Inverted Files Versus Signature Files for Text Indexing.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/296854.277632";0
+journals/tods/Lomet88;article;2017-03-30;"A Simple Bounded Disorder File Organization with Good Performance.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/49346.50067";0
+journals/tods/LafortuneW86;article;2017-03-30;"A State Transition Model for Distributed Query Processing.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/6314.6460";0
+journals/tods/ChenV85;article;2012-09-14;"Addendum to "Analysis of Some New Variants of Coalesced Hashing".";"";"1985";"ACM Trans. Database Syst.";"";0
+journals/tods/CeriP83;article;2017-03-30;"Correctness of Query Execution Strategies in Distributed Databases.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.320009";0
+journals/tods/EiterFGL08;article;2017-01-11;"Repair localization for query answering from inconsistent databases.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1366102.1366107";0
+journals/tods/McGee76;article;2017-03-30;"On User Criteria for Data Model Evaluation.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320493.320504";0
+journals/tods/NergizTS11;article;2017-01-11;"Instant anonymization.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1929934.1929936";0
+journals/tods/CurrimSSZ17;article;2017-06-09;"DBMS Metrology: Measuring Query Time.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2996454";0
+journals/tods/RamamohanaraoL83;article;2017-03-30;"Partial-Match Retrieval Using Hashing and Descriptors.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.320006";0
+journals/tods/Wijsen99;article;2008-06-25;"Temporal FDs on Complex Objects.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/310701.310715";0
+journals/tods/FaginKP05;article;2006-02-09;"Data exchange: getting to the core.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1061318.1061323";0
+journals/tods/UMYM10;article;2017-06-09;"Optimal matching between spatial datasets under capacity constraints.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1735886.1735888";0
+journals/tods/PolyzotisG06;article;2007-03-06;"XSKETCH synopses for XML data graphs.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166082";0
+journals/tods/Fagin78;article;2012-01-25;"On an Authorization Mechanism.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320263.320288";0
+journals/tods/ArmstrongD80;article;2017-03-30;"Decomposition and Functional Dependencies in Relations.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320610.320620";0
+journals/tods/FanWW13;article;2017-01-03;"Incremental graph pattern matching.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2489791";0
+journals/tods/StolboushkinT98;article;2008-06-25;"Safe Stratified Datalog with Integer Order Does Not Have Syntax.";"";"1998";"ACM Trans. Database Syst.";None;0
+journals/tods/GhinitaKKM09;article;2017-01-11;"A framework for efficient data anonymization under privacy and accuracy constraints.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1538909.1538911";0
+journals/tods/Libkin16;article;2017-01-03;"SQL's Three-Valued Logic and Certain Answers.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2877206";0
+journals/tods/PetersO97;article;2017-03-30;"An Axiomatic Model of Dynamic Schema Evolution in Objectbase Systems.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/244810.244813";0
+journals/tods/Kim92;article;2003-11-19;"Editorial.";"";"1992";"ACM Trans. Database Syst.";"";0
+journals/tods/HongS81;article;2017-03-30;"Associative Hardware and Software Techniques for Integrity Control.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319587.319594";0
+journals/tods/OzsoyogluAAOUO04;article;2017-06-09;"Querying web metadata: Native score management and text support in databases.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1042046.1042047";0
+journals/tods/KarwaRSY14;article;2015-04-29;"Private Analysis of Graph Structure.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2611523";0
+journals/tods/BonczekCW77;article;2017-03-30;"A Transformational Grammar-Based Query Processor for Access Control in a Planning System.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320576.320582";0
+journals/tods/MeghiniT91;article;2012-01-25;"The Complexity of Operations on a Fragmented Relation.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/103140.103143";0
+journals/tods/Snodgrass01a;article;2003-11-19;"Editorial.";"";"2001";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/503099.505055";0
+journals/tods/TeflioudiG17;article;2017-03-21;"Exact and Approximate Maximum Inner Product Search with LEMP.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2996452";0
+journals/tods/WuSS10;article;2017-01-11;"Analyses of multi-level and multi-component compressed bitmap indexes.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1670243.1670245";0
+journals/tods/GibbonsMP02;article;2003-11-19;"Fast incremental maintenance of approximate histograms.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/581751.581753";0
+journals/tods/FukudaMMT01;article;2003-11-19;"Data Mining with optimized two-dimensional association rules.";"";"2001";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=383891.383893";0
+journals/tods/YanG99;article;2008-06-25;"The SIFT Information Dissemination System.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/331983.331992";0
+journals/tods/BernsteinCG79;article;2012-01-25;"Comments on "Process Synchronization in Database Systems".";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320107.320126";0
+journals/tods/QianZXP06;article;2017-09-05;"Dynamic indexing for multidimensional non-ordered discrete data spaces using a data-partitioning approach.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1138394.1138395";0
+journals/tods/MukkamalaJ91;article;2012-01-25;"A Note on Estimating the Cardinality of the Projection of a Database Relation.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/111197.111218";0
+journals/tods/FaginMU82;article;2017-03-30;"A Simplified Universal Relation Assumption and Its Properties.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319735";0
+journals/tods/Hsiao79;article;2012-09-14;"Michael E. Senko: 1931-1978.";"";"1979";"ACM Trans. Database Syst.";"";0
+journals/tods/MoerkotteL91;article;2017-03-30;"Reactive Consistency Control In Deductive Databases.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/115302.115298";0
+journals/tods/WaldS84;article;2017-03-30;"Resolving the Query Inference Problem Using Steiner Trees.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1270.1275";0
+journals/tods/ChaudhuriNS04;article;2006-02-09;"Extracting predicates from mining models for efficient query evaluation.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1016028.1016031";0
+journals/tods/HouO93;article;2017-03-30;"Processing Time-Constrained Aggregate Queries in CASE-DB.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151634.151636";0
+journals/tods/Graefe12;article;2017-01-11;"A survey of B-tree logging and recovery techniques.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2109196.2109197";0
+journals/tods/MishraK09;article;2017-01-11;"The design of a query monitoring system.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1508857.1508858";0
+journals/tods/Song017;article;2017-03-21;"Response to "Differential Dependencies Revisited".";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2983602";0
+journals/tods/AmelootKNZ16;article;2017-01-03;"Weaker Forms of Monotonicity for Declarative Networking: A More Fine-Grained Answer to the CALM-Conjecture.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2809784";0
+journals/tods/LemireKG12;article;2017-01-03;"Reordering rows for better compression: Beyond the lexicographic order.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2338626.2338633";0
+journals/tods/Keen97;article;2017-03-30;"Extended Ehemeral Logging: Log Storage Management for Applications with Long Lived Transactions.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/244810.244811";0
+journals/tods/Vianu88;article;2017-03-30;"A Dynamic Framework for Object Projection Views.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/42201.42202";0
+journals/tods/Gladney89;article;2017-03-30;"Data Replicas in Distributed Information Services.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/62032.62035";0
+journals/tods/Ross04;article;2006-02-09;"Selection conditions in main memory.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/974750.974755";0
+journals/tods/DobkinJL79;article;2017-03-30;"Secure Databases: Protection Against User Influence.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320064.320068";0
+journals/tods/Sagiv83;article;2017-03-30;"A Characterization of Globally Consistent Databases and Their Correct Access Paths.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319983.319988";0
+journals/tods/Ozsoyoglu12a;article;2017-01-03;"Foreword.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389242";0
+journals/tods/AhoSU79;article;2017-03-30;"Efficient Optimization of a Class of Relational Expressions.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320107.320112";0
+journals/tods/LakshmananLRS97;article;2017-03-30;"ProbView: A Flexible Probabilistic Database System.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/261124.261131";0
+journals/tods/SiegelSS92;article;2017-03-30;"A Method for Automatic Rule Derivation to Support Semantic Query Optimization.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/146931.146932";0
+journals/tods/Lynch83;article;2017-03-30;"Multilevel Atomicity - A New Correctness Criterion for Database Concurrency Control.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.319999";0
+journals/tods/Nuray-TuranKMY12;article;2017-01-11;"Attribute and object selection queries on objects with probabilistic attributes.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2109196.2109199";0
+journals/tods/SagivS93;article;2017-03-30;"Solving Queries by Tree Projections.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/155271.155277";0
+journals/tods/DasAA13;article;2017-01-11;"ElasTraS: An elastic, scalable, and self-managing transactional database for the cloud.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2445583.2445588";0
+journals/tods/BjorklundGM10;article;2017-01-11;"Incremental XPath evaluation.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1862919.1862926";0
+journals/tods/DyresonS98;article;2017-03-30;"Supporting Valid-Time Indeterminacy.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/288086.288087";0
+journals/tods/ZhangKOT05;article;2007-01-19;"Generalized multidimensional data mapping and query processing.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1093382.1093383";0
+journals/tods/Fagin07;article;2017-01-11;"Inverting schema mappings.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292615";0
+journals/tods/EiterGM97;article;2017-03-30;"Disjunctive Datalog.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/261124.261126";0
+journals/tods/TassaG12;article;2017-01-11;"Secure distributed computation of anonymized views of shared databases.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2188349.2188353";0
+journals/tods/MarkowetzYP09;article;2017-01-11;"Keyword search over relational tables and streams.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1567274.1567279";0
+journals/tods/Smith78;article;2017-03-30;"Sequentiality and Prefetching in Database Systems.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320263.320276";0
+journals/tods/AbiteboulH87;article;2017-03-30;"IFO: A Formal Semantic Database Model.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/32204.32205";0
+journals/tods/CiacciaTZ96;article;2012-01-25;"Declustering of Key-Based Partitioned Signature Files.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/232753.232755";0
+journals/tods/ZhangYT90;article;2017-03-30;"Necessary and Sufficient Conditions to Linearize Double Recursive Programs in Logic Databases.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/88636.89237";0
+journals/tods/ShermanB76;article;2017-03-30;"Performance of a Database Manager in a Virtual Memory System.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320493.320494";0
+journals/tods/MackertL89;article;2017-03-30;"Index Scans Using a Finite LRU Buffer: A Validated I/O Model.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/68012.68016";0
+journals/tods/IshikawaSKMMIAY93;article;2017-03-30;"The Model, Language, and Implementation of an Object-Oriented Multimedia Knowledge Base Management System.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151284.151285";0
+journals/tods/FranklinCL97;article;2017-03-30;"Transactional Client-Server Cache Consistency: Alternatives and Performance.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/261124.261125";0
+journals/tods/BenediktCT16;article;2017-01-03;"Generating Plans from Proofs.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2847523";0
+journals/tods/Chen76;article;2017-03-30;"The Entity-Relationship Model - Toward a Unified View of Data.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320434.320440";0
+journals/tods/Hollaar78;article;2017-03-30;"Specialized Merge Processor Networks for Combined Sorted Lists.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320263.320281";0
+journals/tods/LehmanY81;article;2016-06-23;"Efficient Locking for Concurrent Operations on B-Trees.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319628.319663";0
+journals/tods/BeedkarBGM15;article;2017-01-03;"Closing the Gap: Sequence Mining at Scale.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2757217";0
+journals/tods/CasatiCPP99;article;2008-06-25;"Specification and Implementation of Exceptions in Workflow Management Systems.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/328939.328996";0
+journals/tods/SheardS89;article;2017-03-30;"Automatic Verification of Database Transaction Safety.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/68012.68014";0
+journals/tods/Thomas79;article;2012-01-25;"A Majority Consensus Approach to Concurrency Control for Multiple Copy Databases.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320071.320076";0
+journals/tods/HsuC86;article;2017-03-30;"Partitioned Two-Phase Locking.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/7239.7477";0
+journals/tods/IoannidisC93;article;2017-06-09;"Optimal Histograms for Limiting Worst-Case Error Propagation in the Size of Join Results.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/169725.169708";0
+journals/tods/Jensen15a;article;2017-01-03;"Editorial: The Best of Two Worlds - Present Your TODS Paper at SIGMOD.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2770931";0
+journals/tods/GoldmanL94;article;2012-01-25;"Quorum Consensus in Nested Transaction Systems.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/195664.195666";0
+journals/tods/Comer81;article;2012-01-25;"Analysis of a Heuristic for Trie Minimization.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319587.319618";0
+journals/tods/OzkarahanSS77;article;2017-03-30;"Performance Evaluation of a Relational Associative Processor.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320544.320553";0
+journals/tods/AlonsoBG90;article;2017-03-30;"Data Caching Issues in an Information Retrieval System.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/88636.87848";0
+journals/tods/JinRXW11;article;2017-01-11;"Path-tree: An efficient reachability indexing scheme for large directed graphs.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1929934.1929941";0
+journals/tods/BartoliniCP08;article;2017-01-11;"Efficient sort-based skyline evaluation.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412343";0
+journals/tods/ToNP16;article;2017-01-03;"Private and Scalable Execution of SQL Aggregates on a Secure Decentralized Architecture.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2894750";0
+journals/tods/Wijsen05;article;2006-04-03;"Database repairing using updates.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1093382.1093385";0
+journals/tods/DateF92;article;2017-03-30;"Simple Conditions for Guaranteeing Higher Normal Forms in Relational Databases.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/132271.132274";0
+journals/tods/ShneidermanT82;article;2017-03-30;"An Architecture for Automatic Relational Database System Conversion.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319702.319724";0
+journals/tods/SuciuW05;article;2006-04-03;"Foreword.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1114244.1114245";0
+journals/tods/ConsidineHLBK09;article;2017-01-11;"Robust approximate aggregation in sensor data management systems.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1508857.1508863";0
+journals/tods/RaschidL96;article;2017-09-27;"Semantics for Update Rule Programs and Implementations in a Relational Database Management System.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/236711.236714";0
+journals/tods/WaldS90;article;2017-03-30;"Explaining Ambiguity in a Formal Query Language.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/78922.78923";0
+journals/tods/SchnaitterP10;article;2017-01-11;"Optimal algorithms for evaluating rank joins in database systems.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1670243.1670249";0
+journals/tods/Snodgrass01;article;2003-11-19;"Editorial.";"";"2001";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/502030.505049";0
+journals/tods/StefanidisKP11;article;2017-01-11;"A survey on representation, composition and application of preferences in database systems.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2000824.2000829";0
+journals/tods/DeligiannakisGR07;article;2007-06-25;"Extended wavelets for multiple measures.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1242524.1242527";0
+journals/tods/BienvenuCLW14;article;2017-06-14;"Ontology-Based Data Access: A Study through Disjunctive Datalog, CSP, and MMSNP.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2661643";0
+journals/tods/YanG94;article;2012-01-25;"Index Structures for Selective Dissemination of Information Under the Boolean Model.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/176567.176573";0
+journals/tods/MiloAABN05;article;2006-02-09;"Exchanging intensional XML data.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1061318.1061319";0
+journals/tods/AndersonB77;article;2017-03-30;"Minimum Cost Selection of Secondary Indexes for Formatted Files.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320521.320537";0
+journals/tods/LamY82;article;2017-03-30;"A Clustered Search Algorithm Incorporating Arbitrary Term Dependencies.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319756";0
+journals/tods/OlteanuZ15;article;2017-01-03;"Size Bounds for Factorised Representations of Query Results.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2656335";0
+journals/tods/Herot80;article;2012-01-25;"Spatial Management of Data.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320610.320648";0
+journals/tods/RaghavanY79;article;2017-03-30;"Experiments on the Determination of the Relationships Between Terms.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320071.320081";0
+journals/tods/SharfmanSK07;article;2017-01-11;"A geometric approach to monitoring threshold functions over distributed data streams.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292613";0
+journals/tods/BunemanKTT04;article;2006-02-09;"Archiving scientific data.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/974750.974752";0
+journals/tods/CeriFPT95;article;2012-09-14;"Addendum to "Automatic Generation of Production Rules for Integrity Maintenance".";"";"1995";"ACM Trans. Database Syst.";"";0
+journals/tods/Garcia-MolinaPD86;article;2017-03-30;"Applications of Byzantine Agreement in Database Systems.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5236.5243";0
+journals/tods/Nekrich14;article;2017-01-03;"Efficient range searching for categorical and plain data.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2543924";0
+journals/tods/Codd79;article;2017-03-30;"Extending the Database Relational Model to Capture More Meaning.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320107.320109";0
+journals/tods/LakshmananLN03;article;2017-06-09;"Efficient dynamic mining of constrained frequent sets.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/958942.958944";0
+journals/tods/SharifzadehSK09;article;2017-06-09;"Processing spatial skyline queries in both vector spaces and spatial network databases.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1567274.1567276";0
+journals/tods/MaaboutOWH16;article;2017-01-04;"Skycube Materialization Using the Topmost Skyline or Functional Dependencies.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2955092";0
+journals/tods/BatoryG82;article;2017-03-30;"A Unifying Model of Physical Databases.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319758.319760";0
+journals/tods/DignosBGJ16;article;2017-06-14;"Extending the Kernel of a Relational DBMS with Comprehensive Support for Sequenced Temporal Queries.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2967608";0
+journals/tods/Chaudhuri07;article;2017-01-11;"Introduction to ACM SIGMOD 2006 conference papers.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292610";0
+journals/tods/CaoCGJO15;article;2017-01-03;"Efficient Processing of Spatial Group Keyword Queries.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2772600";0
+journals/tods/SchkolnickT85;article;2017-03-30;"Estimating the Cost of Updates in a Relational Database.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3857.3863";0
+journals/tods/OmiecinskiS90;article;2017-03-30;"A Parallel Algorithm for Record Clustering.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/99935.99947";0
+journals/tods/StonebrakerWRMMA83;article;2017-03-30;"Performance Enhancements to a Relational Database System.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319983.319984";0
+journals/tods/ChamberlinAKLMPSSSWY81;article;2017-03-30;"Support for Repetitive Transactions and Ad Hoc Queries in System R.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319540.319550";0
+journals/tods/TschirschnitzPN17;article;2017-08-30;"Detecting Inclusion Dependencies on Very Many Tables.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3105959";0
+journals/tods/Suciu02;article;2003-11-19;"Distributed query evaluation on semistructured data.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/507234.507235";0
+journals/tods/RosenkrantzSL78;article;2017-03-30;"System Level Concurrency Control for Distributed Database Systems.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320251.320260";0
+journals/tods/BonifatiCS16;article;2017-01-03;"Learning Join Queries from User Examples.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2818637";0
+journals/tods/Yao77;article;2017-03-30;"An Attribute Based Model for Database Access Cost Analysis.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320521.320535";0
+journals/tods/AbiteboulSV09;article;2017-01-11;"Static analysis of active XML systems.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1620585.1620590";0
+journals/tods/MamoulisYCC07;article;2017-06-09;"Efficient top-";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1272743.1272749";0
+journals/tods/BenediktBL15;article;2017-06-09;"Analysis of Schemas with Access Restrictions.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2699500";0
+journals/tods/BenzakenCCN13;article;2017-01-11;"Optimizing XML querying using type-based document projection.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2445583.2445587";0
+journals/tods/Kaplan84;article;2017-03-30;"Designing a Portable Natural Language Database Query System.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/348.318584";0
+journals/tods/DengF14;article;2017-01-03;"On the Complexity of Query Result Diversification.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2602136";0
+journals/tods/BancilhonS81;article;2012-01-25;"Update Semantics of Relational Views.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319628.319634";0
+journals/tods/FazzingaFFP16;article;2017-09-16;"Exploiting Integrity Constraints for Cleaning Trajectories of RFID-Monitored Objects.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2939368";0
+journals/tods/Abdel-GhaffarA93;article;2017-03-30;"Optimal Disk Allocation for Partial Match Queries.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151284.151288";0
+journals/tods/Burkhard79;article;2017-03-30;"Partial-Match Hash Coding: Benefits of Redundancy.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320071.320079";0
+journals/tods/Denning80;article;2017-03-30;"Secure Statistical Databases with Random Sample Queries.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320613.320616";0
+journals/tods/ZhouQXWLI16;article;2017-02-20;"BEVA: An Efficient Query Processing Algorithm for Error-Tolerant Autocompletion.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2877201";0
+journals/tods/WangLF14;article;2017-01-03;"Extending string similarity join to tolerant fuzzy token matching.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2535628";0
+journals/tods/SolimanIC08;article;2017-06-09;"Probabilistic top-";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1386118.1386119";0
+journals/tods/NegriP91;article;2017-03-30;"Distributive Join: A New Algorithm for Joining Relations.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/115302.115299";0
+journals/tods/VimercatiFJPS10;article;2017-09-16;"Encryption policies for regulating access to outsourced data.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1735886.1735891";0
+journals/tods/LitwinN96;article;2012-01-25;"LH* - A Scalable, Distributed Data Structure.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/236711.236713";0
+journals/tods/YiuJML11;article;2017-06-09;"Design and analysis of a ranking approach to private location-based services.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1966385.1966388";0
+journals/tods/WuOS06;article;2006-08-21;"Optimizing bitmap indices with efficient compression.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132864";0
+journals/tods/SchuldtABS02;article;2003-11-19;"Atomicity and isolation for transactional processes.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/507234.507236";0
+journals/tods/HsuSY01;article;2003-11-19;"I/O reference behavior of production database workloads and the TPC benchmarks - an analysis at the logical level.";"";"2001";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=383734.383737";0
+journals/tods/ValduriezG84;article;2017-03-30;"Join and Semijoin Algorithms for a Multiprocessor Database Machine.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/348.318590";0
+journals/tods/WangL11;article;2017-07-21;"Output privacy in data mining.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1929934.1929935";0
+journals/tods/Weikum91;article;2017-03-30;"Principles and Realization Strategies of Multilevel Transaction Management.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/103140.103145";0
+journals/tods/Herlihy90;article;2017-03-30;"Apologizing Versus Asking Permission: Optimistic Concurrency Control for Abstract Data Types.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/77643.77647";0
+journals/tods/Garcia-Molina83;article;2017-03-30;"Using Semantic Knowledge for Transaction Processing in Distributed Database.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319983.319985";0
+journals/tods/CautisDOV11;article;2017-01-11;"Querying XML data sources that export very large sets of views.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1929934.1929939";0
+journals/tods/AbiteboulCKNS11;article;2017-01-11;"Capturing continuous data and answering aggregate queries in probabilistic XML.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2043652.2043658";0
+journals/tods/ThomsonDWRSA14;article;2017-01-03;"Fast Distributed Transactions and Strongly Consistent Replication for OLTP Database Systems.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2556685";0
+journals/tods/Comer78;article;2017-03-30;"The Difficulty of Optimum Index Selection.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320289.320296";0
+journals/tods/KamelK92;article;2017-03-30;"Intelligent Database Caching Through the Use of Page-Answers and Page-Traces.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/146931.146933";0
+journals/tods/Bayer86;article;2012-01-25;"Consistency of Transactions and Random Batch.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/7239.214287";0
+journals/tods/LingTK81;article;2017-03-30;"An Improved Third Normal Form for Relational Databases.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319566.319583";0
+journals/tods/ReS12;article;2017-01-11;"Understanding cardinality estimation using entropy maximization.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2109196.2109202";0
+journals/tods/Wong82;article;2012-01-25;"A Statistical Approach to Incomplete Information in Database Systems.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319747";0
+journals/tods/EffelsbergL84;article;2017-03-30;"Logical, Internal, and Physical Reference Behavior in CODASYL Database Systems.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/329.331";0
+journals/tods/Palvia85;article;2017-03-30;"Expressions for Batched Searching of Sequential and Hierarchical Files.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3148.3326";0
+journals/tods/LesterMZ08;article;2017-06-09;"Efficient online index construction for text databases.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1386118.1386125";0
+journals/tods/Wijsen12;article;2017-01-11;"Certain conjunctive query answering in first-order logic.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2188349.2188351";0
+journals/tods/StonebrakerWKH76;article;2017-03-30;"The Design and Implementation of INGRES.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320473.320476";0
+journals/tods/BadrinathR92;article;2017-03-30;"Semantics-Based Concurrency Control: Beyond Commutativity.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128765.128771";0
+journals/tods/PapadiasTMH05;article;2017-06-09;"Aggregate nearest neighbor queries in spatial databases.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1071610.1071616";0
+journals/tods/AhoBU79;article;2017-03-30;"The Theory of Joins in Relational Databases.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320083.320091";0
+journals/tods/SinhaW07;article;2007-10-23;"Multi-resolution bitmap indexes for scientific data.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1272743.1272746";0
+journals/tods/Ullman83a;article;2017-03-30;"On Kent's "Consequences of Assuming a Universal Relation".";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.320017";0
+journals/tods/GutingBEJLSV00;article;2013-04-11;"A foundation for representing and querying moving objects.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/352958.352963";0
+journals/tods/JohnsonS93;article;2017-03-30;"The Performance of Current B-Tree Algorithms.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151284.151286";0
+journals/tods/KolaitisF04;article;2006-02-09;"Foreword.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/974750.974751";0
+journals/tods/GhandeharizadehHJ96;article;2012-01-25;"Heraclitus: Elevating Deltas to be First-Class Citizens in a Database Programming Language.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/232753.232801";0
+journals/tods/PramanikI85;article;2017-03-30;"Use of Graph-Theoretic Models for Optimal Relational Database Accesses to Perform Join.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3148.3325";0
+journals/tods/GogollaH91;article;2017-03-30;"Towards a Semantic View of an Extended Entity-Relationship Model.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/111197.111200";0
+journals/tods/XuT14;article;2017-06-09;"Optimality of Clustering Properties of Space-Filling Curves.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2556686";0
+journals/tods/HristidisHP08;article;2017-01-11;"Authority-based keyword search in databases.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1331904.1331905";0
+journals/tods/SugumaranS06;article;2007-03-06;"The role of domain ontologies in database design: An ontology management and conceptual modeling environment.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166083";0
+journals/tods/RietWKJ81;article;2017-03-30;"High-Level Programming Features for Improving the Efficiency of a Relational Database System.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319587.319604";0
+journals/tods/BayerU77;article;2008-06-25;"Prefix B-Trees.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320521.320530";0
+journals/tods/Garo04;article;2006-02-09;"Probabilistic wavelet synopses.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/974750.974753";0
+journals/tods/CliffordC94;article;2012-01-25;"On Completeness of Historical Relational Query Languages.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/174638.174642";0
+journals/tods/YuCRW17;article;2017-06-29;"Outlier Detection over Massive-Scale Trajectory Streams.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3013527";0
+journals/tods/FanGN08;article;2017-01-11;"Expressiveness and complexity of XML publishing transducers.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412337";0
+journals/tods/BittonBDW83;article;2017-03-30;"Parallel Algorithms for the Execution of Relational Database Operations.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319989.319991";0
+journals/tods/RosenbergS81;article;2012-01-25;"Time- and Space-Optimality in B-Trees.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319540.319565";0
+journals/tods/ChenHM95;article;2008-06-25;"An Execution Model for Limited Ambiguity Rules and Its Application to Derived Data Update.";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/219035.219039";0
+journals/tods/KossmannFDA00;article;2003-11-19;"Cache investment: integrating query optimization and distributed data placement.";"";"2000";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=377674.377677";0
+journals/tods/LengL92;article;2017-06-09;"Optimal Weight Assignment for Signature Generation.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128903.128907";0
+journals/tods/MaierU83;article;2017-03-30;"Maximal Objects and the Semantics of Universal Relation Databases.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319830.319831";0
+journals/tods/RiesS79;article;2017-03-30;"Locking Granularity Revisited.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320071.320078";0
+journals/tods/WangG92;article;2017-03-30;"Constant-Time Maintainability: A Generalization of Independence.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128903.128904";0
+journals/tods/WijesekeraJPH03;article;2004-03-18;"Removing permissions in the flexible authorization framework.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/937598.937599";0
+journals/tods/AbiteboulSV06;article;2006-08-21;"Representing and querying XML with incomplete information.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1132863.1132869";0
+journals/tods/Ozsoyoglu11;article;2017-01-11;"Foreword to TODS invited papers issue 2011.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2043652.2043653";0
+journals/tods/ChengKVW06;article;2007-03-06;"A divide-and-merge methodology for clustering.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189779";0
+journals/tods/Huang85;article;2017-03-30;"Height-Balanced Trees of Order (beta,gamma,delta).";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3857.3858";0
+journals/tods/Zaniolo82;article;2017-03-30;"A New Normal Form for the Design of Relational Database Schemata.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319749";0
+journals/tods/AtallahQY11;article;2017-01-11;"Asymptotically efficient algorithms for skyline probabilities of uncertain data.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1966385.1966390";0
+journals/tods/Beame0RS17;article;2017-03-21;"Exact Model Counting of Query Expressions: Limitations of Propositional Methods.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2984632";0
+journals/tods/XiaoTK10;article;2017-06-09;"Transparent anonymization: Thwarting adversaries who know the algorithm.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1735886.1735887";0
+journals/tods/Liu76;article;2012-01-25;"Algorithms for Parsing Search Queries in Systems with Inverted File Organization.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320493.320490";0
+journals/tods/LohmanM77;article;2017-03-30;"Optimal Policy for Batch Operations: Backup, Checkpointing, Reorganization, and Updating.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320557.320558";0
+journals/tods/Kent79;article;2017-03-30;"Limitations of Record-Based Information Models.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320064.320070";0
+journals/tods/PolyzoisG94;article;2012-01-25;"Evaluation of Remote Backup Algorithms for Transaction-Processing Systems.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/185827.185836";0
+journals/tods/CheungMS16;article;2017-01-03;"Sloth: Being Lazy Is a Virtue (When Issuing Database Queries).";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2894749";0
+journals/tods/BaralisC04;article;2017-06-09;"Essential classification rule sets.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1042046.1042048";0
+journals/tods/BragaCC05;article;2006-02-09;None;"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1071610.1071613";0
+journals/tods/Alagic99;article;2008-06-25;"Type-Checking OQL Queries In the ODMG Type Systems.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/328939.328943";0
+journals/tods/RusuD08;article;2017-01-11;"Sketches for size of join estimation.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1386118.1386121";0
+journals/tods/Shneiderman78;article;2017-03-30;"Improving the Human Factors Aspect of Database Interactions.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320289.320295";0
+journals/tods/LiC01;article;2015-06-26;"Answering queries with useful bindings.";"";"2001";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/502030.502032";0
+journals/tods/KramerS09;article;2017-01-11;"Semantics and implementation of continuous sliding window queries over data streams.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1508857.1508861";0
+journals/tods/BonifatiGMS13;article;2017-01-03;"Algebraic incremental maintenance of XML views.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2508020.2508021";0
+journals/tods/OliverS94;article;2017-06-09;"A Taxonomy for Secure Object-Oriented Databases.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/174638.174640";0
+journals/tods/LeeW80;article;2017-03-30;"Quintary Trees: A File Structure for Multidimensional Database Systems.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320613.320618";0
+journals/tods/ChakravarthyGM90;article;2017-03-30;"Logic-Based Approach to Semantic Query Optimization.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/78922.78924";0
+journals/tods/IoannidisR95;article;2012-01-25;"Containment of Conjunctive Queries: Beyond Relations as Sets";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/211414.211419";0
+journals/tods/XieDSZZ12;article;2017-07-20;"Finding Alternative Shortest Paths in Spatial Networks.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389248";0
+journals/tods/ShashaW91;article;2017-03-30;"Optimizing Equijoin Queries In Distributed Databases Where Relations Are Hash Partitioned.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/114325.103713";0
+journals/tods/Matsliach93;article;2017-03-30;"Performance Analysis of File Organizations that Use Multibucket Data Leaves with Partial Expansions.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151284.151289";0
+journals/tods/GiatrakosDGSS14;article;2017-01-03;"Distributed Geometric Query Monitoring Using Prediction Models.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2602137";0
+journals/tods/Denning80a;article;2012-09-14;"Corrigenda: Linear Queries in Statistical Databases.";"";"1980";"ACM Trans. Database Syst.";"";0
+journals/tods/MazowieckiMW16;article;2017-01-03;"Monadic Datalog and Regular Tree Pattern Queries.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2925986";0
+journals/tods/Minker78;article;2017-03-30;"Search Strategy and Selection Function for an Inferential Relational System.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320241.320242";0
+journals/tods/ZanioloM82;article;2017-03-30;"A Formal Approach to the Definition and the Design of Conceptual Schemata for Database Systems.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319682.319695";0
+journals/tods/AbiteboulBV12;article;2017-01-11;"Comparing workflow specification languages: A matter of views.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2188349.2188352";0
+journals/tods/Sciore91;article;2017-03-30;"Using Annotations to Support Multiple Kinds of Versioning in an Object-Oriented Database System.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/111197.111205";0
+journals/tods/Beeri80;article;2017-03-30;"On the Membership Problem for Functional and Multivalued Dependencies in Relational Databases.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320613.320614";0
+journals/tods/IbarakiK84;article;2017-03-30;"On the Optimal Nesting Order for Computing N-Relational Joins.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1270.1498";0
+journals/tods/LinLYZL06;article;2006-08-21;"Summarizing level-two topological relations in large spatial datasets.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1138394.1138398";0
+journals/tods/WongE77;article;2012-01-25;"Interval Hierarchies and Their Application to Predicate Files.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320557.320562";0
+journals/tods/WeltyS81;article;2017-03-30;"Human Factors Comparison of a Procedural and a Nonprocedural Query Language.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319628.319656";0
+journals/tods/AhoU79;article;2017-03-30;"Optimal Partial-Match Retrieval When Fields Are Independently Specified.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320071.320074";0
+journals/tods/MalhotraMP83;article;2017-03-30;"EAS-E: An Integrated Approach to Application Development.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.320003";0
+journals/tods/GraefeC95;article;2012-01-25;"Fast Algorithms for Universal Quantification in Large Databases.";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/210197.210202";0
+journals/tods/Snodgrass07;article;2007-06-11;"Editorial: Single- versus double-blind reviewing.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1206049.1206050";0
+journals/tods/CliffordDIJS97;article;2017-03-30;"On the Semantics of "Now" in Databases";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/249978.249980";0
+journals/tods/TraigerGGL82;article;2017-03-30;"Transactions and Consistency in Distributed Database Systems.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319734";0
+journals/tods/NashSV10;article;2017-01-11;"Views and queries: Determinacy and rewriting.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1806907.1806913";0
+journals/tods/ThomasPB77;article;2016-04-23;"Validation Algorithms for Pointer Values in DBTG DataBases.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320576.320589";0
+journals/tods/BernsteinS80;article;2012-01-25;"The Correctness of Concurrency Control Mechanisms in a System for Distributed Databases (SDD-1).";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320128.320133";0
+journals/tods/Babb79;article;2017-03-30;"Implementing a Relational Database by Means of Specialized Hardware.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320064.320065";0
+journals/tods/LiDF13;article;2017-01-11;"A partition-based method for string similarity joins with edit-distance constraints.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2487259.2487261";0
+journals/tods/Ozsoyoglu13;article;2017-01-03;"Foreword to invited papers issue.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2539032.2539033";0
+journals/tods/EffelsbergH84;article;2016-06-23;"Principles of Database Buffer Management.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1994.2022";0
+journals/tods/Veklerov85;article;2012-01-25;"Analysis of Dynamic Hashing with Deferred Splitting.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3148.318987";0
+journals/tods/LiewCL85;article;2017-03-30;"A Data Distortion by Probability Distribution.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3979.4017";0
+journals/tods/AgrawalCL87;article;2017-03-30;"Concurrency Control Performance Modeling: Alternatives and Implications.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/32204.32220";0
+journals/tods/ElhardB84;article;2017-03-30;"A Database Cache for High Performance and Fast Restart in Database Systems.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1994.1995";0
+journals/tods/LiuHD98;article;2017-03-30;"Multiview Access Protocols for Large-Scale Replication.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/292481.277628";0
+journals/tods/ShengTL12;article;2017-06-09;"Exact and approximate algorithms for the most connected vertex problem.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2188349.2188354";0
+journals/tods/HernichLS11;article;2017-01-11;"Closed world data exchange.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1966385.1966392";0
+journals/tods/Letelier0PS13;article;2017-06-14;"Static analysis and optimization of semantic web queries.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2500130";0
+journals/tods/TaoXC07;article;2017-06-09;"Range search on multidimensional uncertain data.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1272743.1272745";0
+journals/tods/BeneventanoBS03;article;2017-06-09;"Description logics for semantic query optimization in object-oriented database systems.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/762471.762472";0
+journals/tods/Jonge83;article;2017-03-30;"Compromising Statistical Databases Responding to Queries about Means.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319830.319834";0
+journals/tods/KarvounarakisGIT13;article;2017-01-03;"Collaborative data sharing via update exchange and provenance.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2500127";0
+journals/tods/Burkhard76;article;2017-03-30;"Hashing and Trie Algorithms for Partial Match Retrieval.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320455.320469";0
+journals/tods/GeertsGB05;article;2006-02-09;"Tight upper bounds on the number of candidate patterns.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1071610.1071611";0
+journals/tods/Bussche07;article;2017-01-11;"Introduction to the PODS 2006 special section.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292614";0
+journals/tods/HarizopoulosA06;article;2007-03-06;"Improving instruction cache performance in OLTP.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166079";0
+journals/tods/ZaharioudakisCF97;article;2017-03-30;"Adaptive, Fine-Grained Sharing in a Client-Server OODBMS: A Callback-Based Approach.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/278245.278249";0
+journals/tods/ChinO81;article;2017-03-30;"Statistical Database Design.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319540.319558";0
+journals/tods/ManolopoulosK89;article;2017-03-30;"Performance of a Two-Headed Disk System when Serving Database Queries Under the Scan Policy.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/68012.68017";0
+journals/tods/BenderH07;article;2017-01-11;"An adaptive packed-memory array.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292616";0
+journals/tods/JayramMMV08;article;2017-01-11;"Estimating statistical aggregates on probabilistic data streams.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412338";0
+journals/tods/CliffordW83;article;2017-03-30;"Formal Semantics for Time in Databases.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319983.319986";0
+journals/tods/PeiYLJELWTYZ06;article;2017-06-09;"Towards multidimensional subspace skyline analysis.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189774";0
+journals/tods/BrightHP94;article;2012-01-25;"Automated Resolution of Semantic Heterogeneity in Multidatabases.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/176567.176569";0
+journals/tods/BernsteinG83;article;2017-03-30;"Multiversion Concurrency Control - Theory and Algorithms.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.319998";0
+journals/tods/Stonebraker80;article;2017-03-30;"Retrospection on a Database System.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320141.320158";0
+journals/tods/GavishS86;article;2017-03-30;"Set Query Optimization in Distributed Database Systems.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/6314.6488";0
+journals/tods/AstrahanBCEGGKLMMPTWW76;article;2017-03-30;"System R: Relational Approach to Database Management.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320455.320457";0
+journals/tods/Motro89;article;2017-03-30;"Integrity = Validity + Completeness.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/76902.76904";0
+journals/tods/KarabegV91;article;2012-01-25;"Simplification Rules and Complete Axiomatization for Relational Update Transactions.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/111197.111208";0
+journals/tods/CohenW16;article;2017-01-03;"The Complexity of Learning Tree Patterns from Example Graphs.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2890492";0
+journals/tods/HeLS05;article;2006-04-03;"Self-tuning cost modeling of user-defined functions in an object-relational DBMS.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1093382.1093387";0
+journals/tods/WuB87;article;2017-03-30;"Associative Searching in Multiple Storage Units.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/12047.12048";0
+journals/tods/Beck80;article;2017-03-30;"A Security Mechanism for Statistical Databases.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320613.320617";0
+journals/tods/Hsiao80;article;2012-01-25;"TODS - The First Three Years (1976-1978).";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320610.320611";0
+journals/tods/Larson81;article;2017-03-30;"Analysis of Index-Sequential Files with Overflow Chaining.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319628.319665";0
+journals/tods/ColazzoGPS13;article;2017-06-09;"Almost-linear inclusion for XML regular expression types.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2508020.2508022";0
+journals/tods/ShultzZ84;article;2017-03-30;"Response Time Analysis of Multiprocessor Computers for Database Support.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/348.318589";0
+journals/tods/YangRW12;article;2017-01-11;"Shared execution strategy for neighbor-based pattern mining requests over streaming windows.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2109196.2109201";0
+journals/tods/Obermarck82;article;2012-01-25;"Distributed Deadlock Detection Algorithm.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319702.319717";0
+journals/tods/RameshBK89;article;2017-03-30;"Variable-Depth Trie Index Optimization: Theory and Experimental Results.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/62032.77249";0
+journals/tods/GoodmanS82;article;2017-03-30;"Tree Queries: A Simple Class of Relational Queries.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319758.319775";0
+journals/tods/Sacks-DavisK87;article;2017-03-30;"Multikey Access Methods Based on Superimposed Coding Techniques.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/32204.32222";0
+journals/tods/ChaudhuriS99;article;2017-03-30;"Optimization of Queries with User-Defined Predicates.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320248.320249";0
+journals/tods/GelderT91;article;2017-03-30;"Safety and Translation of Relational Calculus Queries.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/114325.103712";0
+journals/tods/WeltyS82;article;2012-09-14;"Reply.";"";"1982";"ACM Trans. Database Syst.";"";0
+journals/tods/DiaoAFZF03;article;2015-07-22;"Path sharing and predicate evaluation for high-performance XML filtering.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/958942.958947";0
+journals/tods/Griffith82;article;2017-03-30;"Three Principles of Representation for Semantic Networks.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319743";0
+journals/tods/DavidLT12;article;2017-01-03;"Efficient reasoning about data trees via integer linear programming.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2338626.2338632";0
+journals/tods/SpiegelP09;article;2017-01-11;"TuG synopses for approximate query answering.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1508857.1508860";0
+journals/tods/BatoryLW88;article;2017-03-30;"Implementation Concepts for an Extensible Data Model and Data Language.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/44498.45062";0
+journals/tods/Korth82;article;2017-03-30;"Deadlock Freedom Using Edge Locks.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319758.319772";0
+journals/tods/YuLL91;article;2017-03-30;"On Robust Transaction Routing and Load Sharing.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/111197.111210";0
+journals/tods/GarofalakisK05;article;2014-02-14;"XML stream processing using tree-edit distance embeddings.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1061318.1061326";0
+journals/tods/FlescaFP10;article;2017-06-09;"Querying and repairing inconsistent numerical databases.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1735886.1735893";0
+journals/tods/FeketeLOOS05;article;2016-08-11;"Making snapshot isolation serializable.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1071610.1071615";0
+journals/tods/Delobel78;article;2017-03-30;"Normalization and Hierarchical Dependencies in the Relational Data Model.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320263.320271";0
+journals/tods/AgrawalA92;article;2017-03-30;"The Generalized Tree Quorum Protocol: An Efficient Approach for Managing Replicated Data.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/146931.146935";0
+journals/tods/FernandezKSMT02;article;2003-11-19;"SilkRoute: A framework for publishing relational data in XML.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/582410.582413";0
+journals/tods/FaginKRV16;article;2017-01-03;"Declarative Cleaning of Inconsistencies in Information Extraction.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2877202";0
+journals/tods/EichW88;article;2017-03-30;"Database Concurrency Control Using Data Flow Graphs.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/42338.42345";0
+journals/tods/StoreyG88;article;2017-03-30;"A Methodology for Creating User Views in Database Design.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/44498.45064";0
+journals/tods/MelnikAB08;article;2017-01-11;"Compiling mappings to bridge applications and databases.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412334";0
+journals/tods/FazzingaFFM13;article;2017-06-09;"RFID-data compression for supporting aggregate queries.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2487259.2487263";0
+journals/tods/Lomet83;article;2017-03-30;"Bounded Index Exponential Hashing.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319830.319837";0
+journals/tods/ManiuCS17;article;2017-06-29;"An Indexing Framework for Queries on Probabilistic Graphs.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3044713";0
+journals/tods/BraganholoDH06;article;2007-03-06;"PATAXÓ: A framework to allow updates through XML views.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166078";0
+journals/tods/Keller87;article;2017-03-31;"Comments on Bancilhon and Spyratos' "Update Semantics and Relational Views".";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/27629.214296";0
+journals/tods/MartensNSB06;article;2007-03-06;"Expressiveness and complexity of XML Schema.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166076";0
+journals/tods/GuoSW96;article;2012-03-12;"Solving Satisfiability and Implication Problems in Database Systems.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/232616.232692";0
+journals/tods/MehrotraRKS98;article;2017-03-30;"Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/292481.277629";0
+journals/tods/Jensen17;article;2017-03-21;"Editorial: Updates to the Editorial Board.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3041040";0
+journals/tods/AlbanoCO85;article;2017-03-30;"Galileo: A Strongly-Typed, Interactive Conceptual Language.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3857.3859";0
+journals/tods/JermaineDAJP06;article;2014-08-26;"The Sort-Merge-Shrink join.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189775";0
+journals/tods/Shipman81;article;2017-03-30;"The Functional Data Model and the Data Language DAPLEX.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319540.319561";0
+journals/tods/DasguptaK90;article;2017-03-30;"The Five Color Concurrency Control Protocol: Non-Two-Phase Locking in General Databases.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/78922.78927";0
+journals/tods/FaloutsosC87;article;2017-06-09;"Optimal Signature Extraction and Information Loss.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/27629.214285";0
+journals/tods/NykielPMKK14;article;2017-01-03;"Sharing across Multiple MapReduce Jobs.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2560796";0
+journals/tods/Meo00;article;2003-11-19;"Theory of dependence values.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/363951.363956";0
+journals/tods/Lien81;article;2017-03-30;"Hierarchical Schemata for Relational Databases.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319540.319546";0
+journals/tods/HanSZ17;article;2017-09-16;"COMPRESS: A Comprehensive Framework of Trajectory Compression in Road Networks.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3015457";0
+journals/tods/BeeriB79;article;2017-03-30;"Computational Problems Related to the Design of Normal Form Relational Schemas.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320064.320066";0
+journals/tods/IbarakiKM87;article;2017-03-30;"Serializability with Constraints.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/27629.214284";0
+journals/tods/Ioannidis07;article;2017-01-11;"Introduction to the EDBT 2006 special section.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292617";0
+journals/tods/SrivastavaSRN95;article;2013-03-08;"Space Optimization in Deductive Databases.";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/219035.219056";0
+journals/tods/BriceS77;article;2012-01-25;"An Extension of the Performance of a Database Manager in a Virtual Memory System Using Partially Locked Virtual Buffers.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320544.320556";0
+journals/tods/DattaDTVR04;article;2006-02-09;"Proxy-based acceleration of dynamically generated content on the world wide web: An approach and implementation.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1005566.1005571";0
+journals/tods/DiederichM88;article;2012-01-25;"New Methods and Fast Algorithms for Database Normalization.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/44498.44499";0
+journals/tods/NievergeltHS84;article;2017-03-30;"The Grid File: An Adaptable, Symmetric Multikey File Structure.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/348.318586";0
+journals/tods/DuS82;article;2016-04-20;"Disk Allocation for Cartesian Product Files on Multiple-Disk Systems.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319682.319698";0
+journals/tods/WolfsonM91;article;2017-03-30;"The Multicast Policy and Its Relationship to Replicated Data Placement.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/103140.103146";0
+journals/tods/LosemannM13;article;2017-01-03;"The complexity of regular expressions and property paths in SPARQL.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2494529";0
+journals/tods/Jensen16a;article;2017-01-03;"Editorial: The Dark Citations of TODS Papers and What to Do about It - or: Cite the Journal Paper.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2946798";0
+journals/tods/CulikOW81;article;2017-03-30;"Dense Multiway Trees.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319587.319612";0
+journals/tods/LeveneL99;article;2008-06-25;"Database Design for Incomplete Relations.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/310701.310712";0
+journals/tods/HartmannL12;article;2017-06-09;"The implication problem of data dependencies over SQL table definitions: Axiomatic, algorithmic and logical characterizations.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2188349.2188355";0
+journals/tods/FegarasM00;article;2003-11-19;"Optimizing object queries using an effective calculus.";"";"2000";"ACM Trans. Database Syst.";"http://portal.acm.org/citation.cfm?id=377674.377676";0
+journals/tods/GainesH76;article;2012-09-14;"Papers from the International Conference on Very Large Data Bases, September 22-24, 1975, Framingham, Massachusetts.";"";"1976";"ACM Trans. Database Syst.";"";0
+journals/tods/LiuDL02;article;2003-11-19;"A logical foundation for deductive object-oriented databases.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/507234.507237";0
+journals/tods/SistlaWYS98;article;2017-03-30;"Towards a Theory of Cost Management for Digital Libraries and Electronic Commerce.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/296854.277641";0
+journals/tods/FreytagG89;article;2017-03-30;"On the Translation of Relational Queries into Iterative Programs.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/62032.62033";0
+journals/tods/Mendelzon84;article;2017-03-30;"Database States and Their Tableaux.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/329.318579";0
+journals/tods/BourhisPRS16;article;2017-01-03;"Bounded Repairability for Regular Tree Languages.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2898995";0
+journals/tods/LitwinMS05;article;2006-05-16;"LH*";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1093382.1093386";0
+journals/tods/Heyman82;article;2017-03-30;"Mathematical Models of Database Degradation.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319758.319771";0
+journals/tods/BenderEHK16;article;2017-01-03;"B-Trees and Cache-Oblivious B-Trees with Different-Sized Atomic Keys.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2907945";0
+journals/tods/Ullman85;article;2017-03-30;"Implementation of Logical Query Languages for Databases.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3979.3980";0
+journals/tods/Lozinskii86;article;2017-03-30;"A Problem-Oriented Inferential Database System.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/6314.6419";0
+journals/tods/GargG86;article;2017-03-30;"Order-Preserving Key Transformations.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5922.5923";0
+journals/tods/KarpSP03;article;2003-11-19;"A simple algorithm for finding frequent elements in streams and bags.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/762471.762473";0
+journals/tods/HeLYFGLS09;article;2017-01-11;"Relational query coprocessing on graphics processors.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1620585.1620588";0
+journals/tods/CatalloCFMT13;article;2017-01-11;"Top-k diversity queries over bounded regions.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2487259.2487262";0
+journals/tods/BalazinskaBMS08;article;2017-01-11;"Fault-tolerance in the borealis distributed stream processing system.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1331904.1331907";0
+journals/tods/BexNSV10;article;2017-01-11;"Inference of concise regular expressions and DTDs.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1735886.1735890";0
+journals/tods/Galindo-LegariaR97;article;2017-03-30;"Outerjoin Simplification and Reordering for Query Optimization.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/244810.244812";0
+journals/tods/SadoghiJ13;article;2017-01-11;"Analysis and optimization for boolean expression indexing.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2487259.2487260";0
+journals/tods/ShengT12;article;2017-06-09;"Worst-Case I/O-Efficient Skyline Algorithms.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389245";0
+journals/tods/FangNFL14;article;2017-01-03;"Mining order-preserving submatrices from probabilistic matrices.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2533712";0
+journals/tods/Hellerstein98;article;2017-03-30;"Optimization Techniques for Queries with Expensive Methods.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/292481.277627";0
+journals/tods/KingHGP91;article;2017-03-30;"Management of a Remote Backup Copy for Disaster Recovery.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/114325.103715";0
+journals/tods/OzsoyogluOM87;article;2017-03-30;"Extending Relational Algebra and Relational Calculus with Set-Valued Attributes and Aggregate Functions.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/32204.32219";0
+journals/tods/Davidson84;article;2017-03-30;"Optimism and Consistency In Partitioned Distributed Database Systems.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1270.1499";0
+journals/tods/LechtenborgerV03;article;2006-02-09;"On the computation of relational view complements.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/777943.777946";0
+journals/tods/ChengR15;article;2017-01-03;"SCANRAW: A Database Meta-Operator for Parallel In-Situ Processing and Loading.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2818181";0
+journals/tods/MylopoulosBW80;article;2017-03-30;"A Language Facility for Designing Database-Intensive Applications.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320141.320150";0
+journals/tods/HernandezC91;article;2017-03-30;"Constant-Time-Maintainable BCNF Database Schemes.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/115302.115301";0
+journals/tods/ChengKN09;article;2017-01-11;"Efficient query processing on graph databases.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1508857.1508859";0
+journals/tods/StonebrakerAH87;article;2017-03-30;"Extending a Database System with Procedures.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/27629.27631";0
+journals/tods/CormodeG08;article;2017-01-11;"Approximate continuous querying over distributed streams.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1366102.1366106";0
+journals/tods/KlugP82;article;2017-03-30;"Determining View Dependencies Using Tableaux.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319732.319738";0
+journals/tods/Song011;article;2017-06-14;"Differential dependencies: Reasoning and discovery.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2000824.2000826";0
+journals/tods/Jensen16;article;2017-01-03;"Editorial: Updates to the Editorial Board.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2893581";0
+journals/tods/Ellis87;article;2017-03-30;"Concurrency in Linear Hashing.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/22952.22954";0
+journals/tods/GottlobKP05;article;2017-09-16;"Efficient algorithms for processing XPath queries.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1071610.1071614";0
+journals/tods/Kluge78;article;2012-01-25;"Data File Management in Shift Register Memories.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320251.320256";0
+journals/tods/GheerbrantLS14;article;2015-04-20;"Naïve Evaluation of Queries over Incomplete Databases.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2691190.2691194";0
+journals/tods/DreizenC89;article;2017-03-30;"Imprecise Schema: A Rationale for Relations with Embedded Subrelations.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/76902.76903";0
+journals/tods/TaoPZ02;article;2017-06-09;"Cost models for overlapping and multiversion structures.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/581751.581754";0
+journals/tods/BabuSW04;article;2006-02-09;"Exploiting ";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1016028.1016032";0
+journals/tods/YangQWZW016;article;2017-09-16;"Negative Factor: Improving Regular-Expression Matching in Strings.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2847525";0
+journals/tods/FormicaGM98;article;2017-03-30;"An Efficient Method for Checking Object-Oriented Database Schema Correctness.";"";"1998";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/293910.293152";0
+journals/tods/MamoulisP01;article;2003-11-19;"Multiway spatial joins.";"";"2001";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/503099.503101";0
+journals/tods/KhamisNRR16;article;2017-01-04;"Joins via Geometric Resolutions: Worst Case and Beyond.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2967101";0
+journals/tods/PapavasileiouFFKC13;article;2017-01-11;"High-level change detection in RDF(S) KBs.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2445583.2445584";0
+journals/tods/LiuS90;article;2017-03-30;"Indefinite and Maybe Information in Relational Databases.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/77643.77644";0
+journals/tods/AghiliS82;article;2017-03-30;"A Practical Guide to the Design of Differential Files for Recovery of On-Line Databases.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319758.319762";0
+journals/tods/MendelzonW91;article;2017-03-30;"Functional Dependencies in Horn Clause Queries.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/103140.103142";0
+journals/tods/KorthS94;article;2012-01-25;"Formal Aspects of Concurrency Control in Long-Duration Transaction Systems Using the NT/PV Model.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/185827.185854";0
+journals/tods/ZhangKR16;article;2017-01-03;"Materialization Optimizations for Feature Selection Workloads.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2877204";0
+journals/tods/GarofalakisK05a;article;2014-02-14;"Wavelet synopses for general error metrics.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1114244.1114246";0
+journals/tods/ParsonsW00;article;2003-11-19;"Emancipating instances from the tyranny of classes in information modeling.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/357775.357778";0
+journals/tods/RosenthalR94;article;2012-01-25;"Tools and Transformations - Rigorous and Otherwise - for Practical Database Design.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/176567.176568";0
+journals/tods/PapadopoulosCDG14;article;2015-04-20;"Lightweight Query Authentication on Streams.";"";"2014";"ACM Trans. Database Syst.";"";0
+journals/tods/KimGK84;article;2017-03-30;"A Parallel Pipelined Relational Query Processor.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/329.332";0
+journals/tods/GanT17;article;2017-08-30;"On the Hardness and Approximation of Euclidean DBSCAN.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3083897";0
+journals/tods/Winslett88;article;2017-03-30;"A Model-Based Approach to Updating Databases with Incomplete Information.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/42338.42386";0
+journals/tods/FranaszekRT92;article;2017-03-30;"Concurrency Control for High Contention Environments.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128903.128906";0
+journals/tods/Qian93;article;2017-03-30;"The Deductive Synthesis of Database Transactions.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/169725.169716";0
+journals/tods/Bernstein76;article;2017-03-30;"Synthesizing Third Normal Form Relations from Functional Dependencies.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320493.320489";0
+journals/tods/MohanHLPS92;article;2017-03-30;"ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128765.128770";0
+journals/tods/GatterbauerS14;article;2017-01-03;"Oblivious bounds on the probability of boolean functions.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2532641";0
+journals/tods/TianOZGP16;article;2017-01-04;"Building a Hybrid Warehouse: Efficient Joins between Data Stored in HDFS and Enterprise Warehouse.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2972950";0
+journals/tods/LeiR14;article;2017-01-03;"Robust Distributed Query Processing for Streaming Data.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2602138";0
+journals/tods/PripuzicZA15;article;2017-01-03;"Time- and Space-Efficient Sliding Window Top-k Query Processing.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2736701";0
+journals/tods/Jaiswal0M13;article;2017-01-11;"Schema matching and embedded value mapping for databases with opaque column names and mixed continuous and discrete-valued data fields.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2445583.2445585";0
+journals/tods/Bernstein79;article;2012-09-14;"Errata: Computational Problems Related to the Design of Normal Form Relational Schemas.";"";"1979";"ACM Trans. Database Syst.";"";0
+journals/tods/FaginKPT11;article;2017-01-11;"Reverse data exchange: Coping with nulls.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1966385.1966389";0
+journals/tods/AfratiW06;article;2007-03-06;"Foreword to special section on SIGMOD/PODS 2005.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189776";0
+journals/tods/HechtG83;article;2012-01-25;"Shadowed Management of Free Disk Pages with a Linked List.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.320002";0
+journals/tods/ChengKFYZ11;article;2017-01-11;"Finding maximal cliques in massive networks.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2043652.2043654";0
+journals/tods/LiuC12;article;2017-01-11;"Differentiating search results on structured data.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2109196.2109200";0
+journals/tods/GunopulosKMSTS03;article;2017-06-09;"Discovering all most specific sentences.";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/777943.777945";0
+journals/tods/KerschbergTY82;article;2017-03-30;"Query Optimization in Star Computer Networks.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319758.319778";0
+journals/tods/ZhangLZCZ12;article;2017-08-24;"Stochastic skylines.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2188349.2188356";0
+journals/tods/ArasuBBMW04;article;2006-02-09;"Characterizing memory requirements for queries over continuous data streams.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/974750.974756";0
+journals/tods/MayL02;article;2003-11-19;"Understanding the global semantics of referential actions using logic rules.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/582410.582411";0
+journals/tods/LiuC10;article;2017-01-11;"Return specification inference and result clustering for keyword search on XML.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1735886.1735889";0
+journals/tods/CareyL91;article;2017-03-30;"Conflict Detection Tradeoffs for Replicated Data.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/115302.115289";0
+journals/tods/JampaniXWPJH11;article;2017-01-11;"The monte carlo database system: Stochastic analysis close to the data.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2000824.2000828";0
+journals/tods/NashBM07;article;2007-06-11;"Composition of mappings given by embedded dependencies.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1206049.1206053";0
+journals/tods/Ooi08;article;2017-01-11;"Introduction to ACM SIGMOD 2007 special section.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412333";0
+journals/tods/ItoK83;article;2017-03-30;"Hierarchical File Organization and Its Application to Similar-String Matching.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319989.319994";0
+journals/tods/PapapetrouAPKG11;article;2017-06-09;"Embedding-based subsequence matching in time-series databases.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2000824.2000827";0
+journals/tods/XiaoWLYW11;article;2017-01-11;"Efficient similarity joins for near-duplicate detection.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2000824.2000825";0
+journals/tods/BarceloLLW12;article;2017-01-03;"Expressive Languages for Path Queries over Graph-Structured Data.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389250";0
+journals/tods/FinkelsteinST88;article;2017-03-30;"Physical Database Design for Relational Databases.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/42201.42205";0
+journals/tods/MokNE96;article;2012-01-25;"A Normal Form for Precisely Characterizing Redundancy in Nested Relations.";"";"1996";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/227604.227612";0
+journals/tods/BunemanC79;article;2012-01-25;"Efficient Monitoring Relational Databases.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320083.320099";0
+journals/tods/Chamberlin82;article;2012-09-14;"On "Human Factors Comparison of a Procedural and a Nonprocedural Query Language".";"";"1982";"ACM Trans. Database Syst.";"";0
+journals/tods/CuiWW00;article;2003-11-19;"Tracing the lineage of view data in a warehousing environment.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/357775.357777";0
+journals/tods/Herlihy87;article;2017-03-30;"Dynamic Quorum Adjustment for Partitioned Data.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/22952.22953";0
+journals/tods/IpeirotisAJG07;article;2017-06-09;"Towards a query optimizer for text-centric tasks.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1292609.1292611";0
+journals/tods/GoncalvesK11;article;2017-01-11;"The data cyclotron query processing scheme.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2043652.2043660";0
+journals/tods/HouO91;article;2017-03-30;"Statistical Estimators for Aggregate Relational Algebra Queries.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/115302.115300";0
+journals/tods/Schkolnick77;article;2008-06-25;"A Clustering Algorithm for Hierarchical Structures.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320521.320531";0
+journals/tods/Koch06;article;2016-03-03;"On the complexity of nonrecursive XQuery and functional query languages on complex values.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189771";0
+journals/tods/EiterL06;article;2007-03-06;"Introduction to special ICDT section.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166075";0
+journals/tods/Clemons81;article;2012-01-25;"Design of an External Schema Facility to Define and Process Recursive Structures.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319566.319576";0
+journals/tods/KalashnikovM06;article;2006-08-21;"Domain-independent data cleaning via analysis of entity-relationship graph.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1138394.1138401";0
+journals/tods/SadriZZA04;article;2008-01-13;"Expressing and optimizing sequence queries in database systems.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1005566.1005568";0
+journals/tods/Moran83;article;2017-03-30;"On the Complexity of Designing Optimal Partial-Match Retrieval Systems.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319996.320004";0
+journals/tods/Samet04;article;2006-02-09;"Decoupling partitioning and grouping: Overcoming shortcomings of spatial indexing with bucketing.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1042046.1042052";0
+journals/tods/MaierUV84;article;2017-03-30;"On the Foundations of the Universal Relation Model.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/329.318580";0
+journals/tods/CardenasAA83;article;2017-03-30;"Performance of Recovery Architectures in Parallel Associative Database Processors.";"";"1983";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319989.319990";0
+journals/tods/TraubYW84;article;2012-01-25;"The Statistical Security of a Statistical Database.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1994.383392";0
+journals/tods/PuM05;article;2006-02-09;"Concise descriptions of subsets of structured sets.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1061318.1061324";0
+journals/tods/TermehchyW11;article;2017-01-11;"Using structural information in XML keyword search effectively.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1929934.1929938";0
+journals/tods/GinsburgT86;article;2012-01-25;"Computation-Tuple Sequences and Object Histories.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/5922.5924";0
+journals/tods/DrosouP15;article;2017-01-03;"Multiple Radii DisC Diversity: Result Diversification Based on Dissimilarity and Coverage.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2699499";0
+journals/tods/RusuZWJ15;article;2017-01-03;"Workload-Driven Antijoin Cardinality Estimation.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2818178";0
+journals/tods/JungSSK16;article;2017-01-03;"Random Walk with Restart on Large Graphs Using Block Elimination.";"";"2016";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2901736";0
+journals/tods/KimelfeldK14;article;2015-04-20;"The Complexity of Mining Maximal Frequent Subgraphs.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2629550";0
+journals/tods/JermaineAPD08;article;2017-01-11;"Scalable approximate query processing with the DBO engine.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412335";0
+journals/tods/HuXODN10;article;2017-06-09;"Privacy-aware location data publishing.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1806907.1806910";0
+journals/tods/SaccaW85;article;2017-06-09;"Database Partitioning in a Cluster of Processors.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3148.3161";0
+journals/tods/Schlorer80;article;2017-03-30;"Disclosure from Statistical Databases: Quantitative Aspects of Trackers.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320610.320645";0
+journals/tods/DamaggioDV12;article;2017-01-03;"Artifact systems with data dependencies and arithmetic.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2338626.2338628";0
+journals/tods/AmmannJR97;article;2017-03-30;"Applying Formal Methods to Semantic-Based Decomposition of Transactions.";"";"1997";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/249978.249981";0
+journals/tods/IwerksSS06;article;2017-03-16;"Maintenance of ";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1138394.1138396";0
+journals/tods/ShaftR06;article;2007-03-06;"Theory of nearest neighbors indexability.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1166077";0
+journals/tods/Chen95a;article;2012-01-25;"Query Evaluation in Deductive Databases with Alternating Fixpoint Semantics";"";"1995";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/211414.211416";0
+journals/tods/GottlobPZ88;article;2017-09-16;"Properties and Update Semantics of Consistent Views.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/49346.50068";0
+journals/tods/ChenAGM07;article;2007-10-23;"Improving hash join performance through prefetching.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1272743.1272747";0
+journals/tods/BernsteinSR80;article;2017-03-30;"Concurrency Control in a System for Distributed Databases (SDD-1).";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320128.320131";0
+journals/tods/Jimenez-PerisPAK03;article;2004-03-18;"Are quorums an alternative for data replication?";"";"2003";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/937598.937601";0
+journals/tods/HeL08;article;2017-01-11;"Cache-oblivious databases: Limitations and opportunities.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1366102.1366105";0
+journals/tods/Batory85;article;2017-03-30;"Modeling the Storage Architectures of Commercial Database Systems.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/4879.5392";0
+journals/tods/JainI09;article;2017-06-09;"A quality-aware optimizer for information extraction.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1508857.1508862";0
+journals/tods/Subrahmanian94;article;2012-01-25;"Amalgamating Knowledge Bases.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/176567.176571";0
+journals/tods/BeckerG92;article;2017-03-30;"Rule-Based Optimization and Query Processing in an Extensible Geometric Database System.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128903.128905";0
+journals/tods/RamakrishnaL89;article;2017-03-30;"File Organization Using Composite Perfect Hashing.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/63500.63521";0
+journals/tods/ParedaensG92;article;2017-03-30;"Converting Nested Algebra Expressions into Flat Algebra Expressions.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128765.128768";0
+journals/tods/Nakano90;article;2017-03-30;"Translation with Optimization from Relational Calculus to Relational Algebra Having Aggregate Functions.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/99935.99943";0
+journals/tods/Valduriez87;article;2017-03-30;"Join Indices.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/22952.22955";0
+journals/tods/ShashaLO09;article;2017-01-11;"Foreword to TODS SIGMOD/PODS 2008 special issue.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1620585.1620586";0
+journals/tods/Ozsoyoglu10;article;2017-01-11;"Foreword to TODS invited papers issue.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1862919.1862920";0
+journals/tods/JajodiaM90;article;2017-03-30;"Dynamic Voting Algorithms for Maintaining the Consistency of a Replicated Database.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/78922.78926";0
+journals/tods/PengC05;article;2006-02-09;"XSQ: A streaming XPath engine.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1071610.1071617";0
+journals/tods/BozkayaO99;article;2008-06-25;"Indexing Large Metric Spaces for Similarity Search Queries.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/328939.328959";0
+journals/tods/BatoryK85;article;2017-03-30;"Modeling Concepts for VLSI CAD Objects.";"";"1985";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3979.4018";0
+journals/tods/KeCN08;article;2017-01-11;"Correlated pattern mining in quantitative databases.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1386118.1386120";0
+journals/tods/TanselG92;article;2012-01-25;"On Roth, Korth, and Silberschatz's Extended Algebra and Calculus for Nested Relational Databases.";"";"1992";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/128903.128908";0
+journals/tods/BunemanCV08;article;2017-01-11;"On the expressiveness of implicit provenance in query and update languages.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412340";0
+journals/tods/Chin78;article;2017-03-30;"Security in Statistical Databases for Queries with Small Counts.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320241.320250";0
+journals/tods/Westland90;article;2017-03-30;"Scaling Up Output Capacity and Performance Results from Information Systems Prototypes.";"";"1990";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/88636.87943";0
+journals/tods/CesariniS91;article;2017-03-30;"A Dynamic Hash Method with Signature.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/114325.103714";0
+journals/tods/Shopiro79;article;2017-03-30;"Theseus - A Programming Language for Relational Databases.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320107.320121";0
+journals/tods/KumarS93;article;2017-03-30;"Cost and Availability Tradeoffs in Replicated Data Concurrency Control.";"";"1993";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/151284.151287";0
+journals/tods/Ameloot15;article;2017-01-03;"Deciding Determinism with Fairness for Simple Transducer Networks.";"";"2015";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2757215";0
+journals/tods/KostylevRS14;article;2017-01-03;"Classification of annotation semirings over containment of conjunctive queries.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2556524";0
+journals/tods/BrunoCG02;article;2003-11-19;"Top-k selection queries over relational databases: Mapping strategies and performance evaluation.";"";"2002";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/568518.568519";0
+journals/tods/RajuM88;article;2017-03-30;"Fuzzy Functional Dependencies and Lossless Join Decomposition of Fuzzy Relational Database Systems.";"";"1988";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/42338.42344";0
+journals/tods/Qin0XLLW13;article;2017-01-03;"Asymmetric signature schemes for efficient exact edit similarity query processing.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2508020.2508023";0
+journals/tods/DeySB99;article;2008-06-25;"Improving Database Design Through the Analysis of Relationships.";"";"1999";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/331983.331984";0
+journals/tods/KungL80;article;2017-03-30;"Concurrent Manipulation of Binary Search Trees.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320613.320619";0
+journals/tods/MozafariZDZ13;article;2017-07-20;"High-performance complex event processing over hierarchical data.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2536779";0
+journals/tods/NavatheCWD84;article;2017-03-30;"Vertical Partitioning Algorithms for Database Design.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1994.2209";0
+journals/tods/GopalakrishnaM80;article;2017-03-30;"Performance Evaluation of Attribute-Based Tree Organization.";"";"1980";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320128.320135";0
+journals/tods/ZengWZK07;article;2007-06-25;"Out-of-core coherent closed quasi-clique mining from large dense graph databases.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1242524.1242530";0
+journals/tods/BaekgaardM95;article;2012-01-25;"Incremental Computation of Nested Relational Query Expressions.";"";"1995";"ACM Trans. Database Syst.";None;0
+journals/tods/Gawlick86;article;2012-01-25;"Report on the International Workshop on High-Performance Transaction Systems.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/7239.17346";0
+journals/tods/RusuD07;article;2007-06-25;"Pseudo-random number generation for sketch-based estimations.";"";"2007";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1242524.1242528";0
+journals/tods/SchwentickS08;article;2017-01-11;"Introduction to ICDT 2007 special section.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412339";0
+journals/tods/IlyasAEESV06;article;2007-03-06;"Adaptive rank-aware query optimization in relational databases.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1189772";0
+journals/tods/TrajcevskiWHC04;article;2014-12-22;"Managing uncertainty in moving objects databases.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1016028.1016030";0
+journals/tods/LukK86;article;2017-03-30;"ELFS: English Language From SQL.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/7239.384276";0
+journals/tods/ShuHTGL77;article;2012-01-25;"EXPRESS: A Data EXtraction, Processing, amd REStructuring System.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320544.320549";0
+journals/tods/CateDK13;article;2017-06-09;"Learning schema mappings.";"";"2013";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2539032.2539035";0
+journals/tods/OsbornH86;article;2017-03-30;"The Design of a Relational Database System with Abstract Data Types for Domains.";"";"1986";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/6314.6461";0
+journals/tods/Hsiao76;article;2012-01-25;"ACM Transactions on Database Systems - Aim and Scope.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320434.320436";0
+journals/tods/KossmannS00;article;2003-11-19;"Iterative dynamic programming: a new class of query optimization algorithms.";"";"2000";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/352958.352982";0
+journals/tods/ChowMA09;article;2017-06-14;"Casper*: Query processing for location services without compromising privacy.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1620585.1620591";0
+journals/tods/HuTC14;article;2017-06-09;"I/O-Efficient Algorithms on Triangle Listing and Counting.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2691190.2691193";0
+journals/tods/KaushikNRC05;article;2006-04-04;"Synopses for query optimization: A space-complexity perspective.";"";"2005";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1114244.1114251";0
+journals/tods/BerindeICS10;article;2017-01-11;"Space-optimal heavy hitters with strong error bounds.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1862919.1862923";0
+journals/tods/OzsoyogluY87a;article;2017-03-30;"Reduced MVDs and Minimal Covers.";"";"1987";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/27629.214286";0
+journals/tods/0003QSH14;article;2017-09-07;"Towards a Painless Index for Spatial Objects.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2629333";0
+journals/tods/FanGJK08;article;2017-01-11;"Conditional functional dependencies for capturing data inconsistencies.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1366102.1366103";0
+journals/tods/Amer-YahiaC04;article;2006-02-09;"A declarative approach to optimize bulk loading into databases.";"";"2004";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1005566.1005567";0
+journals/tods/Al-SuwaiyelH84;article;2017-03-30;"Algorithms for Trie Compaction.";"";"1984";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/329.295";0
+journals/tods/Schlageter78;article;2012-01-25;"Process Synchronization in Database Systems.";"";"1978";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320263.320279";0
+journals/tods/IvanovaKNG10;article;2017-01-11;"An architecture for recycling intermediates in a column-store.";"";"2010";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1862919.1862921";0
+journals/tods/RabittiBKW91;article;2017-03-30;"A Model of Authorization for Next-Generation Database Systems.";"";"1991";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/103140.103144";0
+journals/tods/SalemGS94;article;2012-01-25;"Altruistic Locking.";"";"1994";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/174638.174639";0
+journals/tods/YaoDT76;article;2012-01-25;"A Dynamic Database Reorganization Algorithm.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320455.320467";0
+journals/tods/Malvestuto14;article;2015-04-29;"A Join-Like Operator to Combine Data Cubes and Answer Queries from Multiple Data Cubes.";"";"2014";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2638545";0
+journals/tods/DenningDS79;article;2017-03-30;"The Tracker: A Threat to Statistical Database Security.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320064.320069";0
+journals/tods/MarchSW81;article;2017-03-30;"Frame Memory: A Storage Architecture to Support Rapid Design and Implementation of Efficient Databases.";"";"1981";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319587.319598";0
+journals/tods/Rissanen77;article;2012-01-25;"Independent Components of Relations.";"";"1977";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320576.320580";0
+journals/tods/KatzW82;article;2017-03-30;"Decompiling CODASYL DML into Relational Queries.";"";"1982";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/319682.319688";0
+journals/tods/GaoZCCL11;article;2017-09-16;"Continuous nearest-neighbor search in the presence of obstacles.";"";"2011";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1966385.1966387";0
+journals/tods/CohenNS06;article;2006-08-21;"Rewriting queries with arbitrary aggregation functions using views.";"";"2006";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1138394.1138400";0
+journals/tods/BayerM76;article;2017-03-30;"On the Encipherment of Search Trees and Random Access Files.";"";"1976";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320434.320445";0
+journals/tods/LiPT12;article;2017-01-03;"WHAM: A High-Throughput Sequence Alignment Method.";"";"2012";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/2389241.2389247";0
+journals/tods/Ozsoyoglu08;article;2017-01-11;"Foreword to TODS SIGMOD/PODS/ICDT 2007 special issue.";"";"2008";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1412331.1412332";0
+journals/tods/ArenasPR09;article;2017-01-11;"The recovery of a schema mapping: Bringing exchanged data back.";"";"2009";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/1620585.1620589";0
+journals/tods/LockemannMWW79;article;2017-03-30;"Data Abstractions for Database Systems.";"";"1979";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/320064.320067";0
+journals/tods/Embley89;article;2017-03-30;"NFQL: The Natural Forms Query Language.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/63500.64125";0
+journals/tods/PaparrizosG17;article;2017-06-29;"Fast and Accurate Time-Series Clustering.";"";"2017";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/3044711";0
+journals/tods/BicH89;article;2017-03-30;"AGM: A Dataflow Database Machine.";"";"1989";"ACM Trans. Database Syst.";"http://doi.acm.org/10.1145/62032.62037";0

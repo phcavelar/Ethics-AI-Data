@@ -1,0 +1,24 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+journals/tissec/AonghusaL16;article;2017-06-14;"Don't Let Google Know I'm Lonely.";"";"2016";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2937754";0
+journals/tissec/OsterweilBCPSAC17;article;2017-06-23;"Iterative Analysis to Improve Key Properties of Critical Human-Intensive Processes: An Election Security Example.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3041041";0
+journals/tissec/MatsumotoRSKP17;article;2017-02-22;"Authentication Challenges in a Global Environment.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3007208";0
+journals/tissec/NoormanBMPMPVGM17;article;2017-08-29;"Sancus 2.0: A Low-Cost Security Architecture for IoT Devices.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3079763";0
+journals/tissec/MitropoulosSSK16;article;2016-11-22;"How to Train Your Browser: Preventing XSS Attacks Using Contextual Script Fingerprints.";"";"2016";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2939374";0
+journals/tissec/OzalpGNS16;article;2016-11-22;"Privacy-Preserving Publishing of Hierarchical Data.";"";"2016";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2976738";0
+journals/tissec/CheccoBL17;article;2017-09-16;"BLC: Private Matrix Factorization Recommenders via Automatic Group Learning.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3041760";0
+journals/tissec/ShokriTT17;article;2017-06-14;"Privacy Games Along Location Traces: A Game-Theoretic Framework for Optimizing Location Privacy.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3009908";0
+journals/tissec/RahbariniaPA16;article;2016-11-22;"Efficient and Accurate Behavior-Based Tracking of Malware-Control Domains in Large ISP Networks.";"";"2016";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2960409";0
+journals/tissec/ArgyrosPSKP17;article;2017-02-22;"Evaluating the Privacy Guarantees of Location Proximity Services.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3007209";0
+journals/tissec/HumbertAHT17;article;2017-02-22;"Quantifying Interdependent Risks in Genomic Privacy.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3035538";0
+journals/tissec/CramptonGGJW16;article;2016-11-22;"On the Workflow Satisfiability Problem with Class-Independent Constraints for Hierarchical Organizations.";"";"2016";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2988239";0
+journals/tissec/Wagner17;article;2017-02-22;"Evaluating the Strength of Genomic Privacy Metrics.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3020003";0
+journals/tissec/EberzRLM16;article;2016-11-22;"Looks Like Eve: Exposing Insider Threats Using Eye Movement Biometrics.";"";"2016";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2904018";0
+journals/tissec/GutierrezASAA16;article;2017-05-17;"Inhibiting and Detecting Offline Password Cracking Using ErsatzPasswords.";"";"2016";"ACM Trans. Priv. Secur.";"http://dl.acm.org/citation.cfm?id=2996457";0
+journals/tissec/ReavesBSBBTB17;article;2017-08-29;"Mo(bile) Money, Mo(bile) Problems: Analysis of Branchless Banking Applications.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3092368";0
+journals/tissec/MeutznerGNHK17;article;2017-02-22;"Toward Improved Audio CAPTCHAs Based on Auditory Perception and Language Understanding.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2856820";0
+journals/tissec/GarayKM16;article;2016-11-22;"MAC Precomputation with Applications to Secure Memory.";"";"2016";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2943780";0
+journals/tissec/Munoz-GonzalezS17;article;2017-09-05;"Efficient Attack Graph Analysis through Approximate Inference.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3105760";0
+journals/tissec/BrandenburgerCK17;article;2017-08-29;"Don't Trust the Cloud, Verify: Integrity and Consistency for Cloud Object Stores.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3079762";0
+journals/tissec/ToreiniSH17;article;2017-08-29;"Texture to the Rescue: Practical Paper Fingerprinting Based on Texture Patterns.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3092816";0
+journals/tissec/DongKC16;article;2016-11-22;"Detection of Rogue Certificates from Trusted Certificate Authorities Using Deep Neural Networks.";"";"2016";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/2975591";0
+journals/tissec/MartinovicRRT17;article;2017-06-23;"Pulse-Response: Exploring Human Body Impedance for Biometric Recognition.";"";"2017";"ACM Trans. Priv. Secur.";"http://doi.acm.org/10.1145/3064645";0

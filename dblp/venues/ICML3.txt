@@ -1,0 +1,167 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+conf/icml/MalioutovV13;inproceedings;2014-07-29;"Exact Rule Learning via Boolean Compressed Sensing.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/malioutov13.html";0
+conf/icml/Meng13;inproceedings;2013-11-19;"Scalable Simple Random Sampling and Stratified Sampling.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/meng13a.html";0
+conf/icml/LattimoreHS13;inproceedings;2013-11-19;"The Sample-Complexity of General Reinforcement Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/lattimore13.html";0
+conf/icml/GaoJZZ13;inproceedings;2013-11-19;"One-Pass AUC Optimization.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/gao13.html";0
+conf/icml/ChenCM13;inproceedings;2013-11-19;"Robust Sparse Regression under Adversarial Corruption.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/chen13h.html";0
+conf/icml/OgawaST13;inproceedings;2013-11-19;"Safe Screening of Non-Support Vectors in Pathwise SVM Computation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ogawa13b.html";0
+conf/icml/XuKHW13;inproceedings;2013-11-19;"Anytime Representation Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/xu13b.html";0
+conf/icml/ChenRBT13;inproceedings;2013-11-19;"Dependent Normalized Random Measures.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/chen13i.html";0
+conf/icml/SunZ13;inproceedings;2013-11-19;"Saving Evaluation Time for the Decision Function in Boosting: Representation and Reordering Base Learner.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/sun13.html";0
+conf/icml/0002YY13;inproceedings;2013-11-19;"Guaranteed Sparse Recovery under Linear Transformation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/liu13.html";0
+conf/icml/RamanJSS13;inproceedings;2017-07-12;"Stable Coactive Learning via Perturbation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/raman13.html";0
+conf/icml/YangX13;inproceedings;2013-11-19;"A Unified Robust Regression Model for Lasso-like Algorithms.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/yang13e.html";0
+conf/icml/DurrantK13;inproceedings;2013-11-19;"Sharp Generalization Error Bounds for Randomly-projected Classifiers.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/durrant13.html";0
+conf/icml/KarninKS13;inproceedings;2014-01-06;"Almost Optimal Exploration in Multi-Armed Bandits.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/karnin13.html";0
+conf/icml/DingRIS13;inproceedings;2013-11-19;"Topic Discovery through Data Dependent and Random Projections.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ding13.html";0
+conf/icml/KoppulaS13;inproceedings;2013-11-19;"Learning Spatio-Temporal Structure from RGB-D Videos for Human Activity Detection and Anticipation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/koppula13.html";0
+conf/icml/YiZJQJ13;inproceedings;2014-01-06;"Semi-supervised Clustering by Input Pattern Assisted Pairwise Similarity Matrix Completion.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/yi13.html";0
+conf/icml/PirottaRPC13;inproceedings;2013-11-19;"Safe Policy Iteration.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/pirotta13.html";0
+conf/icml/BroderickKJ13;inproceedings;2013-11-20;"MAD-Bayes: MAP-based Asymptotic Derivations from Bayes.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/broderick13.html";0
+conf/icml/ReddiP13;inproceedings;2013-11-19;"Scale Invariant Conditional Dependence Measures.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/jreddi13.html";0
+conf/icml/TangSH13;inproceedings;2013-11-19;"Tensor Analyzers.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/tang13.html";0
+conf/icml/DimitrakakisT13;inproceedings;2013-11-19;"ABC Reinforcement Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/dimitrakakis13.html";0
+conf/icml/DembczynskiJKWH13;inproceedings;2013-11-19;"Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/dembczynski13.html";0
+conf/icml/ZhangSMW13;inproceedings;2013-11-19;"Domain Adaptation under Target and Conditional Shift.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/zhang13d.html";0
+conf/icml/ZhangYJH13;inproceedings;2014-01-06;"O(logT) Projections for Stochastic Optimization of Smooth and Strongly Convex Functions.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/zhang13e.html";0
+conf/icml/Busa-FeketeSCWH13;inproceedings;2013-11-19;"Top-k Selection based on Adaptive Sampling of Noisy Preferences.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/busa-fekete13.html";0
+conf/icml/GoschinWL13;inproceedings;2013-11-19;"The Cross-Entropy Method Optimizes for Quantiles.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/goschin13.html";0
+conf/icml/0002T13;inproceedings;2013-11-19;"Differentially Private Learning with Kernels.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/jain13.html";0
+conf/icml/GeorgievN13;inproceedings;2013-11-19;"A non-IID Framework for Collaborative Filtering with Restricted Boltzmann Machines.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/georgiev13.html";0
+conf/icml/BiK13;inproceedings;2013-11-19;"Efficient Multi-label Classification with Many Labels.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/bi13.html";0
+conf/icml/DalalyanHMS13;inproceedings;2013-11-19;"Learning Heteroscedastic Models by Convex Programming under Group Sparsity.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/dalalyan13.html";0
+conf/icml/AppelFDP13;inproceedings;2014-07-01;"Quickly Boosting Decision Trees - Pruning Underachieving Features Early.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/appel13.html";0
+conf/icml/PapailiopoulosDK13;inproceedings;2013-11-19;"Sparse PCA through Low-rank Approximations.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/papailiopoulos13.html";0
+conf/icml/WangNH13a;inproceedings;2013-11-19;"Multi-View Clustering and Feature Learning via Structured Sparsity.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wang13c.html";0
+conf/icml/TarlowSCSZ13;inproceedings;2013-11-19;"Stochastic k-Neighborhood Selection for Supervised and Unsupervised Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/tarlow13.html";0
+conf/icml/Cheng13;inproceedings;2013-11-19;"Riemannian Similarity Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/cheng13.html";0
+conf/icml/JoulaniGS13;inproceedings;2013-11-19;"Online Learning under Delayed Feedback.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/joulani13.html";0
+conf/icml/YangLZ13;inproceedings;2013-11-19;"Multi-Task Learning with Gaussian Matrix Generalized Inverse Gaussian Model.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/yang13d.html";0
+conf/icml/SilverNBWM13;inproceedings;2013-11-19;"Concurrent Reinforcement Learning from Customer Interactions.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/silver13.html";0
+conf/icml/LevineK13;inproceedings;2013-11-19;"Guided Policy Search.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/levine13.html";0
+conf/icml/ZhouZS13;inproceedings;2013-11-19;"Learning Triggering Kernels for Multi-dimensional Hawkes Processes.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/zhou13.html";0
+conf/icml/AgrawalG13;inproceedings;2013-11-19;"Thompson Sampling for Contextual Bandits with Linear Payoffs.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/agrawal13.html";0
+conf/icml/SchaulZL13;inproceedings;2013-11-19;"No more pesky learning rates.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/schaul13.html";0
+conf/icml/CoatesHWWCN13;inproceedings;2016-07-12;"Deep learning with COTS HPC systems.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/coates13.html";0
+conf/icml/Gomez-RodriguezLS13;inproceedings;2013-11-19;"Modeling Information Propagation with Survival Theory.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/gomez-rodriguez13.html";0
+conf/icml/ChenC13;inproceedings;2013-11-19;"Spectral Compressed Sensing via Structured Matrix Completion.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/chen13g.html";0
+conf/icml/WangMF13;inproceedings;2017-08-08;"Adaptive Hamiltonian and Riemann Manifold Monte Carlo.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wang13e.html";0
+conf/icml/RossD13;inproceedings;2014-09-24;"Nonparametric Mixture of Gaussian Processes with Constraints.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ross13a.html";0
+conf/icml/PiresSG13;inproceedings;2016-07-13;"Cost-sensitive Multiclass Classification Risk Bounds.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/avilapires13.html";0
+conf/icml/DenilMF13;inproceedings;2013-11-19;"Consistency of Online Random Forests.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/denil13.html";0
+conf/icml/WilsonA13;inproceedings;2014-01-07;"Gaussian Process Kernels for Pattern Discovery and Extrapolation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wilson13.html";0
+conf/icml/ZhangYJLH13;inproceedings;2014-01-06;"Online Kernel Learning with a Near Optimal Sparsity Bound.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/zhang13c.html";0
+conf/icml/AlmingolML13;inproceedings;2013-11-19;"Learning Multiple Behaviors from Unlabeled Demonstrations in a Latent Controller Space.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/almingol13.html";0
+conf/icml/ToulisK13;inproceedings;2014-04-23;"Estimation of Causal Peer Influence Effects.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/toulis13.html";0
+conf/icml/ChagantyL13;inproceedings;2013-11-19;"Spectral Experts for Estimating Mixtures of Linear Regressions.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/tejasvichaganty13.html";0
+conf/icml/OgawaITS13;inproceedings;2013-11-19;"Infinitesimal Annealing for Training Semi-Supervised Support Vector Machines.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ogawa13a.html";0
+conf/icml/YoshiiTMG13;inproceedings;2013-11-19;"Infinite Positive Semidefinite Tensor Factorization for Source Separation of Mixture Signals.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/yoshii13.html";0
+conf/icml/QiG13;inproceedings;2013-11-19;"Message passing with l1 penalized KL minimization.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/qi13.html";0
+conf/icml/AhmedHS13;inproceedings;2013-11-19;"Nested Chinese Restaurant Franchise Process: Applications to User Tracking and Document Modeling.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ahmed13.html";0
+conf/icml/WangNH13;inproceedings;2013-11-19;"Robust and Discriminative Self-Taught Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wang13g.html";0
+conf/icml/YangMM13;inproceedings;2013-11-19;"Quantile Regression for Large-scale Applications.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/yang13f.html";0
+conf/icml/WeinshallLH13;inproceedings;2013-11-19;"LDA Topic Model with Soft Assignment of Descriptors to Words.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/weinshall13.html";0
+conf/icml/PascanuMB13;inproceedings;2013-11-19;"On the difficulty of training recurrent neural networks.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/pascanu13.html";0
+conf/icml/LeSS13;inproceedings;2013-11-20;"Fastfood - Computing Hilbert Space Expansions in loglinear time.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/le13.html";0
+conf/icml/BaktashmotlaghHBLS13;inproceedings;2013-11-19;"Non-Linear Stationary Subspace Analysis with Application to Video Classification.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/baktashmotlagh13.html";0
+conf/icml/ZweigW13;inproceedings;2013-11-19;"Hierarchical Regularization Cascade for Joint Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/zweig13.html";0
+conf/icml/ShenderL13;inproceedings;2013-11-19;"Computation-Risk Tradeoffs for Covariance-Thresholded Regression.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/shender13.html";0
+conf/icml/ChenLZ13;inproceedings;2013-11-19;"Optimistic Knowledge Gradient Policy for Optimal Budget Allocation in Crowdsourcing.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/chen13f.html";0
+conf/icml/ZemelWSPD13;inproceedings;2013-11-19;"Learning Fair Representations.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/zemel13.html";0
+conf/icml/IshtevaPS13;inproceedings;2013-11-19;"Unfolding Latent Tree Structures using 4th Order Tensors.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ishteva13.html";0
+conf/icml/LakshminarayananRT13;inproceedings;2013-11-19;"Top-down particle filtering for Bayesian decision trees.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/lakshminarayanan13.html";0
+conf/icml/HoXV13;inproceedings;2013-11-19;"On A Nonlinear Generalization of Sparse Coding and Dictionary Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ho13a.html";0
+conf/icml/SimsekliCY13;inproceedings;2013-11-19;"Learning the beta-Divergence in Tweedie Compound Poisson Matrix Factorization Models.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/simsekli13.html";0
+conf/icml/JiaVD13;inproceedings;2013-11-19;"On Compact Codes for Spatially Pooled Features.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/jia13.html";0
+conf/icml/TakacBRS13;inproceedings;2013-11-19;"Mini-Batch Primal and Dual Methods for SVMs.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/takac13.html";0
+conf/icml/SheldonSKD13;inproceedings;2013-11-19;"Approximate Inference in Collective Graphical Models.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/sheldon13.html";0
+conf/icml/SodomkaHLG13;inproceedings;2013-11-19;"Coco-Q: Learning in Stochastic Games with Side Payments.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/sodomka13.html";0
+conf/icml/LondonHTG13;inproceedings;2013-11-19;"Collective Stability in Structured Prediction: Generalization from One Example.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/london13.html";0
+conf/icml/KarS0K13;inproceedings;2013-11-19;"On the Generalization Ability of Online Learning Algorithms for Pairwise Loss Functions.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kar13.html";0
+conf/icml/BellemareVB13;inproceedings;2013-11-19;"Bayesian Learning of Recursively Factored Environments.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/bellemare13.html";0
+conf/icml/PeharzTP13;inproceedings;2013-11-19;"The Most Generative Maximum Margin Bayesian Networks.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/peharz13.html";0
+conf/icml/FriedlandJL13;inproceedings;2016-08-11;"Copy or Coincidence? A Model for Detecting Social Influence and Duplication Events.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/friedland13.html";0
+conf/icml/NiuJDHS13;inproceedings;2013-11-19;"Squared-loss Mutual Information Regularization: A Novel Information-theoretic Approach to Semi-supervised Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/niu13.html";0
+conf/icml/BryanM13;inproceedings;2013-11-19;"An Efficient Posterior Regularized Latent Variable Model for Interactive Sound Source Separation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/bryan13.html";0
+conf/icml/MineiroK13;inproceedings;2013-11-19;"Loss-Proportional Subsampling for Subsequent ERM.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/mineiro13.html";0
+conf/icml/KhanAFS13;inproceedings;2015-05-06;"Fast Dual Variational Inference for Non-Conjugate Latent Gaussian Models.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/emtiyazkhan13.html";0
+conf/icml/RichardBV13;inproceedings;2013-11-19;"Intersecting singularities for multi-structured estimation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/richard13.html";0
+conf/icml/YuLKJC13;inproceedings;2017-08-16;"\(\propto\)SVM for Learning with Label Proportions.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/yu13a.html";0
+conf/icml/VladymyrovC13;inproceedings;2013-11-19;"Entropic Affinities: Properties and Efficient Numerical Computation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/vladymyrov13.html";0
+conf/icml/ChuangGMH13;inproceedings;2013-11-20;"Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/chuang13.html";0
+conf/icml/GuptaAM13;inproceedings;2013-11-19;"Natural Image Bases to Represent Neuroimaging Data.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/gupta13b.html";0
+conf/icml/CurtinMRAGI13;inproceedings;2013-11-19;"Tree-Independent Dual-Tree Algorithms.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/curtin13.html";0
+conf/icml/WangWBLT13;inproceedings;2013-11-19;"Max-Margin Multiple-Instance Dictionary Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wang13d.html";0
+conf/icml/SeijenS13;inproceedings;2013-11-20;"Planning by Prioritized Sweeping with Small Backups.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/vanseijen13.html";0
+conf/icml/GittensM13;inproceedings;2013-11-19;"Revisiting the Nystrom method for improved large-scale machine learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/gittens13.html";0
+conf/icml/KraehenbuehlK13;inproceedings;2013-11-20;"Parameter Learning and Convergent Inference for Dense Random Fields.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kraehenbuehl13.html";0
+conf/icml/GerasS13;inproceedings;2013-11-19;"Multiple-source cross-validation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/geras13.html";0
+conf/icml/NguyenS13;inproceedings;2013-11-19;"Algorithms for Direct 0-1 Loss Optimization in Binary Classification.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/nguyen13a.html";0
+conf/icml/XuZZ13;inproceedings;2013-11-19;"Fast Max-Margin Matrix Factorization with Data Augmentation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/xu13a.html";0
+conf/icml/GoodfellowWMCB13;inproceedings;2013-11-19;"Maxout Networks.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/goodfellow13.html";0
+conf/icml/JoseGAV13;inproceedings;2013-11-19;"Local Deep Kernel Learning for Efficient Non-linear SVM Prediction.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/jose13.html";0
+conf/icml/MenonNAC13;inproceedings;2014-06-17;"On the Statistical Consistency of Algorithms for Binary Classification under Class Imbalance.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/menon13a.html";0
+conf/icml/AilonCX13;inproceedings;2013-11-19;"Breaking the Small Cluster Barrier of Graph Clustering.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ailon13.html";0
+conf/icml/GonenKK13;inproceedings;2013-11-19;"Kernelized Bayesian Matrix Factorization.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/gonen13a.html";0
+conf/icml/SabatoK13;inproceedings;2013-11-19;"Feature Multi-Selection among Subjective Features.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/sabato13.html";0
+conf/icml/RastegariCFHD13;inproceedings;2014-06-13;"Predictable Dual-View Hashing.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/rastegari13.html";0
+conf/icml/ReedG13;inproceedings;2013-11-19;"Scaling the Indian Buffet Process via Submodular Maximization.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/reed13.html";0
+conf/icml/HomrighausenM13;inproceedings;2014-09-02;"The lasso, persistence, and cross-validation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/homrighausen13.html";0
+conf/icml/JancsaryNR13;inproceedings;2013-11-19;"Learning Convex QP Relaxations for Structured Prediction.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/jancsary13.html";0
+conf/icml/WanZZLF13;inproceedings;2013-11-19;"Regularization of Neural Networks using DropConnect.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wan13.html";0
+conf/icml/CortesMR13;inproceedings;2013-11-19;"Multi-Class Classification with Maximum Margin Multiple Kernel.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/cortes13.html";0
+conf/icml/KamyshanskaM13;inproceedings;2013-11-19;"On autoencoder scoring.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kamyshanska13.html";0
+conf/icml/KontorovichNW13;inproceedings;2013-11-19;"On learning parametric-output HMMs.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kontorovich13.html";0
+conf/icml/MengM13;inproceedings;2013-11-19;"Robust Regression on MapReduce.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/meng13b.html";0
+conf/icml/GermainHLM13;inproceedings;2013-11-19;"A PAC-Bayesian Approach for Domain Adaptation with Specialization to Linear Classifiers.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/germain13.html";0
+conf/icml/HwangGS13;inproceedings;2013-11-19;"Analogy-preserving Semantic Embedding for Visual Object Categorization.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/juhwang13.html";0
+conf/icml/Cho13;inproceedings;2013-11-19;"Simple Sparsification Improves Sparse Denoising Autoencoders in Denoising Highly Corrupted Images.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/cho13.html";0
+conf/icml/AndrewABL13;inproceedings;2015-03-16;"Deep Canonical Correlation Analysis.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/andrew13.html";0
+conf/icml/BalcanBM13;inproceedings;2013-11-19;"Exploiting Ontology Structures and Unlabeled Data for Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/balcan13a.html";0
+conf/icml/GopiN0N13;inproceedings;2013-11-19;"One-Bit Compressed Sensing: Provable Support and Vector Recovery.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/gopi13.html";0
+conf/icml/OlivaPS13;inproceedings;2013-12-04;"Distribution to Distribution Regression.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/oliva13.html";0
+conf/icml/TeschSC13;inproceedings;2013-11-19;"Expensive Function Optimization with Stochastic Binary Outcomes.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/tesch13.html";0
+conf/icml/Izbicki13;inproceedings;2013-11-19;"Algebraic classifiers: a generic approach to fast cross-validation, online training, and parallel training.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/izbicki13.html";0
+conf/icml/WytockK13;inproceedings;2013-11-19;"Sparse Gaussian Conditional Random Fields: Algorithms, Theory, and Application to Energy Forecasting.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wytock13.html";0
+conf/icml/WangK13;inproceedings;2013-11-19;"A Fast and Exact Energy Minimization Algorithm for Cycle MRFs.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wang13f.html";0
+conf/icml/Romera-ParedesABP13;inproceedings;2013-11-19;"Multilinear Multitask Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/romera-paredes13.html";0
+conf/icml/WauthierJJ13;inproceedings;2013-11-19;"Efficient Ranking from Pairwise Comparisons.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wauthier13.html";0
+conf/icml/DekelH13;inproceedings;2013-11-19;"Better Rates for Any Adversarial Deterministic MDP.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/dekel13.html";0
+conf/icml/GrosshansSBS13;inproceedings;2013-11-19;"Bayesian Games for Adversarial Regression Problems.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/grosshans13.html";0
+conf/icml/Mairal13;inproceedings;2013-11-19;"Optimization with First-Order Surrogate Functions.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/mairal13.html";0
+conf/icml/ZhuLM13;inproceedings;2013-11-19;"A Local Algorithm for Finding Well-Connected Clusters.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/allenzhu13.html";0
+conf/icml/ChenZW13;inproceedings;2014-09-24;"Fast Image Tagging.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/chen13j.html";0
+conf/icml/HerlauMS13;inproceedings;2013-11-20;"Modeling Temporal Evolution and Multiscale Structure in Networks.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/herlau13.html";0
+conf/icml/KolarLX13;inproceedings;2013-11-19;"Markov Network Estimation From Multi-attribute Data.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kolar13a.html";0
+conf/icml/BrechtelGD13;inproceedings;2013-11-19;"Solving Continuous POMDPs: Value Iteration with Incremental Learning of an Efficient Space Representation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/brechtel13.html";0
+conf/icml/ErolLRR13;inproceedings;2013-11-19;"The Extended Parameter Filter.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/bugraerol13.html";0
+conf/icml/JunZSR13;inproceedings;2013-11-19;"Learning from Human-Generated Lists.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/jun13.html";0
+conf/icml/ZhangZWKYM13;inproceedings;2017-09-06;"Covariate Shift in Hilbert Space: A Solution via Sorrogate Kernels.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/zhang13b.html";0
+conf/icml/ChattopadhyayFDPY13;inproceedings;2013-11-19;"Joint Transfer and Batch-mode Active Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/chattopadhyay13.html";0
+conf/icml/DuvenaudLGTG13;inproceedings;2014-01-06;"Structure Discovery in Nonparametric Regression through Compositional Kernel Search.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/duvenaud13.html";0
+conf/icml/HockingRVB13;inproceedings;2015-05-06;"Learning Sparse Penalties for Change-point Detection using Max Margin Interval Regression.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/hocking13.html";0
+conf/icml/KuzborskijO13;inproceedings;2013-11-19;"Stability and Hypothesis Transfer Learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kuzborskij13.html";0
+conf/icml/IyerJB13;inproceedings;2015-05-07;"Fast Semidifferential-based Submodular Function Optimization.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/iyer13.html";0
+conf/icml/RossZYDB13;inproceedings;2013-11-19;"Learning Policies for Contextual Submodular Prediction.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/ross13b.html";0
+conf/icml/LongS13;inproceedings;2013-11-19;"Consistency versus Realizable H-Consistency for Multiclass Classification.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/long13.html";0
+conf/icml/Lopes13;inproceedings;2013-11-19;"Estimating Unknown Sparsity in Compressed Sensing.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/lopes13.html";0
+conf/icml/Kuleshov13;inproceedings;2013-11-19;"Fast algorithms for sparse principal component analysis based on Rayleigh quotient iteration.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kuleshov13.html";0
+conf/icml/WuHG13;inproceedings;2013-11-19;"Dynamic Covariance Models for Multivariate Financial Time Series.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/wu13.html";0
+conf/icml/MemisevicE13;inproceedings;2013-11-19;"Learning invariant features by harnessing the aperture problem.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/memisevic13.html";0
+conf/icml/HuangS13;inproceedings;2013-11-19;"Spectral Learning of Hidden Markov Models from Dynamic and Static Data.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/huang13.html";0
+conf/icml/Agarwal13;inproceedings;2013-11-19;"Selective sampling algorithms for cost-sensitive multiclass prediction.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/agarwal13.html";0
+conf/icml/KimS13;inproceedings;2013-11-19;"Manifold Preserving Hierarchical Topic Models for Quantization and Approximation.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kim13a.html";0
+conf/icml/KalaitzisLLZ13;inproceedings;2013-11-19;"The Bigraphical Lasso.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kalaitzis13.html";0
+conf/icml/CovielloMCL13;inproceedings;2013-11-19;"That was fast! Speeding up NN search of high dimensional distributions.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/coviello13.html";0
+conf/icml/Cuturid13;inproceedings;2013-11-19;"Mean Reversion with a Variance Threshold.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/cuturi13.html";0
+conf/icml/SongIPXP13;inproceedings;2013-11-19;"Hierarchical Tensor Decomposition of Latent Tree Graphical Models.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/song13.html";0
+conf/icml/SutskeverMDH13;inproceedings;2013-11-19;"On the importance of initialization and momentum in deep learning.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/sutskever13.html";0
+conf/icml/TamarCM13;inproceedings;2013-11-19;"Temporal Difference Methods for the Variance of the Reward To Go.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/tamar13.html";0
+conf/icml/KolmogorovT13;inproceedings;2014-03-25;"Inference algorithms for pattern-based CRFs on sequence data.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/kolmogorov13.html";0
+conf/icml/ZhangHSL13;inproceedings;2016-04-22;"MILEAGE: Multiple Instance LEArning with Global Embedding.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/zhang13a.html";0
+conf/icml/GrunewalderAS13;inproceedings;2013-11-22;"Smooth Operators.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/grunewalder13.html";0
+conf/icml/HonorioJ13;inproceedings;2015-05-15;"Two-Sided Exponential Concentration Bounds for Bayes Error Rate and Shannon Entropy.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/honorio13.html";0
+conf/icml/Chatzis13;inproceedings;2013-11-19;"Infinite Markov-Switching Maximum Entropy Discrimination Machines.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/chatzis13.html";0
+conf/icml/GuptaPV13;inproceedings;2017-03-07;"Factorial Multi-Task Learning : A Bayesian Nonparametric Approach.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/gupta13a.html";0
+conf/icml/GensD13;inproceedings;2014-12-10;"Learning the Structure of Sum-Product Networks.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/gens13.html";0
+conf/icml/BalasubramanianYL13;inproceedings;2013-11-19;"Smooth Sparse Coding via Marginal Regression for Learning Sparse Representations.";"ICML (3)";"2013";"";"http://jmlr.org/proceedings/papers/v28/balasubramanian13.html";0

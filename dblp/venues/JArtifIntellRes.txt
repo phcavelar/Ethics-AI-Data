@@ -1,0 +1,973 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+journals/jair/IhrigK97;article;2017-06-21;"Storing and Indexing Plan Derivations through Explanation-based Analysis of Retrieval Failures.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.424";0
+journals/jair/LeisinkK03;article;2017-06-21;"Bound Propagation.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1130";0
+journals/jair/Edelkamp03;article;2017-06-21;"Taming Numbers and Durations in the Model Checking Integrated Planning System.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1302";0
+journals/jair/LangLM03;article;2017-06-21;"Propositional Independence: Formula-Variable Independence and Forgetting.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1113";0
+journals/jair/HutterHLS09;article;2017-06-21;"ParamILS: An Automatic Algorithm Configuration Framework.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2861";0
+journals/jair/GujarN11;article;2017-06-21;"Redistribution Mechanisms for Assignment of Heterogeneous Objects.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3225";0
+journals/jair/RossiMAN12;article;2017-06-21;"Transforming Graph Data for Statistical Relational Learning.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3659";0
+journals/jair/ChaiPQ06;article;2017-06-21;"Cognitive Principles in Robust Multimodal Interpretation.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1936";0
+journals/jair/CaroD98;article;2017-06-21;"AntNet: Distributed Stigmergetic Control for Communications Networks.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.530";0
+journals/jair/CiglerF14;article;2017-06-21;"Symmetric Subgame-Perfect Equilibria in Resource Allocation.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4166";0
+journals/jair/HillD07;article;2017-06-21;"A Framework for Kernel-Based Multi-Category Classification.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2251";0
+journals/jair/Ortega95;article;2017-06-21;"On the Informativeness of the DNA Promoter Sequences Domain Theory (Research Note).";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.161";0
+journals/jair/MillerPSK17;article;2017-06-21;"Logics of Common Ground.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5381";0
+journals/jair/RahwanRJG09;article;2017-06-21;"An Anytime Algorithm for Optimal Coalition Structure Generation.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2695";0
+journals/jair/XuL00;article;2017-06-21;"Exact Phase Transitions in Random Constraint Satisfaction Problems.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.696";0
+journals/jair/PistoreV07;article;2017-06-21;"The Planning Spectrum - One, Two, Three, Infinity.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1909";0
+journals/jair/PooleZ03;article;2017-06-21;"Exploiting Contextual Independence In Probabilistic Inference.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1122";0
+journals/jair/Jaeger05;article;2017-06-21;"Ignorability in Statistical and Probabilistic Inference.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1657";0
+journals/jair/HoshinoK12;article;2017-06-21;"Generating Approximate Solutions to the TTP using a Linear Distance Relaxation.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3713";0
+journals/jair/MeuleauBBHM09;article;2017-06-21;"A Heuristic Search Approach to Planning with Continuous Resources in Stochastic Domains.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2529";0
+journals/jair/YilmazS06;article;2017-06-21;"Causes of Ineradicable Spurious Predictions in Qualitative Simulation.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2065";0
+journals/jair/GentJN17;article;2017-09-16;"Complexity of n-Queens Completion.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5512";0
+journals/jair/BoothM06;article;2017-06-21;"Admissible and Restrained Revision.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1874";0
+journals/jair/KeijzerKZ14;article;2017-06-21;"Finding Optimal Solutions for Voting Game Design Problems.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4109";0
+journals/jair/VandegriendC98;article;2017-06-21;"The Gn, m Phase Transition is Not Hard for the Hamiltonian Cycle Problem.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.512";0
+journals/jair/DomshlakHS09;article;2017-06-21;"Friends or Foes? On Planning as Satisfiability and Abstract CNF Encodings.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2817";0
+journals/jair/David95;article;2017-06-21;"Using Pivot Consistency to Decompose and Solve Functional CSPs.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.167";0
+journals/jair/RankoohG15;article;2017-06-21;"ITSAT: An Efficient SAT-Based Temporal Planner.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4697";0
+journals/jair/AshlagiMT08;article;2017-06-21;"On the Value of Correlation.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2588";0
+journals/jair/Gent13;article;2017-06-21;"Optimal Implementation of Watched Literals and More General Techniques.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4016";0
+journals/jair/MauaCBA14;article;2017-06-21;"Probabilistic Inference in Credal Networks: New Complexity Results.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4355";0
+journals/jair/DixonGHLP05;article;2017-06-21;"Generalizing Boolean Satisfiability III: Implementation.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1656";0
+journals/jair/Turney95;article;2017-06-21;"Cost-Sensitive Classification: Empirical Evaluation of a Hybrid Genetic Decision Tree Induction Algorithm.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.120";0
+journals/jair/LiuL08;article;2017-06-21;"On the Expressiveness of Levesque's Normal Form.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2428";0
+journals/jair/Barber00;article;2017-06-21;"Reasoning on Interval and Point-based Disjunctive Metric Constraints in Temporal Contexts.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.693";0
+journals/jair/BelardinelliLP14;article;2017-06-21;"Verification of Agent-Based Artifact Systems.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4424";0
+journals/jair/DubbaCHBD15;article;2017-06-21;"Learning Relational Event Models from Video.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4395";0
+journals/jair/ZaffalonM09;article;2017-06-26;"Conservative Inference Rule for Uncertain Reasoning under Incompleteness.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2736";0
+journals/jair/FatimaWJ06;article;2017-06-21;"Multi-Issue Negotiation with Deadlines.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2056";0
+journals/jair/CooperMR14;article;2017-06-21;"Monotone Temporal Planning: Tractability, Extensions and Applications.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4358";0
+journals/jair/Crandall14;article;2017-06-21;"Towards Minimizing Disappointment in Repeated Games.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4202";0
+journals/jair/Halpern97;article;2017-06-21;"Defining Relative Likelihood in Partially-Ordered Structures.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.391";0
+journals/jair/KumarZT15;article;2017-06-21;"Probabilistic Inference Techniques for Scalable Multiagent Decision Making.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4649";0
+journals/jair/RiveraIBH14;article;2017-06-21;"Reconnection with the Ideal Tree: A New Approach to Real-Time Search.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4292";0
+journals/jair/GrunwaldH11;article;2017-06-21;"Making Decisions Using Sets of Probabilities: Updating, Time Consistency, and Calibration.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3374";0
+journals/jair/ChawlaK05;article;2017-06-21;"Learning From Labeled And Unlabeled Data: An Empirical Study Across Techniques And Domains.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1509";0
+journals/jair/FaliszewskiHH11;article;2017-06-21;"Multimode Control Attacks on Elections.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3136";0
+journals/jair/HokiK14;article;2017-06-21;"Large-Scale Optimization for Evaluation Functions with Minimax Search.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4217";0
+journals/jair/EiterFS16;article;2017-06-21;"Computing Repairs of Inconsistent DL-Programs over EL Ontologies.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5047";0
+journals/jair/DeagustiniMFS16;article;2017-06-21;"Datalog+- Ontology Consolidation.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5131";0
+journals/jair/AnalytiADW08;article;2017-06-21;"Extended RDF as a Semantic Foundation of Rule Markup Languages.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2425";0
+journals/jair/GerdingDBJ08;article;2017-06-21;"Optimal Strategies for Simultaneous Vickrey Auctions with Perfect Substitutes.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2544";0
+journals/jair/DrakengrenJ97;article;2017-06-21;"Eight Maximal Tractable Subclasses of Allen's Algebra with Metric Time.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.340";0
+journals/jair/Quinlan96a;article;2017-06-21;"Learning First-Order Definitions of Functions.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.308";0
+journals/jair/CohnGJ96;article;2017-06-21;"Active Learning with Statistical Models.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.295";0
+journals/jair/LuSG11;article;2017-06-21;"Policy Invariance under Reward Transformations for General-Sum Stochastic Games.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3384";0
+journals/jair/DresnerS08;article;2017-06-21;"A Multiagent Approach to Autonomous Intersection Management.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2502";0
+journals/jair/BrandtG16;article;2017-06-21;"Finding Strategyproof Social Choice Functions via SAT Solving.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4959";0
+journals/jair/ZhangZ08;article;2017-06-21;"An Ordinal Bargaining Solution with Fixed-Point Property.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2656";0
+journals/jair/CohnLLR14;article;2017-06-21;"Reasoning about Topological and Cardinal Direction Relations Between 2-Dimensional Spatial Objects.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4513";0
+journals/jair/ChenCD14;article;2017-06-21;"Algorithms and Applications for the Same-Decision Probability.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4218";0
+journals/jair/WilkinsLB03;article;2017-06-21;"Interactive Execution Monitoring of Agent Teams.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1112";0
+journals/jair/BienvenuOS15;article;2017-06-21;"Regular Path Queries in Lightweight Description Logics: Complexity and Algorithms.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4577";0
+journals/jair/DonohoR95;article;2017-06-21;"Rerepresenting and Restructuring Domain Theories: A Constructive Induction Approach.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.129";0
+journals/jair/SebastianiV09;article;2017-06-21;"Automated Reasoning in Modal and Description Logics via SAT Encoding: the Case Study of K(m)/ALC-Satisfiability.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2675";0
+journals/jair/JannachSS16;article;2017-06-21;"Parallel Model-Based Diagnosis on Multi-Core Computers.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5001";0
+journals/jair/KoppelFS94;article;2017-06-21;"Bias-Driven Revision of Logical Domain Theories.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.27";0
+journals/jair/CatDBS15;article;2017-06-21;"Lazy Model Expansion: Interleaving Grounding with Search.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4591";0
+journals/jair/KonevL0W12;article;2017-06-21;"The Logical Difference for the Lightweight Description Logic EL.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3552";0
+journals/jair/Ginsberg93;article;2017-06-21;"Dynamic Backtracking.";"";"1993";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1";0
+journals/jair/HunterD11;article;2017-06-21;"Iterated Belief Change Due to Actions and Observations.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3132";0
+journals/jair/GangeSL10;article;2017-06-21;"Fast Set Bounds Propagation Using a BDD-SAT Hybrid.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3014";0
+journals/jair/Lopez-OrtizAH14;article;2017-06-21;"Optimal Scheduling of Contract Algorithms for Anytime Problem-Solving.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4360";0
+journals/jair/HaraborGOA16;article;2017-06-21;"Optimal Any-Angle Pathfinding In Practice.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5007";0
+journals/jair/BarretoPP14;article;2017-06-21;"Policy Iteration Based on Stochastic Factorization.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4301";0
+journals/jair/DerbekoEM04;article;2017-06-21;"Explicit Learning Curves for Transduction and Application to Clustering and Compression Algorithms.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1417";0
+journals/jair/BernsteinAHZ09;article;2017-06-21;"Policy Iteration for Decentralized Control of Markov Decision Processes.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2667";0
+journals/jair/Ryan08;article;2017-06-21;"Exploiting Subgraph Structure in Multi-Robot Path Planning.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2408";0
+journals/jair/PadoL09;article;2017-06-21;"Cross-lingual Annotation Projection for Semantic Roles.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2863";0
+journals/jair/BeameKS04;article;2017-06-21;"Towards Understanding and Harnessing the Potential of Clause Learning.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1410";0
+journals/jair/ProcacciaR07;article;2017-06-21;"Junta Distributions and the Average-Case Complexity of Manipulating Elections.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2148";0
+journals/jair/KurlandK11;article;2017-06-21;"The Opposite of Smoothing: A Language Model Approach to Ranking Query-Specific Document Clusters.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3327";0
+journals/jair/HunterD15;article;2017-06-21;"Belief Change with Uncertain Action Histories.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4558";0
+journals/jair/TaghizadehF16;article;2017-06-21;"Automatic Wordnet Development for Low-Resource Languages using Cross-Lingual WSD.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4968";0
+journals/jair/DelgrandeJP08;article;2017-06-21;"Compositional Belief Update.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2539";0
+journals/jair/Al-AniD02;article;2017-10-05;"A New Technique for Combining Multiple Classifiers using The Dempster-Shafer Theory of Evidence.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1026";0
+journals/jair/Lukasiewicz99;article;2017-06-21;"Probabilistic Deduction with Conditional Constraints over Basic Events.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.577";0
+journals/jair/QazvinianRMDZWM13;article;2017-06-21;"Generating Extractive Summaries of Scientific Paradigms.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3732";0
+journals/jair/RibeiroM11;article;2017-06-21;"Centrality-as-Relevance: Support Sets and Similarity as Geometric Proximity.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3387";0
+journals/jair/RobuGSPRJ13;article;2017-06-21;"An Online Mechanism for Multi-Unit Demand and its Application to Plug-in Hybrid Electric Vehicle Charging.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4064";0
+journals/jair/FelzenszwalbM07;article;2017-06-21;"The Generalized A* Architecture.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2187";0
+journals/jair/BarberL99;article;2017-06-21;"Variational Cumulant Expansions for Intractable Distributions.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.567";0
+journals/jair/GabrilovichM09;article;2017-06-21;"Wikipedia-based Semantic Interpretation for Natural Language Processing.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2669";0
+journals/jair/ZhouGNKH15;article;2017-06-21;"PAGOdA: Pay-As-You-Go Ontology Query Answering Using a Datalog Reasoner.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4757";0
+journals/jair/JagerZ10;article;2017-06-21;"An Effective Algorithm for and Phase Transitions of the Directed Hamiltonian Cycle Problem.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3109";0
+journals/jair/ScerriPT02;article;2017-06-21;"Towards Adjustable Autonomy for the Real World.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1037";0
+journals/jair/XiaC11;article;2017-06-21;"Determining Possible and Necessary Winners Given Partial Orders.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3186";0
+journals/jair/SteinmetzHB16;article;2017-06-21;"Goal Probability Analysis in Probabilistic Planning: Exploring and Enhancing the State of the Art.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5153";0
+journals/jair/ArtaleF98;article;2017-06-21;"A Temporal Description Logic for Reasoning about Actions and Plans.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.516";0
+journals/jair/BackstromJJ14;article;2017-06-21;"Automaton Plans.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4391";0
+journals/jair/ReiterSR03;article;2017-06-21;"Acquiring Correct Knowledge for Natural Language Generation.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1176";0
+journals/jair/XuS10;article;2017-06-21;"Intrusion Detection using Continuous Time Bayesian Networks.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3050";0
+journals/jair/Campos96;article;2017-06-21;"Characterizations of Decomposable Dependency Models (Research Note).";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.329";0
+journals/jair/JurcaF07;article;2017-06-21;"Obtaining Reliable Feedback for Sanctioning Reputation Mechanisms.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2243";0
+journals/jair/FaberTW13;article;2017-06-21;"Strong Equivalence of Qualitative Optimization Problems.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3991";0
+journals/jair/FeldmanD14;article;2017-06-21;"Simple Regret Optimization in Online Planning for Markov Decision Processes.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4432";0
+journals/jair/AmbiteK01;article;2017-06-21;"Planning by Rewriting.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.754";0
+journals/jair/ChocklerH04;article;2017-06-21;"Responsibility and Blame: A Structural-Model Approach.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1391";0
+journals/jair/RosaJFB11;article;2017-06-21;"Scaling up Heuristic Planning with Relational Decision Trees.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3231.html";0
+journals/jair/RichterW10;article;2017-06-21;"The LAMA Planner: Guiding Cost-Based Anytime Planning with Landmarks.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2972";0
+journals/jair/ColesS07;article;2017-06-21;"Marvin: A Heuristic Search Planner with Online Macro-Action Learning.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2077";0
+journals/jair/PonzettoS07;article;2017-06-21;"Knowledge Derived From Wikipedia For Computing Semantic Relatedness.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2308";0
+journals/jair/GrinshpounT16;article;2017-06-21;"P-SyncBB: A Privacy Preserving Branch and Bound DCOP Algorithm.";"";"2016";"J. Artif. Intell. Res.";"http://jair.org/papers/paper5322.html";0
+journals/jair/WalkerSMP07;article;2017-06-21;"Individual and Domain Adaptation in Sentence Planning for Dialogue.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2329";0
+journals/jair/BellemareNVB13;article;2017-06-21;"The Arcade Learning Environment: An Evaluation Platform for General Agents.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3912";0
+journals/jair/Litman96;article;2017-06-21;"Cue Phrase Classification Using Machine Learning.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.327";0
+journals/jair/BrombergMH09;article;2017-06-21;"Efficient Markov Network Structure Discovery Using Independence Tests.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2773";0
+journals/jair/ArieliDNB04;article;2017-06-21;"Coherent Integration of Databases by Abductive Logic Programming.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1322";0
+journals/jair/Engelfriet98;article;2017-06-21;"Monotonicity and Persistence in Preferential Logics.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.461";0
+journals/jair/Marchiori96;article;2017-06-21;"Practical Methods for Proving Termination of General Logic Programs.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.198";0
+journals/jair/Varzinczak10;article;2017-06-21;"On Action Theory Change.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2959";0
+journals/jair/BrafmanDS06;article;2017-06-21;"On Graphical Modeling of Preference and Importance.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1895";0
+journals/jair/CohnL09;article;2017-06-21;"Sentence Compression as Tree Transduction.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2655";0
+journals/jair/GuoMAC13;article;2017-06-21;"Undominated Groves Mechanisms.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3810";0
+journals/jair/CookH94;article;2017-06-21;"Substructure Discovery Using Minimum Description Length and Background Knowledge.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.43";0
+journals/jair/CayrolL05;article;2017-06-21;"Graduality in Argumentation.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1411";0
+journals/jair/Dao-TranEFK15;article;2017-06-21;"Distributed Evaluation of Nonmonotonic Multi-context Systems.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4574";0
+journals/jair/Hong01;article;2017-08-18;"Goal Recognition through Goal Graph Analysis.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.830";0
+journals/jair/BroggiB95;article;2017-06-21;"Vision-Based Road Detection in Automotive Systems: A Real-Time Expectation-Driven Approach.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.185";0
+journals/jair/Argamon-EngelsonK98;article;2017-06-21;"Tractability of Theory Patching.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.438";0
+journals/jair/HanCB14;article;2017-06-21;"Text-Based Twitter User Geolocation Prediction.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4200";0
+journals/jair/SavickyK16;article;2017-06-21;"Generating Models of a Matched Formula With a Polynomial Delay.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4989";0
+journals/jair/AtseriasFT11;article;2017-06-21;"Clause-Learning Algorithms with Many Restarts and Bounded-Width Resolution.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3152";0
+journals/jair/BranavanSB12;article;2017-06-21;"Learning to Win by Reading Manuals in a Monte-Carlo Framework.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3484";0
+journals/jair/ChienSM99;article;2017-06-21;"Efficient Heuristic Hypothesis Ranking.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.615";0
+journals/jair/KashFH11;article;2017-06-21;"Multiagent Learning in Large Anonymous Games.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3213";0
+journals/jair/HeckermanS95;article;2017-06-21;"Decision-Theoretic Foundations for Causal Reasoning.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.202";0
+journals/jair/WuAPL14;article;2017-06-21;"Inapproximability of Treewidth and Related Problems.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4030";0
+journals/jair/WolpertB13;article;2017-06-21;"Predicting Behavior in Unstructured Bargaining with a Probability Distribution.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3662";0
+journals/jair/Tennenholtz02;article;2017-06-21;"Competitive Safety Analysis: Robust Decision-Making in Multi-Agent Systems.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1065";0
+journals/jair/Rosati99;article;2017-06-21;"Reasoning about Minimal Belief and Negation as Failure.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.637";0
+journals/jair/Schrodl05;article;2017-06-21;"An Improved Search Algorithm for Optimal Multiple-Sequence Alignment.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1534";0
+journals/jair/Carden14;article;2017-06-21;"Convergence of a Q-learning Variant for Continuous States and Actions.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4271";0
+journals/jair/WangHS11;article;2017-06-21;"A Probabilistic Approach for Maintaining Trust Based on Evidence.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3108";0
+journals/jair/DelcherGKP96;article;2017-06-21;"Logarithmic-Time Updates and Queries in Probabilistic Networks.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.238";0
+journals/jair/PapadopoulosVG11;article;2017-06-21;"Regression Conformal Prediction with Nearest Neighbours.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3198.html";0
+journals/jair/MazerAB98;article;2017-06-21;"The Ariadne's Clew Algorithm.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.468";0
+journals/jair/WangZZZ14;article;2017-06-21;"Knowledge Forgetting in Answer Set Programming.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4297";0
+journals/jair/Beck07;article;2017-06-21;"Solution-Guided Multi-Point Constructive Search for Job Shop Scheduling.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2169";0
+journals/jair/VenessNHUS11;article;2017-09-16;"A Monte-Carlo AIXI Approximation.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3125";0
+journals/jair/SiddiquiH15;article;2017-06-21;"Continuing Plan Quality Optimisation.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4980";0
+journals/jair/Buntine94;article;2017-06-21;"Operations for Learning with Graphical Models.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.62";0
+journals/jair/MirroshandelG12;article;2017-06-21;"Towards Unsupervised Learning of Temporal Relations between Events.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3693";0
+journals/jair/Geffner03;article;2017-06-21;"PDDL 2.1: Representation vs. Computation.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1995";0
+journals/jair/RoijersWO15;article;2017-06-21;"Computing Convex Coverage Sets for Faster Multi-objective Coordination.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4550";0
+journals/jair/WalshW03;article;2017-06-21;"Decentralized Supply Chain Formation: A Market Protocol and Competitive Equilibrium Analysis.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1213";0
+journals/jair/ChengD00;article;2017-06-21;"AIS-BN: An Adaptive Importance Sampling Algorithm for Evidential Reasoning in Large Bayesian Networks.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.764";0
+journals/jair/JonssonD97;article;2017-06-21;"A Complete Classification of Tractability in RCC-5.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.379";0
+journals/jair/MetodiSKC14;article;2017-06-21;"A Novel SAT-Based Approach to Model Based Diagnosis.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4503";0
+journals/jair/Ben-Eliyahu96;article;2017-06-21;"A Hierarchy of Tractable Subsets for Computing Stable Models.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.223";0
+journals/jair/BanerjeeC10;article;2017-06-21;"A Constraint Satisfaction Framework for Executing Perceptions and Actions in Diagrammatic Reasoning.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3069";0
+journals/jair/VieiraMWB07;article;2017-06-21;"On the Formal Semantics of Speech-Act Based Communication in an Agent-Oriented Programming Language.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2221";0
+journals/jair/VelezHHPR12;article;2017-06-21;"Modelling Observation Correlations for Active Exploration and Robust Object Detection.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3516";0
+journals/jair/MicletBD08;article;2017-06-21;"Analogical Dissimilarity: Definition, Algorithms and Two Experiments in Machine Learning.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2519";0
+journals/jair/Turney12;article;2017-06-21;"Domain and Function: A Dual-Space Model of Semantic Relations and Compositions.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3640";0
+journals/jair/MausamW08;article;2017-06-21;"Planning with Durative Actions in Stochastic Domains.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2269";0
+journals/jair/BulitkoLSBS08;article;2017-06-21;"Dynamic Control in Real-Time Heuristic Search.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2497";0
+journals/jair/Nevill-ManningW97;article;2017-06-21;"Identifying Hierarchical Strcture in Sequences: A Linear-Time Algorithm.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.374";0
+journals/jair/NederhofS04;article;2017-06-21;"IDL-Expressions: A Formalism for Representing and Parsing Finite Languages in Natural Language Processing.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1309";0
+journals/jair/AmigoGAV11;article;2017-06-21;"Combining Evaluation Metrics via the Unanimous Improvement Ratio and its Application to Clustering Tasks.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3401";0
+journals/jair/KitaniEH94;article;2017-06-21;"Pattern Matching and Discourse Processing in Information Extraction from Japanese Text.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.53";0
+journals/jair/ZhangK04;article;2017-06-21;"Effective Dimensions of Hierarchical Latent Class Models.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1311";0
+journals/jair/GimenezJ09;article;2017-06-21;"Planning over Chain Causal Graphs for Variables with Domains of Size 5 Is NP-Hard.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2742";0
+journals/jair/BabaioffN04;article;2017-06-21;"Concurrent Auctions Across The Supply Chain.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1316";0
+journals/jair/WangZC08;article;2017-06-21;"Latent Tree Models and Approximate Inference in Bayesian Networks.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2530";0
+journals/jair/LutzAHS05;article;2017-06-21;"Keys, Nominals, and Concrete Domains.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1542";0
+journals/jair/HunterT17;article;2017-08-31;"Probabilistic Reasoning with Abstract Argumentation Frameworks.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5393";0
+journals/jair/Turney08;article;2017-06-21;"The Latent Relation Mapping Engine: Algorithm and Experiments.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2693";0
+journals/jair/SrivastavaK98;article;2017-06-21;"Synthesizing Customized Planners from Specifications.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.428";0
+journals/jair/HelzermanH96;article;2017-06-21;"MUSE CSP: An Extension to the Constraint Satisfaction Problem.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.298";0
+journals/jair/RenzN01;article;2017-06-21;"Efficient Methods for Qualitative Spatial Reasoning.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.872";0
+journals/jair/PlankenWK12;article;2017-06-21;"Computing All-Pairs Shortest Paths by Leveraging Low Treewidth.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3509";0
+journals/jair/TingW99;article;2017-06-21;"Issues in Stacked Generalization.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.594";0
+journals/jair/MichelsonK08;article;2017-06-21;"Creating Relational Data from Unstructured and Ungrammatical Data Sources.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2409";0
+journals/jair/Nock02;article;2017-06-21;"Inducing Interpretable Voting Classifiers without Trading Accuracy for Simplicity: Theoretical Results, Approximation Algorithms, and Experiments.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.986";0
+journals/jair/JongUT08;article;2017-06-21;"Learning to Reach Agreement in a Continuous Ultimatum Game.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2685";0
+journals/jair/AltmanT08;article;2017-06-21;"Axiomatic Foundations for Ranking Systems.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2306";0
+journals/jair/Nebel00;article;2017-06-21;"On the Compilability and Expressive Power of Propositional Planning Formalisms.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.735";0
+journals/jair/TassaGZ17;article;2017-07-31;"Privacy Preserving Implementation of the Max-Sum Algorithm and its Variants.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5504";0
+journals/jair/MeekB04;article;2017-06-21;"A Comprehensive Trainable Error Model for Sung Music Queries.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1334";0
+journals/jair/BordeauxKNV11;article;2017-06-21;"The Complexity of Integer Bound Propagation.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3248";0
+journals/jair/Sanchez-MartinezF09;article;2017-06-21;"Inferring Shallow-Transfer Machine Translation Rules from Small Parallel Corpora.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2735";0
+journals/jair/FuchsF99;article;2017-06-21;"Cooperation between Top-Down and Bottom-Up Theorem Provers.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.573";0
+journals/jair/StreeterS06;article;2017-06-21;"How the Landscape of Random Job Shop Scheduling Instances Depends on the Ratio of Jobs to Machines.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2013";0
+journals/jair/ParkD04;article;2017-06-21;"Complexity Results and Approximation Strategies for MAP Explanations.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1236";0
+journals/jair/GrecoS14;article;2017-06-21;"Mechanisms for Fair Allocation Problems: No-Punishment Payment Rules in Verifiable Settings.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4224";0
+journals/jair/Smith03;article;2017-06-21;"The Case for Durative Actions: A Commentary on PDDL2.1.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1997";0
+journals/jair/WangHZMF16;article;2017-08-08;"Bayesian Optimization in a Billion Dimensions via Random Embeddings.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4806";0
+journals/jair/MosselPR13;article;2017-06-21;"A Smooth Transition from Powerlessness to Absolute Power.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4125";0
+journals/jair/BordeauxCM08;article;2017-06-21;"A Unifying Framework for Structural Properties of CSPs: Definitions, Complexity, Tractability.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2538";0
+journals/jair/BrafmanS12;article;2017-06-21;"Replanning in Domains with Partial Information and Sensing Actions.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3711";0
+journals/jair/OpitzS97;article;2017-06-21;"Connectionist Theory Refinement: Genetically Searching the Space of Network Topologies.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.368";0
+journals/jair/BarishK05;article;2017-06-21;"An Expressive Language and Efficient Execution System for Software Agents.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1548";0
+journals/jair/HansenZ07;article;2017-06-21;"Anytime Heuristic Search.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2096";0
+journals/jair/GluzJ17;article;2017-06-21;"A Probabilistic Formalization of the Appraisal for the OCC Event-Based Emotions.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5320";0
+journals/jair/HernandezBA16;article;2017-06-21;"Time-Bounded Best-First Search for Reversible and Non-reversible Search Graphs.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5073";0
+journals/jair/BergmanCH14;article;2017-06-21;"MDD Propagation for Sequence Constraints.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4199";0
+journals/jair/GoldmanZ08;article;2017-06-21;"Communication-Based Decomposition Mechanisms for Decentralized MDPs.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2466";0
+journals/jair/GrecoMPS10;article;2017-06-21;"Non-Transferable Utility Coalitional Games via Mixed-Integer Linear Constraints.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3060";0
+journals/jair/BruniTB14;article;2017-06-21;"Multimodal Distributional Semantics.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4135";0
+journals/jair/BautersMLHLS17;article;2017-08-17;"Managing Different Sources of Uncertainty in a BDI Framework in a Principled Way with Tractable Fragments.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5287";0
+journals/jair/HerasLO08;article;2017-06-21;"MiniMaxSAT: An Efficient Weighted Max-SAT solver.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2347";0
+journals/jair/WinikoffC14;article;2017-06-21;"On the Testability of BDI Agent Systems.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4458";0
+journals/jair/XueFS15;article;2017-06-21;"Scheduling Conservation Designs for Maximum Flexibility via Network Cascade Optimization.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4679";0
+journals/jair/StrasserBH15;article;2017-06-21;"Compressing Optimal Paths with Run Length Encoding.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4931";0
+journals/jair/Jonsson09;article;2017-06-21;"The Role of Macros in Tractable Planning.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2891";0
+journals/jair/ThiebauxGSPK06;article;2017-06-21;"Decision-Theoretic Planning with non-Markovian Rewards.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1676";0
+journals/jair/BacchusDP09;article;2017-06-21;"Solving #SAT and Bayesian Inference with Backtracking Search.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2648";0
+journals/jair/ManisterskiSK08;article;2017-06-21;"Cooperative Search with Concurrent Interactions.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2335";0
+journals/jair/DomshlakH07;article;2017-06-21;"Probabilistic Planning via Heuristic Forward Search and Weighted Model Counting.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2289";0
+journals/jair/KustersB01;article;2017-06-21;"What's in an Attribute? Consequences for the Least Common Subsumer.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.702";0
+journals/jair/ZhangD08;article;2017-06-21;"CTL Model Update for System Modifications.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2420";0
+journals/jair/SauperB13;article;2017-06-21;"Automatic Aggregation by Joint Modeling of Aspects and Values.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3647";0
+journals/jair/ThayasivamD14;article;2017-06-21;"Speeding Up Iterative Ontology Alignment using Block-Coordinate Descent.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4366";0
+journals/jair/OliehoekSAW13;article;2017-06-21;"Incremental Clustering and Expansion for Faster Optimal Planning in Dec-POMDPs.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3804";0
+journals/jair/ChaliJH09;article;2017-06-21;"Complex Question Answering: Unsupervised Learning Approaches and Experiments.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2784";0
+journals/jair/BoutilierBDHP04;article;2017-06-21;"CP-nets: A Tool for Representing and Reasoning with Conditional Ceteris Paribus Preference Statements.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1234";0
+journals/jair/Halpern15;article;2017-06-21;"Weighted Regret-Based Likelihood: A New Approach to Describing Uncertainty.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4859";0
+journals/jair/PollackJP97;article;2017-06-21;"Flaw Selection Strategies For Partial-Order Planning.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.393";1
+journals/jair/HoffmannETELT06;article;2017-06-21;"Engineering Benchmarks for Planning: the Domains Used in the Deterministic Part of IPC-4.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1982";0
+journals/jair/BrafmanD03;article;2017-06-21;"Structure and Complexity in Planning with Unary Operators.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1146";0
+journals/jair/MurthyKS94;article;2017-06-21;"A System for Induction of Oblique Decision Trees.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.63";0
+journals/jair/KeppensS04;article;2017-06-21;"Compositional Model Repositories via Dynamic Constraint Satisfaction with Order-of-Magnitude Preferences.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1335";0
+journals/jair/AndroutsopoulosLG13;article;2017-06-21;"Generating Natural Language Descriptions from OWL Ontologies: the NaturalOWL System.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4017";0
+journals/jair/FunkeNS15;article;2017-06-21;"Placement of Loading Stations for Electric Vehicles: No Detours Necessary!";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4688";0
+journals/jair/GeistP10;article;2017-06-21;"Kalman Temporal Differences.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3077";0
+journals/jair/WiltR16;article;2017-06-21;"Effective Heuristics for Suboptimal Best-First Search.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5036";0
+journals/jair/MichelsonK10;article;2017-06-21;"Constructing Reference Sets from Unstructured, Ungrammatical Text.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2937";0
+journals/jair/HodoshYH13;article;2017-06-21;"Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3994";0
+journals/jair/RussellS95;article;2017-06-21;"Provably Bounded-Optimal Agents.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.133";0
+journals/jair/KaminkaT00;article;2017-06-21;"Robust Agent Teams via Socially-Attentive Monitoring.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.682";0
+journals/jair/TannierM11;article;2017-06-21;"Evaluating Temporal Graphs Built from Texts via Transitive Reduction.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3118";0
+journals/jair/CohenSS99;article;2017-06-21;"Learning to Order Things.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.587";0
+journals/jair/AlabbasR13;article;2017-06-21;"Natural Language Inference for Arabic Using Extended Tree Edit Distance with Subtrees.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3892";0
+journals/jair/DomshlakM15;article;2017-06-21;"Deterministic Oversubscription Planning as Heuristic Search: Abstractions and Reformulations.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4443";0
+journals/jair/Drummond02;article;2017-06-21;"Accelerating Reinforcement Learning by Composing Solutions of Automatically Identified Subtasks.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.904";0
+journals/jair/ClarkeL08;article;2017-06-21;"Global Inference for Sentence Compression: An Integer Linear Programming Approach.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2433";0
+journals/jair/JiaMS07;article;2017-06-21;"Generating Hard Satisfiable Formulas by Hiding Solutions Deceptively.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2039";0
+journals/jair/BonattiLW09;article;2017-06-21;"The Complexity of Circumscription in DLs.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2763";0
+journals/jair/RossPPC08;article;2017-06-21;"Online Planning Algorithms for POMDPs.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2567";0
+journals/jair/VenanziGKJ16;article;2017-06-21;"Time-Sensitive Bayesian Information Aggregation for Crowdsourcing Systems.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5175";0
+journals/jair/AlbrechtR16;article;2017-06-21;"Exploiting Causality for Selective Belief Filtering in Dynamic Bayesian Networks.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5044";0
+journals/jair/ColesCFL12;article;2017-06-21;"COLIN: Planning with Continuous Linear Numeric Change.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3608";0
+journals/jair/CampeottoPDFP13;article;2017-06-21;"A Constraint Solver for Flexible Protein Model.";"";"2013";"J. Artif. Intell. Res.";"http://jair.org/papers/paper4193.html";0
+journals/jair/KakasMSST08;article;2017-06-21;"Computational Logic Foundations of KGP Agents.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2596";0
+journals/jair/TadepalliN96;article;2017-06-21;"A Formal Framework for Speedup Learning from Problems and Solutions.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.154";0
+journals/jair/BockC14;article;2017-06-21;"An Efficient Algorithm for Estimating State Sequences in Imprecise Hidden Markov Models.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4385";0
+journals/jair/WrayL03;article;2017-06-21;"An Architectural Approach to Ensuring Consistency in Hierarchical Execution.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1142";0
+journals/jair/LiMP07;article;2017-06-21;"New Inference Rules for Max-SAT.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2215";0
+journals/jair/BelardinelliL12;article;2017-06-21;"Interactions between Knowledge and Time in a First-Order Logic for Multi-Agent Systems: Completeness Results.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3547";0
+journals/jair/HalpernK04;article;2017-06-21;"Representation Dependence in Probabilistic Inference.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1292";0
+journals/jair/DalyS09;article;2017-06-21;"Learning Bayesian Network Equivalence Classes with Ant Colony Optimization.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2681";0
+journals/jair/SaulJJ96;article;2017-06-21;"Mean Field Theory for Sigmoid Belief Networks.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.251";0
+journals/jair/SchlimmerH93;article;2017-06-21;"Software Agents: Completing Patterns and Constructing User Interfaces.";"";"1993";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.25";0
+journals/jair/StoneSLCM03;article;2017-06-21;"Decision-Theoretic Bidding Based on Learned Density Models in Simultaneous, Interacting Auctions.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1200";0
+journals/jair/Tambe97;article;2017-06-21;"Towards Flexible Teamwork.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.433";0
+journals/jair/FangLX16;article;2017-06-21;"An Exact Algorithm Based on MaxSAT Reasoning for the Maximum Weight Clique Problem.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4953";0
+journals/jair/GallardoCF09;article;2017-06-21;"Solving Weighted Constraint Satisfaction Problems with Memetic/Exact Hybrid Algorithms.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2770";0
+journals/jair/TerekhovB08;article;2017-06-21;"A Constraint Programming Approach for Solving a Queueing Control Problem.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2446";0
+journals/jair/Strass15;article;2017-06-21;"Expressiveness of Two-Valued Semantics for Abstract Dialectical Frameworks.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4879";0
+journals/jair/EpshteynD06;article;2017-06-21;"Generative Prior Knowledge for Discriminative Classification.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1934";0
+journals/jair/LeherteGBSF97;article;2017-06-21;"Analysis of Three-Dimensional Protein Images.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.425";0
+journals/jair/BinshtokBDS09;article;2017-06-21;"Generic Preferences over Subsets of Structured Objects.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2653";0
+journals/jair/Backstrom98;article;2017-06-21;"Computational Aspects of Reordering Plans.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.477";0
+journals/jair/LusenaGM01;article;2017-06-21;"Nonapproximability Results for Partially Observable Markov Decision Processes.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.714";0
+journals/jair/ThompsonM03;article;2017-06-21;"Acquiring Word-Meaning Mappings for Natural Language Interfaces.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1063";0
+journals/jair/MuiseBM16;article;2017-06-21;"Optimal Partial-Order Plan Relaxation via MaxSAT.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5128";0
+journals/jair/BulitkoBL10;article;2017-06-21;"Case-Based Subgoaling in Real-Time Heuristic Search for Video Game Pathfinding.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3076";0
+journals/jair/CayrolSL10;article;2017-06-21;"Change in Abstract Argumentation Frameworks: Adding an Argument.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2965";0
+journals/jair/BachrachPR13;article;2017-06-21;"Sharing Rewards in Cooperative Connectivity Games.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3841";0
+journals/jair/KhardonRS05;article;2017-06-21;"Efficiency versus Convergence of Boolean Kernels for On-Line Learning Algorithms.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1655";0
+journals/jair/BlockeelDDJRV02;article;2017-06-21;"Improving the Efficiency of Inductive Logic Programming Through the Use of Query Packs.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.924";0
+journals/jair/BeckerBG00;article;2017-06-21;"Randomized Algorithms for the Loop Cutset Problem.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.638";0
+journals/jair/NightingaleGJM13;article;2017-09-16;"Short and Long Supports for Constraint Propagation.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3749";0
+journals/jair/Ginsberg15;article;2017-06-21;"Satsisfiability and Systematicity.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4684";0
+journals/jair/FlerovaMD16;article;2017-06-21;"Searching for the M Best Solutions in Graphical Models.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4985";0
+journals/jair/LeL16;article;2017-06-21;"Semantic Visualization with Neighborhood Graph Regularization.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4983";0
+journals/jair/Darwiche98;article;2017-06-21;"Model-Based Diagnosis using Structured System Descriptions.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.462";0
+journals/jair/BenischDS10;article;2017-06-21;"Algorithms for Closed Under Rational Behavior (CURB) Sets.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3070";0
+journals/jair/GereviniS96;article;2017-06-21;"Accelerating Partial-Order Planners: Some Techniques for Effective Search Control and Pruning.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.316";0
+journals/jair/CasiniS13;article;2017-06-21;"Defeasible Inheritance-Based Description Logics.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4062";0
+journals/jair/EndrissMST06;article;2017-06-21;"Negotiating Socially Optimal Allocations of Resources.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1870";0
+journals/jair/DuttaJM05;article;2017-06-21;"Cooperative Information Sharing to Improve Distributed Learning in Multi-Agent Systems.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1735";0
+journals/jair/CarmanK07;article;2017-06-21;"Learning Semantic Definitions of Online Information Sources.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2205";0
+journals/jair/VoF05;article;2017-06-21;"Reasoning about Action: An Argumentation - Theoretic Approach.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1602";0
+journals/jair/YounesS03;article;2017-06-21;"VHPOP: Versatile Heuristic Partial Order Planner.";"";"2003";"J. Artif. Intell. Res.";None;0
+journals/jair/MondererT97;article;2017-06-21;"Dynamic Non-Bayesian Decision Making.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.447";0
+journals/jair/WeissI95;article;2017-06-21;"Rule-based Machine Learning Methods for Functional Prediction.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.199";0
+journals/jair/CoghillSK08;article;2017-06-21;"Qualitative System Identification from Imperfect Data.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2374";0
+journals/jair/AdigaKMV14;article;2017-06-21;"Sensitivity of Diffusion Dynamics to Network Uncertainty.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4330";0
+journals/jair/FaliszewskiHH15;article;2017-06-21;"Weighted Electoral Control.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4621";0
+journals/jair/PineauGT06;article;2017-06-21;"Anytime Point-Based Approximations for Large POMDPs.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2078";0
+journals/jair/GrauMSH12;article;2017-06-21;"Completeness Guarantees for Incomplete Ontology Reasoners: Theory and Practice.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3470";0
+journals/jair/PraletVS07;article;2017-06-21;"An Algebraic Graphical Model for Decision with Uncertainties, Feasibilities, and Utilities.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2151";0
+journals/jair/Gutierrez-Basulto17;article;2017-06-21;"Probabilistic Description Logics for Subjective Uncertainty.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5222";0
+journals/jair/Hogg99;article;2017-06-21;"Solving Highly Constrained Search Problems with Quantum Computers.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.574";0
+journals/jair/BroekWK08;article;2017-06-21;"Graphical Model Inference in Optimal Control of Stochastic Multi-Agent Systems.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2473";0
+journals/jair/Fisher96;article;2017-06-21;"Iterative Optimization and Simplification of Hierarchical Clusterings.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.276";0
+journals/jair/StergiouS05;article;2017-06-21;"Binary Encodings of Non-binary Constraint Satisfaction Problems: Algorithms and Experimental Results.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1776";0
+journals/jair/Siskind01;article;2017-06-21;"Grounding the Lexical Semantics of Verbs in Visual Perception using Force Dynamics and Event Logic.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.790";0
+journals/jair/DuboisFB08;article;2017-06-21;"On the Qualitative Comparison of Decisions Having Positive and Negative Features.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2520";0
+journals/jair/SpaanV05;article;2017-06-21;"Perseus: Randomized Point-based Value Iteration for POMDPs.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1659";0
+journals/jair/LaiLY17;article;2017-06-21;"New Canonical Representations by Augmenting OBDDs with Conjunctive Decomposition.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5271";0
+journals/jair/ZhaoN95;article;2017-06-21;"Using Qualitative Hypotheses to Identify Inaccurate Data.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.170";0
+journals/jair/CohenCJK04;article;2017-06-21;"A Maximal Tractable Class of Soft Constraints.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1400";0
+journals/jair/RamchurnMGRDJ09;article;2017-06-21;"Trust-Based Mechanisms for Robust and Efficient Task Allocation in the Presence of Execution Uncertainty.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2751";0
+journals/jair/CohenCCMS12;article;2017-06-21;"The Tractability of CSP Classes Defined by Forbidden Patterns.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3651";0
+journals/jair/MateescuKGD10;article;2017-06-21;"Join-Graph Propagation Algorithms.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2842";0
+journals/jair/StulpFMB12;article;2017-06-21;"Learning and Reasoning with Action-Related Places for Robust Mobile Manipulation.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3451";0
+journals/jair/ChenWH06;article;2017-06-21;"Temporal Planning using Subgoal Partitioning and Resolution in SGPlan.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1918";0
+journals/jair/AbdallahL08;article;2017-06-21;"A Multiagent Reinforcement Learning Algorithm with Non-linear Dynamics.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2628";0
+journals/jair/AMCS13;article;2017-06-21;"Boolean Equi-propagation for Concise and Efficient SAT Encodings of Combinatorial Problems.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3809";0
+journals/jair/VasiraniO12;article;2017-06-21;"A Market-Inspired Approach for Intersection Management in Urban Road Traffic Networks.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3560";0
+journals/jair/GottlobGS05;article;2017-06-21;"Pure Nash Equilibria: Hard and Easy Games.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1683";0
+journals/jair/SchiffelT14;article;2017-06-21;"Representing and Reasoning About the Rules of General Games With Imperfect Information.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4115";0
+journals/jair/McCallumWC07;article;2017-06-21;"Topic and Role Discovery in Social Networks with Experiments on Enron and Academic Email.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2229";0
+journals/jair/LiuT06;article;2017-06-21;"Properties and Applications of Programs with Monotone and Convex Constraints.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2009";0
+journals/jair/MeirPRZ08;article;2017-06-21;"Complexity of Strategic Behavior in Multi-Winner Elections.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2566";0
+journals/jair/ChernovaV09;article;2017-06-21;"Interactive Policy Learning through Confidence-Based Autonomy.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2584";0
+journals/jair/Helmert06;article;2017-06-21;"The Fast Downward Planning System.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1705";0
+journals/jair/AllenGJMR17;article;2017-08-31;"Uniform Random Generation and Dominance Testing for CP-Nets.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5455";0
+journals/jair/WangB11;article;2017-06-21;"MAPP: a Scalable Multi-Agent Path Planning Algorithm with Tractability and Completeness Guarantees.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3370";0
+journals/jair/FickertHS16;article;2017-06-21;"Combining the Delete Relaxation with Critical-Path Heuristics: A Direct Characterization.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5057";0
+journals/jair/Halpern00;article;2017-06-21;"Axiomatizing Causal Reasoning.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.648";0
+journals/jair/KonstasL13;article;2017-06-21;"A Global Model for Concept-to-Text Generation.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4025";0
+journals/jair/WuG10;article;2017-06-21;"Automatic Induction of Bellman-Error Features for Probabilistic Planning.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3021";0
+journals/jair/CaragiannisNPS17;article;2017-06-21;"Subset Selection Via Implicit Utilitarian Voting.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5282";0
+journals/jair/EndrissGP12;article;2017-06-21;"Complexity of Judgment Aggregation.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3708";0
+journals/jair/ZhaoZK13;article;2017-06-21;"Integrative Semantic Dependency Parsing via Efficient Large-scale Feature Selection.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3717";0
+journals/jair/WilsonM97;article;2017-06-21;"Improved Heterogeneous Distance Functions.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.346";0
+journals/jair/Halpern01;article;2017-06-21;"Conditional Plausibility Measures and Bayesian Networks.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.817";0
+journals/jair/RumlDZF11;article;2017-06-21;"On-line Planning and Scheduling: An Application to Controlling Modular Printers.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3184";0
+journals/jair/Suda14;article;2017-06-21;"Property Directed Reachability for Automated Planning.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4231";0
+journals/jair/Ontanon17;article;2017-06-21;"Combinatorial Multi-armed Bandits for Real-Time Strategy Games.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5398";0
+journals/jair/CussensJKB17;article;2017-06-21;"Bayesian Network Structure Learning with Integer Programming: Polytopes, Facets and Complexity.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5203";0
+journals/jair/SnookeL13;article;2017-06-21;"Qualitative Order of Magnitude Energy-Flow-Based Failure Modes and Effects Analysis.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3898";0
+journals/jair/ZhangBP16;article;2017-06-21;"On the Satisfiability Problem for SPARQL Patterns.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5028";0
+journals/jair/OrasanE07;article;2017-06-21;"NP Animacy Identification for Anaphora Resolution.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2179";0
+journals/jair/WallnerNJ17;article;2017-09-20;"Complexity Results and Algorithms for Extension Enforcement in Abstract Argumentation.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5415";0
+journals/jair/MartinezLA08;article;2017-06-21;"On the Use of Automatically Acquired Examples for All-Nouns Word Sense Disambiguation .";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2395";0
+journals/jair/BasuHCN01;article;2017-06-21;"Technical Paper Recommendation: A Study in Combining Multiple Information Sources.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.739";0
+journals/jair/LapataL06;article;2017-06-21;"Learning Sentence-internal Temporal Relations.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2015";0
+journals/jair/PetcuFP08;article;2017-06-21;"M-DPOP: Faithful Distributed Implementation of Efficient Social Choice Problems.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2500";0
+journals/jair/BonetG14;article;2017-06-21;"Belief Tracking for Planning with Sensing: Width, Complexity and Approximations.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4475";0
+journals/jair/Gordon00;article;2017-06-21;"Asimovian Adaptive Agents.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.720";0
+journals/jair/AzizBEP11;article;2017-06-21;"False-Name Manipulations in Weighted Voting Games.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3166";0
+journals/jair/NijsLWB16;article;2017-06-21;"Quadratization and Roof Duality of Markov Logic Networks.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5023";0
+journals/jair/Bod02;article;2017-06-21;"A Unified Model of Structural Organization in Language and Music.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1076";0
+journals/jair/PesantQZ12;article;2017-06-21;"Counting-Based Search: Branching Heuristics for Constraint Satisfaction Problems.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3463";0
+journals/jair/TerekhovTDB14;article;2017-06-21;"Integrating Queueing Theory and Scheduling for Dynamic Scheduling Problems.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4278";0
+journals/jair/DvorakW11;article;2017-06-21;"On the Intertranslatability of Argumentation Semantics.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3318";0
+journals/jair/RoijersVWD13;article;2017-06-21;"A Survey of Multi-Objective Sequential Decision-Making.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3987";0
+journals/jair/Garcia-DuranBUG16;article;2017-06-21;"Combining Two and Three-Way Embedding Models for Link Prediction in Knowledge Bases.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5013";0
+journals/jair/CaiLS14;article;2017-06-21;"Scoring Functions Based on Second Level Score for k-SAT with Long Clauses.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4480";0
+journals/jair/SiddiqiH11;article;2017-06-21;"Sequential Diagnosis by Abstraction.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3296";0
+journals/jair/LevR16;article;2017-06-21;"Convergence of Iterative Scoring Rules.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5187";0
+journals/jair/HoffmannE05;article;2017-06-21;"The Deterministic Part of IPC-4: An Overview.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1677";0
+journals/jair/GeistE11;article;2017-06-21;"Automated Search for Impossibility Theorems in Social Choice Theory: Ranking Sets of Objects.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3126";0
+journals/jair/BernardiCEEEIKM16;article;2017-08-08;"Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4900";0
+journals/jair/KhwilehGJ16;article;2017-06-21;"Utilisation of Metadata Fields and Query Expansion in Cross-Lingual Search of User-Generated Internet Video.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4775";0
+journals/jair/RoughgardenST17;article;2017-06-21;"The Price of Anarchy in Auctions.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5272";0
+journals/jair/JanhunenOTW09;article;2017-06-21;"Modularity Aspects of Disjunctive Stable Models.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2810";0
+journals/jair/BergadanoGT93;article;2017-06-21;"The Difficulties of Learning Logic Programs with Cut.";"";"1993";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.26";0
+journals/jair/Wallace09;article;2017-06-21;"Behavior Bounding: An Efficient Method for High-Level Behavior Comparison.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2646";0
+journals/jair/PangTAJ16;article;2017-06-21;"ZERO++: Harnessing the Power of Zero Appearances to Detect Anomalies in Large-Scale Data Sets.";"";"2016";"J. Artif. Intell. Res.";"http://jair.org/papers/paper5228.html";0
+journals/jair/LinC07;article;2017-06-21;"Discovering Classes of Strongly Equivalent Logic Programs.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2131";0
+journals/jair/GabelaiaKKWZ05;article;2017-06-21;"Combining Spatial and Temporal Logics: Expressiveness vs. Complexity.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1537";0
+journals/jair/OhCI06;article;2017-06-21;"A Comparison of Different Machine Transliteration Models.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1999";0
+journals/jair/FeldmanPG10;article;2017-06-21;"Approximate Model-Based Diagnosis Using Greedy Stochastic Search.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3025";0
+journals/jair/GebserMR17;article;2017-09-20;"The Sixth Answer Set Programming Competition.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5373";0
+journals/jair/BrielVK08;article;2017-06-21;"Loosely Coupled Formulations for Automated Planning: An Integer Programming Perspective.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2443";0
+journals/jair/KolliaG13;article;2017-06-21;"Optimizing SPARQL Query Answering over OWL Ontologies.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3872";0
+journals/jair/FinkelsteinM98;article;2017-06-21;"A Selective Macro-learning Algorithm and its Application to the NxN Sliding-Tile Puzzle.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.484";0
+journals/jair/AgreH97;article;2017-06-21;"Lifeworld Analysis.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.342";0
+journals/jair/TaghipourFDB13;article;2017-06-21;"Lifted Variable Elimination: Decoupling the Operators from the Constraint Language.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3793";0
+journals/jair/Maynard-ZhangL03;article;2017-06-21;"Representing and Aggregating Conflicting Beliefs.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1206";0
+journals/jair/OpitzM99;article;2017-06-21;"Popular Ensemble Methods: An Empirical Study.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.614";0
+journals/jair/Straccia01;article;2017-06-21;"Reasoning within Fuzzy Description Logics.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.813";0
+journals/jair/Neal00;article;2017-06-21;"On Deducing Conditional Independence from d-Separation in Causal Graphs with Feedback (Research Note).";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.689";0
+journals/jair/GershmanMZ09;article;2017-06-21;"Asynchronous Forward Bounding for Distributed COPs.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2591";0
+journals/jair/GogicPS98;article;2017-06-21;"Incremental Recompilation of Knowledge.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.380";0
+journals/jair/BeckerZLG04;article;2017-06-21;"Solving Transition Independent Decentralized Markov Decision Processes.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1497";0
+journals/jair/SturtevantB16;article;2017-06-21;"Scrubbing During Learning In Real-time Heuristic Search.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4908";0
+journals/jair/DaiMWG11;article;2017-06-21;"Topological Value Iteration Algorithms.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3390.html";0
+journals/jair/Ginsberg11;article;2017-06-21;"Dr.Fill: Crosswords and an Implemented Solver for Singly Weighted CSPs.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3437.html";0
+journals/jair/KimCS15;article;2017-06-21;"Inferring Team Task Plans from Human Meetings: A Generative Modeling Approach with Logic-Based Prior.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4496";0
+journals/jair/BosanskyKLP14;article;2017-06-21;"An Exact Double-Oracle Algorithm for Zero-Sum Extensive-Form Games with Imperfect Information.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4477";0
+journals/jair/MontoyoSRP05;article;2017-06-21;"Combining Knowledge- and Corpus-based Word-Sense-Disambiguation Methods.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1529";0
+journals/jair/MateescuDM08;article;2017-06-21;"AND/OR Multi-Valued Decision Diagrams (AOMDDs) for Graphical Models.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2605";0
+journals/jair/NguyenHK14;article;2017-06-21;"Using Meta-mining to Support Data Mining Workflow Planning and Optimization.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4377";0
+journals/jair/BackstromJ12;article;2017-06-21;"Algorithms and Limits for Compact Plan Representations.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3534";0
+journals/jair/GrauHKS08;article;2017-06-21;"Modular Reuse of Ontologies: Theory and Practice.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2375";0
+journals/jair/JaakkolaJ99;article;2017-06-21;"Variational Probabilistic Inference and the QMR-DT Network.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.583";0
+journals/jair/TalvitieS11;article;2017-06-21;"Learning to Make Predictions In Partially Observable Environments Without a Generative Model.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3396";0
+journals/jair/AiriauBEMR17;article;2017-10-06;"Rationalisation of Profiles of Abstract Argumentation Frameworks: Characterisation and Complexity.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5436";0
+journals/jair/OveisiDPP17;article;2017-10-06;"Kernel Contraction and Base Dependence.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5496";0
+journals/jair/Zanuttini03;article;2017-06-21;"New Polynomial Classes for Logic-Based Abduction.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1170";0
+journals/jair/BhansaliKH96;article;2017-06-21;"A Principled Approach Towards Symbolic Geometric Constraint Satisfaction.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.292";0
+journals/jair/AndersenHP10;article;2017-06-21;"Interactive Cost Configuration Over Decision Diagrams.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2905";0
+journals/jair/NoiaSD07;article;2017-06-21;"Semantic Matchmaking as Non-Monotonic Reasoning: A Description Logic Approach.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2153";0
+journals/jair/OrtegaB10;article;2017-06-21;"A Minimum Relative Entropy Principle for Learning and Acting.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3062";0
+journals/jair/AleksandrowiczC17;article;2017-06-21;"The Computational Complexity of Structure-Based Causality.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5229";0
+journals/jair/Davis17;article;2017-08-31;"Logical Formalizations of Commonsense Reasoning: A Survey.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5339";0
+journals/jair/BonetBJ14;article;2017-06-21;"Improved Separations of Regular Resolution from Clause Learning Proof Systems.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4260";0
+journals/jair/WoodsCHBS95;article;2017-06-21;"Learning Membership Functions in a Function-Based Object Recognition System.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.236";0
+journals/jair/XiaoZ13;article;2017-06-21;"Unsupervised Sub-tree Alignment for Tree-to-Tree Translation.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4033";0
+journals/jair/OttenD17;article;2017-07-31;"AND/OR Branch-and-Bound on a Computational Grid.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5456";0
+journals/jair/BirnbaumL99;article;2017-06-21;"The Good Old Davis-Putnam Procedure Helps Counting Models.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.601";0
+journals/jair/AzizBFHLS15;article;2017-06-21;"Possible and Necessary Winners of Partial Tournaments.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4856";0
+journals/jair/NaseemSEB09;article;2017-06-21;"Multilingual Part-of-Speech Tagging: Two Unsupervised Approaches.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2843";0
+journals/jair/GyorgyK11;article;2017-06-21;"Efficient Multi-Start Strategies for Local Search Algorithms.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3313";0
+journals/jair/AravantinosCP11;article;2017-06-21;"Decidability and Undecidability Results for Propositional Schemata.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3351";0
+journals/jair/RushC12;article;2017-06-21;"A Tutorial on Dual Decomposition and Lagrangian Relaxation for Inference in Natural Language Processing.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3680";0
+journals/jair/McDermott03;article;2017-06-21;"PDDL2.1 - The Art of the Possible? Commentary on Fox and Long.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1996";0
+journals/jair/DibangoyeABC16;article;2017-06-21;"Optimally Solving Dec-POMDPs as Continuous-State MDPs.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4623";0
+journals/jair/JensenV00;article;2017-06-21;"OBDD-based Universal Planning for Synchronized Agents in Non-Deterministic Domains.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.649";0
+journals/jair/ChenKM10;article;2017-06-21;"Training a Multilingual Sportscaster: Using Perceptual Context to Learn Language.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2962";0
+journals/jair/FinkelsteinMR03;article;2017-06-21;"Optimal Schedules for Parallelizing Anytime Algorithms: The Case of Shared Resources.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1195";0
+journals/jair/ReyR14;article;2017-06-21;"False-Name Manipulation in Weighted Voting Games is Hard for Probabilistic Polynomial Time.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4293";0
+journals/jair/JoshiK11;article;2017-06-21;"Probabilistic Relational Planning with First Order Decision Diagrams.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3205";0
+journals/jair/KieselBR15;article;2017-06-21;"Achieving Goals Quickly Using Real-time Search: Experimental Results in Video Games.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4800";0
+journals/jair/GaoC07;article;2017-06-21;"Consistency and Random Constraint Satisfaction Models.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2155";0
+journals/jair/HuangK13;article;2017-06-21;"Optimal Rectangle Packing: An Absolute Placement Approach.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3735";0
+journals/jair/Liberatore04;article;2017-06-21;"On Polynomial Sized MDP Succinct Policies.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1134";0
+journals/jair/Ginsberg01;article;2017-06-21;"GIB: Imperfect Information in a Computationally Challenging Game.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.820";0
+journals/jair/SciascioDM02;article;2017-06-21;"Structured Knowledge Representation for Image Retrieval.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.902";0
+journals/jair/FelnerKMH07;article;2017-06-21;"Compressed Pattern Databases.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2241";0
+journals/jair/VeitXZCS14;article;2017-06-21;"Demand Side Energy Management via Multiagent Coordination in Consumer Cooperatives.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4416";0
+journals/jair/ZhangZ01;article;2017-06-21;"Speeding Up the Convergence of Value Iteration in Partially Observable Markov Decision Processes.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.761";0
+journals/jair/CiglerF13;article;2017-06-21;"Decentralized Anti-coordination Through Multi-agent Learning.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3904";0
+journals/jair/HolldoblerKS06;article;2017-06-21;"FluCaP: A Heuristic Search Planner for First-Order MDPs.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1965";0
+journals/jair/QuC10;article;2017-06-21;"Context-based Word Acquisition for Situated Dialogue in a Virtual World.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2912";0
+journals/jair/DoppaFT14;article;2017-06-21;"HC-Search: A Learning Framework for Search-based Structured Prediction.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4212";0
+journals/jair/LeeM11;article;2017-06-21;"First-Order Stable Model Semantics and First-Order Loop Formulas.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3337.html";0
+journals/jair/EngelW08;article;2017-06-21;"CUI Networks: A Graphical Representation for Conditional Utility Independence.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2360";0
+journals/jair/Berrar14;article;2017-06-21;"An Empirical Evaluation of Ranking Measures With Respect to Robustness to Noise.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4136";0
+journals/jair/Nienhuys-ChengW96;article;2017-06-21;"Least Generalizations and Greatest Specializations of Sets of Clauses.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.259";0
+journals/jair/LedeniovM98;article;2017-06-21;"The Divide-and-Conquer Subgoal-Ordering Algorithm for Speeding up Logic Inference.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.509";0
+journals/jair/FardP11;article;2017-06-21;"Non-Deterministic Policies in Markovian Decision Processes.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3175";0
+journals/jair/MarneffeRP15;article;2017-06-21;"Modeling the Lifespan of Discourse Entities with Application to Coreference Resolution.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4565";0
+journals/jair/PappasP17;article;2017-06-21;"Explicit Document Modeling through Weighted Multiple-Instance Learning.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5240";0
+journals/jair/BidyukD07;article;2017-06-21;"Cutset Sampling for Bayesian Networks.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2149";0
+journals/jair/MooreP08;article;2017-06-21;"The Ultrametric Constraint and its Application to Phylogenetics.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2580";0
+journals/jair/HoffmannPS04;article;2017-06-21;"Ordered Landmarks in Planning.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1492";0
+journals/jair/RoyGT05;article;2017-06-21;"Finding Approximate POMDP solutions Through Belief Compression.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1496";0
+journals/jair/GrossiLS15;article;2017-06-21;"The Ceteris Paribus Structure of Logics of Game Forms.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4666";0
+journals/jair/RomeroKGH16;article;2017-06-21;"Module Extraction in Expressive Ontology Languages via Datalog Reasoning.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4898";0
+journals/jair/GereviniSS06;article;2017-06-21;"An Approach to Temporal Planning and Scheduling in Domains with Predictable Exogenous Events.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1742";0
+journals/jair/AlvianoCFLP11;article;2017-06-21;"Unfounded Sets and Well-Founded Semantics of Answer Set Programs with Aggregates.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3432";0
+journals/jair/CulottaKC16;article;2017-06-21;"Predicting Twitter User Demographics using Distant Supervision from Website Traffic Data.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4935";0
+journals/jair/WangCY17;article;2017-06-21;"Local Search for Minimum Weight Dominating Set with Two-Level Configuration Checking and Frequency Based Scoring Function.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5205";0
+journals/jair/RochlinS15;article;2017-06-21;"Constraining Information Sharing to Improve Cooperative Information Gathering.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4613";0
+journals/jair/ThompsonGL04;article;2017-06-21;"A Personalized System for Conversational Recommendations.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1318";0
+journals/jair/KaminkaPT02;article;2017-06-21;"Monitoring Teams by Overhearing: A Multi-Agent Plan-Recognition Approach.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.970";0
+journals/jair/GorniakR04;article;2017-06-21;"Grounded Semantic Composition for Visual Scenes.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1327";0
+journals/jair/BarbulescuHWR06;article;2017-06-21;"Understanding Algorithm Performance on an Oversubscribed Scheduling Application.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2038";0
+journals/jair/BrafmanT96;article;2017-06-21;"On Partially Controlled Multi-Agent Systems.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.318";0
+journals/jair/FernandezV13;article;2017-06-21;"AI Methods in Algorithmic Composition: A Comprehensive Survey.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3908";0
+journals/jair/ZimmermanK05;article;2017-06-21;"Using Memory to Transform Search on the Planning Graph.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1477";0
+journals/jair/YipZ96;article;2017-06-21;"Spatial Aggregation: Theory and Applications.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.315";0
+journals/jair/MohammadSK16;article;2017-06-21;"How Translation Alters Sentiment.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4787";0
+journals/jair/WeissP03;article;2017-06-21;"Learning When Training Data are Costly: The Effect of Class Distribution on Tree Induction.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1199";0
+journals/jair/SonPT07;article;2017-06-21;"Answer Sets for Logic Programs with Arbitrary Abstract Constraint Atoms.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2171";0
+journals/jair/AbioNORM12;article;2017-06-21;"A New Look at BDDs for Pseudo-Boolean Constraints.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3653";0
+journals/jair/EiterFKRS14;article;2017-06-21;"Efficient HEX-Program Evaluation Based on Unfounded Sets.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4175";0
+journals/jair/ZubekD05;article;2017-06-21;"Integrating Learning from Examples into the Search for Diagnostic Policies.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1512";0
+journals/jair/WolpertT02;article;2017-06-21;"Collective Intelligence, Data Routing and Braess' Paradox.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.995";0
+journals/jair/RamakrishnanZS17;article;2017-08-09;"Perturbation Training for Human-Robot Teams.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5390";0
+journals/jair/KalechR15;article;2017-06-21;"Decision Making with Dynamic Uncertain Events.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4869";0
+journals/jair/HalpernP06;article;2017-06-21;"A Logic for Reasoning about Evidence.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1838";0
+journals/jair/LiC17;article;2017-08-09;"Game-Theoretic Question Selection for Tests.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5413";0
+journals/jair/ZhangP96;article;2017-06-21;"Exploiting Causal Independence in Bayesian Network Inference.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.305";0
+journals/jair/WoodsendL14;article;2017-06-21;"Text Rewriting Improves Semantic Role Labeling.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4431";0
+journals/jair/HeBR11;article;2017-06-21;"Efficient Planning under Uncertainty with Macro-actions.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3171";0
+journals/jair/Bell07;article;2017-06-21;"Natural Events.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2383";0
+journals/jair/ShperbergS17;article;2017-06-21;"Some Properties of Batch Value of Information in the Selection Problem.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5288";0
+journals/jair/FelnerSKBN04;article;2017-06-21;"PHA*: Finding the Shortest Path with A* in An Unknown Physical Environment.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1373";0
+journals/jair/FeldmanPG10a;article;2017-06-21;"A Model-Based Active Testing Approach to Sequential Diagnosis.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3031";0
+journals/jair/ChieuL09;article;2017-06-21;"Relaxed Survey Propagation for The Weighted Maximum Satisfiability Problem.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2808";0
+journals/jair/RamchurnHWIFMFJ16;article;2017-06-21;"A Disaster Response System based on Human-Agent Collectives.";"";"2016";"J. Artif. Intell. Res.";"http://jair.org/papers/paper5098.html";0
+journals/jair/SteinGNRJ17;article;2017-07-12;"Market Interfaces for Electric Vehicle Charging.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5387";0
+journals/jair/GeibelW05;article;2017-06-21;"Risk-Sensitive Reinforcement Learning Applied to Control under Constraints.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1666";0
+journals/jair/Walsh11;article;2017-06-21;"Where Are the Hard Manipulation Problems?";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3223";0
+journals/jair/ZahaviFBH10;article;2017-06-21;"Predicting the Performance of IDA* using Conditional Distributions.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2890";0
+journals/jair/BaxterBW01;article;2017-06-21;"Experiments with Infinite-Horizon, Policy-Gradient Estimation.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.807";0
+journals/jair/XuHH02;article;2017-06-21;"Efficient Reinforcement Learning Using Recursive Least-Squares Methods.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.946";0
+journals/jair/GrootersP16;article;2017-06-21;"Two Aspects of Relevance in Structured Argumentation: Minimality and Paraconsistency.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5058";0
+journals/jair/PonsenJL11;article;2017-06-21;"Computing Approximate Nash Equilibria and Robust Best-Responses Using Sampling.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3402";0
+journals/jair/GarciaAF14;article;2017-06-21;"Comparative Evaluation of Link-Based Approaches for Candidate Ranking in Link-to-Wikipedia Systems.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4129";0
+journals/jair/LittmanGM98;article;2017-06-21;"The Computational Complexity of Probabilistic Planning.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.505";0
+journals/jair/MammenH97;article;2017-06-21;"A New Look at the Easy-Hard-Easy Pattern of Combinatorial Search Difficulty.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.370";0
+journals/jair/DomshlakKM12;article;2017-06-21;"Online Speedup Learning for Optimal Planning.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3676";0
+journals/jair/GereviniSS03;article;2017-06-21;"Planning Through Stochastic Local Search and Temporal Action Graphs in LPG.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1183";0
+journals/jair/ColesCFL13;article;2017-06-21;"A Hybrid LP-RPG Heuristic for Modelling Numeric Resource Flows in Planning.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3788";0
+journals/jair/ChenBBK09;article;2017-06-21;"Content Modeling Using Latent Permutations.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2830";0
+journals/jair/DixonGLP04;article;2017-06-21;"Generalizing Boolean Satisfiability II: Theory.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1555";0
+journals/jair/MossakowskiM15;article;2017-06-21;"Relations Between Spatial Calculi About Directions and Orientations.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4631";0
+journals/jair/ShivaswamyJ15;article;2017-06-21;"Coactive Learning.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4539";0
+journals/jair/KatzD08;article;2017-06-21;"New Islands of Tractability of Cost-Optimal Planning.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2498";0
+journals/jair/Heskes06;article;2017-06-21;"Convexity Arguments for Efficient Minimization of the Bethe and Kikuchi Free Energies.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1933";0
+journals/jair/GimenezJ08;article;2017-06-21;"The Complexity of Planning Problems With Simple Causal Graphs.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2432";0
+journals/jair/SaetherTV15;article;2017-06-21;"Solving #SAT and MAXSAT by Dynamic Programming.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4831";0
+journals/jair/KvarnstromM03;article;2017-09-20;"TALplanner in the Third International Planning Competition: Extensions and Control Rules.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1189";0
+journals/jair/FranconiKN13;article;2017-06-21;"Exact Query Reformulation over Databases with First-order and Description Logics Ontologies.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4058";0
+journals/jair/FoxL06;article;2017-06-21;"Modelling Mixed Discrete-Continuous Domains for Planning.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2044";0
+journals/jair/KrauseH10;article;2017-06-21;"A Utility-Theoretic Approach to Privacy in Online Services.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3089";0
+journals/jair/GabbayPV11;article;2017-06-21;"Interpolable Formulas in Equilibrium Logic and Answer Set Programming.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3329.html";0
+journals/jair/RiedlY10;article;2017-06-21;"Narrative Planning: Balancing Plot and Character.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2989";0
+journals/jair/IrissappaneZ15;article;2017-06-21;"A Case-Based Reasoning Framework to Choose Trust Models for Different E-Marketplace Environments.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4595";0
+journals/jair/ZilliPMR14;article;2017-09-16;"A Hidden Markov Model-Based Acoustic Cicada Detector for Crowdsourced Smartphone Biodiversity Monitoring.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4434";0
+journals/jair/BloembergenTHK15;article;2017-06-21;"Evolutionary Dynamics of Multi-Agent Learning: A Survey.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4818";0
+journals/jair/AdjimanCGRS06;article;2017-06-21;"Distributed Reasoning in a Peer-to-Peer Setting: Application to the Semantic Web.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1785";0
+journals/jair/TsatsaronisVV10;article;2017-09-16;"Text Relatedness Based on a Word Thesaurus.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2880";0
+journals/jair/AndroutsopoulosM10;article;2017-06-21;"A Survey of Paraphrasing and Textual Entailment Methods.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2985";0
+journals/jair/BulitkoL06;article;2017-06-21;"Learning in Real-Time Search: A Unifying Framework.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1789";0
+journals/jair/BilgicG11;article;2017-06-29;"Value of Information Lattice: Exploiting Probabilistic Independence for Effective Feature Subset Acquisition.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3200";0
+journals/jair/ChalkiadakisEMPJ10;article;2017-06-21;"Cooperative Games with Overlapping Coalitions.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3075";0
+journals/jair/KashPS14;article;2017-06-21;"No Agent Left Behind: Dynamic Fair Division of Multiple Resources.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4405";0
+journals/jair/YangCHZF08;article;2017-06-21;"A General Theory of Additive State Space Abstractions.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2486";0
+journals/jair/EngelW10;article;2017-06-21;"Multiattribute Auctions Based on Generalized Additive Independence.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3002";0
+journals/jair/MintonBD94;article;2017-06-21;"Total-Order and Partial-Order Planning: A Comparative Analysis.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.64";0
+journals/jair/BaaderBL16;article;2017-06-21;"Query and Predicate Emptiness in Ontology-Based Data Access.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4866";0
+journals/jair/EisensteinBD08;article;2017-06-21;"Gesture Salience as a Hidden Variable for Coreference Resolution and Keyframe Extraction.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2450";0
+journals/jair/DaumeM06;article;2017-06-21;"Domain Adaptation for Statistical Classifiers.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1872";0
+journals/jair/FigueiraFA15;article;2017-09-16;"Model Theory of XPath on Data Trees. Part I: Bisimulation and Characterization.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4658";0
+journals/jair/HelouPJ16;article;2017-06-21;"Effectiveness of Automatic Translations for Cross-Lingual Ontology Mapping.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4789";0
+journals/jair/LiuTYZ08;article;2017-09-07;"Spectrum of Variable-Random Trees.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2470";0
+journals/jair/HanksW95;article;2017-06-21;"A Domain-Independent Algorithm for Plan Adaptation.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.79";0
+journals/jair/FlatiN12;article;2017-06-21;"The CQC Algorithm: Cycling in Graphs to Semantically Enrich and Enhance a Bilingual Dictionary.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3456";0
+journals/jair/BengioF95;article;2017-06-21;"Diffusion of Context and Credit Information in Markovian Models.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.233";0
+journals/jair/MairesseWMM07;article;2017-06-21;"Using Linguistic Cues for the Automatic Recognition of Personality in Conversation and Text.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2349";0
+journals/jair/GhoshVAJ17;article;2017-06-21;"Dynamic Repositioning to Reduce Lost Demand in Bike Sharing Systems.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5308";0
+journals/jair/BaumND12;article;2017-06-21;"Proximity-Based Non-uniform Abstractions for Approximate Planning.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3414";0
+journals/jair/CaiLL17;article;2017-08-09;"Finding A Small Vertex Cover in Massive Sparse Graphs: Construct, Local Search, and Preprocess.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5443";0
+journals/jair/HalpernP02;article;2017-06-21;"A Logic for Reasoning about Upper Probabilities.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.985";0
+journals/jair/SingerGS00;article;2017-06-21;"Backbone Fragility and the Local Search Cost Peak.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.711";0
+journals/jair/Argamon-EngelsonD99;article;2017-06-21;"Committee-Based Sample Selection for Probabilistic Classifiers.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.612";0
+journals/jair/GalP08;article;2017-06-21;"Networks of Influence Diagrams: A Formalism for Representing Agents' Beliefs and Decision-Making Processes.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2503";0
+journals/jair/GarciaF12;article;2017-06-21;"Safe Exploration of State and Action Spaces in Reinforcement Learning.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3761";0
+journals/jair/Walker00;article;2017-06-21;"An Application of Reinforcement Learning to Dialogue Strategy Selection in a Spoken Dialogue System for Email.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.713";0
+journals/jair/GereviniSV14;article;2017-06-21;"Planning through Automatic Portfolio Configuration: The PbP Approach.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4359";0
+journals/jair/ZhangY06;article;2017-06-21;"Set Intersection and Consistency in Constraint Networks.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2058";0
+journals/jair/ZhangZ05;article;2017-06-21;"Restricted Value Iteration: Theory and Algorithms.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1379";0
+journals/jair/SafraT94;article;2017-06-21;"On Planning while Learning.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.51";0
+journals/jair/SzitaL07;article;2017-06-21;"Learning to Play Using Low-Complexity Rule-Based Policies: Illustrations through Ms. Pac-Man.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2368";0
+journals/jair/GrumbergLM03;article;2017-06-21;"Learning to Order BDD Variables in Verification.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1096";0
+journals/jair/Boddy03;article;2017-06-21;"Imperfect Match: PDDL 2.1 and Real Applications.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1994";0
+journals/jair/MichalakASRJ13;article;2017-06-21;"Efficient Computation of the Shapley Value for Game-Theoretic Network Centrality.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3806";0
+journals/jair/PalomarM01;article;2017-06-21;"Computational Approach to Anaphora Resolution in Spanish Dialogues.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.848";0
+journals/jair/YounesLWA05;article;2017-06-21;"The First Probabilistic Track of the International Planning Competition.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1880";0
+journals/jair/RamaniMSA06;article;2017-06-21;"Breaking Instance-Independent Symmetries In Exact Graph Coloring.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1637";0
+journals/jair/EiterFLPP03;article;2017-06-21;"Answer Set Planning Under Action Costs.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1148";0
+journals/jair/Vesic13;article;2017-06-21;"Identifying the Class of Maxi-Consistent Operators in Argumentation.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3860";0
+journals/jair/KaelblingLM96;article;2017-06-21;"Reinforcement Learning: A Survey.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.301";0
+journals/jair/FernYG06;article;2017-06-21;"Approximate Policy Iteration with a Policy Language Bias: Solving Relational Markov Decision Processes.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1700";0
+journals/jair/GuezSD13;article;2017-06-21;"Scalable and Efficient Bayes-Adaptive Reinforcement Learning Based on Monte-Carlo Tree Search.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4117";0
+journals/jair/HoffmannBHP09;article;2017-06-21;"Message-Based Web Service Composition, Integrity Constraints, and Planning under Uncertainty: A New Connection.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2716";0
+journals/jair/BelleL14;article;2017-06-21;"Multiagent Only Knowing in Dynamic Systems.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4192";0
+journals/jair/KaindlK97;article;2017-06-21;"Bidirectional Heuristic Search Reconsidered.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.460";0
+journals/jair/MaillerL06;article;2017-06-21;"Asynchronous Partial Overlay: A New Algorithm for Solving Distributed Constraint Satisfaction Problems.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1786";0
+journals/jair/Hauskrecht00;article;2017-06-21;"Value-Function Approximations for Partially Observable Markov Decision Processes.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.678";0
+journals/jair/YuanM13;article;2017-06-21;"Learning Optimal Bayesian Networks: A Shortest Path Perspective.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4039";0
+journals/jair/Costa-JussaBLMM16;article;2017-06-21;"Introduction to the Special Issue on Cross-Language Algorithms and Applications.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5022";0
+journals/jair/FarinaG17;article;2017-07-31;"Adopting the Cascade Model in Ad Auctions: Efficiency Bounds and Truthful Algorithmic Mechanisms.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5438";0
+journals/jair/MouradSZLL13;article;2017-06-21;"A Survey on Latent Tree Models and Applications.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3879";0
+journals/jair/BulitkoSLY07;article;2017-06-21;"Graph Abstraction in Real-time Heuristic Search.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2293";0
+journals/jair/SuSLZ09;article;2017-06-21;"Variable Forgetting in Reasoning about Knowledge.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2750";0
+journals/jair/BruijnH10;article;2017-06-21;"Logical Foundations of RDF(S) with Datatypes.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3088";0
+journals/jair/HalpernM14;article;2017-06-21;"A Procedural Characterization of Solution Concepts in Games.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4220";0
+journals/jair/DuboisFP04;article;2017-06-21;"Ordinal and Probabilistic Representations of Acceptance.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1265";0
+journals/jair/SinghKGK09;article;2017-06-21;"Efficient Informative Sensing using Multiple Robots.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2674";0
+journals/jair/HoweD02;article;2017-06-21;"A Critical Assessment of Benchmark Comparison in Planning.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.935";0
+journals/jair/BorodinEG04;article;2017-06-21;"Can We Learn to Beat the Best Stock.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1336";0
+journals/jair/ZlotkinR96;article;2017-06-21;"Mechanisms for Automated Negotiation in State Oriented Domains.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.72";0
+journals/jair/KawaguchiMZ16;article;2017-06-21;"Global Continuous Optimization with Error Bound and Fast Convergence.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4742";0
+journals/jair/Brafman01;article;2017-06-21;"On Reachability, Relevance, and Resolution in the Planning as Satisfiability Approach.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.737";0
+journals/jair/CohenCGGJ14;article;2017-06-21;"Iterative Plan Construction for the Workflow Satisfiability Problem.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4435";0
+journals/jair/BajestaniB13;article;2017-06-21;"Scheduling a Dynamic Aircraft Repair Shop with Limited Repair Resources.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3902";0
+journals/jair/CostaB13;article;2017-06-21;"Learning by Observation of Agent Software Images.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3989";0
+journals/jair/ClementDB07;article;2017-06-21;"Abstract Reasoning for Planning and Coordination.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2158";0
+journals/jair/PeralR03;article;2017-06-21;"Translation of Pronominal Anaphora between English and Spanish: Discrepancies and Evaluation.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1115";0
+journals/jair/EsmeirM08;article;2017-06-21;"Anytime Induction of Low-cost, Low-error Classifiers: a Sampling-based Approach.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2602";0
+journals/jair/BhattacharyyaK01;article;2017-06-21;"Mean Field Methods for a Special Class of Belief Networks.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.734";0
+journals/jair/HeuleJLSB15;article;2017-06-21;"Clause Elimination for SAT and QSAT.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4694";0
+journals/jair/Giraud-CarrierM95;article;2017-06-21;"An Integrated Framework for Learning and Reasoning.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.93";0
+journals/jair/ArasD10;article;2017-06-21;"An Investigation into Mathematical Programming for Finite Horizon Decentralized POMDPs.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2915";0
+journals/jair/BoutilierDH99;article;2017-06-21;"Decision-Theoretic Planning: Structural Assumptions and Computational Leverage.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.575";0
+journals/jair/GoldenbergFSSSHS14;article;2017-06-21;"Enhanced Partial Expansion A.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4171";0
+journals/jair/BarzilayEM02;article;2017-06-21;"Inferring Strategies for Sentence Ordering in Multidocument News Summarization.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.991";0
+journals/jair/SurdeanuMCC07;article;2017-06-21;"Combination Strategies for Semantic Role Labeling.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2088";0
+journals/jair/ZhangXXL14;article;2017-06-21;"Topic-Based Dissimilarity and Sensitivity Models for Translation Rule Selection.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4265";0
+journals/jair/ParisiG16;article;2017-06-21;"Knowledge Representation in Probabilistic Spatio-Temporal Knowledge Bases.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4883";0
+journals/jair/BoutilierB01;article;2017-06-21;"Partial-Order Planning with Concurrent Interacting Actions.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.740";0
+journals/jair/BeekM96;article;2017-06-21;"The Design and Experimental Analysis of Algorithms for Temporal Reasoning.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.232";0
+journals/jair/BlumSK06;article;2017-06-21;"A Continuation Method for Nash Equilibria in Structured Games.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1947";0
+journals/jair/GutnikK06;article;2017-06-21;"Representing Conversations for Scalable Overhearing.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1829";0
+journals/jair/BagetM02;article;2017-06-21;"Extensions of Simple Conceptual Graphs: the Complexity of Rules and Constraints.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.918";0
+journals/jair/BredereckCNW17;article;2017-07-12;"Parliamentary Voting Procedures: Agenda Control, Manipulation, and Uncertainty.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5407";0
+journals/jair/FoxBT99;article;2017-06-21;"Markov Localization for Mobile Robots in Dynamic Environments.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.616";0
+journals/jair/ShehuP16;article;2017-06-21;"A Survey of Computational Treatments of Biomolecules by Robotics-Inspired Methods Modeling Equilibrium Structure and Dynamic.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5040";0
+journals/jair/KrystaTV15;article;2017-06-21;"Mechanisms for Multi-unit Combinatorial Auctions with a Few Distinct Goods.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4587";0
+journals/jair/Liberatore15;article;2017-06-21;"Revision by History.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4608";0
+journals/jair/Cohen95a;article;2017-06-21;"Pac-learning Recursive Logic Programs: Negative Results.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1917";0
+journals/jair/DoshiG09;article;2017-06-21;"Monte Carlo Sampling Methods for Approximating Interactive POMDPs.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2630";0
+journals/jair/LaetSB08;article;2017-06-21;"A Rigorously Bayesian Beam Model and an Adaptive Full Scan Model for Range Finders in Dynamic Environments.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2540";0
+journals/jair/ZhangL97;article;2017-06-21;"A Model Approximation Scheme for Planning in Partially Observable Stochastic Domains.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.419";0
+journals/jair/Furnkranz98;article;2017-06-21;"Integrative Windowing.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.487";0
+journals/jair/Goldberg16;article;2017-06-21;"A Primer on Neural Network Models for Natural Language Processing.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4992";0
+journals/jair/DungT14;article;2017-06-21;"Closure and Consistency In Logic-Associated Argumentation.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4107";0
+journals/jair/Pena11;article;2017-06-21;"Finding Consensus Bayesian Network Structures.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3427";0
+journals/jair/RuizLG98;article;2017-06-21;"Probabilistic Inference from Arbitrary Uncertainty using Mixtures of Factorized Generalized Gaussians.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.533";0
+journals/jair/JodogneP07;article;2017-06-21;"Closed-Loop Learning of Visual Control Policies.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2110";0
+journals/jair/XuZQY16;article;2017-06-21;"Association Discovery and Diagnosis of Alzheimer's Disease with Bayesian Multiview Learning.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4956";0
+journals/jair/El-YanivP09;article;2017-06-21;"Transductive Rademacher Complexity and its Applications.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2587";0
+journals/jair/LecoutreCV11;article;2017-06-21;"Second-Order Consistencies.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3180";0
+journals/jair/AzimiFF16;article;2017-06-21;"Budgeted Optimization with Constrained Experiments.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4896";0
+journals/jair/KrauseG09;article;2017-06-21;"Optimal Value of Information in Graphical Models.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2737";0
+journals/jair/TranVNB17;article;2017-06-21;"Robots in Retirement Homes: Applying Off-the-Shelf Planning and Scheduling to a Team of Assistive Robots.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5306";0
+journals/jair/LiMRW09;article;2017-06-21;"Identification of Pleonastic It Using the Web.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2622";0
+journals/jair/ZhuangP14;article;2017-06-21;"Entrenchment-Based Horn Contraction.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4430";0
+journals/jair/DietterichB95;article;2017-06-21;"Solving Multiclass Learning Problems via Error-Correcting Output Codes.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.105";0
+journals/jair/MooreL98;article;2017-06-21;"Cached Sufficient Statistics for Efficient Machine Learning with Large Datasets.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.453";0
+journals/jair/CepekGK14;article;2017-06-21;"On Minimum Representations of Matched Formulas.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4517";0
+journals/jair/StoneLSK01;article;2017-06-21;"ATTac-2000: An Adaptive Autonomous Bidding Agent.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.865";0
+journals/jair/Conitzer09;article;2017-06-21;"Eliciting Single-Peaked Preferences Using Comparison Queries.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2606";0
+journals/jair/VlaeminckVDB12;article;2017-06-21;"An approximative inference method for solving ∃∀SO satisfiability problems.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3658";0
+journals/jair/AbseherMW17;article;2017-06-21;"Improving the Efficiency of Dynamic Programming on Tree Decompositions via Machine Learning.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5312";0
+journals/jair/GuestrinKPV03;article;2017-06-21;"Efficient Solution Algorithms for Factored MDPs.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1000";0
+journals/jair/YuanLL11;article;2017-06-21;"Most Relevant Explanation in Bayesian Networks.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3301";0
+journals/jair/BorgidaP94;article;2017-06-21;"A Semantics and Complete Algorithm for Subsumption in the CLASSIC Description Logic.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.56";0
+journals/jair/FuLVX12;article;2017-06-21;"Robust Local Search for Solving RCPSP/max with Durational Uncertainty.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3424";0
+journals/jair/KeyderHH14;article;2017-06-21;"Improving Delete Relaxation Heuristics Through Explicitly Represented Conjunctions.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4277";0
+journals/jair/Sebastiani94;article;2017-06-21;"Applying GSAT to Non-Clausal Formulas (Research Note).";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.49";0
+journals/jair/Hew17;article;2017-08-31;"The Length of Shortest Vertex Paths in Binary Occupancy Grids Compared to Shortest r-Constrained Ones.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5442";0
+journals/jair/ZickME14;article;2017-06-21;"Arbitration and Stability in Cooperative Games with Overlapping Coalitions.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4237";0
+journals/jair/Patel-SchneiderS03;article;2017-06-21;"A New General Method to Generate Random Modal Formulae for Testing Decision Procedures.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1166";0
+journals/jair/GolovinK11;article;2017-06-21;"Adaptive Submodularity: Theory and Applications in Active Learning and Stochastic Optimization.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3278";0
+journals/jair/GrecoTZ07;article;2017-06-21;"On the Semantics of Logic Programs with Preferences.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2371";0
+journals/jair/BredereckFNT16;article;2017-06-21;"Large-Scale Election Campaigns: Combinatorial Shift Bribery.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4927";0
+journals/jair/BergmannW95;article;2017-06-21;"Building and Refining Abstract Planning Cases by Change of Representation Language.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.160";0
+journals/jair/FernNJT14;article;2017-06-21;"A Decision-Theoretic Model of Assistance.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4213";0
+journals/jair/FelnerKH04;article;2017-06-21;"Additive Pattern Database Heuristics.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1480";0
+journals/jair/AlbaceteCCC12;article;2017-06-21;"Semantic Similarity Measures Applied to an Ontology for Human-Like Interaction.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3612";0
+journals/jair/LarrosaMN05;article;2017-06-21;"On the Practical use of Variable Elimination in Constraint Optimization Problems: 'Still-life' as a Case Study.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1541";0
+journals/jair/FoxL03;article;2017-06-21;"PDDL2.1: An Extension to PDDL for Expressing Temporal Planning Domains.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1129";0
+journals/jair/WuD10;article;2017-06-21;"Resource-Driven Mission-Phasing Techniques for Constrained Agents in Stochastic Environments.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3004";0
+journals/jair/WalkerLHWG02;article;2017-06-21;"Automatically Training a Problematic Dialogue Predictor for a Spoken Dialogue System.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.971";0
+journals/jair/Kambhampati00;article;2017-06-21;"Planning Graph as a (Dynamic) CSP: Exploiting EBL, DDB and other CSP Search Techniques in Graphplan.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.655";0
+journals/jair/FaliszewskiHH09;article;2017-06-21;"How Hard Is Bribery in Elections?";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2676";0
+journals/jair/Bar-HaimDB15;article;2017-06-21;"Knowledge-Based Textual Inference via Parse-Tree Transformations.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4584";0
+journals/jair/SanthanamBH11;article;2017-06-21;"Representing and Reasoning with Qualitative Preferences for Compositional Systems.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3339.html";0
+journals/jair/BlumrosenNS07;article;2017-06-21;"Auctions with Severely Bounded Communication.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2081";0
+journals/jair/Ling94;article;2017-06-21;"Learning the Past Tense of English Verbs: The Symbolic Pattern Associator vs. Connectionist Models.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.39";0
+journals/jair/TiedemannA16;article;2017-06-21;"Synthetic Treebanking for Cross-Lingual Dependency Parsing.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4785";0
+journals/jair/Halpern99a;article;2017-06-21;"Cox's Theorem Revisited (technical addendum).";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.644";0
+journals/jair/HoffmannWK12;article;2017-06-21;"SAP Speaks PDDL: Exploiting a Software-Engineering Model for Planning in Business Process Management.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3636";0
+journals/jair/WiebeOOM98;article;2017-06-21;"An Empirical Approach to Temporal Reference Resolution.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.523";0
+journals/jair/FaliszewskiHHR09;article;2017-06-21;"Llull and Copeland Voting Computationally Resist Bribery and Constructive Control.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2697";0
+journals/jair/FernandezE016;article;2017-06-21;"Distributional Correspondence Indexing for Cross-Lingual and Cross-Domain Sentiment Classification.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4762";0
+journals/jair/GrinshpounM08;article;2017-06-21;"Completeness and Performance Of The APO Algorithm.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2611";0
+journals/jair/GiacomoL97;article;2017-06-21;"A Uniform Framework for Concept Definitions in Description Logics.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.334";0
+journals/jair/GeigerMW06;article;2017-06-21;"A Variational Inference Procedure Allowing Internal Structure for Overlapping Clusters and Deterministic Constraints.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2028";0
+journals/jair/Rintanen99;article;2017-06-21;"Constructing Conditional Plans by a Theorem-Prover.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.591";0
+journals/jair/Cristani99;article;2017-06-21;"The Complexity of Reasoning about Spatial Congruence.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.641";0
+journals/jair/GrauM12;article;2017-06-21;"Reasoning over Ontologies with Hidden Content: The Import-by-Query Approach.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3579";0
+journals/jair/BettiniMW07;article;2017-06-21;"Supporting Temporal Reasoning by Mapping Calendar Expressions to Minimal Periodic Sets.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2136";0
+journals/jair/CadoliDLS00;article;2017-06-21;"Space Efficiency of Propositional Knowledge Representation Formalisms.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.664";0
+journals/jair/ZhuangWWQ16;article;2017-06-21;"DL-Lite Contraction and Revision.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5050";0
+journals/jair/DoK03;article;2017-06-21;"Sapa: A Multi-objective Metric Temporal Planner.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1156";0
+journals/jair/Zhang04;article;2017-06-21;"Phase Transitions and Backbones of the Asymmetric Traveling Salesman Problem.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1389";0
+journals/jair/TanKLS03;article;2017-06-21;"An Evolutionary Algorithm with Advanced Goal and Priority Specification for Multi-objective Optimization.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.842";0
+journals/jair/GoernitzKRB13;article;2017-06-21;"Toward Supervised Anomaly Detection.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3623";0
+journals/jair/ChawlaBHK02;article;2017-06-21;"SMOTE: Synthetic Minority Over-sampling Technique.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.953";0
+journals/jair/WuMH11;article;2017-06-21;"Identifying Aspects for Web-Search Queries.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3182";0
+journals/jair/DelgrandeW13;article;2017-06-21;"Horn Clause Contraction Functions.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4031";0
+journals/jair/DarwicheP97;article;2017-06-21;"Query DAGs: A Practical Paradigm for Implementing Belief-Network Inference.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.330";0
+journals/jair/KeyderG09;article;2017-06-21;"Soft Goals Can Be Compiled Away.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2857";0
+journals/jair/OnderWL06;article;2017-06-21;"Engineering a Conformant Probabilistic Planner.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1701";0
+journals/jair/HuangKG12;article;2017-06-21;"Riffled Independence for Efficient Inference with Partial Rankings.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3543";0
+journals/jair/JurcaF09;article;2017-06-21;"Mechanisms for Making Crowds Truthful.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2621";0
+journals/jair/Lin03;article;2017-06-21;"Compiling Causal Theories to Successor State Axioms and STRIPS-Like Systems.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1135";0
+journals/jair/BredinPD07;article;2017-06-21;"Chain: A Dynamic Double Auction Framework for Matching Patient Agents.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2303";0
+journals/jair/MoriartySG99;article;2017-06-21;"Evolutionary Algorithms for Reinforcement Learning.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.613";0
+journals/jair/AbedinNK10;article;2017-06-21;"Cause Identification from Aviation Safety Incident Reports via Weakly Supervised Semantic Lexicon Construction.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2986";0
+journals/jair/Wiewiora03;article;2017-06-21;"Potential-Based Shaping and Q-Value Initialization are Equivalent.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1190";0
+journals/jair/BowlingV04;article;2017-06-21;"Existence of Multiagent Equilibria with Limited Agents.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1332";0
+journals/jair/DavidovM06;article;2017-06-21;"Multiple-Goal Heuristic Search.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1940";0
+journals/jair/StefanoniMKR14;article;2017-06-21;"The Complexity of Answering Conjunctive and Navigational Queries over OWL 2 EL Knowledge Bases.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4457";0
+journals/jair/OnoWB13;article;2017-06-21;"Probabilistic Planning for Continuous Dynamic Systems under Bounded Risk.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3893";0
+journals/jair/MotikSH09;article;2017-06-21;"Hypertableau Reasoning for Description Logics.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2811";0
+journals/jair/WuKG11;article;2017-06-21;"Stochastic Enforced Hill-Climbing.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3420.html";0
+journals/jair/0002PB11;article;2017-06-21;"Exploiting Structure in Weighted Model Counting Approaches to Probabilistic Inference.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3232.html";0
+journals/jair/AsaiF17;article;2017-06-21;"Tie-Breaking Strategies for Cost-Optimal Best First Search.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5249";0
+journals/jair/BeetzG05;article;2017-06-21;"Probabilistic Hybrid Action Models for Predicting Concurrent Percept-driven Robot Behavior.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1565";0
+journals/jair/DolgovD06;article;2017-06-21;"Resource Allocation Among Agents with MDP-Induced Preferences.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2102";0
+journals/jair/FaveJYZTKS14;article;2017-06-21;"Game-Theoretic Patrolling with Dynamic Execution Uncertainty and a Case Study on a Real Transit System.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4317";0
+journals/jair/ArtaleCKZ09;article;2017-06-21;"The DL-Lite Family and Relations.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2820";0
+journals/jair/BabaioffFN10;article;2017-06-21;"Mixed Strategies in Combinatorial Agency.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2961";0
+journals/jair/StoilosSPTH07;article;2017-06-21;"Reasoning with Very Expressive Fuzzy Description Logics.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2279";0
+journals/jair/CaiSLS13;article;2017-06-21;"NuMVC: An Efficient Local Search Algorithm for Minimum Vertex Cover.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3907";0
+journals/jair/ChenWK17;article;2017-07-12;"Learning Discrete Bayesian Networks from Continuous Data.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5371";0
+journals/jair/Quinlan96;article;2017-06-21;"Improved Use of Continuous Attributes in C4.5.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.279";0
+journals/jair/GoldsmithLTW08;article;2017-06-21;"The Computational Complexity of Dominance and Consistency in CP-Nets.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2627";0
+journals/jair/BodirskyJ17;article;2017-06-21;"A Model-Theoretic View on Qualitative Constraint Reasoning.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5260";0
+journals/jair/DasguptaN10;article;2017-06-21;"Which Clustering Do You Want? Inducing Your Ideal Clustering with Minimal Feedback.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3003";0
+journals/jair/FoxLM12;article;2017-06-21;"Plan-based Policies for Efficient Multiple Battery Load Management.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3643";0
+journals/jair/GmytrasiewiczD05;article;2017-06-21;"A Framework for Sequential Planning in Multi-Agent Settings.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1579";0
+journals/jair/PinkasD95;article;2017-06-21;"Improving Connectionist Energy Minimization.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.130";0
+journals/jair/VytelingumVRRJ11;article;2017-06-21;"Theoretical and Practical Foundations of Large-Scale Agent-Based Micro-Storage in the Smart Grid.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3446";0
+journals/jair/MartinyM16;article;2017-06-21;"PDT Logic: A Probabilistic Doxastic Temporal Logic for Reasoning about Beliefs in Multi-agent Systems.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5182";0
+journals/jair/CateFS13;article;2017-06-21;"Beth Definability in Expressive Description Logics.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4057";0
+journals/jair/SaqueteGMML09;article;2017-06-21;"Enhancing QA Systems with Complex Temporal Question Processing Capabilities.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2805";0
+journals/jair/GentW93;article;2017-06-21;"An Empirical Analysis of Search in GSAT.";"";"1993";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.7";0
+journals/jair/NissimB14;article;2017-06-21;"Distributed Heuristic Forward Search for Multi-agent Planning.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4295";0
+journals/jair/NisanR07;article;2017-06-21;"Computationally Feasible VCG Mechanisms.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2046";0
+journals/jair/GuoCYWL16;article;2017-06-21;"A Distributed Representation-Based Framework for Cross-Lingual Transfer Parsing.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4955";0
+journals/jair/PetrikZ09;article;2017-06-21;"A Bilinear Programming Approach for Multiagent Planning.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2673";0
+journals/jair/BaskayaJ16;article;2017-06-21;"Semi-supervised Learning with Induced Word Senses for State of the Art Word Sense Disambiguation.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4917";0
+journals/jair/YeohFK10;article;2017-06-21;"BnB-ADOPT: An Asynchronous Branch-and-Bound DCOP Algorithm.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2849";0
+journals/jair/Dunne05;article;2017-06-21;"Extremal Behaviour in Multiagent Contract Negotiation.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1526";0
+journals/jair/NakovN12;article;2017-06-21;"Improving Statistical Machine Translation for a Resource-Poor Language Using Related Resource-Rich Languages.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3540";0
+journals/jair/MondererT04;article;2017-06-21;"K-Implementation.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1231";0
+journals/jair/SoderlandL94;article;2017-06-21;"Wrap-Up: a Trainable Discourse Module for Information Extraction.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.68";0
+journals/jair/StanleyM04;article;2017-06-21;"Competitive Coevolution through Evolutionary Complexification.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1338";0
+journals/jair/NauAIKMWY03;article;2017-06-21;"SHOP2: An HTN Planning System.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1141";0
+journals/jair/ZhouZ11;article;2017-06-21;"A Logical Study of Partial Entailment.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3117";0
+journals/jair/BredereckCHKNSW14;article;2017-06-21;"A Multivariate Complexity Analysis of Lobbying in Multiple Referenda.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4285";0
+journals/jair/KvetonHG06;article;2017-06-21;"Solving Factored MDPs with Hybrid State and Action Variables.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2085";0
+journals/jair/PullanH06;article;2017-06-21;"Dynamic Local Search for the Maximum Clique Problem.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1815";0
+journals/jair/MicalizioT14;article;2017-06-21;"Cooperative Monitoring to Diagnose Multiagent Plans.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4339";0
+journals/jair/MannMP15;article;2017-06-21;"Approximate Value Iteration with Temporally Extended Actions.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4676";0
+journals/jair/GhoshSCD12;article;2017-06-21;"Algorithms for Generating Ordered Solutions for Explicit AND/OR Structures.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3576";0
+journals/jair/ConsolePD03;article;2017-06-21;"Temporal Decision Trees: Model-based Diagnosis of Dynamic Systems On-Board.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1194";0
+journals/jair/SonuCD17;article;2017-08-31;"Decision-Theoretic Planning Under Anonymity in Agent Populations.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5449";0
+journals/jair/MooneyC95;article;2017-06-21;"Induction of First-Order Decision Lists: Results on Learning the Past Tense of English Verbs.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.148";0
+journals/jair/BeckW07;article;2017-06-21;"Proactive Algorithms for Job Shop Scheduling with Probabilistic Durations.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2080";0
+journals/jair/CenamorRF16;article;2017-06-21;"The IBaCoP Planning System: Instance-Based Configured Portfolios.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5080";0
+journals/jair/KurataHIY17;article;2017-06-21;"Controlled School Choice with Soft Bounds and Overlapping Types.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5297";0
+journals/jair/VulicM16;article;2017-06-21;"Bilingual Distributed Word Representations from Document-Aligned Comparable Data.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4986";0
+journals/jair/WahWW17;article;2017-08-31;"Welfare Effects of Market Making in Continuous Double Auctions.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5360";0
+journals/jair/WatsonWH05;article;2017-06-21;"Linking Search Space Structure, Run-Time Dynamics, and Problem Difficulty: A Step Toward Demystifying Tabu Search.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1576";0
+journals/jair/HaanKS15;article;2017-06-21;"On the Subexponential-Time Complexity of CSP.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4540";0
+journals/jair/BonetG05;article;2017-06-21;"mGPT: A Probabilistic Planner Based on Heuristic Search.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1688";0
+journals/jair/BuchheitDS93;article;2017-06-21;"Decidable Reasoning in Terminological Knowledge Representation Systems.";"";"1993";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.21";0
+journals/jair/BryceKS06;article;2017-06-21;"Planning Graph Heuristics for Belief Space Search.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1869";0
+journals/jair/CoomanM12;article;2017-06-26;"Irrelevant and independent natural extension for sets of desirable gambles.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3770";0
+journals/jair/ErdelyiLP17;article;2017-06-21;"Computational Aspects of Nearly Single-Peaked Electorates.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5210";0
+journals/jair/CemgilK03;article;2017-06-21;"Monte Carlo Methods for Tempo Tracking and Rhythm Quantization.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1121";0
+journals/jair/HoshinoK11;article;2017-06-21;"Scheduling Bipartite Tournaments to Minimize Total Travel Distance.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3388.html";0
+journals/jair/DanielNKF10;article;2017-06-21;"Theta*: Any-Angle Path Planning on Grids.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2994";0
+journals/jair/MaoG12;article;2017-06-21;"Modeling Social Causality and Responsibility Judgment in Multi-Agent Interactions.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3526";0
+journals/jair/StulpB08;article;2017-06-21;"Refining the Execution of Abstract Actions with Learned Action Models.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2479";0
+journals/jair/Sanchez-Cartagena16;article;2017-06-21;"Integrating Rules and Dictionaries from Shallow-Transfer Machine Translation into Phrase-Based Statistical Machine Translation.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4761";0
+journals/jair/BaxterB01;article;2017-06-21;"Infinite-Horizon Policy-Gradient Estimation.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.806";0
+journals/jair/AptS14;article;2017-06-21;"Selfishness Level of Strategic Games.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4164";0
+journals/jair/BrielK05;article;2017-06-21;"Optiplan: Unifying IP-based and Graph-based Planning.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1698";0
+journals/jair/Webb95;article;2017-06-21;"OPUS: An Efficient Admissible Algorithm for Unordered Search.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.227";0
+journals/jair/CookV98;article;2017-06-21;"Adaptive Parallel Iterative Deepening Search.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.518";0
+journals/jair/DobzinskiN10;article;2017-06-21;"Mechanisms for Multi-Unit Auctions.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2950";0
+journals/jair/HawkinsLS05;article;2017-06-21;"Solving Set Constraint Satisfaction Problems using ROBDDs.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1638";0
+journals/jair/HernandezB12;article;2017-06-21;"Avoiding and Escaping Depressions in Real-Time Heuristic Search.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3590";0
+journals/jair/HoekWW10;article;2017-06-21;"Reasoning About the Transfer of Control.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2901";0
+journals/jair/JotyCN13;article;2017-06-21;"Topic Segmentation and Labeling in Asynchronous Conversations.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3940";0
+journals/jair/Haslum12;article;2017-06-21;"Narrative Planning: Compilations to Classical Planning.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3602";0
+journals/jair/Roy06;article;2017-06-21;"Fault Tolerant Boolean Satisfiability.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1914";0
+journals/jair/SinghLKW02;article;2017-06-21;"Optimizing Dialogue Management with Reinforcement Learning: Experiments with the NJFun System.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.859";0
+journals/jair/BrafmanT03;article;2017-06-21;"Learning to Coordinate Efficiently: A Model-based Approach.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1154";0
+journals/jair/LiuMYC16;article;2017-06-21;"Learning Concept Graphs from Online Educational Data.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5002";0
+journals/jair/FriedmanH99;article;2017-06-21;"Modeling Belief in Dynamic Systems, Part II: Revision and Update.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.506";0
+journals/jair/Idestam-Almquist95;article;2017-06-21;"Generalization of Clauses under Implication.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.194";0
+journals/jair/CimianoHS05;article;2017-06-21;"Learning Concept Hierarchies from Text Corpora using Formal Concept Analysis.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1648";0
+journals/jair/Hogg96;article;2017-06-21;"Quantum Computing and Phase Transitions in Combinatorial Search.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.204";0
+journals/jair/Meek01;article;2017-06-21;"Finding a Path is Harder than Finding a Tree.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.914";0
+journals/jair/GutierrezM12;article;2017-06-21;"Removing Redundant Messages in N-ary BnB-ADOPT.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3696";0
+journals/jair/FrankCS97;article;2017-06-21;"When Gravity Fails: Local Search Topology.";"";"1997";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.445";0
+journals/jair/Baxter00;article;2017-06-21;"A Model of Inductive Bias Learning.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.731";0
+journals/jair/CoomanBD15;article;2017-06-21;"Coherent Predictive Inference under Exchangeability with Imprecise Probabilities.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4490";0
+journals/jair/Brewka96;article;2017-06-21;"Well-Founded Semantics for Extended Logic Programs with Dynamic Preferences.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.284";0
+journals/jair/AchlioptasJM05;article;2017-06-21;"Hiding Satisfying Assignments: Two are Better than One.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1681";0
+journals/jair/AcidC03;article;2017-06-21;"Searching for Bayesian Network Structures in the Space of Restricted Acyclic Partially Directed Graphs.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1061";0
+journals/jair/BaaderLSW02;article;2017-06-21;"Fusions of Description Logics and Abstract Description Systems.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.919";0
+journals/jair/CozmanM17;article;2017-10-06;"On the Semantics and Complexity of Probabilistic Logic Programs.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5482";0
+journals/jair/MotzekM17;article;2017-06-21;"Indirect Causes in Dynamic Bayesian Networks Revisited.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5361";0
+journals/jair/JordanW05;article;2017-06-21;"Learning Content Selection Rules for Generating Object Descriptions in Dialogue.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1591";0
+journals/jair/FernGS02;article;2017-06-21;"Specific-to-General Learning for Temporal Events with Application to Learning Event Definitions from Video.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1050";0
+journals/jair/GrinshpounGZNM13;article;2017-06-21;"Asymmetric Distributed Constraint Optimization Problems.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3945";0
+journals/jair/GroveHK94;article;2017-06-21;"Random Worlds and Maximum Entropy.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.61";0
+journals/jair/LongF99;article;2017-06-21;"Efficient Implementation of the Plan Graph in STAN.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.570";0
+journals/jair/AnshelevichP17;article;2017-06-21;"Randomized Social Choice Functions Under Metric Preferences.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5340";0
+journals/jair/LeeP12;article;2017-06-21;"Reformulating the Situation Calculus and the Event Calculus in the General Theory of Stable Models and in Answer Set Programming.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3489";0
+journals/jair/LeeL12;article;2017-06-21;"Consistency Techniques for Flow-Based Projection-Safe Global Cost Functions in Weighted Constraint Satisfaction.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3476";0
+journals/jair/DuA16;article;2017-06-21;"Qualitative Spatial Logics for Buffered Geometries.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5140";0
+journals/jair/HuangCZ12;article;2017-06-21;"SAS+ Planning as Satisfiability.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3442";0
+journals/jair/GunayLZ16;article;2017-06-21;"ProMoca: Probabilistic Modeling and Analysis of Agents in Commitment Protocols.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5135";0
+journals/jair/NairT05;article;2017-06-21;"Hybrid BDI-POMDP Framework for Multiagent Teaming.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1549";0
+journals/jair/ParkDB04;article;2017-06-21;"Use of Markov Chains to Design an Agent Bidding Strategy for Continuous Double Auctions.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1466";0
+journals/jair/CimattiR00;article;2017-06-21;"Conformant Planning via Symbolic Model Checking.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.774";0
+journals/jair/FeldmanT09;article;2017-06-21;"Approximate Strong Equilibrium in Job Scheduling Games.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2892";0
+journals/jair/KoehlerH00;article;2017-06-21;"On Reasonable and Forced Goal Orderings and their Use in an Agenda-Driven Planning Algorithm.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.715";0
+journals/jair/PryorC96;article;2017-06-21;"Planning for Contingencies: A Decision-based Approach.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.277";0
+journals/jair/KozorovitzkyK11;article;2017-06-21;"From "Identical" to "Similar": Fusing Retrieved Lists Based on Inter-Document Similarities.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3214";0
+journals/jair/GaoC02;article;2017-06-21;"An Analysis of Phase Transition in NK Landscapes.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1081";0
+journals/jair/Hoffmann05;article;2017-06-21;"Where 'Ignoring Delete Lists' Works: Local Search Topology in Planning Benchmarks.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1747";0
+journals/jair/MalapertRR16;article;2017-06-21;"Embarrassingly Parallel Search in Constraint Programming.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5247";0
+journals/jair/Wong08;article;2017-06-21;"Sound and Complete Inference Rules for SE-Consequence.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2472";0
+journals/jair/PortaC05;article;2017-06-21;"Reinforcement Learning for Agents with Many Sensors and Actuators Acting in Categorizable Environments.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1437";0
+journals/jair/PalaciosG09;article;2017-06-21;"Compiling Uncertainty Away in Conformant Planning Problems with Bounded Width.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2708";0
+journals/jair/YangN17;article;2017-10-06;"Combining Lexical and Syntactic Features for Detecting Content-Dense Texts in News.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5418";0
+journals/jair/CimattiGS11;article;2017-06-21;"Computing Small Unsatisfiable Cores in Satisfiability Modulo Theories.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3196.html";0
+journals/jair/ZytnickiGGS09;article;2017-06-21;"Bounds Arc Consistency for Weighted CSPs.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2797";0
+journals/jair/GlimmLHS08;article;2017-06-21;"Conjunctive Query Answering for the Description Logic SHIQ.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2372";0
+journals/jair/JoslinC99;article;2017-06-21;"Squeaky Wheel Optimization.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.561";0
+journals/jair/PriceB03;article;2017-06-21;"Accelerating Reinforcement Learning through Implicit Imitation.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.898";0
+journals/jair/CreignouDE07;article;2017-06-21;"Phase Transition for Random Quantified XOR-Formulas.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2120";0
+journals/jair/KatrenkoAS10;article;2017-06-21;"Using Local Alignments for Relation Recognition.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2964";0
+journals/jair/Khardon95;article;2017-06-21;"Translating between Horn Representations and their Characteristic Models.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.183";0
+journals/jair/RossiVY06;article;2017-06-21;"Uncertainty in Soft Temporal Constraint Problems: A General Framework and Controllability Algorithms forThe Fuzzy Case.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2135";0
+journals/jair/TurneyP10;article;2017-06-21;"From Frequency to Meaning: Vector Space Models of Semantics.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2934";0
+journals/jair/BodirskyH12;article;2017-06-21;"Tractable Set Constraints.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3747";0
+journals/jair/LongF03;article;2017-06-21;"The 3rd International Planning Competition: Results and Analysis.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1240";0
+journals/jair/BurnsLRZ10;article;2017-06-21;"Best-First Heuristic Search for Multicore Machines.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3094";0
+journals/jair/BoerkoelD13;article;2017-06-21;"Distributed Reasoning for Multiagent Simple Temporal Problems.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3840";0
+journals/jair/DinhDMR12;article;2017-06-21;"The Time Complexity of A* with Approximate Heuristics on Multiple-Solution Search Spaces.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3779";0
+journals/jair/Kwisthout15;article;2017-06-21;"Tree-Width and the Computational Complexity of MAP Approximations in Bayesian Networks.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4794";0
+journals/jair/VelosoS95;article;2017-06-21;"FLECS: Planning with a Flexible Commitment Strategy.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.131";0
+journals/jair/AnguloT09;article;2017-06-21;"Exploiting Single-Cycle Symmetries in Continuous Constraint Problems.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2711";0
+journals/jair/WangSSZXZ13;article;2017-06-21;"A Feature Subset Selection Algorithm Automatic Recommendation Method.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3831";0
+journals/jair/WildeMW14;article;2017-06-21;"Push and Rotate: a Complete Multi-agent Pathfinding Algorithm.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4447";0
+journals/jair/HaririCMGMF13;article;2017-06-21;"Description Logic Knowledge and Action Bases.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3826";0
+journals/jair/GrauHKKMMW13;article;2017-06-21;"Acyclicity Notions for Existential Rules and Their Application to Query Answering in Ontologies.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3949";0
+journals/jair/XuHHL08;article;2017-06-21;"SATzilla: Portfolio-based Algorithm Selection for SAT.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2490";0
+journals/jair/Walsh96;article;2017-06-21;"A Divergence Critic for Inductive Proof.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.275";0
+journals/jair/OrdyniakS13;article;2017-06-21;"Parameterized Complexity Results for Exact Bayesian Network Structure Learning.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3744";0
+journals/jair/LeauteF13;article;2017-06-21;"Protecting Privacy through Distributed Computation in Multi-agent Decision Making.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3983";0
+journals/jair/VillaS16;article;2017-06-21;"Learning Continuous Time Bayesian Networks in Non-stationary Domains.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5126";0
+journals/jair/BranavanCEB09;article;2017-06-21;"Learning Document-Level Semantic Properties from Free-Text Annotations.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2633";0
+journals/jair/Espla-GomisSF15;article;2017-06-21;"Using Machine Translation to Provide Target-Language Edit Hints in Computer Aided Translation Based on Translation Memories.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4630";0
+journals/jair/BidyukDR10;article;2017-06-21;"Active Tuples-based Scheme for Bounding Posterior Beliefs.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2945";0
+journals/jair/ZhuY16;article;2017-06-21;"Exact Algorithms for MRE Inference.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4867";0
+journals/jair/RadinskyDM12;article;2017-06-21;"Learning to Predict from Textual Data.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3865";0
+journals/jair/PynadathT02;article;2017-06-21;"The Communicative Multiagent Team Decision Problem: Analyzing Teamwork Theories and Models.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1024";0
+journals/jair/DomshlakN13;article;2017-06-21;"The Complexity of Optimal Monotonic Planning: The Bad, The Good, and The Causal Graph.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4145";0
+journals/jair/Haslum06;article;2017-06-21;"Improving Heuristics Through Relaxed Search - An Analysis of TP4 and HSP*a in the 2004 Planning Competition.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1885";0
+journals/jair/KariotoglouKSL17;article;2017-10-12;"The Linear Programming Approach to Reach-Avoid Problems for Markov Decision Processes.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5500";0
+journals/jair/Wellman93;article;2017-06-21;"A Market-Oriented Programming Environment and its Application to Distributed Multicommodity Flow Problems.";"";"1993";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2";0
+journals/jair/MurphyP94;article;2017-06-21;"Exploring the Decision Forest: An Empirical Investigation of Occam's Razor in Decision Tree Induction.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.41";0
+journals/jair/ImaiF15;article;2017-06-21;"On a Practical, Integer-Linear Programming Model for Delete-Free Tasks and its Use as a Heuristic for Cost-Optimal Planning.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4936";0
+journals/jair/AzizCGKMW16;article;2017-06-21;"A Study of Proxies for Shapley Allocations of Transport Costs.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5021";0
+journals/jair/KerstingRR06;article;2017-06-21;"Logical Hidden Markov Models.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1675";0
+journals/jair/Borgida99;article;2017-06-21;"Extensible Knowledge Representation: the Case of Description Reasoners.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.584";0
+journals/jair/WellmanRLV04;article;2017-06-21;"Price Prediction in a Trading Agent Competition.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1333";0
+journals/jair/LangT10;article;2017-06-21;"Planning with Noisy Probabilistic Relational Rules.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3093";0
+journals/jair/ViappianiFP06;article;2017-06-21;"Preference-based Search using Example-Critiquing with Suggestions.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2075";0
+journals/jair/RefanidisV01;article;2017-06-21;"The GRT Planning System: Backward Heuristic Construction in Forward State-Space Planning.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.893";0
+journals/jair/Resnik99;article;2017-06-21;"Semantic Similarity in a Taxonomy: An Information-Based Measure and its Application to Problems of Ambiguity in Natural Language.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.514";0
+journals/jair/Perez-de-la-CruzMM13;article;2017-06-21;"A Case of Pathology in Multiobjective Heuristic Search.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4100";0
+journals/jair/Nilsson94;article;2017-06-21;"Teleo-Reactive Programs for Agent Control.";"";"1994";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.30";0
+journals/jair/DhurandharW13;article;2017-06-21;"Single Network Relational Transductive Learning.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4068";0
+journals/jair/IzquierdoSR15;article;2017-06-21;"Word vs. Class-Based Word Sense Disambiguation.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4727";0
+journals/jair/BegleiterEY04;article;2017-06-21;"On Prediction Using Variable Order Markov Models.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1491";0
+journals/jair/BurnsRD13;article;2017-06-21;"Heuristic Search When Time Matters.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4047";0
+journals/jair/SchlimmerW96;article;2017-06-21;"Quantitative Results Comparing Three Intelligent Interfaces for Information Capture: A Case Study Adding Name Information into an Electronic Personal Organizer.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.321";0
+journals/jair/DarwicheM02;article;2017-06-21;"A Knowledge Compilation Map.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.989";0
+journals/jair/KorzhykYKCT11;article;2017-06-21;"Stackelberg vs. Nash in Security Games: An Extended Investigation of Interchangeability, Equivalence, and Uniqueness.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3269";0
+journals/jair/CsekeH11;article;2017-06-21;"Properties of Bethe Free Energies and Message Passing in Gaussian Models.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3195";0
+journals/jair/KatzD10;article;2017-06-21;"Implicit Abstraction Heuristics.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3063";0
+journals/jair/NigendaK03;article;2017-06-21;"AltAltp: Online Parallelization of Plans with Heuristic State Search.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1168";0
+journals/jair/RupnikMLSFG16;article;2017-06-21;"News Across Languages - Cross-Lingual Document Similarity and Event Tracking.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4780";0
+journals/jair/OliehoekSV08;article;2017-06-21;"Optimal and Approximate Q-value Functions for Decentralized POMDPs.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2447";0
+journals/jair/SadilekK12;article;2017-06-21;"Location-Based Reasoning about Complex Multi-Agent Behavior.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3421";0
+journals/jair/TsvetkovD16;article;2017-06-21;"Cross-Lingual Bridges with Models of Lexical Borrowing.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4786";0
+journals/jair/BrodleyF99;article;2017-06-21;"Identifying Mislabeled Training Data.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.606";0
+journals/jair/BhattacharyaG07;article;2017-06-21;"Query-time Entity Resolution.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2290";0
+journals/jair/ZengD12;article;2017-06-21;"Exploiting Model Equivalences for Solving Interactive Dynamic Influence Diagrams.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3461";0
+journals/jair/EveraereKM07;article;2017-06-21;"The Strategy-Proofness Landscape of Merging.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2034";0
+journals/jair/Davis99;article;2017-06-21;"Order of Magnitude Comparisons of Distance.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.520";0
+journals/jair/FormigaBMQM15;article;2017-06-21;"Leveraging Online User Feedback to Improve Statistical Machine Translation.";"";"2015";"J. Artif. Intell. Res.";None;0
+journals/jair/YggeA99;article;2017-06-21;"Decentralized Markets versus Central Control: A Comparative Study.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.627";0
+journals/jair/SatoK01;article;2017-06-21;"Parameter Learning of Logic Programs for Symbolic-Statistical Modeling.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.912";0
+journals/jair/JeavonsP12;article;2017-06-21;"Local Consistency and SAT-Solvers.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3531";0
+journals/jair/ElomaaK01;article;2017-06-21;"An Analysis of Reduced Error Pruning.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.816";0
+journals/jair/GhooshchiNNS17;article;2017-06-21;"Encoding Domain Transitions for Constraint-Based Planning.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5378";0
+journals/jair/HoffmannN01;article;2017-06-21;"The FF Planning System: Fast Plan Generation Through Heuristic Search.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.855";0
+journals/jair/MauaCZ12;article;2017-06-21;"Solving Limited Memory Influence Diagrams.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3625";0
+journals/jair/ParisiPR16;article;2017-06-21;"Multi-objective Reinforcement Learning through Continuous Pareto Manifold Approximation.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4961";0
+journals/jair/FukunagaK07;article;2017-06-21;"Bin Completion Algorithms for Multicontainer Packing, Knapsack, and Covering Problems.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2106";0
+journals/jair/Costa-jussaHB12;article;2017-06-21;"Evaluating Indirect Strategies for Chinese-Spanish Statistical Machine Translation.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3786";0
+journals/jair/TesauroGLFP13;article;2017-06-21;"Analysis of Watson's Strategies for Playing Jeopardy!";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3834";0
+journals/jair/Hoffmann03;article;2017-06-21;"The Metric-FF Planning System: Translating ''Ignoring Delete Lists'' to Numeric State Variables.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1144";0
+journals/jair/CsajiM08;article;2017-06-21;"Adaptive Stochastic Resource Control: A Machine Learning Approach.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2548";0
+journals/jair/CalvaneseOSS13;article;2017-06-21;"Reasoning about Explanations for Negative Query Answers in DL-Lite.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3870";0
+journals/jair/Kissmann014;article;2017-06-21;"BDD Ordering Heuristics for Classical Planning.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4586";0
+journals/jair/BoteaEMS05;article;2017-06-21;"Macro-FF: Improving AI Planning with Automatically Learned Macro-Operators.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1696";0
+journals/jair/LermanMK03;article;2017-06-21;"Wrapper Maintenance: A Machine Learning Approach.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1145";0
+journals/jair/BuiVW02;article;2017-06-21;"Policy Recognition in the Abstract Hidden Markov Model.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.839";0
+journals/jair/VoicePJ12;article;2017-06-21;"Coalition Structure Generation over Graphs.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3715";0
+journals/jair/BetzlerSU13;article;2017-06-21;"On the Computation of Fully Proportional Representation.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3896";0
+journals/jair/ZhouZCHDC17;article;2017-06-21;"A Neural Probabilistic Structured-Prediction Method for Transition-Based Natural Language Processing.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5259";0
+journals/jair/CalvaneseLN99;article;2017-06-21;"Unifying Class-Based Representation Formalisms.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.548";0
+journals/jair/ChenHLMQTWZ16;article;2017-06-21;"Efficient Mechanism Design for Online Scheduling.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5100";0
+journals/jair/LesaintMOQW10;article;2017-06-21;"Developing Approaches for Solving a Telecommunications Feature Subscription Problem.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2992";0
+journals/jair/MusleaMK06;article;2017-06-21;"Active Learning with Multiple Views.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2005";0
+journals/jair/Hoffmann11;article;2017-06-21;"Analyzing Search Topology Without Running Any Search: On the Connection Between Causal Graphs and h+.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3276";0
+journals/jair/SteigmillerG15;article;2017-06-21;"Pay-As-You-Go Description Logic Reasoning by Coupling Tableau and Saturation Procedures.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4897";0
+journals/jair/WangJK08;article;2017-06-21;"First Order Decision Diagrams for Relational MDPs.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2489";0
+journals/jair/WittocxMD10;article;2017-06-21;"Grounding FO and FO(ID) with Bounds.";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2980";0
+journals/jair/Rintanen98;article;2017-06-21;"Complexity of Prioritized Default Logics.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.554";0
+journals/jair/DixonGP04;article;2017-06-21;"Generalizing Boolean Satisfiability I: Background and Survey of Existing Work.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1353";0
+journals/jair/Buro95;article;2017-06-21;"Statistical Feature Combination for the Evaluation of Game Positions.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.179";0
+journals/jair/CaliGK13;article;2017-06-21;"Taming the Infinite Chase: Query Answering under Expressive Relational Constraints.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3873";0
+journals/jair/NofalAD14;article;2017-06-21;"Algorithms for Argumentation Semantics: Labeling Attacks as a Generalization of Labeling Arguments.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4308";0
+journals/jair/Webb96;article;2017-06-21;"Further Experimental Evidence against the Utility of Occam's Razor.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.228";0
+journals/jair/RudolphG10;article;2017-06-21;"Nominals, Inverses, Counting, and Conjunctive Queries or: Why Infinity is your Friend!";"";"2010";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3029";0
+journals/jair/BoothMVW11;article;2017-06-21;"On the Link between Partial Meet, Kernel, and Infra Contraction and its Application to Horn Logic.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3364";0
+journals/jair/PasulaZK07;article;2017-06-21;"Learning Symbolic Models of Stochastic Domains.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2113";0
+journals/jair/LubinJCLSP08;article;2017-06-21;"ICE: An Expressive Iterative Combinatorial Exchange.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2440";0
+journals/jair/BonattiFS11;article;2017-06-21;"Defeasible Inclusions in Low-Complexity DLs.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3360";0
+journals/jair/ChenB01;article;2017-06-21;"Conflict-Directed Backjumping Revisited.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.788";0
+journals/jair/GambergerL02;article;2017-06-21;"Expert-Guided Subgroup Discovery: Methodology and Application.";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1089";0
+journals/jair/GracaGCPT11;article;2017-06-21;"Controlling Complexity in Part-of-Speech Induction.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3348";0
+journals/jair/HuangD07;article;2017-06-21;"The Language of Search.";"";"2007";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2097";0
+journals/jair/YeSHL17;article;2017-06-21;"DESPOT: Online POMDP Planning with Regularization.";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5328";0
+journals/jair/ClimentWSB14;article;2017-06-21;"Robustness and Stability in Constraint Programming under Dynamism and Uncertainty.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4126";0
+journals/jair/YatesE09;article;2017-06-21;"Unsupervised Methods for Determining Object and Relation Synonyms on the Web.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2772";0
+journals/jair/GratchC96;article;2017-06-21;"Adaptive Problem-solving for Large-scale Scheduling Problems: A Case Study.";"";"1996";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.177";0
+journals/jair/FangJT13;article;2017-06-21;"Protecting Moving Targets with Multiple Mobile Resources.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4027";0
+journals/jair/BackstromJ13;article;2017-06-21;"A Refined View of Causal Graphs and Component Sizes: SP-Closed Graph Classes and Beyond.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3968";0
+journals/jair/GreenwaldLN09;article;2017-06-21;"RoxyBot-06: Stochastic Prediction and Optimization in TAC Travel.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2904";0
+journals/jair/HebrardMOR11;article;2017-06-21;"Soft Constraints of Difference and Equality.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3197";0
+journals/jair/Cohen95;article;2017-06-21;"Pac-Learning Recursive Logic Programs: Efficient Algorithms.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.97";0
+journals/jair/FoxL98;article;2017-06-21;"The Automatic Inference of State Invariants in TIM.";"";"1998";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.544";0
+journals/jair/Ortiz-BoyerHG05;article;2017-06-21;"CIXL2: A Crossover Operator for Evolutionary Algorithms Based on Population Features.";"";"2005";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1660";0
+journals/jair/AhmedVLAJ17;article;2017-07-14;"Sampling Based Approaches for Minimizing Regret in Uncertain Markov Decision Processes (MDPs).";"";"2017";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5242";0
+journals/jair/ConradW11;article;2017-06-21;"Drake: An Efficient Executive for Temporal Plans with Choice.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3478";0
+journals/jair/YangG14;article;2017-06-21;"Information-Theoretic Multi-view Domain Adaptation: A Theoretical and Empirical Study.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4190";0
+journals/jair/FernandezES16;article;2017-06-21;"Lightweight Random Indexing for Polylingual Text Classification.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.5194";0
+journals/jair/WienerE15;article;2017-06-21;"Agnostic Pointwise-Competitive Selective Classification.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4439";0
+journals/jair/HoSV16;article;2017-06-21;"Adaptive Contract Design for Crowdsourcing Markets: Bandit Algorithms for Repeated Principal-Agent Problems.";"";"2016";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4940";0
+journals/jair/Tobies00;article;2017-06-21;"The Complexity of Reasoning with Cardinality Restrictions and Nominals in Expressive Description Logics.";"";"2000";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.705";0
+journals/jair/Sanchez-MartinezCMA12;article;2017-06-21;"Generalized Biwords for Bitext Compression and Translation Spotting.";"";"2012";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3500";0
+journals/jair/GoldmanZ04;article;2017-06-21;"Decentralized Control of Cooperative Systems: Categorization and Complexity Analysis.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1427";0
+journals/jair/Bacchus03;article;2017-06-21;"The Power of Modeling - a Response to PDDL2.1.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1993";0
+journals/jair/GrunwaldH03;article;2017-06-21;"Updating Probabilities.";"";"2003";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1164";0
+journals/jair/HuffmanL95;article;2017-06-21;"Flexibly Instructable Agents.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.150";0
+journals/jair/ChanD02;article;2017-06-21;"When do Numbers Really Matter?";"";"2002";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.967";0
+journals/jair/HnichWS04;article;2017-06-21;"Dual Modelling of Permutation and Injection Problems.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1351";0
+journals/jair/GiunchigliaNT06;article;2017-06-21;"Clause/Term Resolution and Learning in the Evaluation of Quantified Boolean Formulas.";"";"2006";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1959";0
+journals/jair/BouveretL08;article;2017-06-21;"Efficiency and Envy-freeness in Fair Division of Indivisible Goods: Logical Representation and Complexity.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2467";0
+journals/jair/RahmanN11;article;2017-06-21;"Narrowing the Modeling Gap: A Cluster-Ranking Approach to Coreference Resolution.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3120";0
+journals/jair/DebruyneB01;article;2017-06-21;"Domain Filtering Consistencies.";"";"2001";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.834";0
+journals/jair/Bienvenu09;article;2017-06-21;"Prime Implicates and Prime Implicants: From Propositional to Modal Logic.";"";"2009";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2754";0
+journals/jair/LindauerHHS15;article;2017-06-21;"AutoFolio: An Automatically Configured Algorithm Selector.";"";"2015";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4726";0
+journals/jair/SturmSB11;article;2017-06-21;"A Probabilistic Framework for Learning Kinematic Models of Articulated Objects.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3229";0
+journals/jair/ErkanR04;article;2017-06-21;"LexRank: Graph-based Lexical Centrality as Salience in Text Summarization.";"";"2004";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.1523";0
+journals/jair/SchaerfST95;article;2017-06-21;"Adaptive Load Balancing: A Study in Multi-Agent Learning.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.121";0
+journals/jair/Cichosz95;article;2017-06-21;"Truncating Temporal Differences: On the Efficient Implementation of TD(lambda) for Reinforcement Learning.";"";"1995";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.135";0
+journals/jair/MosurovicKGZ13;article;2017-06-21;"A Decidable Extension of SROIQ with Complex Role Chains and Unions.";"";"2013";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4022";0
+journals/jair/Halpern99;article;2017-06-21;"A Counterexample to Theorems of Cox and Fine.";"";"1999";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.536";0
+journals/jair/AgmonKK11;article;2017-06-21;"Multi-Robot Adversarial Patrolling: Facing a Full-Knowledge Opponent.";"";"2011";"J. Artif. Intell. Res.";"http://jair.org/papers/paper3365.html";0
+journals/jair/AmirC08;article;2017-06-21;"Learning Partially Observable Deterministic Action Models.";"";"2008";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.2575";0
+journals/jair/ElkindFS11;article;2017-06-21;"Cloning in Elections: Finding the Possible Winners.";"";"2011";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.3468";0
+journals/jair/KiritchenkoZM14;article;2017-06-21;"Sentiment Analysis of Short Informal Texts.";"";"2014";"J. Artif. Intell. Res.";"https://doi.org/10.1613/jair.4272";0

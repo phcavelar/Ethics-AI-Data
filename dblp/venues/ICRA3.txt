@@ -1,0 +1,161 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+conf/icra/TigliOT93;inproceedings;2017-05-22;"Toward a New Intelligent Reactive Controller for Autonomous Mobile Robots.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292184";0
+conf/icra/BackesLS93;inproceedings;2017-05-22;"The Modular Telerobot Task Execution System for Space Telerobotics.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292225";0
+conf/icra/SakaguchiFWM93;inproceedings;2017-05-22;"Motion Planning and Control for a Robot Performer.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292262";0
+conf/icra/ChenL93;inproceedings;2017-05-22;"Task Level Optimum Scheduling by Truncated Petri Nets Applied to Operation of Multi-Robot Workcells.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292195";0
+conf/icra/NelsonK93;inproceedings;2017-05-22;"Increasing the Tracking Region of an Eye-In-Hand System by Singularity and Joint Limit Avoidance.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292208";0
+conf/icra/Donald93a;inproceedings;2017-05-22;"Information Invariants in Robotics: Part II - Sensors and Computation.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292189";0
+conf/icra/KawauchiIF93;inproceedings;2017-05-22;"A Principle of Distributed Decision Making of Celluar Robotic System (CEBOT).";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292248";0
+conf/icra/TakeuchiGA93;inproceedings;2017-05-22;"Automated Polishing Process with a Human-Like Dextrous Robot.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292266";0
+conf/icra/LashR93;inproceedings;2017-05-22;"Path Planning for Robotic Applications in Roadway Crack Sealing.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292252";0
+conf/icra/DohringLN93;inproceedings;2017-05-22;"A Load-Dependent Transmission Friction Model: Theory and Experiments.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292210";0
+conf/icra/ReznikL93;inproceedings;2017-05-22;"Sensor-Based Motion Planning for Highly Redundant Kinematic Structures: II. The Case of a Snake Arm Manipulator.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292256";0
+conf/icra/HenrioudM93;inproceedings;2017-05-22;"Systematic Method for the Design of Flexible Assembly Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291871";0
+conf/icra/BaiardiCCP93;inproceedings;2017-05-22;"Modelling Contact Phenomena Within the Dynamic Simulation of Advanced Robotic Structures.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291850";0
+conf/icra/BrokowskiPG93;inproceedings;2017-05-22;"Curved Fences for Part Alignment.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292216";0
+conf/icra/YoshikawaHDM93;inproceedings;2017-05-22;"Quasi-Static Trajectory Tracking Control of flexible Manipulator by Macro-Micro Manipulator System.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291848";0
+conf/icra/LewisV93;inproceedings;2017-05-22;"Flexible Robot Arm Control by a Feedback Linearization/Singular Perturbation Approach.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292232";0
+conf/icra/WangL93;inproceedings;2017-05-22;"Integrated Structure/Trajectory-Tracking-Control Design of Flexible Robot Arms.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291814";0
+conf/icra/Ishida93;inproceedings;2017-05-22;"Towards Organizational Problem Solving.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292249";0
+conf/icra/OlsenC93;inproceedings;2017-05-22;"Automated Composite Tape Lay-Up Using Robotic Devices.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292190";0
+conf/icra/KimB93;inproceedings;2017-05-22;"Constructing Design Plans for DFA Redesign.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292193";0
+conf/icra/KhorramiZT93;inproceedings;2017-05-22;"Experimental Results on Active Control of Flexible-Link Manipulators with Embedded Piezoceramics.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292180";0
+conf/icra/Wang93;inproceedings;2017-05-22;"Establish a Globally Consistent Order of Discrete Events in Distributed Robotic Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292251";0
+conf/icra/BoddyT93;inproceedings;2017-05-22;"Whole-Arm Reactive Collision Avoidance Control of Kinematically Redundant Manipulators.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292203";0
+conf/icra/Siciliano93;inproceedings;2017-05-22;"Closed-Loop Inverse Kinematics Algorithms for Redundant Spacecraft/Manipulator Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291865";0
+conf/icra/BrostC93;inproceedings;2017-05-22;"Probabilistic Analysis of Manipulation Tasks: A Research Agenda.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292229";0
+conf/icra/PilA93;inproceedings;2017-05-22;"A Computer Integrated Development System for High Speed Robot Design Incorporating Structural Reconfiguration.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291827";0
+conf/icra/DeoW93a;inproceedings;2017-05-22;"Minimum Infinity-Norm Inverse Kinematic Solution For Redundant Manipulators.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292204";0
+conf/icra/LucariniVCS93;inproceedings;2017-05-22;"Celluar Robotics: Simulation and HW Implementation.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292250";0
+conf/icra/BessonnetL93;inproceedings;2017-05-22;"Planning of Optimal Free Paths of Robotic Manipulators with Bounds on Dynamic Forces.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292187";0
+conf/icra/ButtazzoAF93;inproceedings;2017-05-22;"Mousebuster: A Robot System for Catching Fast Moving Objects by Vision.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292263";0
+conf/icra/ChongCS93;inproceedings;2017-05-22;"A Finite Motion Planning Strategy for Multifingered Robotic Hands Considering Sliding and Rolling Contacts.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291852";0
+conf/icra/UeyamaF93;inproceedings;2017-05-22;"Knowledge Acquisition and Distributed Decision Making - Cellular Robotics Approach Using Genetic Algorithm.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291854";0
+conf/icra/RabeloYJT93;inproceedings;2017-05-22;"Intelligent Scheduling for Flexible Manufacturing Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292244";0
+conf/icra/JankowskiEE93;inproceedings;2017-05-22;"Inverse Dynamics Control of Multiple Robot Arms with Flexible Joints.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291818";0
+conf/icra/ChanD93;inproceedings;2017-05-22;"A Weighted Least-Norm Solution Based Scheme for Avoiding Joint Limits for Redundant Manipulators.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292205";0
+conf/icra/ChengCWS93;inproceedings;2017-07-07;"Obstacle Avoidance for Redundant Manipulators Using the Compact QP Method.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292186";0
+conf/icra/DrapeauW93;inproceedings;2017-05-22;"Verification of a Closed-Loop Shaped-Input Controller for a Five-Bar-Linkage Manipulator.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291847";0
+conf/icra/Parker93;inproceedings;2017-05-22;"Designing Control Laws for Cooperative Agent Teams.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291842";0
+conf/icra/Chuang93;inproceedings;2017-05-22;"Potential-Based Modeling of Three Dimensional Workspace for Obstacle Avoidance.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291927";0
+conf/icra/TimcenkoA93;inproceedings;2017-05-22;"Modeling Dynamics Uncertainty in Robot Motions.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292226";0
+conf/icra/PaetschW93;inproceedings;2017-05-22;"Solving Insertion Tasks with a Multifingered Gripper by Fumbling.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291853";0
+conf/icra/Kircanski93a;inproceedings;2017-05-22;"Symbolical Singular Value Decomposition for a 7-DOF Manipulator and Its Application to Robot Control.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292257";0
+conf/icra/PanzieriU93;inproceedings;2017-05-22;"Design and Implementation of a State Observer for a Flexible Robot.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291849";0
+conf/icra/HoL93;inproceedings;2017-05-22;"Motion Planning of an Articulated Robot Manipulator Avoiding Time-Varying Obstacles.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291812";0
+conf/icra/Camarinha-MatosP93;inproceedings;2017-05-22;"Interactive Planning in CIM-CASE.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291870";0
+conf/icra/CameronMWAB93;inproceedings;2017-05-22;"Reactive Control for Mobile Manipulation.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292181";0
+conf/icra/EverettC93;inproceedings;2017-05-22;"Automatic Reteach of Manipulators for Manufacturing Multiple Product Lines.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292217";0
+conf/icra/WickSH93;inproceedings;2017-05-22;"An Automated Test Facility for Space Robots.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291836";0
+conf/icra/ShillerSH93;inproceedings;2017-05-22;"Trajectory Planning of Tracked Vehicles.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292242";0
+conf/icra/VestliTAS93;inproceedings;2017-05-22;"Integration of Path Planning, Sensing and Control in Mobile Robotics.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292183";0
+conf/icra/Xu93;inproceedings;2017-05-22;"The Measure of Dynamic Coupling of Space Robot Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291837";0
+conf/icra/LiZL93;inproceedings;2017-05-22;"A Robust Motion Planner for Assembly Robots.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291811";0
+conf/icra/PrasadB93;inproceedings;2017-05-22;"Automated Inspection for Remote Telerobotic Operations.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292255";0
+conf/icra/NitzAB93;inproceedings;2017-05-22;"Communication of Behavioral State in Multi-agent Retrieval Tasks.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291841";0
+conf/icra/SordalenDE93;inproceedings;2017-05-22;"An Exponentially Convergent Control Law for a Nonholonomic Underwater Vehicle.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292241";0
+conf/icra/BodnerDNSGMM93;inproceedings;2017-05-22;"Object-Oriented Modeling and Simulation of Automated Control in Manufacturing.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291867";0
+conf/icra/KleinCA93;inproceedings;2017-05-22;"Use of an Extended Jacobian Method to Map Algorithmic Singularities.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291834";0
+conf/icra/PearsP93;inproceedings;2017-05-22;"An Optical Range Sensor for Mobile Robot Guidance.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291830";0
+conf/icra/LawnH93;inproceedings;2017-05-22;"Performance Testing of Passive Communication and Control in Teleoperation with Time Delay.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292239";0
+conf/icra/MichelmanA93;inproceedings;2017-05-22;"Compliant Manipulation with a Dextrous Robot Hand.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291822";0
+conf/icra/ManyikaD93;inproceedings;2017-05-22;"A Tracking Sonar Sensor For Vehicle Guidance.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292209";0
+conf/icra/ChenW93;inproceedings;2017-05-22;"An Analysis of Squeezing and Twisting for Multi-fingered Grasping.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291851";0
+conf/icra/TsoHM93;inproceedings;2017-05-22;"Fault-Tolerant Robotic System for Critical Applications.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291825";0
+conf/icra/MohamedC93;inproceedings;2017-05-22;"Resolution of Robot Redundancy in the Cartesian Space By Criteria Optimization.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291832";0
+conf/icra/RizziK93;inproceedings;2017-05-22;"Further Progress in Robot Juggling: The Spatial Two-Juggle.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292261";0
+conf/icra/Spreng93;inproceedings;2017-05-22;"A Probabilistic Method to Analyze Ambiguous Contact Situations.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292228";0
+conf/icra/Wu93;inproceedings;2017-05-22;"A Sensor-Based Direct Search Algorithm for Autonomous Path Planning on 3-D Terrain Surfaces.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292182";0
+conf/icra/TimcenkoCG93;inproceedings;2017-05-22;"Distributed General-Purpose Robot Controller.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291855";0
+conf/icra/WaveringFRL93;inproceedings;2017-05-22;"TRICLOPS: A High-Performance Trinocular Active Vision System.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292207";0
+conf/icra/LinS93;inproceedings;2017-05-22;"Dynamic Modeling, Stability and Energy Efficiency of a Quadrupedal Walking Machine.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292201";0
+conf/icra/ChirikjianB93;inproceedings;2017-05-22;"Design and Experiments with a 30 DOF Robot.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291862";0
+conf/icra/BackesL93;inproceedings;2017-05-22;"Merging Concurrent Behaviors On a Redundant Manipulator.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291833";0
+conf/icra/TingTT93;inproceedings;2017-05-22;"A Control Structure for Fault-Tolerant Operation of Robotic Manipulators.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291826";0
+conf/icra/Kim93;inproceedings;2017-05-22;"Graphical Operator Interface for Space Telerobotics.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292237";0
+conf/icra/NeiraMT93;inproceedings;2017-05-22;"Constraint-Based Object Recognition in Multisensor Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291859";0
+conf/icra/ChenNW93;inproceedings;2017-05-22;"Dynamic Calibration and Compensation of a 3D Laser Radar Scanning System.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291831";0
+conf/icra/AliKS93;inproceedings;2017-05-22;"The Kinematics of the Anthrobot-2 Dextrous Hand.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291823";0
+conf/icra/Donald93;inproceedings;2017-05-22;"Information Invariants in Robotics: Part I - State, Communication, and Side-Effects.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292188";0
+conf/icra/HuiKGZKWGS93;inproceedings;2017-05-22;"Design of the IRIS Facility - A Modular, Reconfigurable and Expandable Robot Test Bed.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291856";0
+conf/icra/PfeifferWE93;inproceedings;2017-05-22;"Leg Design Based on Biological Principles.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292199";0
+conf/icra/BonitzH93;inproceedings;2017-05-22;"Internal Force-Based Impedance Control for Cooperating Manipulators.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292265";0
+conf/icra/Borenstein93;inproceedings;2017-05-22;"Multi-Layered Control of a Four-Degree-of-Freedom Mobile Robot with Compliant Linkage.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291929";0
+conf/icra/HughesW93;inproceedings;2017-05-22;"Passivity Motivated Controller Design for Flexible Structures.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292235";0
+conf/icra/SobhJH93;inproceedings;2017-05-22;"A Discrete Event Framework for Intelligent Inspection.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291810";0
+conf/icra/ChungW93;inproceedings;2017-05-22;"Force Distribution by Optimizing Friction Angles for Multifinger System.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292230";0
+conf/icra/LuckL93;inproceedings;2017-05-22;"Self-Motion Topology for Redundant Manipulators with Joint Limits.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291835";0
+conf/icra/YamamotoY93;inproceedings;2017-05-22;"Control of Mobile Manipulators Following a Moving Surface.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291930";0
+conf/icra/HsiaM93;inproceedings;2017-05-22;"Obstacle Avoidance Inverse Kinematics Solution of Redundant Manipulators by Neural Networks.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291813";0
+conf/icra/FuH93;inproceedings;2017-05-22;"Fully Automated Two-Robot Flexible Assembly Cell.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292196";0
+conf/icra/LeeKB93;inproceedings;2017-05-22;"Combining Assembly Planning with Redesign: An Approach for More Effective DFA.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292194";0
+conf/icra/PresseG93;inproceedings;2017-05-22;"New Criteria of Exciting Trajectories for Robot Indentification.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292259";0
+conf/icra/CaiS93;inproceedings;2017-05-22;"A Smooth Robust Nonlinear Controller for Robot Manipulators with Joint Stick-Slip Friction.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292213";0
+conf/icra/FangLY93;inproceedings;2017-05-22;"A Threshold Algorithm Based on the Local Information.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291815";0
+conf/icra/LawtonGK93;inproceedings;2017-05-22;"An Interactive Model Based Vison System for Vehicle Tracking.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292206";0
+conf/icra/WongO93;inproceedings;2017-05-22;"Dynamic Control of a Quaduped Standing Jump.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292198";0
+conf/icra/LindemannCGH93;inproceedings;2017-05-22;"Performabilty Modeling of an Automated Manufacturing System with Deterministic and Stochastic Petri Nets.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291843";0
+conf/icra/Xiong93;inproceedings;2017-05-22;"The Theory and Methodology for Concurrent Design and Planning of Reconfiguration Fixture.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292192";0
+conf/icra/BallardV93;inproceedings;2017-05-22;"The Manhattan Method: A Fast Cartesian Elevation Map Reconstruction from Range Data.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291858";0
+conf/icra/XuC93;inproceedings;2017-05-22;"Calibration and Parameter Identification for Laser Scanning Sensor.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291829";0
+conf/icra/RateringG93;inproceedings;2017-05-22;"Robot Navigation in a Known Environment with Unknown Moving Obstacles.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291926";0
+conf/icra/SarkarYK93;inproceedings;2017-05-22;"Dynamic Control of 3-D Rolling Contacts in Two-Arm Manipulation.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291821";0
+conf/icra/SatoHNMU93;inproceedings;2017-05-22;"Reducing Attitude Disturbances While Teleoperating a Space Manipulator.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292224";0
+conf/icra/CroceTBT93;inproceedings;2017-05-22;"On Minimizing the Weighted Sum Of Quadratic Completion Times on a Single Machine.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292245";0
+conf/icra/GuoG93;inproceedings;2017-05-22;"Optimal Distribution of Fingertip Force Functions in Dynamic Grasping.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292269";0
+conf/icra/FunayaT93;inproceedings;2017-05-22;"Predictive Bilateral Master-Slave Manipulation with Statistical Environment Model.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292236";0
+conf/icra/KoenigB93;inproceedings;2017-05-22;"Generation and Control of Gait Patterns in a Simulated Horse.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292200";0
+conf/icra/XiF93;inproceedings;2017-05-22;"A Sequential Integration Method for Inverse Dynamic Analysis of Flexible Link Manipulators.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292234";0
+conf/icra/BurdickRC93;inproceedings;2017-05-22;"A "Sidewinding" Locomotion Gait for Hyper-Redundant Robots.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291864";0
+conf/icra/Kavraki93;inproceedings;2017-05-22;"Computation of Configuration-Space Obstacles Using the Fast Fourier Transform.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292185";0
+conf/icra/ChenW93a;inproceedings;2017-05-22;"A Consistent Null-Space Based Approach to Inverse Kinematics of Redundant Robots.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292202";0
+conf/icra/BeresSV93;inproceedings;2017-05-22;"Control and Dyanamic Analysis of a Multilink flexible Manipulator.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292218";0
+conf/icra/TimcenkoA93a;inproceedings;2017-05-22;"Planning Velocity Profiles from Task-Level Constraints and Environment Uncertainties.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292227";0
+conf/icra/Chirikjian93;inproceedings;2017-05-22;"A General Numerical Method for Hyper-Redundant Manipulator Inverse Kinematics.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291863";0
+conf/icra/JainR93;inproceedings;2017-05-22;"Decoupled Dynamics of Space Manipulators.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291838";0
+conf/icra/GrotzingerI93;inproceedings;2017-05-22;"Task Independent Relationship of System to Actuator Performance via Scaling.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291824";0
+conf/icra/Qu93;inproceedings;2017-05-22;"Globally Stable I/0 Robust Control of Flexible Joint Robots.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291817";0
+conf/icra/HayatiBSKTP93;inproceedings;2017-05-22;"Remote Surface Inspection System.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292254";0
+conf/icra/LindstedtO93;inproceedings;2017-05-22;"Using Ultrasonics for Sensing in a Robotic Environment.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291828";0
+conf/icra/FarryW93;inproceedings;2017-05-22;"Myoelectric Teleoperation of a Complex Robotic Hand.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292222";0
+conf/icra/SouissiK93;inproceedings;2017-05-22;"Modelling and Control of Two Co-Operating Planar Cranes.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292267";0
+conf/icra/KimK93;inproceedings;2017-05-22;"Design of Space Shuttle Tile Servicing Robot: An Application of Task Based Kinematic Design.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292253";0
+conf/icra/SchimmelsP93;inproceedings;2017-05-22;"The Space of Admittance Control Laws that Guarantee Force-Assembly with Friction.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292212";0
+conf/icra/LeeC93;inproceedings;2017-05-22;"Structure from Motion: A Region Based Approach Using Afflne Transformations and Moment Invanants.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291861";0
+conf/icra/ViswanadhamPG93;inproceedings;2017-05-22;"Composite Perormance-Dependability Analysis of Manufacturing Systems Producing Multiple Part Types Using Markov Reward Models.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291866";0
+conf/icra/RaoG93a;inproceedings;2017-05-22;"On the Relation Between Friction and Part Shape in Parallel-Jaw Grasping.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292215";0
+conf/icra/SinghH93;inproceedings;2017-05-22;"Shaped Inputs for a Multimode System.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292219";0
+conf/icra/Ben-DovS93;inproceedings;2017-05-22;"A Force-Controlled Pneumatic Actuator for Use in Teleoperation Masters.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292264";0
+conf/icra/WikmanBN93;inproceedings;2017-05-22;"Reflexive Collision Avoidance: A Generalized Approach.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291925";0
+conf/icra/AoustinC93;inproceedings;2017-05-22;"The Singular Perturbation Control of a Two-Flexible-Link Robot.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292233";0
+conf/icra/HowardK93;inproceedings;2017-05-22;"A Minimum Principle for the Dynamic Analysis of Systems with Frictional Contacts.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292211";0
+conf/icra/KemmotsuK93;inproceedings;2017-05-22;"Uncertainty in Object Pose Determination with Three Light-Stripe Range Measurements.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291860";0
+conf/icra/WrightS93;inproceedings;2017-05-22;"Free Space Representation for a Mobile Robot Moving on a Rough Terrain.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291924";0
+conf/icra/Rogers93;inproceedings;2017-05-22;"Modular Production Systems: A Concurrent Manufacturing Philosophy.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291922";0
+conf/icra/WangR93;inproceedings;2017-05-22;"Minimum-Weight Robot Arm for a Specified Fundamental Frequency.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292220";0
+conf/icra/WengerCR93;inproceedings;2017-05-22;"A Global Analysis of Following Trajectories by Redundant Manipulators in the Presence of Obstacles.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292258";0
+conf/icra/FengD93;inproceedings;2017-05-22;"Sensitivity Analysis of a EMS by a Petri Net-based Perturbation Method.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291845";0
+conf/icra/Pollard93;inproceedings;2017-05-22;"Planning Grasps for a Robot Hand in the Presence of Obstacles.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292231";0
+conf/icra/PfefferC93;inproceedings;2017-05-22;"Experiments with a Dual-Armed, Cooperative, Flexible-Drivetrain Robot System.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291839";0
+conf/icra/LanariSW93;inproceedings;2017-05-22;"Stability Analysis for Feedforward Approximations in the Control of Flexible Joint Robots.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291819";0
+conf/icra/LiaoCYC93;inproceedings;2017-05-22;"Daily Scheduling for R&D Semiconductor Fabrication.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291868";0
+conf/icra/WangS93;inproceedings;2017-05-22;"Concurrent Product/Process Design with Multiple Representations of Parts.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292191";0
+conf/icra/RohlingH93;inproceedings;2017-05-22;"Optimlzed Fingertip Mapping for Teleoperation of Dextrous Robot Hands.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292238";0
+conf/icra/SchaalA93;inproceedings;2017-05-22;"Open Loop Stable Control Strategies for Robot Juggling.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292260";0
+conf/icra/ChenT93;inproceedings;2017-05-22;"On the Form-Closure of Polygonal Objects with Frictional and Frictionless Contact Models.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292268";0
+conf/icra/Jung-HuaYangF93;inproceedings;2017-05-22;"Analysis and Control for Manipulators with Both Joint and Link Flexibility.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291820";0
+conf/icra/KangG93;inproceedings;2017-05-22;"Grasp Recognition Strategies from Empirical Models.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292214";0
+conf/icra/XiZHZ93;inproceedings;2017-05-22;"Posture Analysis of the Cross-Country Autonomous Land Vehicle.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291809";0
+conf/icra/WoenckhausM93;inproceedings;2017-05-22;"Planning of Three-Dimensional Layouts Using Numerical Optimization Methods.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291923";0
+conf/icra/KanayamaMK93;inproceedings;2017-05-22;"Two Dimensional Transformations and Its Application to Vehicle Motion Control and Analysis.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291928";0
+conf/icra/LeeD93;inproceedings;2017-05-22;"Integrated Models for Scheduling Flexible Manufacturing Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292247";0
+conf/icra/RamirezCS93;inproceedings;2017-05-22;"On Optimal Scheduling in DEDS.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292246";0
+conf/icra/EzpeletaM93;inproceedings;2017-05-22;"Synthesis of Live Models for a Class of FMS Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291846";0
+conf/icra/CannonW93;inproceedings;2017-05-22;"A Virtual End-Effector Pointing System in Point-and-Direct Robotics for Inspection of Surface Flaws Using a Neural Network Based Skeleton Transform.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292240";1
+conf/icra/UeyamaF93a;inproceedings;2017-05-22;"Self-Organization of Celluar Robots Using Random Walk with Simple Rules.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291840";0
+conf/icra/FujiokaK93;inproceedings;2017-05-22;"2400-MFLOPS Reconfigurable Parallel VLSI Processor for Robot Control.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291857";0
+conf/icra/ChenL93a;inproceedings;2017-05-22;"An Effective Approach to Solving Complex Scheduling Problem.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291844";0
+conf/icra/HoitomtL93;inproceedings;2017-05-22;"Scheduling the Dynamic Job Shop.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.291869";0
+conf/icra/LiuA93;inproceedings;2017-05-22;"Teaching and Learning of Deburring Robots Using Neural Networks.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292197";0
+conf/icra/YokokohjiOHT93;inproceedings;2017-05-22;"Operation Modes for Cooperating with Autonomous Functions in Intelligent Teleoperation Systems.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292223";0
+conf/icra/RhodyH93;inproceedings;2017-05-22;"Controlling the Dynamics of Mass Capture by a Single Flexible Link.";"ICRA (3)";"1993";"";"https://doi.org/10.1109/ROBOT.1993.292221";0

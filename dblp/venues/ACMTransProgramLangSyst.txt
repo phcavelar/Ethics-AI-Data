@@ -1,0 +1,1024 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+journals/toplas/Steensgaard-Madsen81;article;2006-04-03;"A Statement-Oriented Approach to Data Abstraction.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357121.357122";0
+journals/toplas/ChoiMN91;article;2006-04-03;"Techniques for Debugging Parallel Programs with Flowback Analysis.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/115372.115324";0
+journals/toplas/AndersonB81;article;2006-04-03;"Locally Least-Cost Error Recovery in Early's Algorithm.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357139.357145";0
+journals/toplas/FosterT94;article;2006-04-03;"A Compiler Approach to Scalable Concurrent-Program Design.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177612";0
+journals/toplas/Kaufman84;article;2006-04-03;"Tailored-List and Recombination-Delaying Buddy Systems.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357233.357239";0
+journals/toplas/SreedharGL97;article;2006-04-03;"Incremental Computation of Dominator Trees.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/244795.244799";0
+journals/toplas/BobrowC79;article;2006-04-03;"Compact Encodings of List Structure.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357081";0
+journals/toplas/LamportSP82;article;2006-04-03;"The Byzantine Generals Problem.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357172.357176";0
+journals/toplas/ZhangGZ05;article;2006-02-09;"Cost and precision tradeoffs of dynamic data slicing algorithms.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1075382.1075384";0
+journals/toplas/Eugster07;article;2017-01-06;"Type-based publish/subscribe: Concepts and experiences.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1180475.1180481";0
+journals/toplas/BroyP82;article;2006-04-03;"Combining Algebraic and Algorithmic Reasoning: An Approach to the Schorr-Waite Algorithm.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357172.357175";0
+journals/toplas/MoretTG80;article;2016-12-13;"The Activity of a Variable and Its Relation to Decision Trees.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357114.357120";0
+journals/toplas/SagivRW98;article;2003-11-26;"Solving Shape-Analysis Problems in Languages with Destructive Updating.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/271510.271517";0
+journals/toplas/ClarkeGL94;article;2006-04-03;"Model Checking and Abstraction.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186051";0
+journals/toplas/Minsky84;article;2006-04-03;"Selective and Locally Controlled Transport of Privileges.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1786";0
+journals/toplas/ChoiF94;article;2006-04-03;"Static Slicing in the Presence of Goto Statements.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183438";0
+journals/toplas/WellingsJSKWM00;article;2017-04-26;"Integrating object-oriented programming and protected objects in Ada 95.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/353926.353938";0
+journals/toplas/ZhuangP10;article;2017-01-06;"An optimization framework for embedded processors with auto-addressing mode.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1734206.1734208";0
+journals/toplas/Thorup94;article;2006-04-03;"Controlled Grammatic Ambiguity.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177759";0
+journals/toplas/AcarBBHT09;article;2017-03-14;"An experimental analysis of self-adjusting computation.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1596527.1596530";0
+journals/toplas/Lamport84;article;2006-04-03;"Using Time Instead of Timeout for Fault-Tolerant Distributed Systems.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2993.2994";0
+journals/toplas/Waters83;article;2006-04-03;"User Format Control in a Lisp Prettyprinter.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69575.357225";0
+journals/toplas/WuW95;article;2006-04-03;"A Worst Case of Circularity Test Algorithms for Attribute Grammars.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201064";0
+journals/toplas/BoerGMP97;article;2006-04-03;"Proving Concurrent Constraint Programs Correct.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/265943.265954";0
+journals/toplas/AungHJR14;article;2015-05-07;"Specialization Slicing.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2566620";0
+journals/toplas/Turini84;article;2006-04-03;"Magma2: A Language Oriented toward Experiments in Control.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1784";0
+journals/toplas/IgarashiV06;article;2007-03-06;"Variant parametric types: A flexible subtyping scheme for generics.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1152650";0
+journals/toplas/PingaliM09;article;2017-01-06;"Remembrances of things past.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1516507.1538825";0
+journals/toplas/Winner84;article;2006-04-03;"Unassigned Objects.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1785";0
+journals/toplas/GloyS99;article;2016-12-05;"Procedure placement using temporal-ordering information.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330249.330254";0
+journals/toplas/KnoblockR01;article;2003-11-26;"Type elaboration and subtype completion for Java bytecode.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/383043.383045";0
+journals/toplas/Chitil05;article;2006-02-09;"Pretty printing with lazy dequeues.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1053468.1053473";0
+journals/toplas/WagnerG98;article;2003-11-26;"Efficient and Flexible Incremental Parsing.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/293677.293678";0
+journals/toplas/MorzentiMG92;article;2006-04-03;"A Model Parametric Real-Time Logic.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/133233.129397";0
+journals/toplas/MorrisT08;article;2017-01-06;"Dually nondeterministic functions.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1391956.1391961";0
+journals/toplas/GulavaniCRN11;article;2017-06-09;"Bottom-up shape analysis using LISF.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2039346.2039349";0
+journals/toplas/BohmO94;article;2006-04-03;"Two Issues in Parallel Language Design.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197325";0
+journals/toplas/SchlichtingS84;article;2006-04-03;"Using Message Passing for Distributed Programming: Proof Rules, Disciplines.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/579.583";0
+journals/toplas/KruskalRS88;article;2006-04-03;"Efficient Synchronization on Multiprocessors with Shared Memory.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/48022.48024";0
+journals/toplas/Rao94;article;2006-04-03;"Reasoning about Probabilistic Parallel Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177724";0
+journals/toplas/CarchioloSFP89;article;2006-04-03;"ECCS and LIPS: Two Languages for OSI Systems Specification and Verification.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/63264.63402";0
+journals/toplas/RinardD97;article;2006-04-03;"Commutativity Analysis: A New Analysis Technique for Parallelizing Compilers.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/267959.269969";0
+journals/toplas/LiquoriS08;article;2017-06-14;"FeatherTrait: A modest extension of Featherweight Java.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1330017.1330022";0
+journals/toplas/StataA99;article;2003-11-26;"A Type System for Java Bytecode Subroutines.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/314602.314606";0
+journals/toplas/BreuerKLMF97;article;2017-06-09;"A Refinement Calculus for the Synthesis of Verified Hardware Descriptions in VHDL.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/262004.262007";0
+journals/toplas/BatesC85;article;2006-04-03;"Proofs as Programs.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.2528";0
+journals/toplas/DhamdhereS98;article;2003-11-26;"Dynamic Currency Determination in Optimized Programs.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/295656.295657";0
+journals/toplas/LigattiBN17;article;2017-04-20;"On Subtyping-Relation Completeness, with an Application to Iso-Recursive Types.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2994596";0
+journals/toplas/Ramalingam94;article;2006-04-03;"The Undecidability of Aliasing.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186041";0
+journals/toplas/Misra94;article;2006-04-03;"Powerlist: A Structure for Parallel Recursion.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197356";0
+journals/toplas/HassenBJ98;article;2003-11-26;"A Task- and Data-Parallel Programming Language Based on Shared Objects.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/295656.295658";0
+journals/toplas/Sethi83;article;2006-04-03;"Control Flow Aspects of Semantics-Directed Compiling.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69575.357227";0
+journals/toplas/Ramalingam99;article;2003-11-26;"Identifying Loops in Almost Linear Time.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/316686.316687";0
+journals/toplas/FischerLBB89;article;2006-04-03;"Distributed FIFO Allocation of Identical Resources Using Small Shared Space.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/59287.59292";0
+journals/toplas/Fateman82;article;2006-04-03;"High-Level Language Implications of the Proposed IEEE Floating-Point Standard.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357168";0
+journals/toplas/IgarashiPW01;article;2003-11-26;"Featherweight Java: a minimal core calculus for Java and GJ.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/503502.503505";0
+journals/toplas/Appel15;article;2017-01-03;"Verification of a Cryptographic Primitive: SHA-256.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2701415";0
+journals/toplas/YiapanisBL16;article;2017-01-03;"Compiler-Driven Software Speculation for Thread-Level Parallelism.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2821505";0
+journals/toplas/StuckeyS05;article;2006-04-06;"A theory of overloading.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1108970.1108974";0
+journals/toplas/GroveC01;article;2017-09-16;"A framework for call graph construction algorithms.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/506315.506316";0
+journals/toplas/Ghosh93;article;2006-04-03;"An Alternative Solution to a Problem on Self-Stabilization.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/155183.155228";0
+journals/toplas/ChenS04;article;2006-02-09;"Logic of global synchrony.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/973097.973098";0
+journals/toplas/Milne85;article;2006-04-03;"Circal and the Representation of Communication, Concurrency, and Time.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3318.3322";0
+journals/toplas/SutterPB07;article;2017-01-06;"A practical interprocedural dominance algorithm.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1255450.1255452";0
+journals/toplas/Budd84;article;2006-04-03;"An APL Compiler for a Vector Processor.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/579.357248";0
+journals/toplas/PratikakisFH11;article;2017-01-06;"LOCKSMITH: Practical static race detection for C.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1889997.1890000";0
+journals/toplas/GavanelliLMM05;article;2017-06-09;"Dealing with incomplete knowledge on CLP(";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1057387.1057389";0
+journals/toplas/GrantMPCE00;article;2003-11-26;"The benefits and costs of DyC's run-time optimizations.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/365151.367161";0
+journals/toplas/KasikciZC15;article;2017-01-03;"Automated Classification of Data Races Under Both Strong and Weak Memory Models.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2734118";0
+journals/toplas/BandaHBDJS96;article;2017-06-09;"Global Analysis of Constraint Logic Programs.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/232706.232734";0
+journals/toplas/Rem81;article;2006-04-03;"Associons: A Program Notation with Tuples Instead of Variables.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357139.357142";0
+journals/toplas/Schmidt85;article;2006-04-03;"Detecting Global Variables in Denotational Specifications.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3318.3323";0
+journals/toplas/Bernstein80;article;2017-03-31;"Output Guards and Nondeterminism in "Communicating Sequential Processes".";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357094.357101";0
+journals/toplas/OHearnYR09;article;2017-01-06;"Separation and information hiding.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1498926.1498929";0
+journals/toplas/BalakrishnanR10;article;2017-01-06;"WYSINWYX: What you see is not what you eXecute.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1749608.1749612";0
+journals/toplas/HoltW82;article;2006-04-03;"A Model for Implementing Euclid Modules and Prototypes.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357183";0
+journals/toplas/MorrisettWCG99;article;2003-11-26;"From system F to typed assembly language.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/319301.319345";0
+journals/toplas/TsayB95;article;2017-06-09;"Deducing Fairness Properties in UNITY Logic - A New Completeness Result.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.200997";0
+journals/toplas/OhLHYY16;article;2017-01-03;"Selective X-Sensitive Analysis Guided by Impact Pre-Analysis.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2821504";0
+journals/toplas/MaherS83;article;2006-04-03;"Automatic Program Improvement: Variable Usage Transformations.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69624.357209";0
+journals/toplas/HentenryckR95;article;2017-03-30;"Backtracking without Trailing in CLP(R-lin)";"";"1995";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/LeeDM07;article;2017-01-06;"Design, implementation, and evaluation of a compilation server.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1255450.1255451";0
+journals/toplas/NarlikarB99;article;2003-11-26;"Space-Efficient Scheduling of Nested Parallelism.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/314602.314607";0
+journals/toplas/AptF84;article;2006-04-03;"Modeling the Distributed Termination Convention of CSP.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/579.584";0
+journals/toplas/CookeRNWA08;article;2017-01-06;"Normalize, transpose, and distribute: An automatic approach for handling nonscalars.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1330017.1330020";0
+journals/toplas/BurkeT93;article;2006-04-03;"Interprocedural Optimization: Eliminating Unnecessary Recompilation.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169683.169678";0
+journals/toplas/Tardieu07;article;2017-01-06;"A deterministic logical semantics for pure Esterel.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1216374.1216376";0
+journals/toplas/Boehm85;article;2006-04-03;"Side Effects and Aliasing Can Have Simple Axiomatic Descriptions.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/4472.4474";0
+journals/toplas/SkeppstedtS96;article;2006-04-03;"Using Dataflow Analysis Techniques to Reduce Ownership Overhead in Cache Coherence Protocols.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/236114.236116";0
+journals/toplas/HaghighatP96;article;2006-04-03;"Symbolic Analysis for Parallelizing Compilers.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/233561.233568";0
+journals/toplas/CortesFPRS04;article;2006-02-09;"Hancock: A language for analyzing transactional data streams.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/973097.973100";0
+journals/toplas/GritP81;article;2006-04-03;"Deleting Irrelevant Tasks in an Expression-Oriented Multiprocessor System.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357121.357125";0
+journals/toplas/Pettorossi85;article;2006-04-03;"A Note on Cohen's "Eliminating Redundant Recursive Calls".";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/4472.215006";0
+journals/toplas/PingaliA86a;article;2017-03-31;"Clarification of "Feeding Inputs on Demand" in Efficient Demand-Driven Evaluation - Part 1.";"";"1986";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/MannaW84;article;2006-04-03;"Synthesis of Communicating Processes from Temporal Logic Specifications.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357233.357237";0
+journals/toplas/BoudolLRS12;article;2017-01-06;"Reasoning about Web Applications: An Operational Semantics for HOP.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2220365.2220369";0
+journals/toplas/MorrisB99;article;2003-11-26;"Specificational functions.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/319301.319350";0
+journals/toplas/Burke90;article;2006-04-03;"An Interval-Based Approach to Exhaustive and Incremental Interprocedural Data-Flow Analysis.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78969.78963";0
+journals/toplas/Barstow85;article;2006-04-03;"On Convergence Toward a Database of Program Transformations.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.2364";0
+journals/toplas/Barnden81;article;2006-04-03;"Nonsequentiality and Concrete Activity Phases in Discrete-Event Simulation Languages.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357139.357144";0
+journals/toplas/NorrisD16;article;2017-01-03;"A Practical Approach for Model Checking C/C++11 Code.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2806886";0
+journals/toplas/LaLonde89;article;2006-04-03;"Designing Families of Data Types Using Exemplars.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/63264.63265";0
+journals/toplas/RuggieriM10;article;2017-01-06;"Typing linear constraints.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1749608.1749610";0
+journals/toplas/Skudlarek95;article;2012-10-19;"Notes on "A Methodology for Implementing Highly Concurrent Data Objects".";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.200999";0
+journals/toplas/PolettoHEK99;article;2003-11-26;"'C and tcc: A Language and Compiler for Dynamic Code Generation.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/316686.316697";0
+journals/toplas/ArcherCS84;article;2015-06-15;"User Recovery and Reversal in Interactive Systems.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357233.357234";0
+journals/toplas/Blume99;article;2003-11-26;"Dependency analysis for Standard ML.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/325478.325481";0
+journals/toplas/Solworth92;article;2006-04-03;"Epochs.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/111186.116785";0
+journals/toplas/LiS04;article;2006-02-09;"Automatic tiling of iterative stencil loops.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1034774.1034777";0
+journals/toplas/CalderGJLMMZ97;article;2006-04-03;"Evidence-Based Static Branch Prediction Using Machine Learning.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/239912.239923";0
+journals/toplas/KobayashiPT99;article;2013-07-19;"Linearity and the pi-calculus.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330249.330251";0
+journals/toplas/YardimciF09;article;2017-01-06;"Mostly static program partitioning of binary executables.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1538917.1538918";0
+journals/toplas/GalPF08;article;2017-01-06;"Java bytecode verification via static single assignment form.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1377492.1377496";0
+journals/toplas/JoungS94;article;2006-04-03;"Coordinating First-Order Multiparty Interactions.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177739";0
+journals/toplas/SippuS83;article;2006-04-03;"A Syntax-Error-Handling Technique and Its Experimental Analysis.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69575.357232";0
+journals/toplas/Bird85;article;2017-03-31;"Addendum to "The Promotion and Accumulation Strategies in Transformational Programming".";"";"1985";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/CheneyU08;article;2017-01-06;"Nominal logic programming.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1387673.1387675";0
+journals/toplas/WandKD04;article;2006-02-09;"A semantics for advice and dynamic join points in aspect-oriented programming.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1018203.1018208";0
+journals/toplas/GangeNSSS14;article;2017-06-09;"Interval Analysis and Machine Arithmetic: Why Signedness Ignorance Is Bliss.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2651360";0
+journals/toplas/BondhugulaA016;article;2017-01-03;"The Pluto+ Algorithm: A Practical Approach for Parallelization and Locality Optimization of Affine Loop Nests.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2896389";0
+journals/toplas/VeraBLG04;article;2017-06-14;"A fast and accurate framework to analyze and optimize cache memory behavior.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/973097.973099";0
+journals/toplas/StoyleHBSN07;article;2017-09-16;None;"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1255450.1255455";0
+journals/toplas/YuK97;article;2006-04-03;"A Note on "On the Conversion of Indirect to Direct Recursion".";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/267959.269973";0
+journals/toplas/BugliesiCC04;article;2006-02-09;"Access control for mobile agents: The calculus of boxed ambients.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/963778.963781";1
+journals/toplas/Ossefort83;article;2006-04-03;"Correctness Proofs of Communicating Processes: Three Illustrative Examples from the Literature.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69575.2083";0
+journals/toplas/Richter85;article;2006-04-03;"Noncorrecting Syntax Error Recovery.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3916.4019";0
+journals/toplas/CarleP95;article;2006-04-03;"Matching-Based Incremental Evaluators for Hierarchical Attribute Grammar Dialects.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201071";0
+journals/toplas/RajaS97;article;2006-04-03;"Combinatory Formaulations of Concurrent Languages.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/267959.269967";0
+journals/toplas/PalsbergXL95;article;2006-04-03;"Efficient Implementation of Adaptive Software.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201066";0
+journals/toplas/RichardsonCS93;article;2006-04-03;"The Design of the E Programming Language.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169683.174157";0
+journals/toplas/KieburtzS83;article;2006-04-03;"Access-Right Expressions.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357195.357201";0
+journals/toplas/CleavelandPS93;article;2006-04-03;"The Concurrency Workbench: A Semantics-Based Tool for the Verification of Concurrent Systems.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/151646.151648";0
+journals/toplas/GrothoffPV07;article;2017-01-06;"Encapsulating objects with confined types.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286823";0
+journals/toplas/GesbertGL15;article;2017-01-03;"A Logical Approach to Deciding Semantic Subtyping.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2812805";0
+journals/toplas/Nelson89;article;2006-04-03;"A Generalization of Dijkstra's Calculus.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69558.69559";0
+journals/toplas/MouraI09;article;2017-01-06;"Revisiting coroutines.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1462166.1462167";0
+journals/toplas/ClarkeC97;article;2006-04-03;"On the Use of Regular Expressions for Searching Text.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/256167.256174";0
+journals/toplas/HertzBMMS06;article;2006-08-22;"Generating object lifetime traces with Merlin.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1133651.1133654";0
+journals/toplas/AptFR80;article;2006-04-03;"A Proof System for Communicating Sequential Processes.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357110";0
+journals/toplas/AfekBM93;article;2006-04-03;"Lazy Caching.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/151646.151651";0
+journals/toplas/BurkeF87;article;2006-04-03;"A Practical Method for LR and LL Syntactic Error Diagnosis.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/22719.22720";0
+journals/toplas/WalkerCM00;article;2003-11-26;"Typed memory management via static capabilities.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/363911.363923";0
+journals/toplas/Tichy86;article;2006-04-03;"Smart Recompilation.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5956.5959";0
+journals/toplas/LiuJ99;article;2014-05-03;"Specification and Verification of Fault-Tolerance, Timing, and Scheduling.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/314602.314605";0
+journals/toplas/WelchP10;article;2017-01-06;"Santa Claus: Formal analysis of a process-oriented solution.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1734206.1734211";0
+journals/toplas/KnowlesF10;article;2017-01-06;"Hybrid type checking.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1667048.1667051";0
+journals/toplas/Halstead85;article;2006-04-03;"Multilisp: A Language for Concurrent Symbolic Computation.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/4472.4478";0
+journals/toplas/LeeY98;article;2003-11-26;"Proofs about a Folklore Let-Polymorphic Type Inference Algorithm.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291891.291892";0
+journals/toplas/SneltingT00;article;2003-11-26;"Understanding class hierarchies using concept analysis.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/353926.353940";0
+journals/toplas/SchulteS08;article;2017-01-06;"Efficient constraint propagation engines.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1452044.1452046";0
+journals/toplas/DewarGLSS79;article;2006-04-03;"Programming by Refinement, as Exemplified by the SETL Representation Sublanguage.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357064";0
+journals/toplas/NikolicS13;article;2017-01-03;"Reachability analysis of program variables.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2529990";0
+journals/toplas/DovierPPR00;article;2017-06-14;"Sets and constraint logic programming.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/365151.365169";0
+journals/toplas/CodishSS99;article;2017-06-09;"Sharing and groundness dependencies in logic programs.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330249.330252";0
+journals/toplas/DantasWWW08;article;2017-01-06;"AspectML: A polymorphic aspect-oriented functional programming language.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1353445.1353448";0
+journals/toplas/Lamport83;article;2006-04-03;"Specifying Concurrent Program Modules.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69624.357207";0
+journals/toplas/RoseP99;article;2003-11-26;"Techniques for the Translation of MATLAB Programs into Fortran 90.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/316686.316693";0
+journals/toplas/KalvalaWL09;article;2017-01-06;"Program transformations using temporal logic side conditions.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1516507.1516509";0
+journals/toplas/BossiE94;article;2006-04-03;"Transforming Acyclic Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183434";0
+journals/toplas/AriolaBS09;article;2017-01-06;"Sequent calculi and abstract machines.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1516507.1516508";0
+journals/toplas/DAntoniVLM15;article;2017-01-03;"Fast: A Transducer-Based Language for Tree Manipulation.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2791292";0
+journals/toplas/LiskovS83;article;2006-04-03;"Guardians and Actions: Linguistic Support for Robust, Distributed Programs.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.357215";0
+journals/toplas/SagonasS98;article;2017-07-18;"An Abstract Machine for Tabled Execution of Fixed-Order Stratified Logic Programs.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291889.291897";0
+journals/toplas/LeagueST02;article;2003-11-26;"Type-preserving compilation of Featherweight Java.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/514952.514954";0
+journals/toplas/PingaliA86;article;2006-04-03;"Efficient Demand-Driven Evaluation - Part 2.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5001.5003";0
+journals/toplas/Lochbihler13;article;2017-09-16;"Making the java memory model safe.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2518191";1
+journals/toplas/Hauser96;article;2006-04-03;"Handling Floating-Point Exceptions in Numeric Programs.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/227699.227701";0
+journals/toplas/JazayeriP81;article;2006-04-03;"Space-Efficient Storage Management in an Attribute Grammar Evaluator.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357146.357148";0
+journals/toplas/CooperSV01;article;2003-11-26;"Operator strength reduction.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/504709.504710";0
+journals/toplas/AttieE98;article;2017-06-14;"Synthesis of Concurrent Systems with Many Similar Processes.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/271510.271519";0
+journals/toplas/ShaoA00;article;2003-11-26;"Efficient and safe-for-space closure conversion.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/345099.345125";1
+journals/toplas/Williams82;article;2006-04-03;"A Flexible Notation for Syntactic Definitions.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357153.357159";0
+journals/toplas/Bloss94;article;2014-03-05;"Path Analysis and the Optimization of Nonstrict Functional Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177497";0
+journals/toplas/Bobrow80;article;2006-04-03;"Managing Reentrant Structures Using Reference Counts.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357104";0
+journals/toplas/HirzelDH02;article;2003-11-26;"On the usefulness of type and liveness accuracy for garbage collection and leak detection.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/586088.586089";0
+journals/toplas/AtkinsonM85;article;2006-04-03;"Procedures as Persistent Data Objects.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/4472.4477";0
+journals/toplas/BinkleyHK07;article;2017-06-09;"Empirical study of optimization techniques for massive slicing.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1290520.1290523";0
+journals/toplas/ButlerH99;article;2003-11-26;"Reasoning about Grover's quantum search algorithm using probabilistic ";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/319301.319303";0
+journals/toplas/WardZ07;article;2017-06-09;"Slicing as a program transformation.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1216374.1216375";0
+journals/toplas/ConstableZ84;article;2006-04-03;"The Type Theory of PL/CV3.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357233.357238";0
+journals/toplas/ChandyM86;article;2006-04-03;"An Example of Stepwise Refinement of Distributed Programs: Quiescence Detection.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5956.5958";0
+journals/toplas/FraineES12;article;2017-01-06;"Essential AOP: The a calculus.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2362389.2362391";0
+journals/toplas/FlexederMPS11;article;2017-01-06;"Fast interprocedural linear two-variable equalities.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2049706.2049710";0
+journals/toplas/Palsberg98;article;2003-11-26;"Equality-based flow analysis versus recursive types.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/295656.295662";0
+journals/toplas/BhatiaCP08;article;2017-01-06;"Remote specialization for efficient embedded operating systems.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1377492.1377497";0
+journals/toplas/Wise79;article;2006-04-03;"Morris's Garbage Compaction Algorithm Restores Reference Counts.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357070";0
+journals/toplas/RepsSL10;article;2017-01-06;"Finite differencing of logical formulas for static analysis.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1749608.1749613";0
+journals/toplas/DarulovaK17;article;2017-06-29;"Towards a Compiler for Reals.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3014426";0
+journals/toplas/ThiesVA07;article;2017-01-06;"A step towards unifying schedule and storage optimization.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286825";0
+journals/toplas/LiuSLR05;article;2006-02-09;"Optimizing aggregate array computations in loops.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1053468.1053471";0
+journals/toplas/BotincanDJ13;article;2017-01-06;"Proof-Directed Parallelization Synthesis by Separation Logic.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2491522.2491525";0
+journals/toplas/Feather87;article;2006-04-03;"Language Support for the Specification and Development of Composite Systems.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/22719.22947";0
+journals/toplas/LengauerT79;article;2006-04-03;"A Fast Algorithm for Finding Dominators in a Flowgraph.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357071";0
+journals/toplas/Palsberg12;article;2017-01-06;"Editorial.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2160910.2180860";0
+journals/toplas/InoueSY88;article;2006-04-03;"Analysis of Functional Programs to Detect Run-Time Garbage Cells.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/48022.48025";0
+journals/toplas/GanapathiF85;article;2006-04-03;"Affix Grammar Driven Code Generation.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/4472.4486";0
+journals/toplas/Sagiv07;article;2017-01-06;"Introduction to special ESOP'05 issue.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1275497.1275498";0
+journals/toplas/ProebstingF96;article;2006-04-03;"Demand-Driven Register Allocation.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/236114.236117";0
+journals/toplas/KnoopSV96;article;2006-04-03;"Parallelism for Free: Efficient and Optimal Bitvector Analyses for Parallel Programs.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/229542.229545";0
+journals/toplas/PredaCJD08;article;2017-01-06;"A semantics-based approach to malware detection.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1387673.1387674";0
+journals/toplas/Palsberg95;article;2006-04-03;"Closure Analysis in Constraint Form.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.201001";0
+journals/toplas/PierceT00;article;2003-11-26;"Local type inference.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/345099.345100";0
+journals/toplas/JacksonJD98;article;2017-05-18;"Isomorph-Free Model Enumeration: A New Method for Checking Relational Specifications.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/276393.276396";0
+journals/toplas/BettsCDKQTW15;article;2017-01-03;"The Design and Implementation of a Verification Technique for GPU Kernels.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2743017";0
+journals/toplas/Ramalingam00;article;2003-11-26;"Context-sensitive synchronization-sensitive analysis is undecidable.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/349214.349241";0
+journals/toplas/TerauchiA08;article;2017-01-06;"Witnessing side effects.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1353445.1353449";0
+journals/toplas/PearlmutterS08;article;2017-06-09;"Reverse-mode AD in a functional framework: Lambda the ultimate backpropagator.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1330017.1330018";0
+journals/toplas/FlanaganFLQ08;article;2017-01-06;"Types for atomicity: Static checking and inference for Java.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1377492.1377495";0
+journals/toplas/MatthewsF09;article;2017-01-06;"Operational semantics for multi-language programs.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1498926.1498930";0
+journals/toplas/YangUW02;article;2003-11-26;"Efficient and effective branch reordering using profile data.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/586088.586091";0
+journals/toplas/ReifS84;article;2006-04-03;"Real-Time Synchronization of Interprocess Communications.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2993.357244";0
+journals/toplas/CodishFM94;article;2006-04-03;"Suspension Analyses for Concurrent Logic Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177656";0
+journals/toplas/ApelH10;article;2015-04-21;"A calculus for uniform feature composition.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1745312.1745316";0
+journals/toplas/RoyHBSMS97;article;2006-04-03;"Mobile Objects in Distributed Oz.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/265943.265972";0
+journals/toplas/HicksN05;article;2006-04-06;"Dynamic software updating.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1108970.1108971";0
+journals/toplas/OgasawaraKN06;article;2017-06-09;"EDO: Exception-directed optimization in java.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1111596.1111598";0
+journals/toplas/KaiserH92;article;2006-04-03;"An Object-Based Programming Model for Shared Data.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/128861.128866";0
+journals/toplas/BriggsCT94;article;2006-04-03;"Improvements to Graph Coloring Register Allocation.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177575";0
+journals/toplas/SabryW97;article;2006-04-03;"A Reflection on Call-by-Value.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/267959.269968";0
+journals/toplas/HudakY91;article;2017-03-30;"Collecting Interpretations of Expressions.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/103135.103139";0
+journals/toplas/LeuschelMS98;article;2003-11-26;"Controlling Generalization amd Polyvariance in Partial Deduction of Normal Logic Programs.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/271510.271525";0
+journals/toplas/KistlerF00;article;2003-11-26;"Automated data-member layout of help objects to improve memory-hierarchy performance.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/353926.353937";0
+journals/toplas/TipSLES02;article;2003-11-26;"Practical extraction techniques for Java.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/586088.586090";0
+journals/toplas/BuchsbaumKRW05;article;2006-02-09;None;"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1065887.1065888";0
+journals/toplas/SewellWU10;article;2017-09-16;"Nomadic pict: Programming languages, communication infrastructure overlays, and semantics for mobile computation.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1734206.1734209";0
+journals/toplas/ChambersL95;article;2006-04-03;"Typechecking and Modules for Multimethods.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/218570.218571";0
+journals/toplas/WehrT11;article;2017-01-06;"JavaGI: The Interaction of Type Classes with Interfaces and Inheritance.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1985342.1985343";0
+journals/toplas/ZhongSD09;article;2017-01-06;"Program locality analysis using reuse distance.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1552309.1552310";0
+journals/toplas/JeannetLRS10;article;2017-01-06;"A relational approach to interprocedural shape analysis.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1667048.1667050";0
+journals/toplas/AlglaveMT14;article;2015-05-07;"Herding Cats: Modelling, Simulation, Testing, and Data Mining for Weak Memory.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2627752";0
+journals/toplas/FurrF08;article;2017-01-06;"Checking type safety of foreign function calls.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1377492.1377493";1
+journals/toplas/BieringBT07;article;2017-01-06;"BI-hyperdoctrines, higher-order separation logic, and abstraction.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1275497.1275499";0
+journals/toplas/FradetM91;article;2006-04-03;"Compilation of Functional Languages by Program Transformation.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/114005.102805";0
+journals/toplas/HondaY07;article;2017-01-06;"A uniform type structure for secure information flow.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286822";1
+journals/toplas/GoudaC86;article;2006-04-03;"Proving Liveness for Networks of Communicating Finite State Machines.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5001.5002";0
+journals/toplas/PalsbergS96;article;2006-04-03;"Constrained Types and Their Expressiveness.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/232706.232715";0
+journals/toplas/TofteB98;article;2003-11-26;"A Region Inference Algorithm.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291891.291894";0
+journals/toplas/KellerS86;article;2006-04-03;"Applicative Caching.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5001.5004";0
+journals/toplas/Wirth88;article;2006-04-03;"Type Extensions.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42190.46167";0
+journals/toplas/Ball94;article;2006-04-03;"Efficient Counting Program Events with Support for On-Line Queries.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186027";0
+journals/toplas/BrogiC91;article;2006-04-03;"The Concurrent Language, Shared Prolog.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/114005.102807";0
+journals/toplas/SmansJP12;article;2017-06-09;"Implicit dynamic frames.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2160910.2160911";0
+journals/toplas/Boute06;article;2007-03-06;"Calculational semantics: Deriving programming theories from equations by functional predicate calculus.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1146814";0
+journals/toplas/Boute92;article;2006-04-03;"The Euclidian Definition of the Functions div and mod.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/128861.128862";0
+journals/toplas/GhezziM79;article;2006-04-03;"Incremental Parsing.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357066";0
+journals/toplas/EsparzaGP14;article;2015-05-07;"Pattern-Based Verification for Multithreaded Programs.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2629644";0
+journals/toplas/TripakisLHL11;article;2017-06-09;"A Theory of Synchronous Relational Interfaces.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1985342.1985345";0
+journals/toplas/KennawayKSV94;article;2006-04-03;"On the Adequacy of Graph Rewriting for Simulating Term Rewriting.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177577";0
+journals/toplas/KurlanderPF95;article;2006-04-03;"Efficient Instruction Scheduling for Delayed-Load Architectures.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/213978.213987";0
+journals/toplas/Dershowitz85;article;2006-04-03;"Program Abstraction and Instantiation.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3916.3986";0
+journals/toplas/KristensenM81;article;2003-11-26;"Methods for Computing LALR(k) Lookahead.";"";"1981";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/Rhiger03;article;2003-11-26;"A foundation for embedded languages.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/641909.641910";0
+journals/toplas/GreinerB99;article;2003-11-26;"A Provably Time-Efficient Parallel Implementation of Full Speculation.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/316686.316690";0
+journals/toplas/FournetG03;article;2003-11-26;"Stack inspection: Theory and variants.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/641909.641912";0
+journals/toplas/Anger89;article;2006-04-03;"On Lamport's Interprocessor Communication Model.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/65979.65982";0
+journals/toplas/GrumbergL94;article;2006-04-03;"Model Checking and Modular Verification.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177725";0
+journals/toplas/WegmanZ91;article;2012-09-23;"Constant Propagation with Conditional Branches.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/103135.103136";0
+journals/toplas/MarinoSMMN16;article;2017-01-03;"DRF";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://dl.acm.org/citation.cfm?id=2925988";0
+journals/toplas/GarciaTWA14;article;2015-04-29;"Foundations of Typestate-Oriented Programming.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2629609";0
+journals/toplas/BlackburnDHSABB16;article;2017-01-03;"The Truth, The Whole Truth, and Nothing But the Truth: A Pragmatic Guide to Assessing Empirical Evaluations.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://dl.acm.org/citation.cfm?id=2983574";0
+journals/toplas/YangMW97;article;2006-04-03;"Symboloc Model Checking for Event-Driven Real-Time Systems.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/244795.244803";0
+journals/toplas/DonahueD85;article;2006-04-03;"Data Types Are Values.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3916.3987";0
+journals/toplas/KieburtzS79;article;2017-03-31;"Comments on "Communicating Sequential Processes".";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357077";0
+journals/toplas/Appel94;article;2006-04-03;"Axiomatic Bootstrapping: A Guide for Compiler Hackers.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197336";0
+journals/toplas/HarroldS94;article;2006-04-03;"Efficient Computation of Interprocedural Definition-Use Chains.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/174662.174663";0
+journals/toplas/BartheKOB13;article;2017-01-03;"Probabilistic Relational Reasoning for Differential Privacy.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2492061";0
+journals/toplas/AppelbeR84;article;2006-04-03;"Encapsulation Constructs in Systems Programming Languages.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2993.69615";0
+journals/toplas/Soundararajan84;article;2008-11-07;"Axiomatic Semantics of Communicating Sequential Processes.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1805";0
+journals/toplas/AshleyC94;article;2006-04-03;"Fixpoint Computation for Polyvariant Static Analyses of Higher-Order Applicative Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186037";0
+journals/toplas/Cameron89;article;2006-04-03;"Efficient High-Level Iteration with Accumulators.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/63264.63401";0
+journals/toplas/AshcroftW82;article;2006-04-03;"R/ for Semantics.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357170";0
+journals/toplas/Palsberg11a;article;2017-01-06;"Editorial note.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2049706.2049707";0
+journals/toplas/CameronI84;article;2006-04-03;"Grammar-Based Definition of Metaprogramming Systems.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357233.357235";0
+journals/toplas/Myers90;article;2006-04-03;"Creating User Interfaces Using Programming by Example, Visual Programming, and Constraints.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78942.78943";0
+journals/toplas/HorwitzPR89;article;2006-04-03;"Integrating Noninterfering Versions of Programs.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/65979.65980";0
+journals/toplas/Boute05;article;2006-04-20;"Functional declarative language design and predicate calculus: a practical approach.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1086642.1086647";0
+journals/toplas/GallagerHS83;article;2006-04-03;"A Distributed Algorithm for Minimum-Weight Spanning Trees.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357195.357200";0
+journals/toplas/BarbutiGL93;article;2006-04-03;"A General Framework for Semantics-Based Bottom-Up Abstract Interpretation of Logic Programs.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/151646.151650";0
+journals/toplas/ArsacK82;article;2006-04-03;"Some Techniques for Recursion Removal from Recursive Programs.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357171";0
+journals/toplas/Holt87;article;2006-04-03;"Data Descriptors: A Compile-Time Model of Data and Addressing.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/24039.24051";0
+journals/toplas/0008EW14;article;2017-01-03;"Extending Type Inference to Variational Programs.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2518190";0
+journals/toplas/TanenbaumSS82;article;2006-04-03;"Using Peephole Optimization on Intermediate Code.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357153.357155";0
+journals/toplas/HaydenSSHF14;article;2015-04-29;"Kitsune: Efficient, General-Purpose Dynamic Software Updating for C.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2629460";0
+journals/toplas/FinlayA93;article;2017-06-09;"A Correction to the Denotational Semantics for the Prolog of Nicholson and Foo.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/151646.151652";0
+journals/toplas/LaLonde81;article;2006-04-03;"The Construction of Stack-Controlling LR Parsers for Regular Right Part Grammars.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357133.357138";0
+journals/toplas/BinkleyGHIKL13;article;2017-07-05;"Efficient Identification of Linchpin Vertices in Dependence Clusters.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2491522.2491524";0
+journals/toplas/BowmanDP93;article;2006-04-03;"Reasoning About Naming Systems.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/161468.161471";0
+journals/toplas/SuganumaYKKN05;article;2006-02-09;"Design and evaluation of dynamic optimizations for a Java just-in-time compiler.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1075382.1075386";0
+journals/toplas/WeihlL85;article;2006-04-03;"Implementation of Resilient, Atomic Data Types.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3318.3319";0
+journals/toplas/BuenoBH99;article;2017-06-09;"Effectivness of Abstract Interpretation in Automatic Parallelization: A Case Study in Logic Programming.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/316686.316688";0
+journals/toplas/PatrignaniAS0CP15;article;2017-01-03;"Secure Compilation to Protected Module Architectures.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2699503";0
+journals/toplas/Landwehr80;article;2006-04-03;"An Abstract Type for Statistics Collection in Simula.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357114.357118";0
+journals/toplas/Hudson91;article;2006-04-03;"Incremental Attribute Evaluation: A Flexible Algorithm for Lazy Update.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/117009.117012";0
+journals/toplas/Schwartz80;article;2006-04-03;"Ultracomputers.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357114.357116";0
+journals/toplas/DawsonRSS96;article;2006-04-03;"Principles and Practice of Unification Factoring.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/232706.232722";0
+journals/toplas/Damiani03;article;2017-06-09;"Rank 2 intersection types for local definitions and conditional expressions.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/778559.778560";0
+journals/toplas/KennedyCLLTC99;article;2003-11-26;"Partial redundancy elimination in SSA form.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/319301.319348";0
+journals/toplas/LaLonde84;article;2006-04-03;"Comments on Soisalon-Soininen's "Inessential Error Entries".";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/579.357255";0
+journals/toplas/WangR08;article;2017-06-14;"Dynamic slicing on Java bytecode traces.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1330017.1330021";0
+journals/toplas/BernsteinG89;article;2006-04-03;"Scheduling Expressions on a Pipelined Processor with a Maximal Delay of One Cycle.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/59287.59291";0
+journals/toplas/ChinG95;article;2005-11-10;"A Reexamination of "Optimization of Array Subscript Range Checks".";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201063";0
+journals/toplas/Palsberg14;article;2015-04-20;"Editorial.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2683389";0
+journals/toplas/Foster96;article;2017-06-09;"Compositional Parallel Programming Languages.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/233561.233565";0
+journals/toplas/YeminiB85;article;2006-04-03;"A Modular Verifiable Exception-Handling Mechanism.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3318.3320";0
+journals/toplas/Hirzel0G17;article;2017-04-20;"SPL: An Extensible Language for Distributed Stream Processing.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3039207";0
+journals/toplas/HolzleU96;article;2006-04-03;"Reconciling Responsiveness with Performance in Pure Object-Orieted Languages.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/233561.233562";0
+journals/toplas/DecorteSV99;article;2003-11-26;"Constraint-based termination analysis of logic programs.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330643.330645";0
+journals/toplas/SagivRW02;article;2003-11-26;"Parametric shape analysis via 3-valued logic.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/514188.514190";0
+journals/toplas/OlderogA88;article;2006-04-03;"Fairness in Parallel Programs: The Transformational Approach.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/44501.44504";0
+journals/toplas/YellinS91;article;2006-04-03;"INC: A Language for Incremental Computations.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/103135.103137";0
+journals/toplas/DekelS83;article;2017-06-09;"Parallel Generation of Postfix and Tree Forms.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.357211";0
+journals/toplas/WalickiM95;article;2006-04-03;"A Complete Calculus for the Multialgebraic and Functional Semantics of Nondeterminism.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201070";0
+journals/toplas/DasR05;article;2016-10-25;"A practical and fast iterative algorithm for phi-function computation using DJ graphs.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1065887.1065890";0
+journals/toplas/JuanTM98;article;2003-11-26;"Compositional Verification of Concurrent Systems Using Petri-Net-Based Condensation Rules.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/293677.293681";0
+journals/toplas/Whalley94;article;2006-04-03;"Automatic Isolation of Compiler Errors.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186103";0
+journals/toplas/DerrickSW11;article;2017-06-09;"Mechanically verified proof obligations for linearizability.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1889997.1890001";0
+journals/toplas/Jones83;article;2017-06-09;"Tentative Steps Toward a Development Method for Interfering Programs.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69575.69577";0
+journals/toplas/KoopmanLS92;article;2017-06-09;"Cache Behavior of Combinator Graph Reduction.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/128861.128867";0
+journals/toplas/LiptonVVNS83;article;2006-04-03;"VLSI Layout as Programming.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.357216";0
+journals/toplas/LeungPP01;article;2003-11-26;"Scheduling time-constrained instructions on pipelined processors.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/383721.383733";0
+journals/toplas/CorchueloPRT02;article;2017-06-09;"Repairing syntax errors in LR parsers.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/586088.586092";0
+journals/toplas/SreedharGL98;article;2003-11-26;"A New Framework for Elimination-Based Data Flow Analysis Using DJ Graphs.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/276393.278523";0
+journals/toplas/YoungS99;article;2016-12-05;"Static correlated branch prediction.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330249.330255";0
+journals/toplas/Ben-AmramGM12;article;2017-01-06;"On the Termination of Integer Loops.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2400676.2400679";0
+journals/toplas/PaiK80;article;2006-04-03;"Global Context Recovery: A New Strategy for Syntactic Error Recovery by Table-Drive Parsers.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357084.357086";0
+journals/toplas/BandaHM00;article;2003-11-26;"Independence in CLP languages.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/349214.349224";0
+journals/toplas/Blanchet03;article;2006-02-09;"Escape analysis for Java";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/945885.945886";0
+journals/toplas/HorwitzT86;article;2006-04-03;"Generating Editing Environments Based on Relations and Attributes.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/6465.6512";0
+journals/toplas/ChanderEILN07;article;2017-01-06;"Enforcing resource bounds via static verification of dynamic checks.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1275497.1275503";0
+journals/toplas/Chatterjee93;article;2006-04-03;"Compiling Nested Data-Parallel Programs for Shared-Memory Multiprocessors.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169683.174152";0
+journals/toplas/Larcheveque95;article;2006-04-03;"Optimal Incremental Parsing.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.200996";0
+journals/toplas/HirzelDDH07;article;2017-01-06;"Fast online pointer analysis.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1216374.1216379";0
+journals/toplas/FernandezH04;article;2017-06-09;"An interval constraint system for lattice domains.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/963778.963779";0
+journals/toplas/McKinleyP10;article;2017-01-06;"La dolce vita at TOPLAS.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1734206.1734207";0
+journals/toplas/GrosserV015;article;2017-01-03;"Polyhedral AST Generation Is More Than Scanning Polyhedra.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2743016";0
+journals/toplas/Ben-Amram08;article;2017-01-06;"Size-change termination with difference constraints.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1353445.1353450";0
+journals/toplas/RogersCRH95;article;2017-09-16;"Supporting Dynamic Data Structures on Distributed-Memory Machines.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201065";0
+journals/toplas/NaikP08;article;2017-01-06;"A type system equivalent to a model checker.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1387673.1387678";0
+journals/toplas/0001KW14;article;2017-06-09;"A Widening Approach to Multithreaded Program Verification.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2629608";0
+journals/toplas/Dhamdhere91;article;2006-04-03;"Practical Adaptation of the Global Optimization Algorithm of Morel and Renvoise.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/103135.214520";0
+journals/toplas/GuptaJ93;article;2006-04-03;"Analysis of Or-Parallel Execution Models.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/155183.155220";0
+journals/toplas/Metayer88;article;2006-04-03;"ACE: An Automatic Complexity Evaluator.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42190.42347";0
+journals/toplas/PearceKH07;article;2017-01-06;"Efficient field-sensitive pointer analysis of C.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1290520.1290524";0
+journals/toplas/HenzingerK07;article;2017-01-06;"The embedded machine: Predictable, portable real-time code.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286824";0
+journals/toplas/Apt81;article;2006-04-03;"Ten Years of Hoare's Logic: A Survey - Part 1.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357146.357150";0
+journals/toplas/Palsberg13;article;2017-01-06;"Editorial.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2450136.2450141";0
+journals/toplas/PughW94;article;2006-04-03;"Static Analysis of Upper and Lower Bounds on Dependences and Parallelism.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183525";0
+journals/toplas/GerlekSW95;article;2006-04-03;"Beyond Induction Variables: Detecting and Classifying Sequences Using a Demand-Driven SSA.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.201003";0
+journals/toplas/Iverson79;article;2006-04-03;"Operators.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357074";0
+journals/toplas/AlurG04;article;2006-02-09;"Modular refinement of hierarchic reactive machines.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/973097.973101";0
+journals/toplas/ZhaoCGSA07;article;2017-01-06;None;"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1290520.1290522";0
+journals/toplas/FreudenbergerSS83;article;2006-04-03;"Experience with the SETL Optimizer.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357195.357197";0
+journals/toplas/Spooner86;article;2017-05-16;"The ML Approach to the Readable All-Purpose Language.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5397.5918";0
+journals/toplas/FreudenbergerGL94;article;2015-05-05;"Avoidance and Suppression of Compensation Code in a Trace Scheduling Compiler.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183446";0
+journals/toplas/BottoniCM99;article;2003-11-26;"Specification and dialogue control of visual interaction through visual rewriting systems.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330643.330644";1
+journals/toplas/Beemster94;article;2006-04-03;"Strictness Optimization for Graph Reduction Machines (Why id Might Not Be Strict).";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186040";0
+journals/toplas/McKinleyP10a;article;2017-01-06;"La prossima vita at TOPLAS.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1749608.1749609";0
+journals/toplas/DavidsonF84;article;2006-04-03;"Code Selection through Object Code Optimization.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1783";0
+journals/toplas/HickeyCHP92;article;2006-04-03;"Computer-Assisted Microanalysis of Parallel Programs.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/111186.126699";0
+journals/toplas/DimoulasF11;article;2017-01-06;"On contract satisfaction in a higher-order world.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2039346.2039348";0
+journals/toplas/AlpuenteFV98;article;2017-06-09;"Partial Evaluation of Functional Logic Programs.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291891.291896";0
+journals/toplas/JagadeesanPP91;article;2006-04-03;"A Fully Abstract Semantics for a First-Order Functional Language with Logic Variables.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/115372.115371";0
+journals/toplas/LindstromS81;article;2006-04-03;"Referencing and Retention in Block-Structured Coroutines.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357139.357143";0
+journals/toplas/BouajjaniE13;article;2017-01-03;"Analysis of Recursively Parallel Programs.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2518188";0
+journals/toplas/KimOEFV06;article;2007-03-06;"Exploiting reference idempotency to reduce speculative storage overflow.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1152653";0
+journals/toplas/BarabashBGKLOOP05;article;2006-04-06;"A parallel, incremental, mostly concurrent garbage collector for servers.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1108970.1108972";0
+journals/toplas/Wirth91;article;2017-03-31;"Reply to "Type-Extension Tests Can Be Performed In Constant Time".";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/115372.214521";0
+journals/toplas/CrafaP17;article;2017-07-31;"The Chemical Approach to Typestate-Oriented Programming.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3064849";0
+journals/toplas/KupfermanV00;article;2003-11-26;"An automata-theortetic approach to modular model checking.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/345099.345104";0
+journals/toplas/PalemS93;article;2006-04-03;"Scheduling Time-Critical Instructions on RISC Machines.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/155183.155190";0
+journals/toplas/Karp84;article;2006-04-03;"Proving Failure-Free Properties of Concurrent Systems Using Temporal Logic.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2993.357245";0
+journals/toplas/Charron-BostDF95;article;2006-04-03;"Local and Temporal Predicates In Distributed Systems.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.201005";0
+journals/toplas/JourdanP17;article;2017-10-05;"A Simple, Possibly Correct LR Parser for C11.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3064848";0
+journals/toplas/Leiss90;article;2006-04-03;"On Kilbury's Modification of Earley's Algorithm.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/88616.88637";0
+journals/toplas/JongeKVS12;article;2017-06-09;"Natural and Flexible Error Recovery for Generated Modular Language Environments.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2400676.2400678";0
+journals/toplas/ParkM04;article;2004-08-26;"Optimistic register coalescing.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1011508.1011512";0
+journals/toplas/NicholsonF89;article;2006-04-03;"A Denotational Semantics for Prolog.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69558.69564";0
+journals/toplas/MicallefK94;article;2006-04-03;"Extending Attribute Grammars to Support Programming-in-the-Large.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186091";0
+journals/toplas/EtalleGM01;article;2003-11-26;"Transformations of CCP programs.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/503502.503504";0
+journals/toplas/Charlesworth87;article;2006-04-03;"The Multiway Rendezvous.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/24039.24050";0
+journals/toplas/CoppermanM93;article;2017-03-31;"A Further Note on Hennessy's "Symbolic Debugging of Optimized Code".";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169701.214526";0
+journals/toplas/HindBCC99;article;2003-11-26;"Interprocedural pointer alias analysis.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/325478.325519";0
+journals/toplas/GriesL80;article;2006-04-03;"Assignment and Procedure Call Proof Rules.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357114.357119";0
+journals/toplas/Bagrodia89;article;2016-01-28;"Synchronization of Asynchronous Processes in CSP.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69558.69561";0
+journals/toplas/ChowH90;article;2006-04-03;"The Priority-Based Coloring Approach to Register Allocation.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/88616.88621";0
+journals/toplas/BrandHKO02;article;2003-11-26;"Compiling language definitions: the ASF+SDF compiler.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/567097.567099";0
+journals/toplas/BentonCF04;article;2006-02-09;"Modern concurrency abstractions for C#.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1018203.1018205";0
+journals/toplas/Bar-OnV85;article;2006-04-03;"Optimal Parallel Generation of a Computation Tree Form.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3318.3478";0
+journals/toplas/JoishaB06;article;2007-03-06;"An algebraic array shape inference system for MATLAB.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1152651";0
+journals/toplas/RuginaR05;article;2006-02-09;"Symbolic bounds analysis of pointers, array indices, and accessed memory regions.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1057387.1057388";0
+journals/toplas/BuchsbaumKRW98;article;2003-11-26;"A New, Simpler Linear-Time Dominators Algorithm.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/295656.295663";0
+journals/toplas/AllenK87;article;2006-04-03;"Automatic Translation of Fortran Programs to Vector Form.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/29873.29875";0
+journals/toplas/WeimerN08;article;2017-01-06;"Exceptional situations and program reliability.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1330017.1330019";0
+journals/toplas/HelsenT04;article;2004-08-26;"Polymorphic specialization for ML.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1011508.1011510";0
+journals/toplas/WuM12;article;2017-01-06;"ScalaExtrap: Trace-based communication extrapolation for SPMD programs.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2160910.2160914";0
+journals/toplas/KorachRS84;article;2006-04-03;"Distributed Algorithms for Finding Centers and Medians in Networks.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/579.585";0
+journals/toplas/ClarkG86;article;2006-04-03;"Parlog: Parallel Programming in Logic.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5001.5390";0
+journals/toplas/Ducournau08;article;2017-01-06;"Perfect hashing as an almost perfect subtype test.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1391956.1391960";0
+journals/toplas/AndreBR81;article;2006-04-03;"A Multiprocessing Approach to Compile-Time Symbol Resolution.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357121.357123";0
+journals/toplas/AptP94;article;2015-12-02;"On the Occur-Check-Free Prolog Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177673";0
+journals/toplas/NelsonO79;article;2006-04-03;"Simplification by Cooperating Decision Procedures.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357079";0
+journals/toplas/LimR13;article;2017-01-06;"TSL: A System for Generating Abstract Interpreters and its Application to Machine-Code Analysis.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2450136.2450139";0
+journals/toplas/GrossmanMZ00;article;2003-11-26;"Syntactic type abstraction.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/371880.371887";0
+journals/toplas/Morgan88;article;2006-04-03;"The Specification Statement.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/44501.44503";0
+journals/toplas/EmersonS97;article;2006-04-03;"Utilizing Symmetry when Model-Checking under Fairness Assumptions: An Automata-Theoretic Approach.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/262004.262008";0
+journals/toplas/CarleP96;article;2006-04-03;"On the Optimality of Change Propagation for Incremental Evaluation of Hierarchical Attribute Grammars.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/225540.225542";0
+journals/toplas/MoreauDJ05;article;2017-06-14;"Birrell's distributed reference listing revisited.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1108970.1108976";0
+journals/toplas/AbadiL94;article;2006-04-03;"An Old-Fashined Recipe for Real-Time.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186058";0
+journals/toplas/PinterP94;article;2006-04-03;"Program Optimization and Parallelization Using Idioms.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177494";0
+journals/toplas/Wall92;article;2006-04-03;"Experience with a Software-Defined Machine Architecture.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/129393.129395";0
+journals/toplas/HartSP83;article;2017-06-09;"Termination of Probabilistic Concurrent Program.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.357214";0
+journals/toplas/KleinN06;article;2007-03-06;"A machine-checked model for a Java-like language, virtual machine, and compiler.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1146811";0
+journals/toplas/ScottJ06;article;2007-03-06;"Right nulled GLR parsers.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1146810";0
+journals/toplas/HeeringKR94;article;2006-04-03;"Lazy and Incremental Program Generation.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177750";0
+journals/toplas/0002AH12;article;2017-01-06;"Multivariate amortized resource analysis.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2362389.2362393";0
+journals/toplas/NanevskiBG13;article;2017-01-06;"Dependent Type Theory for Verification of Information Flow and Access Control Policies.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2491522.2491523";0
+journals/toplas/Lindstrom79;article;2006-04-03;"Backtracking in a Generalized Control Setting.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357063";0
+journals/toplas/ChatterjeeGST95;article;2006-04-03;"Optimal Evaluation of Array Expressions on Massively Parallel Machines.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.201004";0
+journals/toplas/MorrisonDCB91;article;2017-06-14;"An Ad Hoc Approach to the Implementation of Polymorphism.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/117009.117017";0
+journals/toplas/CarboneHY12;article;2017-01-06;"Structured Communication-Centered Programming for Web Services.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2220365.2220367";0
+journals/toplas/Herlihy93;article;2012-10-19;"A Methodology for Implementing Highly Concurrent Objects.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/161468.161469";0
+journals/toplas/PaigeK82;article;2006-04-03;"Finite Differencing of Computable Expressions.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357172.357177";0
+journals/toplas/Lee09;article;2017-01-06;"Ranking functions for size-change termination.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1498926.1498928";0
+journals/toplas/Waddle90;article;2006-04-03;"Production Trees: A Compact Representation of Parsed Programs.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/77606.77609";0
+journals/toplas/DewanS90;article;2006-04-03;"An Approach to Support Automatic Generation of User Interfaces.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/88616.214518";0
+journals/toplas/GeorgeA96;article;2006-04-03;"Iterated Register Coalescing.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/229542.229546";0
+journals/toplas/RepsD87;article;2006-04-03;"Sublinear-Space Evaluation Algorithms for Attribute Grammars.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/24039.214529";0
+journals/toplas/Lamb87;article;2006-04-03;"IDL: Sharing Intermediate Representations.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/24039.24040";0
+journals/toplas/Borning81;article;2006-04-03;"The Programming Language Aspects of ThingLab, a Constraint-Oriented Simulation Laboratory.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357146.357147";0
+journals/toplas/ShankarL92;article;2006-04-03;"A Stepwise Refinement Heuristic for Protocol Construction.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/129393.129394";0
+journals/toplas/Sorkin89;article;2017-03-31;"Some Comments on ''A Solution to a Problem with Morel and Renvoise's 'Global Optimization by Suppression of Partial Redundancies'.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69558.214513";0
+journals/toplas/HoltCW82;article;2006-04-03;"An Introduction to S/SL: Syntax/Semantic Language.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357164";0
+journals/toplas/Apt00;article;2003-11-26;"The role of commutativity in constraint propagation algorithms.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/371880.371884";0
+journals/toplas/AnconaDGM91;article;2003-11-26;"Efficient Construction of LR(k) States and Tables.";"";"1991";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/Hailperin05;article;2006-02-09;"Comparing conservative coalescing criteria.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1065887.1065894";0
+journals/toplas/MerlinB83;article;2006-11-23;"On the Construction of Submodule Specifications and Communication Protocols.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357195.357196";0
+journals/toplas/Waters94;article;2006-04-03;"Cliché-Based Program Editors.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/174625.174628";0
+journals/toplas/GreifM81;article;2006-04-03;"Specifying the Semantics of while Programs: A Tutorial and Critique of a Paper by Hoare and Lauer.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357146.357151";0
+journals/toplas/GiniG85;article;2017-06-14;"Dealing with World-Model-Based Programs.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3318.3479";0
+journals/toplas/Debray89;article;2006-04-03;"Static Inference of Modes and Data Dependencies in Logic Programs.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/65979.65983";0
+journals/toplas/AndrewsR80;article;2006-04-03;"An Axiomatic Approach to Information Flow in Programs.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357084.357088";0
+journals/toplas/SneyersSD09;article;2017-01-06;"The computational power and complexity of constraint handling rules.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1462166.1462169";0
+journals/toplas/Gudeman92;article;2006-04-03;"Denotational Semantics of a Goal-Directed Language.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/111186.104659";0
+journals/toplas/SreedharGL96;article;2006-04-03;"Identifying Loops Using DJ Graphs.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/236114.236115";0
+journals/toplas/Gorlatch04;article;2006-02-09;"Send-receive considered harmful: Myths and realities of message passing.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/963778.963780";0
+journals/toplas/Fischer80;article;2006-04-03;"On Parsing and Compiling Arithmetic Expressions on Vector Computers.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357094.357099";0
+journals/toplas/Ryu16;article;2017-01-03;"ThisType for Object-Oriented Languages: From Theory to Practice.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2888392";0
+journals/toplas/LuckhamS79;article;2006-04-03;"Verification of Array, Record, and Pointer Operations in Pascal.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357078";0
+journals/toplas/Ben-AmramL07;article;2017-01-06;"Program termination analysis in polynomial time.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1180475.1180480";0
+journals/toplas/KhedkerSK07;article;2017-01-06;"Heap reference analysis using access graphs.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1290520.1290521";0
+journals/toplas/DolevHS09;article;2017-01-06;"Self-stabilization preserving compiler.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1552309.1552312";0
+journals/toplas/HoffmanO82;article;2006-04-03;"Programming with Equations.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357153.357158";0
+journals/toplas/DucasseNSWB06;article;2017-06-09;"Traits: A mechanism for fine-grained reuse.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1119479.1119483";0
+journals/toplas/DujardinAS98;article;2003-11-26;"Fast Algorithms for Compressed Multimethod Dispatch Table Generation.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/271510.271521";0
+journals/toplas/Kaiser89;article;2006-04-03;"Incremental Dynamic Semantics for Language-Based Programming Environments.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/63264.63400";0
+journals/toplas/TrinderCPSTAABB17;article;2017-10-05;"Scaling Reliably: Improving the Scalability of the Erlang Distributed Actor Platform.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3107937";0
+journals/toplas/Katz93;article;2006-04-03;"A Superimposition Control Construct for Distributed Systems.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169701.169682";0
+journals/toplas/MannaW80;article;2006-04-03;"A Deductive Approach to Program Synthesis.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357084.357090";0
+journals/toplas/RyderLSZA01;article;2003-11-26;"A schema for interprocedural modification side-effect analysis with pointer aliasing.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/383043.381532";0
+journals/toplas/WrightJ98;article;2003-11-26;"Polymorphic Splitting: An Effective Polyvariant Flow Analysis.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/271510.271523";0
+journals/toplas/MarriottSJ94;article;2017-06-09;"Denotational Abstract Interpretation of Logic Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177650";0
+journals/toplas/Leeman86;article;2006-04-03;"A Formal Approach to Undo Operations in Programming Languages.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5001.5005";0
+journals/toplas/SwinehartZBH86;article;2015-06-29;"A Structural View of the Cedar Programming Environment.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/6465.6466";0
+journals/toplas/CytronF95;article;2006-04-03;"Efficientlty Computing Phi-Nodes On-The-Fly.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/203095.203099";0
+journals/toplas/LeverettS80;article;2006-04-03;"Chaining Span-Dependent Jump Instructions.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357105";0
+journals/toplas/RanganathABHD07;article;2017-06-09;"A new foundation for control dependence and slicing for modern program structures.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1275497.1275502";1
+journals/toplas/MiraniH04;article;2004-08-26;"First-class monadic schedules.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1011508.1011509";0
+journals/toplas/GilPWZ08;article;2017-01-06;"Two-dimensional bidirectional object layout.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1387673.1387677";0
+journals/toplas/Proebsting95;article;2006-04-03;"BURS Automata Generation.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/203095.203098";0
+journals/toplas/BaumgartnerR97;article;2006-04-03;"Implementing Signatures for C++.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/239912.239922";0
+journals/toplas/KnoopRS94;article;2006-04-03;"Optimal Code Motion: Theory and Practice.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183443";0
+journals/toplas/PazBKPR07;article;2017-01-06;"An efficient on-the-fly cycle collection.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1255450.1255453";0
+journals/toplas/Peterson83;article;2006-04-03;"Concurrent Reading While Writing.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357195.357198";0
+journals/toplas/BartheDP14;article;2017-01-03;"Formal Verification of an SSA-Based Middle-End for CompCert.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2579080";0
+journals/toplas/Howden80;article;2006-04-03;"Applicability of Software Validation Techniques to Scientific Programs.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357107";0
+journals/toplas/AmadioBL03;article;2006-02-09;"The receptive distributed pi-calculus.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/937563.937564";0
+journals/toplas/SekarR95;article;2006-04-03;"Fast Strictness Analysis Based on Demand Propagation.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/218570.218573";0
+journals/toplas/Sites79;article;2006-04-03;"The Compilation of Loop Induction Expressions.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357065";0
+journals/toplas/ElderLSAR14;article;2015-04-29;"Abstract Domains of Affine Relations.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2651361";0
+journals/toplas/LeavensN15;article;2017-01-03;"Behavioral Subtyping, Specification Inheritance, and Modular Reasoning.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2766446";0
+journals/toplas/Baker82;article;2006-04-03;"A One-Pass Algorithm for Overload Resolution in Ada.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.69623";0
+journals/toplas/FreundM99;article;2003-11-26;"The type system for object initializatiion in the Jave bytecode language.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330643.330646";0
+journals/toplas/KhedkerD94;article;2006-04-03;"A Generalized Theory of Bit Vector Data Flow Analysis.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186043";0
+journals/toplas/GriswoldHK81;article;2006-04-03;"Generators in Icon.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357133.357136";0
+journals/toplas/LiaoDKTW96;article;2015-05-04;"Storage Assignment to Decrease Code Size.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/229542.229543";0
+journals/toplas/ChristensenG04;article;2017-06-14;"Offline partial evaluation can be as accurate as online partial evaluation.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/963778.963784";0
+journals/toplas/CastagnaGP09;article;2017-01-06;"A theory of contracts for Web services.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1538917.1538920";0
+journals/toplas/DanvyP96;article;2009-04-23;"Eta-Expansion Does The Trick.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/236114.236119";0
+journals/toplas/LycklamaH91;article;2006-04-03;"A First-Come-First-Served Mutual-Exclusion Algorithm with Small Communication Variables.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/115372.115370";0
+journals/toplas/AbadiFF06;article;2006-08-22;"Types for safe locking: Static race detection for Java.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1119479.1119480";1
+journals/toplas/MoreauQ05;article;2017-06-14;"Resource aware programming.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1065887.1065891";0
+journals/toplas/NguyenI05;article;2006-02-09;"Efficient and effective array bound checking.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1065887.1065893";0
+journals/toplas/StecklerW97;article;2006-04-03;"Lightweight Closure Conversion.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/239912.239915";0
+journals/toplas/PingaliA85;article;2006-04-03;"Efficient Demand-Driven Evaluation - Part 1.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3318.3480";0
+journals/toplas/JagannathanLPPV14;article;2015-05-07;"Atomicity Refinement for Verified Compilation.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2601339";0
+journals/toplas/Webber95;article;2006-04-03;"Optimization of Functional Programs by Grammar Thinning.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201067";0
+journals/toplas/CunyS87;article;2006-04-03;"Conversion from Data-Driven to Synchronous Execution in Loop Programs.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/29873.31334";0
+journals/toplas/Gries79;article;2006-04-03;"Is Sometimes Ever Better Than Alway?";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357080";0
+journals/toplas/LiangFF14;article;2017-01-03;"Rely-Guarantee-Based Simulation for Compositional Verification of Concurrent Program Transformations.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2576235";0
+journals/toplas/MoonE97;article;2006-04-03;"Parallelizing Nonnumerical Code with Selective Scheduling and Software Pipelining.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/267959.269966";0
+journals/toplas/YellinS97;article;2006-04-03;"Protocol Specifications and Component Adaptors.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/244795.244801";0
+journals/toplas/SmithV96;article;2006-04-03;"Polymorphic typing of Variables and References.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/229542.229544";0
+journals/toplas/LangS98;article;2003-11-26;"A Study of the Applicability of Existing Exception-Handling Techniques to Component-Base Real-Time Software Technology.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/276393.276395";0
+journals/toplas/RamseyC03;article;2017-06-09;"A transformational approach to binary translation of delayed branches.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/641888.641890";0
+journals/toplas/SpotoMP10;article;2017-01-06;"A termination analyzer for Java bytecode based on path-length.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1709093.1709095";0
+journals/toplas/Monniaux08;article;2017-01-06;"The pitfalls of verifying floating-point computations.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1353445.1353446";0
+journals/toplas/BhargavanFG08;article;2017-01-06;"Verifying policy-based web services security.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1391956.1391957";1
+journals/toplas/FlanaganF99;article;2003-11-26;"Componential Set-Based Analysis.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/316686.316703";0
+journals/toplas/LeroyP00;article;2003-11-26;"Type-based analysis of uncaught exceptions.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/349214.349230";0
+journals/toplas/GuptaSO94;article;2006-04-03;"Efficient Register Allocation via Coloring Using Clique Separators.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177499";0
+journals/toplas/ChoiGSSM03;article;2006-02-09;"Stack allocation and synchronization optimizations for Java using escape analysis.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/945885.945892";0
+journals/toplas/BackK88;article;2006-04-03;"Distributed Cooperation with Action Systems.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/48022.48023";0
+journals/toplas/CejtinJK95;article;2006-04-03;"Higher-Order Distributed Objects.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/213978.213986";0
+journals/toplas/Burton90;article;2006-04-03;"Type Extension Through Polymorphism.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/77606.214515";0
+journals/toplas/HanxledenK00;article;2003-11-26;"A balanced code placement framework.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/365151.365161";0
+journals/toplas/VeraALG05;article;2017-06-14;"An accurate cost model for guiding data locality transformations.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1086642.1086646";0
+journals/toplas/Duggan02;article;2003-11-26;"Type-Safe linking with recursive DLLs and shared libraries.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/586088.586093";0
+journals/toplas/AbadiBHI11;article;2017-01-06;"Semantics of transactional memory and automatic mutual exclusion.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1889997.1889999";0
+journals/toplas/GreenbergLO88;article;2006-04-03;"Simple, Efficient Asynchronous Parallel Algorithms for Maximization.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42190.42278";0
+journals/toplas/Stone04;article;2006-02-09;"Extensible objects without labels.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1018203.1018206";0
+journals/toplas/ThatcherWW82;article;2006-04-03;"Data Type Specification: Parameterization and the Power of Specification Techniques.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357192";0
+journals/toplas/Reps98;article;2003-11-26;""Maximal-munch" Tokenization in Linear Time.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/276393.276394";0
+journals/toplas/JaffarMSY92;article;2003-11-26;"The CLP(R) Language and System.";"";"1992";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/RossbergD13;article;2017-01-06;"Mixin' Up the ML Module System.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2450136.2450137";0
+journals/toplas/Hailperin98;article;2003-11-26;"Cost-Optimal Code Motion.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/295656.295664";0
+journals/toplas/Hilfinger88;article;2006-04-03;"An Ada Package for Dimensional Analysis.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42190.42346";0
+journals/toplas/KorachKM90;article;2006-04-03;"A Modular Technique for the Design of Efficient Distributed Leader Finding Algorithms.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/77606.77610";0
+journals/toplas/RenganarayananKSR12;article;2017-01-06;"Parameterized loop tiling.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2160910.2160912";0
+journals/toplas/Weihl90;article;2006-04-03;"Linguistic Support for Atomic Data Types.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78942.78944";0
+journals/toplas/HuangS11;article;2017-01-06;"Morphing: Structurally shaping a class by reflecting on others.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1890028.1890029";0
+journals/toplas/Banerjee11;article;2017-01-03;"Mathematical foundation of trace scheduling.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1961204.1961206";0
+journals/toplas/Zic94;article;2006-04-03;"Time-Constrained Buffer Specifications in CSP+T and Timed CSP.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197322";0
+journals/toplas/CollbergTT07;article;2017-06-09;"Dynamic graph-based software fingerprinting.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286826";0
+journals/toplas/ClausenSCM00;article;2003-11-26;"Java bytecode compression for low-end embedded systems.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/353926.353933";0
+journals/toplas/FinkelM87;article;2006-04-03;"DIB - A Distributed Implementation of Backtracking.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/22719.24067";0
+journals/toplas/BermudezS88;article;2006-04-03;"On the (non-) Relationship between SLR(1) and NQLALR(1) Grammars.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42190.42276";0
+journals/toplas/DebrayP97;article;2006-04-03;"Interprocedural Control Flow Analysis of First-Order Programs with Tail-Call Optimization.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/262004.262006";0
+journals/toplas/LiskovW94;article;2006-04-03;"A Behavioral Notion of Subtyping.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197383";0
+journals/toplas/ZandenHMMMSGK01;article;2003-11-26;"Lessons learned about one-way, dataflow constraints in the Garnet and Amulet graphical toolkits.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/506315.506318";0
+journals/toplas/LamportP99;article;2003-11-26;"Should your specification language be typed.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/319301.319317";0
+journals/toplas/Ganzinger83;article;2006-04-03;"Parameterized Specifications: Parameter Passing and Implementation with Respect to Observability.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.357212";0
+journals/toplas/SeoYYH07;article;2017-01-06;"Goal-directed weakening of abstract interpretation results.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286830";0
+journals/toplas/FrechtlingL15;article;2017-01-03;"MCALIB: Measuring Sensitivity to Rounding Error with Monte Carlo Programming.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2665073";0
+journals/toplas/VerdoolaegeJB12;article;2017-06-09;"Equivalence checking of static affine programs using widening to handle recurrences.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2362389.2362390";0
+journals/toplas/Carlisle95;article;2006-04-03;"Type Checking Concurrent I/O.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/203095.203097";0
+journals/toplas/DouenceF98;article;2003-11-26;"A Systematic Study of Functional Language Implementations.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/276393.276397";0
+journals/toplas/Henglein93;article;2006-04-03;"Type Inference with Polymorphic Recursion.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169701.169692";0
+journals/toplas/Berzins94;article;2006-04-03;"Software Merge: Semantics of Combining Changes to Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197403";0
+journals/toplas/YahavS10;article;2015-04-21;"Verifying safety properties of concurrent heap-manipulating programs.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1745312.1745315";1
+journals/toplas/Sands96;article;2006-04-03;"Total Correctness by Local Improvement in the Transformation of Functional Programs.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/227699.227716";0
+journals/toplas/RepsTD83;article;2006-04-03;"Incremental Context-Dependent Analysis for Language-Based Editors.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.357218";0
+journals/toplas/Wing87;article;2006-04-03;"Writing Larch Interface Language Specifications.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/9758.10500";0
+journals/toplas/AbadiCPP91;article;2012-09-23;"Dynamic Typing in a Statically Typed Language.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/103135.103138";0
+journals/toplas/Misra81;article;2006-04-03;"An Exercise in Program Explanation.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357121.357128";0
+journals/toplas/MorganMS96;article;2006-04-03;"Probabilistic Predicate Transformers.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/229542.229547";0
+journals/toplas/Tai79;article;2006-04-03;"Noncanonical SLR(1) Grammars.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357083";0
+journals/toplas/MoreiraMG00;article;2003-11-26;"From flop to megaflops: Java for technical computing.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/349214.349222";0
+journals/toplas/DemetrescuFR14;article;2015-04-20;"Reactive Imperative Programming with Dataflow Constraints.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2623200";0
+journals/toplas/ClementsF04;article;2006-02-09;"A tail-recursive machine with stack inspection.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1034774.1034778";0
+journals/toplas/AcarBH06;article;2017-03-14;"Adaptive functional programming.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1186634";0
+journals/toplas/SchultzLC03;article;2006-02-09;"Automatic program specialization for Java.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/778559.778561";0
+journals/toplas/DunlopB85;article;2006-04-03;"Generalizing Specifications for Uniformly Implemented Loops.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.2708";0
+journals/toplas/AbadiBLP93;article;2006-04-03;"A Calculus for Access Control in Distributed Systems.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/155183.155225";0
+journals/toplas/DamsGG97;article;2006-04-03;"Abstract Interpretation of Reactive Systems.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/244795.244800";0
+journals/toplas/AnconaADDGZ07;article;2017-06-09;"A provenly correct translation of Fickle into Java.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1216374.1216381";0
+journals/toplas/AhmedARSTW10;article;2017-01-06;"Semantic foundations for typed assembly languages.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1709093.1709094";0
+journals/toplas/BultanGP99;article;2003-11-26;"Model-checking concurrent systems with unbounded integer variables: symbolic representations, approximations, and experimental results.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/325478.325480";0
+journals/toplas/McGraw82;article;2006-04-03;"The VAL Language: Description and Analysis.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357153.357157";0
+journals/toplas/McKinleyP07;article;2017-01-06;"Editorial: A changing of the guard.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1293892";0
+journals/toplas/BartheGKR09;article;2017-01-06;"Certificate translation for optimizing compilers.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1538917.1538919";0
+journals/toplas/Piquer96;article;2006-04-03;"Indirect Distributed Garbage Collection: Handling Object Migration.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/232706.232711";0
+journals/toplas/CasanovaB80;article;2006-04-03;"A Formal System for Reasoning about Programs Accessing a Relational Database.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357111";0
+journals/toplas/BreuerB94;article;2017-06-09;"Decompilation: The Enumeration of Types and Grammars.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186093";0
+journals/toplas/LauferO94;article;2006-04-03;"Polymorphic Type Inference and Abstract Data Types.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/186025.186031";0
+journals/toplas/RongDG08;article;2017-01-06;"Register allocation for software pipelined multidimensional loops.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1377492.1377498";0
+journals/toplas/NieuwpoortWJB10;article;2017-06-14;"Satin: A high-level and efficient grid programming model.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1709093.1709096";0
+journals/toplas/PingaliB97;article;2006-04-03;"Optimal Control Dependence Computation and the Roman Chariots Problem.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/256167.256217";0
+journals/toplas/KatzenelsonPS92;article;2006-04-03;"Type Matching, Type-Graphs, and the Schanuel Conjecture.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/133233.133247";0
+journals/toplas/Copperman94;article;2006-04-03;"Debugging Optimized Code Without Being Misled.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177517";0
+journals/toplas/SekiyamaIG17;article;2017-04-21;"Polymorphic Manifest Contracts, Revised and Resolved.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2994594";0
+journals/toplas/KennedyR79;article;2006-04-03;"A Deterministic Attribute Grammar Evaluator Based on Dynamic Scheduling.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357072";0
+journals/toplas/BalabonskiPP16;article;2017-01-03;"The Design and Formalization of Mezzo, a Permission-Based Programming Language.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://dl.acm.org/citation.cfm?id=2837022";0
+journals/toplas/MaassenNVBKJH01;article;2017-06-14;"Efficient Java RMI for parallel programming.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/506315.506317";0
+journals/toplas/AlurCM11;article;2017-01-06;"Software model checking using languages of nested trees.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2039346.2039347";0
+journals/toplas/Bird84;article;2006-04-03;"The Promotion and Accumulation Strategies in Transformational Programming.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1781";0
+journals/toplas/SangiorgiKS11;article;2017-01-06;"Environmental bisimulations for higher-order languages.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1889997.1890002";0
+journals/toplas/TzannesCVB14;article;2015-05-07;"Lazy Scheduling: A Runtime Adaptive Scheduler for Declarative Parallelism.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2629643";0
+journals/toplas/BartheK11;article;2017-01-06;"An Abstract Model of Certificate Translation.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1985342.1985344";0
+journals/toplas/Debray95;article;2006-04-03;"On the Complexity of Dataflow Analysis of Logic Programs.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201068";0
+journals/toplas/ChoyS95;article;2006-04-03;"Efficient Fault-Tolerant Algorithms for Distributed Resource Allocation.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/203095.203101";0
+journals/toplas/Jagannathan94;article;2006-04-03;"Metalevel Building Blocks for Modular Systems.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177578";0
+journals/toplas/HermenegildoPMS00;article;2017-06-09;"Incremental analysis of constraint logic programs.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/349214.349216";0
+journals/toplas/Venkatesh95;article;2006-04-03;"Experimental Results from Dynamic Slicing of C Program.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201062";0
+journals/toplas/BistarelliR01;article;2017-06-09;"Semiring-based contstraint logic programming: syntax and semantics.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/383721.383725";0
+journals/toplas/LeeK02;article;2003-11-26;"Automatic data and computation decomposition on distributed memory parallel computers.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/509705.509706";0
+journals/toplas/Soisalon-Soininen82;article;2006-04-03;"Inessential Error Entries and Their Use in LR Parser Optimization.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357165";0
+journals/toplas/Kozen97;article;2006-04-03;"Kleene Algebra with Tests.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/256167.256195";0
+journals/toplas/TelM93;article;2006-04-03;"The Derivation of Distributed Termination Detection Algorithms from Garbage Collection Schemes.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/151646.151647";0
+journals/toplas/BorstlerMW91;article;2017-06-14;"Table Compression for Tree Automata.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/117009.117013";0
+journals/toplas/SutterBB05;article;2006-04-06;"Link-time binary rewriting techniques for program compaction.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1086642.1086645";0
+journals/toplas/CohenH87;article;2006-04-03;"Parsing and Compiling Using Prolog.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/22719.22946";0
+journals/toplas/BankSS94;article;2006-04-03;"A Unified Model of Pointwise Equivalence of Procedural Computations.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197402";0
+journals/toplas/ShashaS88;article;2016-08-11;"Efficient and Correct Execution of Parallel Programs that Share Memory.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42190.42277";0
+journals/toplas/NandaR06;article;2007-03-06;"Interprocedural slicing of multithreaded programs with applications to Java.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1186636";0
+journals/toplas/BlackburnHMMY07;article;2017-01-06;"Profile-based pretenuring.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1180475.1180477";0
+journals/toplas/Giegerich83;article;2006-04-03;"A Formal Framework for the Derivation of Machine-Specific Optimizers.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.357219";0
+journals/toplas/Ait-KaciP94;article;2006-04-03;"Functions as Passive Constraints in LIFE.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183526";0
+journals/toplas/MorrisBT09;article;2017-01-06;"Term transformers: A new approach to state.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1516507.1516511";0
+journals/toplas/DebrayL93;article;2006-04-03;"Cost Analysis of Logic Programs.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/161468.161472";0
+journals/toplas/ThammanurP04;article;2006-02-09;"A fast, memory-efficient register allocation framework for embedded systems.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1034774.1034776";0
+journals/toplas/KennedyK98;article;2003-11-26;"Automatic Data Layout for Distributed-Memory Machines.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291891.291901";0
+journals/toplas/AbadiC96;article;2006-04-03;"On Subtyping and Matching.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/233561.233563";0
+journals/toplas/FokkinkKW98;article;2003-11-26;"Within ARM's Reach: Compilation of Left-Linear Rewrite Systems via Minimal Rewrite Systems.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291889.291903";0
+journals/toplas/GiacobazziS98;article;2003-11-26;"A Logical Model for Relational Abstract Domains.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/293677.293680";0
+journals/toplas/JacobsPSLS08;article;2017-06-09;"A programming model for concurrent object-oriented programs.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1452044.1452045";0
+journals/toplas/Jonsson94;article;2006-04-03;"Compositional Specification and Verification of Distributed Systems.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/174662.174665";0
+journals/toplas/BroyN94;article;2006-04-03;"Adding Fair Choice to Dijkstra's Calculus.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177727";0
+journals/toplas/KeenGMO04;article;2006-02-09;"JR: Flexible distributed programming in an extended Java.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/982158.982162";0
+journals/toplas/ArbabB94;article;2017-03-31;"Some Comments on "A Denotational Semantics for Prolog".";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177605";0
+journals/toplas/Williams82a;article;2006-04-03;"On the Development of the Algebra of Functional Programs.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357193";0
+journals/toplas/RamanathS84;article;2006-04-03;"Jump Minimization in Linear Time.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.357262";0
+journals/toplas/LieberherrPO04;article;2006-02-09;"Traversals of object structures: Specification and Efficient Implementation.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/973097.973102";0
+journals/toplas/BicL87;article;2006-04-03;"A Data-Driven Model for a Subset of Logic Programming.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/29873.31333";0
+journals/toplas/ZhangMVJ17;article;2017-10-05;"SHErrLoc: A Static Holistic Error Locator.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3121137";0
+journals/toplas/PengP91;article;2006-04-03;"Data Flow Analysis of Communicating Finite State Machines.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/117009.117015";0
+journals/toplas/ArenazTD08;article;2017-06-09;"XARK: An extensible framework for automatic recognition of computational kernels.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1391956.1391959";0
+journals/toplas/LiuST98;article;2003-11-26;"Static Caching for Incremental Computation.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291889.291895";0
+journals/toplas/DuesterwaldGS97;article;2006-04-03;"A Practical Framework for Demand-Driven Interprocedural Data Flow Analysis.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/267959.269970";0
+journals/toplas/HaridiRBMSS99;article;2003-11-26;"Efficient logic variables for distributed computing.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/319301.319347";0
+journals/toplas/GerberH97;article;2006-04-03;"Slicing Real-Time Programs for Enhanced Schedulability.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/256167.256394";0
+journals/toplas/NeculaCHMW05;article;2006-02-09;"CCured: type-safe retrofitting of legacy software.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1065887.1065892";1
+journals/toplas/SampaioSCP13;article;2017-01-03;"Divergence analysis.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2523815";0
+journals/toplas/Pippenger97;article;2006-04-03;"Pure Versus Impure Lisp.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/244795.244798";0
+journals/toplas/LiuS09;article;2017-01-06;"From datalog rules to efficient programs with time and space guarantees.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1552309.1552311";0
+journals/toplas/BuckleyS83;article;2006-04-03;"An Effective Implementation for the Generalized Input-Output Construct of CSP.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69624.357208";0
+journals/toplas/BurnsP89;article;2017-06-09;"Uniform Self-Stabilizing Rings.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/63264.63403";0
+journals/toplas/AnconaLZ03;article;2006-02-09;"Jam - designing a Java extension with mixins.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/937563.937567";0
+journals/toplas/WrightC97;article;2006-04-03;"A Practical Soft Type System for Scheme.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/239912.239917";0
+journals/toplas/ArvindNP89;article;2006-04-03;"I-Structures: Data Structures for Parallel Computing.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69558.69562";0
+journals/toplas/Weyuker83;article;2006-04-03;"Assessing Test Data Adequacy through Program Inference.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69575.357231";0
+journals/toplas/BroyK80;article;2006-04-03;"Derivation of Invariant Assertions During Program Development by Transformation.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357108";0
+journals/toplas/Palsberg11;article;2017-01-06;"Editorial.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1889997.1889998";0
+journals/toplas/Wand82;article;2006-04-03;"Deriving Target Code as a Representation of Continuation Semantics.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357172.357179";0
+journals/toplas/Backhouse84;article;2006-04-03;"Global Data Flow Analysis Problems Arising in Locally Least-Cost Error Recovery.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2993.357243";0
+journals/toplas/LeviS03;article;2003-11-26;"Mobile safe ambients.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/596980.596981";1
+journals/toplas/WallST85;article;2007-05-28;"A Note on Hennessy's "Symbolic Debugging of Optimized Code".";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.215005";0
+journals/toplas/Sheard91;article;2006-04-03;"Automatic Generation and Use of Abstract Structure Operators.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/115372.115369";0
+journals/toplas/Feather82;article;2006-04-03;"A System for Assisting Program Transformation.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357153.357154";0
+journals/toplas/WhitfieldS97;article;2006-04-03;"An Approach for Exploring Code-Improving Transformations.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/267959.267960";0
+journals/toplas/FosterJKA06;article;2007-03-06;"Flow-insensitive type qualifiers.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1186635";0
+journals/toplas/FuchsK85;article;2006-04-03;"Optimal Prepaging and Font Caching.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.2367";0
+journals/toplas/MisraC82a;article;2006-04-03;"A Distributed Graph Algorithm: Knot Detection.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357190";0
+journals/toplas/ArnoldS80;article;2006-04-03;"Uniform Random Generation of Balanced Parenthesis Strings.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357084.357091";0
+journals/toplas/DillonAW88;article;2006-04-03;"Constrained Expressions: Toward Broad Applicability of Analysis Methods for Distributed Software Systems.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/44501.44502";0
+journals/toplas/Nix85;article;2006-04-03;"Editing by Example.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/4472.4476";0
+journals/toplas/MadhavanSRR00;article;2003-11-26;"Extending Graham-Glanville techniques for optimal code generation.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/371880.371881";0
+journals/toplas/OhHLLPKY14;article;2015-05-07;"Global Sparse Analysis Framework.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2590811";0
+journals/toplas/GannonMH81;article;2006-04-03;"Data-Abstraction Implementation, Specification, and Testing.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357139.357140";0
+journals/toplas/Reiss83;article;2006-04-03;"Generation of Compiler Symbol Processing Mechanisms.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69624.69625";0
+journals/toplas/HamlenMS06;article;2006-04-06;"Computability classes for enforcement mechanisms.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1111596.1111601";0
+journals/toplas/Anson87;article;2006-04-03;"A Generalized Iterative Construct and Its Semantics.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/29873.30391";0
+journals/toplas/Paulson01;article;2017-06-09;"Mechanizing a theory of program composition for UNITY.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/504709.504711";0
+journals/toplas/GarlanKL94;article;2006-04-03;"TransformGen: Automating the Maintenance of Structure-Oriented Environments.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177697";0
+journals/toplas/Loeckx87;article;2006-04-03;"Algorithmic Specifications: A Constructive Specification Method for Abstract Data Types.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/29873.30399";0
+journals/toplas/BlumeA99;article;2003-11-26;"Hierarchical modularity.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/325478.325518";0
+journals/toplas/AppelM01;article;2003-11-26;"An indexed model of recursive types for foundational proof-carrying code.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/504709.504712";0
+journals/toplas/Robertson79;article;2006-04-03;"Code Generation and Storage Allocation for Machines with Span-Dependent Instructions.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357067";0
+journals/toplas/BenderskyP12;article;2017-01-06;"Space overhead bounds for dynamic memory management with partial compaction.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2362389.2362392";0
+journals/toplas/BossiCD90;article;2006-04-03;"A Method for Specializing Logic Programs.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78942.78947";0
+journals/toplas/Fidge93;article;2006-04-03;"A Formal Definition of Priority in CSP.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/155183.155221";0
+journals/toplas/Lamport90;article;2003-11-26;None;"";"1990";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/Zanden96;article;2012-11-22;"An Incremental Algorithm for Satisfying Hierarchies of Multiway Dataflow Constraints.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/225540.225543";0
+journals/toplas/BhargavanFGT08;article;2017-01-06;"Verified interoperable implementations of security protocols.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1452044.1452049";1
+journals/toplas/Vansummeren06;article;2006-08-22;"Type inference for unique pattern matching.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1133651.1133652";0
+journals/toplas/Assmann00;article;2003-11-26;"Graph rewrite systems for program optimization.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/363911.363914";0
+journals/toplas/MenonPM03;article;2006-02-09;"Fractal symbolic analysis.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/945885.945888";0
+journals/toplas/Hansen92;article;2006-04-03;"Subsequence References: First-Class Values for Substrings.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/133233.133234";0
+journals/toplas/BatesL94;article;2006-04-03;"Recognizing Substrings of LR(k) Languages in Linear Time.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177768";0
+journals/toplas/Reps00;article;2003-11-26;"Undecidability of context-sensitive data-independence analysis.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/345099.345137";0
+journals/toplas/Gomard92;article;2006-04-03;"A Self-Applicable Partial Evaluator for the Lambda Calculus: Correctness and Pragmatics.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/128861.128864";0
+journals/toplas/ForejtJKNS17;article;2017-10-05;"Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3095075";0
+journals/toplas/Sangiorgi09;article;2017-01-06;"On the origins of bisimulation and coinduction.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1516507.1516510";0
+journals/toplas/SchulteS05;article;2006-02-09;"When do bounds and domain propagation lead to the same search space?";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1065887.1065889";0
+journals/toplas/Lamport79;article;2006-04-03;"A New Approach to Proving the Correctness of Multiprocess Programs.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357068";0
+journals/toplas/Knapp90;article;2006-04-03;"An Exercise in the Formal Derivation of Parallel Programs: Maximum Flows in Graphs.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78942.78945";0
+journals/toplas/Boyland96;article;2006-04-03;"Conditional Attribute Grammars.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/225540.225544";0
+journals/toplas/JakobsW17;article;2017-06-29;"Programs from Proofs: A Framework for the Safe Execution of Untrusted Software.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3014427";0
+journals/toplas/BergerettiC85;article;2006-04-03;"Information-Flow and Data-Flow Analysis of while-Programs.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.2366";0
+journals/toplas/Torp-SmithBR08;article;2017-01-06;"Local reasoning about a copying garbage collector.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1377492.1377499";0
+journals/toplas/GrahamHR80;article;2017-06-09;"An Improved Context-Free Recognizer.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357112";0
+journals/toplas/Harel80;article;2006-04-03;"And/Or Programs: A New Approach to Structured Programming.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357084.357085";0
+journals/toplas/WidomGS92;article;2006-04-03;"Trace-Based Network Proof Systems: Expressiveness and Completeness.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/129393.129396";0
+journals/toplas/Leuschel04;article;2006-02-09;"A framework for the integration of partial evaluation and abstract interpretation of logic programs.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/982158.982159";0
+journals/toplas/Hobson84;article;2006-04-03;"A Directly Executable Encoding for APL.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/579.580";0
+journals/toplas/Ait-KaciBLN89;article;2006-04-03;"Efficient Implementation of Lattice Operations.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/59287.59293";0
+journals/toplas/YeminiB87;article;2006-04-03;"An Axiomatic Treatment of Exception Handling in an Expression-Oriented Language.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/24039.24052";0
+journals/toplas/PapadimitriouB80;article;2006-04-03;"On the Performance of Balanced Hashing Functions When the Keys Are Not Equiprobable.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357084.357089";0
+journals/toplas/ClarkeGJ97;article;2006-04-03;"Verifying Parameterized Networks.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/265943.265960";0
+journals/toplas/Collberg02;article;2003-11-26;"Automatic derivation of compiler machine descriptions.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/567097.567100";0
+journals/toplas/BeyerB79;article;2006-04-03;"A Space Efficient Dynamic Allocation Algorithm for Queuing Messages.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357082";0
+journals/toplas/AmadioC93;article;2006-04-03;"Subtyping Recursive Types.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/155183.155231";0
+journals/toplas/BallMR05;article;2006-02-09;"Polymorphic predicate abstraction.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1057387.1057391";0
+journals/toplas/Castagna95;article;2006-04-03;"Covariance and Contravariance: Conflict without a Cause.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/203095.203096";0
+journals/toplas/SansomJ97;article;2006-04-03;"Formally Based Profiling for Higher-Order Functional Languages.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/244795.244802";0
+journals/toplas/AlpernS89;article;2006-04-03;"Verifying Temporal Properties without Temporal Logic.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/59287.62028";0
+journals/toplas/Oppen80;article;2006-04-03;"Prettyprinting.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357114.357115";0
+journals/toplas/PanE08;article;2017-01-06;"PEAK - a fast and effective performance tuning system via compiler optimization orchestration.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1353445.1353451";0
+journals/toplas/Muller92;article;2006-04-03;"M-Lisp: A Representation-Independent Dialect of Lisp with Reduction Semantics.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/133233.133254";0
+journals/toplas/AbadiL95;article;2006-04-03;"Conjoining Specifications.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/203095.201069";0
+journals/toplas/GriswoldH80;article;2006-04-03;"An Alternative to the Use of Patterns in String Processing.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357094.357096";0
+journals/toplas/FarmerRW90;article;2006-04-03;"A Correctness Proof for Combinator Reduction with Cycles.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/77606.77612";0
+journals/toplas/PayetM06;article;2006-08-22;"Nontermination inference of logic programs.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1119479.1119481";0
+journals/toplas/RinardL98;article;2003-11-26;"The Design, Implementation, and Evaluation of Jade.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291889.291893";0
+journals/toplas/CarlssonSW06;article;2017-07-18;"Message analysis for concurrent programs using message passing.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1146813";0
+journals/toplas/LuckhamP80;article;2006-04-03;"Ada Exception Handling: An Axiomatic Approach.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357094.357100";0
+journals/toplas/Hanson81;article;2006-04-03;"Algorithm 568: PDS - A Portable Directory System.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357133.357137";0
+journals/toplas/KfouryTU93;article;2017-06-09;"Type Reconstruction in the Presence of Polymorphic Recursion.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169701.169687";0
+journals/toplas/PottierSS05;article;2006-02-09;"A systematic approach to static access control.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1057387.1057392";1
+journals/toplas/Huang90;article;2006-04-03;"A Distributed Deadlock Detection Algorithm for CSP-Like Communication.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/77606.77611";0
+journals/toplas/HirschowitzL05;article;2006-04-06;"Mixin modules in a call-by-value setting.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1086642.1086644";0
+journals/toplas/BroyWP87;article;2006-04-03;"On the Algebraic Definition of Programming Languages.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/9758.10501";0
+journals/toplas/Odersky93;article;2006-04-03;"Defining Context-Dependent Syntax Without Using Contexts.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169683.174159";0
+journals/toplas/JuelichF81;article;2006-04-03;"Compilation of Acyclic Smooth Programs for Parallel Execution.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357121.357124";0
+journals/toplas/PolettoS99;article;2003-11-26;"Linear scan register allocation.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330249.330250";0
+journals/toplas/Clarke80;article;2006-04-03;"Synthesis of Resource Invariants for Concurrent Programs.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357109";0
+journals/toplas/BoddenLH12;article;2017-01-06;"Partially Evaluating Finite-State Runtime Monitors Ahead of Time.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2220365.2220366";0
+journals/toplas/SchulteS09;article;2009-02-18;"Erratum to "Efficient constraint propagation engines".";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1462166.1462170";0
+journals/toplas/AttieE01;article;2017-06-14;"Synthesis of concurrent programs for an atomic read/write model of computation.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/383043.383044";0
+journals/toplas/TerauchiA08a;article;2017-01-06;"A capability calculus for concurrency and determinism.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1387673.1387676";0
+journals/toplas/Sloane95;article;2006-04-03;"An Evaluation of an Automatically Generated Compiler.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/213978.213980";0
+journals/toplas/KellyMMSY98;article;2003-11-26;"Optimizing Compilation of CLP(R).";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/295656.295661";0
+journals/toplas/HennessyR02;article;2017-09-16;"Information flow vs. resource access in the asynchronous pi-calculus.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/570886.570890";0
+journals/toplas/AlurH98;article;2003-11-26;"Finitary Fairness.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/295656.295659";0
+journals/toplas/NowatzkiSCSER14;article;2015-04-20;"A Scheduling Framework for Spatial Architectures Across Multiple Constraint-Solving Theories.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2658993";0
+journals/toplas/ChiricaM86;article;2006-04-03;"Toward Compiler Implementation Correctness Proofs.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5397.30847";0
+journals/toplas/DeRemerP82;article;2006-04-03;"Efficient Computation of LALR(1) Look-Ahead Sets.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357187";0
+journals/toplas/DrossopoulouDDG02;article;2003-11-26;"More dynamic object reclassification: Fickle";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/514952.514955";0
+journals/toplas/RosenkrantzMH06;article;2007-03-28;"On minimizing materializations of array-valued temporaries.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1186637";0
+journals/toplas/Andrews81;article;2006-04-03;"Synchronizing Resources.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357146.357149";0
+journals/toplas/StricklandDTF13;article;2017-01-03;"Contracts for First-Class Classes.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2518189";0
+journals/toplas/MulkersWB94;article;2006-04-03;"Live-Structure Dataflow Analysis for Prolog.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/174662.174664";0
+journals/toplas/CarrK94;article;2006-04-03;"Improving the Ratio of Memory Operations to Floating-Point Operations in Loops.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197366";0
+journals/toplas/HosoyaVP05;article;2006-02-09;"Regular expression types for XML.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1053468.1053470";0
+journals/toplas/Georgeff84;article;2006-04-03;"Transformations and Reduction Strategies for Typed Lambda Expressions.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1803";0
+journals/toplas/Charlesworth02;article;2003-11-26;"The undecidability of associativity and commutativity analysis.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/570886.570889";0
+journals/toplas/GottliebLR83;article;2017-06-09;"Basic Techniques for the Efficient Coordination of Very Large Numbers of Cooperating Sequential Processors.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69624.357206";0
+journals/toplas/SchwankeK88;article;2006-04-03;"Smarter Recompilation.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/48022.214505";0
+journals/toplas/Hennessy82;article;2006-04-03;"Symbolic Debugging of Optimized Code.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357172.357173";0
+journals/toplas/ChandyM84;article;2006-04-03;"The Drinking Philosopher's Problem.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1804";0
+journals/toplas/Sonnenschein87;article;2006-04-03;"Graph Translation Schemes to Generate Compiler Parts.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/29873.29874";0
+journals/toplas/LiuSL17;article;2017-07-31;"From Clarity to Efficiency for Distributed Algorithms.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2994595";0
+journals/toplas/HosoyaFC09;article;2017-01-06;"Parametric polymorphism for XML.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1596527.1596529";0
+journals/toplas/ReedY88;article;2006-04-03;"Specification and Verification of Liveness Properties of Cyclic, Concurrent Processes.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42192.42195";0
+journals/toplas/LeeLKHOY17;article;2017-10-05;"Sound Non-Statistical Clustering of Static Analysis Alarms.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3095021";0
+journals/toplas/GirkarP95;article;2017-03-30;"Extracting Task-Level Parallelism";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/210184.210189";0
+journals/toplas/YangF98;article;2017-09-12;"Space/Time-Efficient Scheduling and Execution of Parallel Irregular Computations.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/295656.295660";0
+journals/toplas/DrechslerS88;article;2017-03-31;"A Solution to a Problem with Morel and Renvoise's "Global Optimization by Suppression of Partial Redundancies".";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/48022.214509";0
+journals/toplas/Brent89;article;2006-04-03;"Efficient Implementation of the First-Fit Strategy for Dynamic Storage Allocation.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/65979.65981";0
+journals/toplas/BugliesiCEM15;article;2017-01-03;"Affine Refinement Types for Secure Distributed Programming.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2743018";0
+journals/toplas/MoriconiH86;article;2006-04-03;"The PegaSys System: Pictures as Formal Documentation of Large Programs.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/6465.6478";0
+journals/toplas/MasticolaMR95;article;2006-04-03;"Lattice Frameworks for Multiscore and Bidirectional Data Flow Problems.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/213978.213989";0
+journals/toplas/ClemmO90;article;2006-04-03;"A Mechanism for Environment Integration.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/77606.77607";0
+journals/toplas/HerlihyL82;article;2006-04-03;"A Value Transmission Method for Abstract Data Types.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357182";0
+journals/toplas/FokkinkKW00;article;2003-11-26;"Lazy rewriting on eager machinery.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/345099.345102";0
+journals/toplas/MyersM89;article;2006-04-03;"Row Replacement Algorithms for Screen Editors.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/59287.59290";0
+journals/toplas/IgarashiK05;article;2013-07-19;"Resource usage analysis.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1057387.1057390";0
+journals/toplas/HallAMLL05;article;2006-02-09;"Interprocedural parallelization analysis in SUIF.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1075382.1075385";0
+journals/toplas/YuR94;article;2006-04-03;"A Linear-Time Scheme for Version Reconstruction.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177705";0
+journals/toplas/MillsteinFRW09;article;2017-01-06;"Expressive and modular predicate dispatch for Java.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1462166.1462168";0
+journals/toplas/PaekHP02;article;2003-11-26;"Efficient and precise array access analysis.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/509705.509708";0
+journals/toplas/PollockS92;article;2006-04-03;"Incremental Global Reoptimization of Programs.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/128861.128865";0
+journals/toplas/MaL80;article;2007-02-09;"Design of a Machine-Independent Optimizing System for Emulator Development.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357094.357102";0
+journals/toplas/CooperKT86;article;2006-04-03;"The Impact of Interprocedural Analysis and Optimization in the Rn Programming Environment.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/6465.6489";0
+journals/toplas/Murtagh91;article;2006-04-03;"An Improved Storage Management Scheme for Block Structured Languages.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/117009.117016";0
+journals/toplas/BrogiMPT94;article;2006-04-03;"Modular Logic Programming.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183528";0
+journals/toplas/TangSY00;article;2017-09-13;"Program transformation and runtime support for threaded MPI execution on shared-memory machines.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/363911.363920";0
+journals/toplas/ParkPT08;article;2017-01-06;"A probabilistic language based on sampling functions.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1452044.1452048";0
+journals/toplas/GuptaPACH01;article;2017-06-09;"Parallel execution of prolog programs: a survey.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/504083.504085";0
+journals/toplas/FournetGM07;article;2017-01-06;"A type discipline for authorization policies.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1275497.1275500";0
+journals/toplas/WagnerLBF16;article;2017-01-03;"Thinking Inside the Box: Compartmentalized Garbage Collection.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2866576";0
+journals/toplas/Sipala82;article;2006-04-03;"Compact Storage of Binary Trees.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357172.357174";0
+journals/toplas/Herlihy91;article;2006-04-03;"Wait-Free Synchronization.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/114005.102808";0
+journals/toplas/Katayama84;article;2006-04-03;"Translation of Attribute Grammars into Procedures.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/579.586";0
+journals/toplas/AustinSF17;article;2017-07-31;"Multiple Facets for Dynamic Information Flow with Exceptions.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3024086";0
+journals/toplas/SpotoJ03;article;2006-02-09;"Class analyses as abstract interpretations of trace semantics.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/937563.937565";0
+journals/toplas/Myers17;article;2017-04-20;"Foreword.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3052720";0
+journals/toplas/PughW98;article;2003-11-26;"Constraint-Based Array Dependence Analysis.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291889.291900";0
+journals/toplas/AggarwalCW90;article;2006-04-03;"Adding Liveness Properties to Coupled Finite-State Machines.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78942.78948";0
+journals/toplas/CaseyEG07;article;2017-01-06;"Optimizing indirect branch prediction accuracy in virtual machine interpreters.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286828";0
+journals/toplas/Turchin86;article;2006-04-03;"The Concept of a Supercompiler.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5956.5957";0
+journals/toplas/HuIT97;article;2006-04-03;"Formal Derivation of Efficient Parallel Programs by Construction of List Homomorphisms.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/256167.256201";0
+journals/toplas/AptBPS98;article;2003-11-26;"Alma-O: An Imperative Language That Supports Declarative Programming.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/293677.293679";0
+journals/toplas/GhoshMM99;article;2003-11-26;"Cache miss equations: a compiler framework for analyzing and tuning memory behavior.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/325478.325479";0
+journals/toplas/HarperM93;article;2017-03-14;"On the Type Structure of Standard ML.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169701.169696";0
+journals/toplas/JeffreyNGG10;article;2015-04-21;"Execution suppression: An automated iterative technique for locating memory errors.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1745312.1745314";0
+journals/toplas/BarbosaG89;article;2017-06-09;"Concurrency in Heavily Loaded Neighborhood-Constrained Systems.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69558.69560";0
+journals/toplas/Peterson83a;article;2006-04-03;"A New Solution to Lamport's Concurrent Programming Problem Using Small Shared Variables.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357195.357199";0
+journals/toplas/AlurY01;article;2003-11-26;"Model checking of hierarchical state machines.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/503502.503503";0
+journals/toplas/BergeronD82;article;2006-04-03;"A Structured APL System.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357185";0
+journals/toplas/Wallis80;article;2006-04-03;"External Representations of Objects of User-Defined Type.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357094.357095";0
+journals/toplas/BuhrH05;article;2006-04-06;"Implicit-signal monitors.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1108970.1108975";0
+journals/toplas/Hansen81;article;2003-11-26;"A Cost Model for the Internal Organization of B+-Tree Nodes.";"";"1981";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/PalsbergO95;article;2017-03-30;"A Type System Equivalent to Flow Analysis";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/210184.210187";0
+journals/toplas/OwickiL82;article;2006-04-03;"Proving Liveness Properties of Concurrent Programs.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357172.357178";0
+journals/toplas/Volpano91;article;2006-04-03;"Subtypes and Quantification.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/115372.214523";0
+journals/toplas/MauneyF88;article;2006-04-03;"Determining the Extent of Lookahead in Syntactic Error Repair.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/44501.44505";0
+journals/toplas/SimonetP07;article;2017-01-06;"A constraint-based approach to guarded algebraic data types.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1180475.1180476";0
+journals/toplas/FengDY12;article;2017-06-09;"Bisimulation for Quantum Processes.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2400676.2400680";0
+journals/toplas/Burton91;article;2017-03-31;"Reply to "Subtypes and Quantification".";"";"1991";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/SuhendraRM10;article;2017-06-14;"Scratchpad allocation for concurrent embedded software.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1734206.1734210";0
+journals/toplas/BertschN99;article;2017-03-31;"On Failure of the Pruning Technique in "Error Repair in Shift-Reduce Parsers".";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/314602.314603";0
+journals/toplas/SistlaG04;article;2004-08-26;"Symmetry and reduced symmetry in model checking.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1011508.1011511";0
+journals/toplas/Boyland10;article;2017-01-06;"Semantics of fractional permissions with nesting.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1749608.1749611";0
+journals/toplas/FraserM87;article;2006-04-03;"An Editor for Revision Control.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/22719.22948";0
+journals/toplas/WangSH15;article;2017-06-14;"An Extension of ATL with Strategy Interaction.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2734117";0
+journals/toplas/Misra86;article;2006-04-03;"Axioms for Memory Access in Asynchronous Hardware Systems.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5001.5007";0
+journals/toplas/Hesselink88;article;2006-04-03;"A Mathematical Approach to Nondeterminism in Data Types.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42192.42194";0
+journals/toplas/Bos88;article;2006-04-03;"Abstract Interaction Tools: A Language for User Interface Management Systems.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42190.42191";0
+journals/toplas/LuehGA00;article;2004-03-04;"Fusion-based register allocation.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/353926.353929";0
+journals/toplas/Tratt08;article;2017-06-09;"Domain specific language implementation via compile-time meta-programming.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1391956.1391958";0
+journals/toplas/Steensgaard-Madsen89;article;2006-04-03;"Type Representation of Objects by Functions.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/59287.77345";0
+journals/toplas/Gelernter85;article;2006-04-03;"Generative Communication in Linda.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.2433";0
+journals/toplas/ChristensenMS03;article;2006-02-09;"Extending Java for high-level Web service construction.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/945885.945890";0
+journals/toplas/Ramalingam02;article;2003-11-26;"On loops, dominators, and dominance frontiers.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/570886.570887";0
+journals/toplas/CrowlL94;article;2006-04-03;"Parallel Programming with Control Abstraction.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177584";0
+journals/toplas/JoishaSBBC12;article;2017-01-06;"On a Technique for Transparently Empowering Classical Compiler Optimizations on Multithreaded Code.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2220365.2220368";0
+journals/toplas/StorkNSMFMA14;article;2017-01-03;"Æminium: A Permission-Based Concurrent-by-Default Programming Language Approach.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2543920";0
+journals/toplas/Schneider82;article;2006-04-03;"Synchronization in Distributed Programs.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357163";0
+journals/toplas/Lin93;article;2006-04-03;"Procedural Implementation of Algebraic Specification.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/161468.161473";0
+journals/toplas/DewarSW82;article;2006-04-03;"Transformational Derivation of a Garbage Collection Algorithm.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357188";0
+journals/toplas/CarsonR87;article;2006-04-03;"The Geometry of Semaphore Programs.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/9758.9759";0
+journals/toplas/Waters91;article;2006-04-03;"Automatic Transformation of Series Expressions into Loops.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/114005.102806";0
+journals/toplas/Sijtsma89;article;2006-04-03;"On the Productivity of Recursive List Definitions.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69558.69563";0
+journals/toplas/Weihl89;article;2006-04-03;"Local Atomicity Properties: Modular Concurrency Control for Abstract Data Types.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/63264.63518";0
+journals/toplas/MillsteinBC04;article;2006-02-09;"Modular typechecking for hierarchically extensible datatypes and functions.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1018203.1018207";0
+journals/toplas/Griswold82;article;2006-04-03;"The Evaluation of Expressions in Icon.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357184";0
+journals/toplas/HeeringKR92;article;2006-04-03;"Incremental Generation of Lexical Scanners.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/133233.133240";0
+journals/toplas/Boom82;article;2006-04-03;"A Weaker Precondition for Loops.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357189";0
+journals/toplas/ClickC95;article;2006-04-03;"Combining Analyses, Combining Optimizations.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/201059.201061";0
+journals/toplas/TickK94;article;2006-04-03;"Determinacy Testing for Nondeterminate Logic Programming Languages.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/174625.174626";0
+journals/toplas/Qian00;article;2003-11-26;"Standard fixpoint iteration for Java bytecode verification.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/363911.363915";0
+journals/toplas/ConstableD79;article;2006-04-03;"A Hierarchial Approach to Formal Semantics With Application to the Definition of PL/CS.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357062.357069";0
+journals/toplas/Francez80;article;2006-04-03;"Distributed Termination.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357084.357087";0
+journals/toplas/HiguchiO07;article;2017-01-06;"A static type system for JVM access control.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1180475.1180479";1
+journals/toplas/DeganoMM88;article;2006-04-03;"Efficient Incremental LR Parsing for Syntax-Directed Editors.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/44501.214503";0
+journals/toplas/ZhuangP07;article;2017-01-06;"Allocating architected registers through differential encoding.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1216374.1216377";0
+journals/toplas/Colussi84;article;2006-04-03;"Recursion As an Effective Step in Program Development.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357233.357236";0
+journals/toplas/Perrott79;article;2006-04-03;"A Language for Array and Vector Processors.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357075";0
+journals/toplas/Lamport88;article;2006-04-03;"Control Predicates are Better than Dummy Variables for Reasoning about Program Control.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42190.42348";0
+journals/toplas/RoychoudhuryKRR04;article;2017-06-14;"An unfold/fold transformation framework for definite logic programs.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/982158.982160";0
+journals/toplas/HorwitzRB90;article;2006-04-03;"Interprocedural Slicing Using Dependence Graphs.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/77606.77608";0
+journals/toplas/Boute88;article;2006-04-03;"System Semantics: Principles, Applications, and Implementation.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42192.45067";0
+journals/toplas/Mallgren82;article;2006-04-03;"Formal Specification of Graphic Data Types.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69622.357191";0
+journals/toplas/Sharir82;article;2006-04-03;"Some Observations Concerning Formal Differentiation of Set Theoretic Expressions.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357166";0
+journals/toplas/Parnas90;article;2006-04-03;"On Iterative Constructs.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/77606.214517";0
+journals/toplas/Ben-Ari84;article;2006-04-03;"Algorithms for On-the-fly Garbage Collection.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/579.587";0
+journals/toplas/RuginaR03;article;2003-11-26;"Pointer analysis for structured parallel programs.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/596980.596982";0
+journals/toplas/BrechtALP06;article;2007-03-06;"Controlling garbage collection and heap growth to reduce the execution time of Java applications.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1152652";0
+journals/toplas/HallHJW96;article;2006-04-03;"Type Classes in Haskell.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/227699.227700";0
+journals/toplas/BruceSGF03;article;2003-11-26;"PolyTOIL: A type-safe polymorphic object-oriented language.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/641888.641891";1
+journals/toplas/UngarJ92;article;2006-04-03;"An Adaptive Tenuring Policy for Generation Scavengers.";"";"1992";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/111186.116734";0
+journals/toplas/ClarkeES86;article;2006-04-03;"Automatic Verification of Finite-State Concurrent Systems Using Temporal Logic Specifications.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5397.5399";0
+journals/toplas/HainesKMNW94;article;2006-04-03;"Composing First-Class Transactions.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197346";0
+journals/toplas/DebrayW89;article;2006-04-03;"Functional Computations in Logic Programs.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/65979.65984";0
+journals/toplas/Darlington90;article;2006-04-03;"Search Direction by Goal Failure in Goal-Directed Programming.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78942.78946";0
+journals/toplas/Zave85;article;2006-04-03;"A Distributed Alternative to Finite-State-Machine Specifications.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.2365";0
+journals/toplas/DiwanMM01;article;2003-11-26;"Using types to analyze and optimize object-oriented programs.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/383721.383732";0
+journals/toplas/MollerOS07;article;2017-01-06;"Static validation of XSL transformations.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1255450.1255454";0
+journals/toplas/AhoGT89;article;2006-04-03;"Code Generation Using Tree Matching and Dynamic Programming.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69558.75700";0
+journals/toplas/Wu04;article;2006-02-09;"On exponential-time completeness of the circularity problem for attribute grammars.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/963778.963783";0
+journals/toplas/BahlkeS86;article;2006-04-03;"The PSG System: From Formal Language Definitions to Interactive Programming Environments.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/6465.20890";0
+journals/toplas/CodishMBBH95;article;2017-06-09;"Improving Abstract Interpretations by Combining Domains.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.200998";0
+journals/toplas/KobayashiS10;article;2015-04-21;"A hybrid type system for lock-freedom of mobile processes.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1745312.1745313";0
+journals/toplas/Sager86;article;2006-04-03;"A Short Proof of a Conjecture of DeRemer and Pennello.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5397.30850";0
+journals/toplas/HenzingerQRT02;article;2003-11-26;"An assume-guarantee rule for checking simulation.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/509705.509707";0
+journals/toplas/GawlitzaS11;article;2017-01-03;"Solving systems of rational equations through strategy iteration.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1961204.1961207";0
+journals/toplas/MerroH06;article;2006-08-22;"A bisimulation-based semantic theory of Safe Ambients.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1119479.1119482";0
+journals/toplas/WiledenCW90;article;2006-04-03;"A Comparative Evaluation of Object Definition Techniques.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/88616.88639";0
+journals/toplas/Wetherell82;article;2006-04-03;"Error Data Values in the Data-Flow Language VAL.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357167";0
+journals/toplas/Sokolowski87;article;2006-04-03;"Soundness of Hoare's Logic: An Automated Proof Using LCF.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/9758.11326";0
+journals/toplas/LeiventW93;article;2006-04-03;"Mathematical Foundations of Time Warp Systems.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/161468.161470";0
+journals/toplas/QuongL91;article;2006-04-03;"Linking Programs Incrementally.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/114005.102804";0
+journals/toplas/DolbyHMTVV12;article;2017-09-16;"A data-centric approach to synchronization.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2160910.2160913";0
+journals/toplas/MarkstrumMEMAN10;article;2017-01-06;"JavaCOP: Declarative pluggable types for java.";"";"2010";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1667048.1667049";0
+journals/toplas/LhotakH08;article;2017-01-06;"Relations as an abstraction for BDD-based program analysis.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1377492.1377494";0
+journals/toplas/RosenkrantzH87;article;2006-09-28;"Efficient Algorithms for Automatic Construction and Compactification of Parsing Grammars.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/29873.29876";0
+journals/toplas/GlesnerZ04;article;2006-02-09;"Natural semantics as a static program analysis framework.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/982158.982161";0
+journals/toplas/TipFKEBS11;article;2017-01-03;"Refactoring using type constraints.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1961204.1961205";0
+journals/toplas/CohenP17;article;2017-04-20;"Limitations of Partial Compaction: Towards Practical Bounds.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2994597";0
+journals/toplas/Kamin83;article;2006-04-03;"Final Data Types and Their Specification.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357195.357202";0
+journals/toplas/GilZ07;article;2017-01-06;"Efficient dynamic dispatching with type slicing.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1290520.1290525";0
+journals/toplas/DebrayEMS00;article;2003-11-26;"Compiler techniques for code compaction.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/349214.349233";0
+journals/toplas/GieslRSST11;article;2017-01-06;"Automated termination proofs for haskell by term rewriting.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1890028.1890030";0
+journals/toplas/AbadiL93;article;2006-04-03;"Composing Specifications.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/151646.151649";0
+journals/toplas/JoshiNZ06;article;2007-03-06;"Denali: A practical algorithm for generating optimal code.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1186633";0
+journals/toplas/GilZ05;article;2006-04-06;"Efficient subtyping tests with PQ-encoding.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1086642.1086643";0
+journals/toplas/Lamport94;article;2006-04-03;"The Temporal Logic of Actions.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177726";0
+journals/toplas/DrinicKV07;article;2017-01-06;"PPMexe: Program compression.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1180475.1180478";0
+journals/toplas/SteenkisteH89;article;2006-04-03;"A Simple Interprocedural Register Allocation Algorithm and Its Effectiveness for Lisp.";"";"1989";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/59287.59289";0
+journals/toplas/MooreP02;article;2003-11-26;"The apprentice challenge.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/514188.514189";0
+journals/toplas/LamportS84;article;2017-03-31;"The "Hoare Logic" of CSP, and All That.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2993.357247";0
+journals/toplas/GudjonssonW99;article;2003-11-26;"Compile-time memory reuse in logic programming languages through update in place.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/319301.319309";0
+journals/toplas/HerlihyW90;article;2006-04-03;"Linearizability: A Correctness Condition for Concurrent Objects.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78969.78972";0
+journals/toplas/CohenN83;article;2006-04-03;"Comparison of Compacting Algorithms for Garbage Collection.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/69575.357226";0
+journals/toplas/MurphyS88;article;2003-11-26;"A Note on the Drinking Philosophers Problem.";"";"1988";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/DavidsonF80;article;2006-04-03;"The Design and Application of a Retargetable Peephole Optimizer.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357094.357098";0
+journals/toplas/KennawayS88;article;2006-04-03;"Director Strings as Combinators.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/48022.48026";0
+journals/toplas/MisraC82;article;2006-04-03;"Termination Detection of Diffusing Computations in Communicating Sequential Processes.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357153.357156";0
+journals/toplas/ParkCC85;article;2006-06-12;"A New Analysis of LALR Formalisms.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2363.2527";0
+journals/toplas/GlenstrupJ05;article;2006-04-06;"Termination analysis and specialization-point insertion in offline partial evaluation.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1108970.1108973";0
+journals/toplas/Burton84;article;2006-04-03;"Annotations to Control Parallelism, Reduction Order in the Distributed Evaluation of Functional Programs.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2993.357241";0
+journals/toplas/BengtsonBFGM11;article;2017-01-06;"Refinement types for secure implementations.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1890028.1890031";1
+journals/toplas/BallL94;article;2006-04-03;"Optimally Profiling and Tracing Programs.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183527";0
+journals/toplas/RepsTP17;article;2017-06-29;"Newtonian Program Analysis via Tensor Product.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3024084";0
+journals/toplas/SperberT00;article;2003-11-26;"Generation of LR parsers by partial evaluation.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/349214.349219";0
+journals/toplas/Muller-OlmS07;article;2017-01-06;"Analysis of modular arithmetic.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1275497.1275504";0
+journals/toplas/BiernackiDM15;article;2017-01-03;"A Dynamic Continuation-Passing Style for Dynamic Delimited Continuations.";"";"2015";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2794078";0
+journals/toplas/Jay04;article;2006-02-09;"The pattern calculus.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1034774.1034775";0
+journals/toplas/MartelliM82;article;2006-04-03;"An Efficient Unification Algorithm.";"";"1982";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357162.357169";0
+journals/toplas/FraserL81;article;2006-04-03;"Editing Data Structures.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357133.357134";0
+journals/toplas/BartolettiDFZ09;article;2017-06-14;"Local policies for resource usage analysis.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1552309.1552313";0
+journals/toplas/Ohori07;article;2017-01-06;"A proof theory for machine code.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286827";0
+journals/toplas/FisherP02;article;2003-11-26;"Guest editorial.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/514952.514953";0
+journals/toplas/AlglaveKNP17;article;2017-06-29;"Don't Sit on the Fence: A Static Analysis Approach to Automatic Fence Insertion.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2994593";0
+journals/toplas/ErnstO80;article;2006-04-03;"Specification of Abstract Data Types in Modula.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357114.357117";0
+journals/toplas/Duggan99;article;2003-11-26;"Dynamic Typing for Distributed Programming in Polymorphic Languages.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/314602.314604";0
+journals/toplas/AfekDGMS94;article;2017-06-09;"A Bounded First-In, First-Enabled Solution to the l-Exclusion Problem.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177731";0
+journals/toplas/Horwitz97;article;2006-04-03;"Precise Flow-Insensitive May-Alias Analysis is NP-Hard.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/239912.239913";0
+journals/toplas/FrancezY85;article;2006-04-03;"Symmetric Intertask Communication.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/4472.4475";0
+journals/toplas/HarmanBGGK09;article;2017-06-09;"Dependence clusters in source code.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1596527.1596528";0
+journals/toplas/Tichy88;article;2017-03-31;"Tichy's Response to R. W. Schwanke and G. E. Kaiser's "Smarter Recompilation".";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/48022.214507";0
+journals/toplas/Hannan94;article;2006-04-03;"Operational Semantics-Directed Compilers and Machine Architectures.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183458";0
+journals/toplas/Jefferson85;article;2006-04-03;"Virtual Time.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3916.3988";0
+journals/toplas/UngerM02;article;2003-11-26;"Handling irreducible loops: optimized node splitting versus DJ-graphs.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/567097.567098";0
+journals/toplas/SchonbergSS81;article;2006-04-03;"An Automatic Technique for Selection of Data Structures in SETL Programs.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357133.357135";0
+journals/toplas/LevanoniP06;article;2006-04-06;"An on-the-fly reference-counting garbage collector for java.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1111596.1111597";0
+journals/toplas/RivalM07;article;2017-01-06;"The trace partitioning abstract domain.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1275497.1275501";0
+journals/toplas/Cohen83;article;2006-04-03;"Eliminating Redundant Recursive Calls.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.2167";0
+journals/toplas/Huang93;article;2006-04-03;"Leader Election in Uniform Rings.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169683.174161";0
+journals/toplas/AbadiP07;article;2017-01-06;"Editorial.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1232420.1232421";0
+journals/toplas/TseZ07;article;2017-01-06;"Run-time principals in information-flow type systems.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1290520.1290526";0
+journals/toplas/Jeffery03;article;2006-02-09;"Generating LR syntax error messages from examples.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/937563.937566";0
+journals/toplas/PalsbergZJ05;article;2006-02-09;"Automatic discovery of covariant read-only fields.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1053468.1053472";0
+journals/toplas/MaratheMMMSY07;article;2017-01-06;"METRIC: Memory tracing via dynamic binary rewriting to identify cache inefficiencies.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1216374.1216380";0
+journals/toplas/QuillereR00;article;2003-11-26;"Optimizing memory usage in the polyhedral model.";"";"2000";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/365151.365152";0
+journals/toplas/KawahitoKN06;article;2006-04-06;"Effective sign extension elimination for java.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1111596.1111599";0
+journals/toplas/MacDonaldTSS09;article;2017-01-06;"Deferring design pattern decisions and automating structural pattern changes using a design-pattern-based programming system.";"";"2009";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1498926.1498927";0
+journals/toplas/ConselK93;article;2006-04-03;"Parameterized Partial Evaluation.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169683.174155";0
+journals/toplas/OderskyP04;article;2006-02-09;"Guest editorial.";"";"2004";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1018203.1018204";0
+journals/toplas/CortesiFGPR97;article;2006-04-03;"Complementation in Abstract Interpretation.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/239912.239914";0
+journals/toplas/FosterGMPS07;article;2017-01-06;"Combinators for bidirectional tree transformations: A linguistic approach to the view-update problem.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1232420.1232424";0
+journals/toplas/LaLondeR81;article;2006-04-03;"Handling Operator Precedence in Arithmetic Expressions with Tree Transformations.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357121.357127";0
+journals/toplas/AndrewsOCENPT88;article;2006-07-19;"An Overview of the SR Language and Implementation.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/42192.42324";0
+journals/toplas/HeeringK85;article;2006-04-03;"Towards Monolingual Programming Environments.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3318.3321";0
+journals/toplas/BackH05;article;2006-02-09;"The KaffeOS Java runtime system.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1075382.1075383";0
+journals/toplas/Purtilo94;article;2006-04-03;"The POLYLITH Software Bus.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/174625.174629";0
+journals/toplas/DenckerDH84;article;2006-04-03;"Optimization of Parser Tables for Portable Compilers.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1780.1802";0
+journals/toplas/McKinleyCT96;article;2006-04-03;"Improving Data Locality with Loop Transformations.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/233561.233564";0
+journals/toplas/HaynesF87;article;2006-04-03;"Embedding Continuations in Procedural Objects.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/29873.30392";0
+journals/toplas/RinetzkyRSY08;article;2017-01-06;"On the complexity of partially-flow-sensitive alias analysis.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1353445.1353447";0
+journals/toplas/NandivadaSZS13;article;2017-01-06;"A Transformation Framework for Optimizing Task-Parallel Programs.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2450136.2450138";0
+journals/toplas/Wolfe94;article;2006-04-03;"The Definition of Dependence Distance.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/183432.183440";0
+journals/toplas/PrywesPS79;article;2006-04-03;"Use of a Nonprocedural Specification Language and Associated Program Generator in Software Development.";"";"1979";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357073.357076";0
+journals/toplas/Dillon90;article;2006-04-03;"Using Symbolic Execution for Verification of Ada Tasking Programs.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/88616.96551";0
+journals/toplas/AikenWW95;article;2006-04-03;"Safe: A Semantic Technique for Transforming Programs in the Presence of Errors.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/200994.201002";0
+journals/toplas/KistlerF03;article;2006-02-09;"Continuous program optimization: A case study.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/778559.778562";0
+journals/toplas/SahaTS03;article;2003-11-26;"Intensional analysis of quantified types.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/641888.641889";0
+journals/toplas/KandemirBCRS99;article;2008-11-25;"A global communication optimization technique based on data-flow analysis and linear algebra.";"";"1999";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/330643.330647";0
+journals/toplas/PottierS03;article;2003-11-26;"Information flow inference for ML.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/596980.596983";0
+journals/toplas/BrockschmidtE0F16;article;2017-01-03;"Analyzing Runtime and Size Complexity of Integer Programs.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://dl.acm.org/citation.cfm?id=2866575";0
+journals/toplas/Zhou96;article;2006-04-03;"Parameter Passing and Control Stack Management in Prolog Implementation Revisited.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/236114.236120";0
+journals/toplas/XieA07;article;2017-01-06;"Saturn: A scalable framework for error detection using Boolean satisfiability.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1232420.1232423";0
+journals/toplas/MuellerV87;article;2006-04-03;"Retargetable Microcode Synthesis.";"";"1987";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/22719.23717";0
+journals/toplas/LeinoN02;article;2003-11-26;"Data abstraction and information hiding.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/570886.570888";0
+journals/toplas/ReiterB94;article;2006-04-03;"How to Securely Replicate Services.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/177492.177745";0
+journals/toplas/DhamdhereP93;article;2006-04-03;"An Elimination Algorithm for Bidirectional Data Flow Problems Using Edge Placement.";"";"1993";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/169701.169684";0
+journals/toplas/AshleyD98;article;2003-11-26;"A Practical and Flexible Flow Analysis for Higher-Order Languages.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/291891.291898";0
+journals/toplas/FrickerTJ95;article;2017-03-30;"Influence of Cross-Interferences on Blocked Loops: A Case Study with Matric-Vector Multiply";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/210184.210185";0
+journals/toplas/GantyM12;article;2017-01-06;"Algorithmic verification of asynchronous programs.";"";"2012";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2160910.2160915";0
+journals/toplas/Comer80;article;2006-04-03;"A Note on Median Split Trees.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357084.357092";0
+journals/toplas/Havlak97;article;2006-04-03;"Nesting of Reducible and Irreducible Loops.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/262004.262005";0
+journals/toplas/BruinB85;article;2006-04-03;"The Denotational Semantics of Dynamic Networks of Processes.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/4472.4473";0
+journals/toplas/GordonEGP17;article;2017-09-16;"Verifying Invariants of Lock-Free Data Structures with Rely-Guarantee and Refinement Types.";"";"2017";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3064850";0
+journals/toplas/AvruninW85;article;2006-04-03;"Describing and Analyzing Distributed Software System Designs.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3916.3989";0
+journals/toplas/BergstraDFH97;article;2006-04-03;"Toward a Complete Transformational Toolkit for Compilers.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/265943.265944";0
+journals/toplas/Samet80;article;2006-04-03;"A Coroutine Approach to Parsing.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357103.357106";0
+journals/toplas/Jones90;article;2006-04-03;"Efficient Evaluation of Circular Attribute Grammars.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/78969.78971";0
+journals/toplas/Kobayashi98;article;2013-07-19;"A Partially Deadlock-Free Typed Process Calculus.";"";"1998";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/276393.278524";0
+journals/toplas/AgerDR06;article;2007-03-06;"Fast partial evaluation of pattern matching in strings.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1146812";0
+journals/toplas/CytronFRWZ91;article;2012-10-19;"Efficiently Computing Static Single Assignment Form and the Control Dependence Graph.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/115372.115320";0
+journals/toplas/Apt86;article;2006-04-03;"Correctness Proofs of Distributed Termination Algorithms.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5956.6000";0
+journals/toplas/Ying11;article;2017-06-09;"Floyd-hoare logic for quantum programs.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2049706.2049708";0
+journals/toplas/AttaliCE96;article;2006-04-03;"A Natural Semantics for Eiffel Dynamic Binding.";"";"1996";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/236114.236118";0
+journals/toplas/KarkareK07;article;2017-01-06;"An improved bound for call strings based interprocedural analysis of bit vector frameworks.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1286821.1286829";0
+journals/toplas/JanssenC97;article;2006-04-03;"Making Graphs Reducible with Controlled Node Splitting.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/267959.269971";0
+journals/toplas/JimenezLF02;article;2003-11-27;"Register tiling in nonrectangular iteration spaces.";"";"2002";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/567097.567101";0
+journals/toplas/Cohen91;article;2006-04-03;"Type-Extension Type Tests Can Be Performed In Constant Time.";"";"1991";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/115372.115297";0
+journals/toplas/DoddsJPSB16;article;2017-01-03;"Verifying Custom Synchronization Constructs Using Higher-Order Separation Logic.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2818638";0
+journals/toplas/Staiger-Stohr13;article;2017-01-06;"Practical Integrated Analysis of Pointers, Dataflow and Control Flow.";"";"2013";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2450136.2450140";0
+journals/toplas/Hennessy86;article;2006-04-03;"Proving Systolic Systems Correct.";"";"1986";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/5956.5999";0
+journals/toplas/Ohori95;article;2006-04-03;"A Polymorphic Record Calculus and Its Compilation.";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/218570.218572";0
+journals/toplas/BrandisM94;article;2017-06-09;"Single-Pass Generation of Static Single-Assignment Form for Structured Languages.";"";"1994";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/197320.197331";0
+journals/toplas/Nielson85;article;2006-04-03;"Program Transformations in a Denotational Setting.";"";"1985";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/3916.3917";0
+journals/toplas/Jensen97;article;2006-04-03;"Disjunctive Program Analysis for Algebraic Data Types.";"";"1997";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/265943.265966";0
+journals/toplas/BhaskaracharyaB16;article;2017-01-03;"Automatic Storage Optimization for Arrays.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2845078";0
+journals/toplas/Peterson82;article;2003-11-26;"An O(n log n) Unidirectional Algorithm for the Circular Extrema Problem.";"";"1982";"ACM Trans. Program. Lang. Syst.";"";0
+journals/toplas/Cattell80;article;2006-04-03;"Automatic Derivation of Code Generators from Machine Descriptions.";"";"1980";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357094.357097";0
+journals/toplas/CliftonMLC06;article;2006-08-22;"MultiJava: Design rationale, compiler implementation, and applications.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1133651.1133655";0
+journals/toplas/Grossman06;article;2006-08-22;"Quantified types in an imperative language.";"";"2006";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1133651.1133653";0
+journals/toplas/ShaoTSP05;article;2006-02-09;"A type system for certified binaries.";"";"2005";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1053468.1053469";0
+journals/toplas/StamosG90;article;2006-04-03;"Remote Evaluation.";"";"1990";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/88616.88631";0
+journals/toplas/PorterBRMW14;article;2015-04-20;"Practical Fine-Grained Information Flow Control Using Laminar.";"";"2014";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2638548";0
+journals/toplas/KimC01;article;2003-11-26;"Error repair with validation in LR-based parsing.";"";"2001";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/504083.504084";0
+journals/toplas/MitchellP88;article;2006-04-03;"Abstract Types Have Existential Type.";"";"1988";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/44501.45065";0
+journals/toplas/BernardeschiFLMM08;article;2017-06-14;"Decomposing bytecode verification by abstract interpretation.";"";"2008";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1452044.1452047";0
+journals/toplas/HennessyG83;article;2006-04-03;"Postpass Code Optimization of Pipeline Constraints.";"";"1983";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2166.357217";0
+journals/toplas/McKenzieYV95;article;2017-03-30;"Error Repair in Shift-Reduce Parsers";"";"1995";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/210184.210193";0
+journals/toplas/DietlDM11;article;2017-01-06;"Separating ownership topology and encapsulation with generic universe types.";"";"2011";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2049706.2049709";0
+journals/toplas/DissegnaLR16;article;2017-01-03;"An Abstract Interpretation-Based Model of Tracing Just-in-Time Compilation.";"";"2016";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2853131";0
+journals/toplas/BosPS81;article;2006-04-03;"Process Communication Based on Input Specifications.";"";"1981";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/357139.357141";0
+journals/toplas/RinardD03;article;2003-11-26;"Eliminating synchronization bottlenecks using adaptive replication.";"";"2003";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/641909.641911";0
+journals/toplas/BruynoogheCGGV07;article;2017-01-06;"Termination analysis of logic programs through combination of type-based norms.";"";"2007";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/1216374.1216378";0
+journals/toplas/HullM84;article;2006-04-03;"Communicating Sequential Processes for Centralized and Distributed Operating System Design.";"";"1984";"ACM Trans. Program. Lang. Syst.";"http://doi.acm.org/10.1145/2993.2381";0

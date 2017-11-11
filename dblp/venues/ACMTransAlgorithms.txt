@@ -1,0 +1,568 @@
+dblpkey;tag;mdate;title;booktitle;year;journal;ee;contains
+journals/talg/ColletteDILM12;article;2017-01-06;"Entropy, triangulation, and point location in planar subdivisions.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229173";0
+journals/talg/PritchardT11;article;2017-01-06;"Fast computation of small cuts via cycle space sampling.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000814";0
+journals/talg/HansenKTZ17;article;2017-08-28;"Hollow Heaps.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3093240";0
+journals/talg/Janson05;article;2016-03-09;"Individual displacements for linear probing hashing with different insertion policies.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1103963.1103964";0
+journals/talg/HershbergerSB07;article;2017-01-06;"On the difficulty of some shortest path problems.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219951";0
+journals/talg/Jez15;article;2016-03-09;"Faster Fully Compressed Pattern Matching by Recompression.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2631920";0
+journals/talg/CoppersmithNPTW11;article;2017-06-08;"The optimality of the online greedy algorithm in carpool and chairman assignment problems.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978792";0
+journals/talg/FeigenbaumJS14;article;2017-06-15;"Approximate Privacy: Foundations and Quantification.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2601067";0
+journals/talg/CarvalhoC05;article;2016-03-09;"An ";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1103963.1103969";0
+journals/talg/Kolluri08;article;2017-01-03;"Provably good moving least squares.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361195";0
+journals/talg/RodittyTZ08;article;2017-01-06;"Roundtrip spanners and roundtrip routing in directed graphs.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367069";0
+journals/talg/GiesenJL12;article;2017-01-06;"Approximating parameterized convex optimization problems.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390186";0
+journals/talg/KoutisW16;article;2017-01-03;"LIMITS and Applications of Group Algebras for Parameterized Problems.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2885499";0
+journals/talg/ButmanHLR10;article;2017-06-15;"Optimization problems in multiple-interval graphs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721856";0
+journals/talg/EisenbrandPR13;article;2017-01-03;"Bin Packing via Discrepancy of Permutations.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483704";0
+journals/talg/BaswanaS06;article;2016-03-09;"Approximate distance oracles for unweighted graphs in expected ";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198518";0
+journals/talg/Avigdor-Elgrabli15;article;2017-01-03;"An Improved Competitive Algorithm for Reordering Buffer Management.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2663347";0
+journals/talg/Swamy16;article;2017-01-03;"Improved Approximation Algorithms for Matroid and Knapsack Median Problems and Applications.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2963170";0
+journals/talg/GrahamHLL16;article;2017-01-03;"Anarchy Is Free in Network Creation.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2729978";0
+journals/talg/Buchsbaum08;article;2017-01-03;"Guest editorial.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361193";0
+journals/talg/AlonsoR08;article;2017-01-06;"Determining plurality.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367066";0
+journals/talg/LeviR15;article;2016-03-09;"A Quasi-Polynomial Time Partition Oracle for Graphs with an Excluded Minor.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629508";0
+journals/talg/AgarwalHSW10;article;2017-01-06;"Hausdorff distance under translation for points and balls.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824791";0
+journals/talg/AgarwalKS08;article;2017-01-06;"Kinetic and dynamic data structures for closest pair and all nearest neighbors.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435379";0
+journals/talg/Charron-BostFWW15;article;2017-06-15;"Time Complexity of Link Reversal Routing.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2644815";0
+journals/talg/GudmundssonLNS08;article;2017-01-06;"Approximate distance oracles for geometric spanners.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328921";0
+journals/talg/HassinL06;article;2016-03-09;"The minimum generalized vertex cover problem.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1125994.1125998";0
+journals/talg/Ruzic08;article;2017-01-06;"Uniform deterministic dictionaries.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328912";0
+journals/talg/DinitzKN17;article;2017-08-28;"Improved Approximation Algorithm for Steiner ";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3077581";0
+journals/talg/DemetrescuI06;article;2017-06-15;"Experimental analysis of dynamic all pairs shortest path algorithms.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198519";0
+journals/talg/AlagicMR09;article;2017-06-08;"Quantum algorithms for Simon's problem over nonabelian groups.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644034";0
+journals/talg/AwerbuchKR12;article;2017-01-06;"Distributed algorithms for multicommodity flow problems via approximate steepest descent framework.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390179";0
+journals/talg/ChristodoulouKK10;article;2017-01-06;"Mechanism design for fractional scheduling on unrelated machines.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721854";0
+journals/talg/MorozA16;article;2017-01-03;"Computing the Distance between Piecewise-Linear Bivariate Functions.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2847257";0
+journals/talg/FakcharoenpholHR07;article;2017-01-06;"The ";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290677";0
+journals/talg/AlonsoR08a;article;2017-01-06;"Average-case lower bounds for the plurality problem.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367067";0
+journals/talg/WardZ16;article;2017-01-03;"Maximizing ";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2850419";0
+journals/talg/CyganDLMNOPSW16;article;2017-01-03;"On Problems as Hard as CNF-SAT.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2925416";0
+journals/talg/EhsaniFFMSSS15;article;2017-01-03;"A Bounded Budget Network Creation Game.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2701615";0
+journals/talg/HaeuplerKMST12;article;2017-06-08;"Incremental Cycle Detection, Topological Ordering, and Strong Component Maintenance.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2071379.2071382";0
+journals/talg/AulettaPPP07;article;2017-06-08;"Routing selfish unsplittable traffic.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290689";0
+journals/talg/RueST14;article;2017-09-16;"Dynamic programming for graphs on surfaces.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2556952";0
+journals/talg/EpsteinS10;article;2017-05-26;"On the online unit clustering problem.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868245";0
+journals/talg/Han07;article;2017-01-06;"Optimal parallel selection.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290675";0
+journals/talg/AlbersA14;article;2017-01-03;"Race to idle: New algorithms for speed scaling with a sleep state.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2556953";0
+journals/talg/FrigoLPR12;article;2017-01-06;"Cache-Oblivious Algorithms.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2071379.2071383";0
+journals/talg/ChekuriEGS11;article;2017-01-06;"Set connectivity problems in undirected graphs and the directed steiner network problem.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921664";0
+journals/talg/WeimannY16;article;2017-01-03;"Approximating the Diameter of Planar Graphs in Near Linear Time.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2764910";0
+journals/talg/KawarabayashiK16;article;2017-01-05;"An Improved Approximation Algorithm for the Edge-Disjoint Paths Problem with Congestion Two.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2960410";0
+journals/talg/AryaMM07;article;2017-01-06;"A simple entropy-based algorithm for planar point location.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240240";0
+journals/talg/Harris16;article;2017-01-04;"Lopsidependency in the Moser-Tardos Framework: Beyond the Lopsided Lovász Local Lemma.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3015762";0
+journals/talg/KorshL06;article;2016-03-09;"A loopless Gray code for rooted trees.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1150334.1150335";0
+journals/talg/PruhsUW08;article;2017-01-06;"Getting the best response for your erg.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367078";0
+journals/talg/Eppstein07;article;2017-01-06;"Foreword to special issue on SODA 2002.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219946";0
+journals/talg/CzyzowiczPL12;article;2017-01-06;"How to meet asynchronously (almost) everywhere.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344427";0
+journals/talg/ChanCLLMW09;article;2017-06-08;"Optimizing throughput and energy in online deadline scheduling.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644025";0
+journals/talg/EpsteinS06;article;2016-03-09;"Online scheduling of splittable tasks.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1125994.1125999";0
+journals/talg/Feldman17;article;2017-08-28;"Maximizing Symmetric Submodular Functions.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3070685";0
+journals/talg/Korman10;article;2017-01-06;"Labeling schemes for vertex connectivity.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721855";0
+journals/talg/Tao14;article;2017-06-08;"Dynamic Ray Stabbing.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2559153";0
+journals/talg/CechlarovaF05;article;2016-03-09;"On a generalization of the stable roommates problem.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077474";0
+journals/talg/Censor-HillelGG17;article;2017-06-28;"Tight Bounds on Vertex Connectivity Under Sampling.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3086465";0
+journals/talg/BenderFFFG17;article;2017-08-28;"Cost-Oblivious Storage Reallocation.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3070693";0
+journals/talg/BiedlLPS13;article;2017-01-03;"Morphing orthogonal planar graph drawings.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2500118";0
+journals/talg/AspnesC10;article;2017-01-06;"Approximate shared-memory counting despite a strong adversary.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721841";0
+journals/talg/ShalitaZ10;article;2017-06-15;"Efficient algorithms for the 2-gathering problem.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721850";0
+journals/talg/LiDX09;article;2017-01-06;"A polynomial-time approximation scheme for embedding hypergraph in a cycle.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497296";0
+journals/talg/FoschiniGGV06;article;2016-12-02;"When indexing equals compression: Experiments with compressing suffix arrays and applications.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198521";0
+journals/talg/VassilevskaWY10;article;2017-01-06;"Finding heaviest ";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798597";0
+journals/talg/SalvySSSV11;article;2017-06-08;"Philippe flajolet, the father of analytic combinatorics.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000808";0
+journals/talg/ReedW09;article;2017-06-08;"A linear-time algorithm to find a separator in a graph excluding a minor.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597043";0
+journals/talg/ChenLLJ08;article;2017-01-06;"On the minimum common integer partition problem.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435387";0
+journals/talg/HaeuplerST15;article;2017-06-08;"Rank-Balanced Trees.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2689412";0
+journals/talg/ImNZ16;article;2017-01-04;"Minimum Latency Submodular Cover.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2987751";0
+journals/talg/GabowBF07;article;2017-01-06;"Introduction to SODA 2002 and 2003 special issue.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290673";0
+journals/talg/KranakisKM11;article;2017-01-06;"Randomized rendezvous with limited memory.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978789";0
+journals/talg/VinkemeierH05;article;2016-03-09;"A linear-time approximation algorithm for weighted matchings in graphs.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077472";0
+journals/talg/BansalCCRSS10;article;2017-01-06;"Dynamic pricing for impatient bidders.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721851";0
+journals/talg/BansalFKS14;article;2017-01-03;"A logarithmic approximation for unsplittable flow on line graphs.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2532645";0
+journals/talg/BorodinCM11;article;2017-01-06;"How well can primal-dual and local-ratio algorithms perform?";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978784";0
+journals/talg/CookW10;article;2017-05-26;"Geodesic Fréchet distance inside a simple polygon.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868247";0
+journals/talg/Fujito12;article;2017-01-06;"How to trim a MST: A 2-Approximation algorithm for minimum cost-tree cover.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151179";0
+journals/talg/IzsakP11;article;2017-01-06;"Carry propagation in multiplication by constants.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000822";0
+journals/talg/AvrahamFKKS15;article;2017-01-03;"The Discrete and Semicontinuous Fréchet Distance with Shortcuts via Approximate Distance Counting and Selection.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2700222";0
+journals/talg/Ben-AroyaT11;article;2017-01-06;"Competitive analysis of flash memory algorithms.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921669";0
+journals/talg/CormodeMY11;article;2017-01-06;"Algorithms for distributed functional monitoring.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921667";0
+journals/talg/CormodeM07;article;2017-01-06;"The string edit distance matching problem with moves.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219947";0
+journals/talg/CarrKLNP09;article;2017-01-06;"Compacting cuts: A new linear formulation for minimum cut.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541888";0
+journals/talg/KrauthgamerW16;article;2017-01-04;"Cheeger-Type Approximation for Sparsest ";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2996799";0
+journals/talg/EvansK06;article;2016-03-09;"Optimally scheduling video-on-demand to minimize delay when sender and receiver bandwidth may differ.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198523";0
+journals/talg/FotakisKS08;article;2017-06-08;"Atomic congestion games among coalitions.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383383";0
+journals/talg/HeMS12;article;2017-06-15;"Succinct ordinal trees based on tree covering.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344432";0
+journals/talg/KaltofenY13;article;2017-01-03;"On the matrix berlekamp-massey algorithm.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2500122";0
+journals/talg/MeyerZ12;article;2017-07-25;"I/O-efficient shortest path algorithms for undirected graphs with random or bounded edge lengths.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229166";0
+journals/talg/PatrascuT16;article;2017-06-08;"On the ";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2716317";0
+journals/talg/Khuller07;article;2017-01-06;"Problems column.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273351";0
+journals/talg/GeorgiadisT16;article;2017-01-03;"Dominator Tree Certification and Divergent Spanning Trees.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2764913";0
+journals/talg/Khuller05;article;2016-03-09;"Problems column.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077475";0
+journals/talg/FinocchiGI09;article;2017-06-15;"Resilient dictionaries.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644016";0
+journals/talg/Swamy12;article;2017-01-06;"The effectiveness of stackelberg strategies and tolls for network congestion games.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344426";0
+journals/talg/AlstrupHLT05;article;2017-06-15;"Maintaining information in fully dynamic trees with top trees.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1103963.1103966";0
+journals/talg/SenTK16;article;2017-01-03;"Deletion Without Rebalancing in Binary Search Trees.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2903142";0
+journals/talg/BeinGLZ09;article;2017-06-08;"The Knuth-Yao quadrangle-inequality speedup is a consequence of total monotonicity.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644032";0
+journals/talg/Thomasse10;article;2017-01-06;"A 4";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721848";0
+journals/talg/BaierEHKKPSS10;article;2017-09-16;"Length-bounded cuts and flows.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868241";0
+journals/talg/BerendB09;article;2017-01-06;"A linear algorithm for computing convex hulls for random lines.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597046";0
+journals/talg/CohenCDL16;article;2017-01-04;"On the Tradeoff between Stability and Fit.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2963103";0
+journals/talg/HazayLS07;article;2017-01-06;"Approximate parameterized matching.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273345";0
+journals/talg/RodittyZ12;article;2017-01-06;"Replacement paths and ";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344423";0
+journals/talg/ChlebusKR12;article;2017-01-06;"Adversarial Queuing on the Multiple Access Channel.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2071379.2071384";0
+journals/talg/ChenW15;article;2017-06-27;"Computing Shortest Paths among Curved Obstacles in the Plane.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2660771";0
+journals/talg/BansalCP13;article;2017-01-06;"Speed Scaling with an Arbitrary Power Function.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2438645.2438650";0
+journals/talg/ChakrabartiCMT14;article;2017-06-08;"Annotations in Data Streams.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2636924";0
+journals/talg/AgarwalAHPYZ16;article;2017-01-04;"Nearest-Neighbor Searching Under Uncertainty II.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2955098";0
+journals/talg/Eppstein09a;article;2017-01-06;"Squarepants in a tree: Sum of subtree clustering and hyperbolic pants decomposition.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541890";0
+journals/talg/GoelKK10;article;2017-01-06;"Perfect matchings via uniform sampling in regular bipartite graphs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721843";0
+journals/talg/GabowN08;article;2017-01-06;"Finding a long directed cycle.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328918";0
+journals/talg/BaswanaKS12;article;2017-01-06;"Fully dynamic randomized algorithms for graph spanners.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344425";0
+journals/talg/AndoniPP17;article;2017-06-28;"Editorial.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3038922";0
+journals/talg/AmbuhlGPRZ11;article;2017-06-15;"Tree exploration with logarithmic memory.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921663";0
+journals/talg/AsadpourFS12;article;2017-01-06;"Santa claus meets hypergraph matchings.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229168";0
+journals/talg/AggarwalPFTKKZ10;article;2017-01-06;"Achieving anonymity via clustering.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798602";0
+journals/talg/ChakrabartiCM10;article;2017-06-08;"A near-optimal algorithm for estimating the entropy of a stream.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798604";0
+journals/talg/AmirLLS07;article;2017-01-06;"Dynamic text and static pattern matching.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240242";0
+journals/talg/AgarwalAY10;article;2017-05-26;"I/O-efficient batched union-find and its applications to terrain analysis.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868249";0
+journals/talg/FeldmanMSSS10;article;2017-01-06;"On distributing symmetric streaming computations.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824786";0
+journals/talg/BaswanaKMP10;article;2017-05-26;"Additive spanners and (alpha, beta)-spanners.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868242";0
+journals/talg/ArcherT07;article;2017-01-06;"Frugal path mechanisms.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219948";0
+journals/talg/Karakostas08;article;2017-01-06;"Faster approximation schemes for fractional multicommodity flow problems.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328924";0
+journals/talg/MooreRR06;article;2017-06-08;"Generic quantum Fourier transforms.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198525";0
+journals/talg/HuoL06;article;2016-03-09;"Minimizing mean flow time for UET tasks.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1150334.1150340";0
+journals/talg/Djidjev10;article;2017-05-26;"A faster algorithm for computing the girth of planar and bounded genus graphs.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868240";0
+journals/talg/Chan12;article;2017-01-06;"All-pairs shortest paths for unweighted undirected graphs in ";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344424";0
+journals/talg/MehlhornM09;article;2017-01-06;"Minimum cycle bases: Faster and simpler.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644023";0
+journals/talg/Blaser08;article;2017-01-06;"A new approximation algorithm for the asymmetric TSP with triangle inequality.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383378";0
+journals/talg/HochbaumL13;article;2017-01-06;"Approximation Algorithms for a Minimization Variant of the Order-Preserving Submatrices and for Biclustering Problems.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2438645.2438651";0
+journals/talg/Johnson05;article;2016-03-09;"The NP-completeness column.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077476";0
+journals/talg/ErgunMS10;article;2017-01-06;"Periodicity testing with sublinear samples and space.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721859";0
+journals/talg/KonradR16;article;2017-01-03;"Approximating Semi-matchings in Streaming and in Two-Party Communication.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2898960";0
+journals/talg/CaoM15;article;2017-09-16;"Interval Deletion Is Fixed-Parameter Tractable.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629595";0
+journals/talg/KumarM0S16;article;2017-01-03;"Distributed Algorithms for End-to-End Packet Scheduling in Wireless Ad Hoc Networks.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2812811";0
+journals/talg/KatrielB06;article;2017-09-16;"Online topological ordering.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159896";0
+journals/talg/DemaineFHT05;article;2016-03-09;"Fixed-parameter algorithms for (";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077468";0
+journals/talg/HayS09;article;2017-01-06;"Jitter regulation for multiple streams.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644027";0
+journals/talg/KarakostasKW12;article;2017-01-06;"An FPTAS for the minimum total weighted tardiness problem with a fixed number of distinct due dates.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344430";0
+journals/talg/BlasiusR16;article;2017-01-03;"Simultaneous PQ-Ordering with Applications to Constrained Embedding Problems.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2738054";0
+journals/talg/KortsarzN16;article;2017-01-03;"A Simplified 1.5-Approximation Algorithm for Augmenting Edge-Connectivity of a Graph from 1 to 2.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2786981";0
+journals/talg/DemaineMRW09;article;2017-01-06;"An optimal decomposition algorithm for tree edit distance.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644017";0
+journals/talg/CyganGH17;article;2017-08-28;"Tight Kernel Bounds for Problems on Graphs with Small Degeneracy.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3108239";0
+journals/talg/CaragiannisKKP14;article;2017-01-03;"Socially desirable approximations for dodgson's voting rule.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2556950";0
+journals/talg/ChanN14;article;2016-03-09;"Fast Convergence for Consensus in Dynamic Networks.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2601072";0
+journals/talg/Johnson07;article;2017-01-06;"The NP-completeness column: Finding needles in haystacks.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240247";0
+journals/talg/BansalD07;article;2017-01-06;"Minimizing weighted flow time.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290676";0
+journals/talg/NavarroS14;article;2016-03-09;"Fully Functional Static and Dynamic Succinct Trees.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2601073";0
+journals/talg/HassinS06;article;2016-03-09;"Robust subgraphs for trees and paths.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1150334.1150341";0
+journals/talg/NiebergHK08;article;2017-06-08;"Approximation schemes for wireless networks.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383380";0
+journals/talg/Ibarra08;article;2017-01-06;"Fully dynamic algorithms for chordal graphs and split graphs.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383371";0
+journals/talg/Karakostas09;article;2017-01-06;"A better approximation ratio for the vertex cover problem.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597045";0
+journals/talg/Viola05;article;2016-03-09;"Exact distribution of individual displacements in linear probing hashing.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1103963.1103965";0
+journals/talg/PemmarajuRV11;article;2017-01-06;"Max-coloring and online coloring with bandwidths on interval graphs.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978790";0
+journals/talg/MarxOR13;article;2017-01-03;"Finding small separators in linear time via treewidth reduction.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2500119";0
+journals/talg/ChekuriK07;article;2017-01-06;"Edge-disjoint paths revisited.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290683";0
+journals/talg/RamanRS07;article;2017-06-15;"Succinct indexable dictionaries with applications to encoding ";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290680";0
+journals/talg/FleischerGKKS16;article;2017-01-03;"A Simple and Efficient Algorithm for Computing Market Equilibria.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2905372";0
+journals/talg/CondonDHW09;article;2017-01-06;"Algorithms for distributional and adversarial pipelined filter ordering problems.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497300";0
+journals/talg/DemaineHM14;article;2016-03-09;"Minimizing Movement: Fixed-Parameter Tractability.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2650247";0
+journals/talg/MendelsonTTZ06;article;2017-06-15;"Melding priority queues.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198517";0
+journals/talg/EdmondsP05;article;2016-03-09;"A maiden analysis of longest wait first.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077467";0
+journals/talg/AndrewsZ07;article;2017-01-06;"Routing and scheduling in multihop wireless networks with time-varying channels.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273349";0
+journals/talg/BarbayHMS11;article;2017-06-15;"Succinct indexes for strings, binary relations and multilabeled trees.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000820";0
+journals/talg/BlasiusRW16;article;2017-01-03;"Optimal Orthogonal Graph Drawing with Convex Bend Costs.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2838736";0
+journals/talg/LuY08;article;2017-01-06;"Balanced parentheses strike back.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367068";0
+journals/talg/Elkin05;article;2016-03-09;"Computing almost shortest paths.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1103963.1103968";0
+journals/talg/Kauers07;article;2017-01-06;"An algorithm for deciding zero equivalence of nested polynomially recurrent sequences.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240241";0
+journals/talg/BorradaileKM15;article;2016-03-09;"A Polynomial-Time Approximation Scheme for Euclidean Steiner Forest.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629654";0
+journals/talg/HajiaghayiKKN12;article;2017-01-06;"Prize-collecting steiner network problems.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390178";0
+journals/talg/ChenKS09;article;2017-01-06;"Online conflict-free coloring for halfplanes, congruent disks, and axis-parallel rectangles.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497292";0
+journals/talg/EnglertRV16;article;2017-01-04;"Smoothed Analysis of the 2-Opt Algorithm for the General TSP.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2972953";0
+journals/talg/AbrahamGMNT08;article;2017-01-06;"Compact name-independent routing with minimum stretch.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367077";0
+journals/talg/EbrahimiF12;article;2017-01-06;"Combinatiorial algorithms for wireless information flow.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390184";0
+journals/talg/AumullerDK16;article;2017-06-15;"How Good Is Multi-Pivot Quicksort?";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2963102";0
+journals/talg/VeghB08;article;2017-01-03;"Primal-dual approach for directed vertex connectivity augmentation and generalizations.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361197";0
+journals/talg/ChrobakJST07;article;2017-06-15;"Improved online algorithms for buffer management in QoS switches.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290687";0
+journals/talg/AgarwalCY12;article;2017-06-08;"Range searching on uncertain data.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344433";0
+journals/talg/CharikarMM09;article;2017-01-06;"Near-optimal algorithms for maximum constraint satisfaction problems.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541893";0
+journals/talg/RuskeyW10;article;2017-01-06;"An explicit universal cycle for the (";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798598";0
+journals/talg/Oum08;article;2017-01-06;"Approximating rank-width and clique-width quickly.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435385";0
+journals/talg/ChandranMOPSS08;article;2017-01-06;"Improved algorithms for optimal embeddings.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383376";0
+journals/talg/AjtaiFHN16;article;2017-01-03;"Sorting and Selection with Imprecise Comparisons.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2701427";0
+journals/talg/DiedrichJPSS12;article;2017-01-06;"Tight approximation algorithms for scheduling with fixed jobs and nonavailability.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229171";0
+journals/talg/KavithaMMP07;article;2017-01-06;"Strongly stable matchings in time ";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240238";0
+journals/talg/GuT08;article;2017-01-06;"Optimal branch-decomposition of planar graphs in ";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367070";0
+journals/talg/AumannLLT11;article;2017-01-06;"Finding witnesses by peeling.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921670";0
+journals/talg/ItoI09;article;2017-01-06;"Enumeration of isolated cliques and pseudo-cliques.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597044";0
+journals/talg/CabelloDEM10;article;2017-09-16;"Finding one tight cycle.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824781";0
+journals/talg/EmekPR10;article;2017-01-06;"A near-linear-time algorithm for computing replacement paths in planar directed graphs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824784";0
+journals/talg/DrescherV10;article;2017-01-06;"An approximation algorithm for the maximum leaf spanning arborescence problem.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798599";0
+journals/talg/ChakrabartyDJS17;article;2017-06-28;"Property Testing on Product Distributions: Optimal Testers for Bounded Derivative Properties.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3039241";0
+journals/talg/JansenZ06;article;2016-03-09;"An approximation algorithm for scheduling malleable tasks under general precedence constraints.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159899";0
+journals/talg/HalldorssonIMY07;article;2017-01-06;"Improved approximation results for the stable marriage problem.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273346";0
+journals/talg/GanianRS17;article;2017-06-28;"Discovering Archipelagos of Tractability for Constraint Satisfaction and Counting.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3014587";0
+journals/talg/AlstrupHRT05;article;2016-03-09;"Black box for constant-time insertion in priority queues (note).";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077471";0
+journals/talg/EtscheidR17;article;2017-06-28;"Smoothed Analysis of Local Search for the Maximum-Cut Problem.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3011870";0
+journals/talg/PanconesiR12;article;2017-01-06;"Expansion properties of (secure) wireless networks.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229165";1
+journals/talg/DrmotaP06;article;2016-03-09;"The register function for ";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159894";0
+journals/talg/DemaineIL07;article;2017-01-06;"Retroactive data structures.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240236";0
+journals/talg/FaigleP10;article;2017-01-06;"Two-phase greedy algorithms for some classes of combinatorial linear programs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824785";0
+journals/talg/CzumajS08;article;2017-01-06;"Testing Euclidean minimum spanning trees in the plane.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367071";0
+journals/talg/AjwaniFM08;article;2017-07-25;"An ";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383370";0
+journals/talg/RodittyT13;article;2017-01-06;"Approximating the Girth.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2438645.2438647";0
+journals/talg/GuptaW07;article;2017-01-06;"Constructing pairwise disjoint paths with few links.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273342";0
+journals/talg/FlamminiN10;article;2017-06-08;"On the bicriteria ";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868244";0
+journals/talg/BorradaileK16;article;2017-01-03;"The Two-Edge Connectivity Survivable-Network Design Problem in Planar Graphs.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2831235";0
+journals/talg/Solomon13;article;2017-01-03;"Sparse Euclidean Spanners with Tiny Diameter.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483708";0
+journals/talg/Andrews09;article;2017-01-06;"Instability of FIFO in the permanent sessions model at arbitrarily small network loads.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541894";0
+journals/talg/DemetrescuFR09;article;2017-01-06;"Trading off space for passes in graph streaming problems.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644021";0
+journals/talg/NaorS10;article;2017-01-06;"The directed circular arrangement problem.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798600";0
+journals/talg/DuchM09;article;2017-01-06;"Updating relaxed ";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644019";0
+journals/talg/AzrielSS08;article;2017-01-06;"On an infinite family of solvable Hanoi graphs.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435388";0
+journals/talg/WildNN15;article;2017-06-08;"Average Case and Distributional Analysis of Dual-Pivot Quicksort.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629340";0
+journals/talg/LokshtanovNRRS14;article;2016-05-27;"Faster Parameterized Algorithms Using Linear Programming.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2566616";0
+journals/talg/LemireK08;article;2017-01-06;"Hierarchical bin buffering: Online local moments for dynamic external memory arrays.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328925";0
+journals/talg/ChakaravarthyPRAM11;article;2017-01-06;"Decision trees for entity identification: Approximation algorithms and hardness results.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921661";0
+journals/talg/BodlaenderFKKT12;article;2017-09-16;"On exact algorithms for treewidth.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390188";0
+journals/talg/0002LPRRSS16;article;2017-09-16;"Linear Kernels and Single-Exponential Algorithms Via Protrusion Decompositions.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2797140";0
+journals/talg/Gabow09;article;2017-01-06;"Foreword to special issue on SODA 2007.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541886";0
+journals/talg/BansalKN14;article;2016-03-09;"Better Scalable Algorithms for Broadcast Scheduling.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2636916";0
+journals/talg/CzumajV07;article;2017-01-06;"Tight bounds for worst-case equilibria.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219949";0
+journals/talg/GolovnevKM16;article;2017-01-03;"Families with Infants: Speeding Up Algorithms for NP-Hard Problems Using FFT.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2847419";0
+journals/talg/Eppstein09;article;2017-01-06;"Testing bipartiteness of geometric intersection graphs.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497291";0
+journals/talg/ChengJL17;article;2017-06-28;"A Fast and Simple Surface Reconstruction Algorithm.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3039242";0
+journals/talg/SwamyS08;article;2017-01-06;"Fault-tolerant facility location.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383382";0
+journals/talg/AndoniN16;article;2017-01-03;"Width of Points in the Streaming Model.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2847259";0
+journals/talg/DinitzKR16;article;2017-01-03;"Label Cover Instances with Large Girth and the Hardness of Approximating Basic ";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2818375";0
+journals/talg/JayramW13;article;2017-01-03;"Optimal Bounds for Johnson-Lindenstrauss Transforms and Streaming Problems with Subconstant Error.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483706";0
+journals/talg/BjorklundHKKNP16;article;2017-06-15;"Fast Zeta Transforms for Lattices with Few Irreducibles.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629429";0
+journals/talg/Gabow05;article;2016-03-09;"Editor's foreword.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077465";0
+journals/talg/GaoLS10;article;2017-05-26;"Clustering lines in high-dimensional space: Classification of incomplete data.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868246";0
+journals/talg/NongZC11;article;2017-01-06;"Computing the inverse sort transform in linear time.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921673";0
+journals/talg/Chalopin0DMW15;article;2017-01-03;"Mapping Simple Polygons: The Power of Telling Convex from Reflex.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2700223";0
+journals/talg/Khuller06;article;2016-03-09;"Problems column.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1125994.1126002";0
+journals/talg/GuhaM12;article;2017-01-06;"Adaptive Uncertainty Resolution in Bayesian Combinatorial Optimization Problems.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2071379.2071380";0
+journals/talg/Clarkson10;article;2017-01-06;"Coresets, sparse greedy approximation, and the Frank-Wolfe algorithm.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824783";0
+journals/talg/ChrobakKS05;article;2017-09-16;"The greedy algorithm for the minimum common string partition problem.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1103963.1103971";0
+journals/talg/Fernandez-BacaV09;article;2017-01-06;"Parametric analysis for ungapped Markov models of evolution.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597048";0
+journals/talg/Eppstein09b;article;2017-01-06;"All maximal independent sets and dynamic dominance for sparse graphs.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597042";0
+journals/talg/KleinMW10;article;2017-01-06;"Shortest paths in directed planar graphs with negative lengths: A linear-space ";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721846";0
+journals/talg/SuzukiT08;article;2017-01-06;"Dense subgraph problems with output-density conditions.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383374";0
+journals/talg/BateniH12;article;2017-01-06;"Assignment problem in content distribution networks: Unsplittable hard-capacitated facility location.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229164";0
+journals/talg/BonsmaD11;article;2017-01-06;"Tight bounds and a fast FPT algorithm for directed Max-Leaf Spanning Tree.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000812";0
+journals/talg/Bar-NoyCS08;article;2017-01-06;"Deterministic conflict-free coloring for intervals: From offline to online.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383375";0
+journals/talg/Wimmer16;article;2017-01-03;"Agnostic Learning in Permutation-Invariant Domains.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2963169";0
+journals/talg/GeorgiadisT16a;article;2017-01-03;"Addendum to "Dominator Tree Certification and Divergent Spanning Trees".";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2928271";0
+journals/talg/RussoNO11;article;2017-06-08;"Fully compressed suffix trees.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000821";0
+journals/talg/BjorklundHKK12;article;2017-06-15;"The traveling salesman problem in bounded degree graphs.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151181";0
+journals/talg/ElkinS16;article;2017-01-03;"Fast Constructions of Lightweight Spanners for General Graphs.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2836167";0
+journals/talg/FominGPS08;article;2017-06-15;"Combinatorial bounds via measure and conquer: Bounding minimal dominating sets and applications.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435384";0
+journals/talg/KoutisLP16;article;2017-01-03;"Faster Spectral Sparsification and Numerical Algorithms for SDD Matrices.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2743021";0
+journals/talg/BockerBT12;article;2017-01-06;"Improved Fixed-Parameter Algorithms for Minimum-Flip Consensus Trees.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2071379.2071386";0
+journals/talg/AzarGG10;article;2017-01-06;"Truthful unsplittable flow for large capacity networks.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721852";0
+journals/talg/CohenFIKP08;article;2017-06-15;"Label-guided graph exploration by a finite automaton.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383373";0
+journals/talg/DuncanKK06;article;2017-06-08;"Optimal constrained graph exploration.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159897";0
+journals/talg/Lopez-OrtizM06;article;2016-03-09;"Foreword.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198514";0
+journals/talg/FuKW11;article;2017-06-08;"Discovering almost any hidden motif from multiple sequences.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921672";0
+journals/talg/ChekuriCH12;article;2017-01-06;"On the set multicover problem in geometric settings.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390185";0
+journals/talg/BeierCKV06;article;2016-03-09;"Computing equilibria for a service provider game with (Im)perfect information.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198524";0
+journals/talg/SvitkinaT10;article;2017-01-06;"Facility location with hierarchical facility costs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721853";0
+journals/talg/BerendS06;article;2016-03-09;"The cyclic multi-peg Tower of Hanoi.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159893";0
+journals/talg/AdlerR05;article;2016-03-09;"Pricing multicasting in more flexible network models.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077469";0
+journals/talg/BilleG11;article;2017-01-06;"The tree inclusion problem: In linear space and faster.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978793";0
+journals/talg/BrandstadtLS08;article;2017-01-06;"Structure and linear-time recognition of 4-leaf powers.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435386";0
+journals/talg/MarkoR09;article;2017-01-06;"Approximating the distance to properties in bounded-degree and general sparse graphs.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497298";0
+journals/talg/Levin09;article;2017-01-06;"A generalized minimum cost ";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597039";0
+journals/talg/MoranSS11;article;2017-01-06;"Partial convex recolorings of trees and galled networks: Tight upper and lower bounds.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000810";0
+journals/talg/0013STW12;article;2017-02-20;"A compact routing scheme and approximate distance oracle for power-law graphs.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390180";1
+journals/talg/KapronKKSS10;article;2017-01-06;"Fast asynchronous Byzantine agreement and leader election with full information.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824788";0
+journals/talg/AgarwalSW08;article;2017-01-06;"Algorithms for center and Tverberg points.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435380";0
+journals/talg/AlbersF07;article;2017-01-06;"Energy-efficient algorithms for flow time minimization.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290686";0
+journals/talg/Halldorsson12;article;2017-01-06;"Wireless scheduling with power control.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390183";1
+journals/talg/CoppersmithFR10;article;2017-01-06;"Ordering by weighted number of wins gives a good ranking for weighted tournaments.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798608";0
+journals/talg/DriemelHR16;article;2017-01-03;"On the Expected Complexity of Voronoi Diagrams on Terrains.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2846099";0
+journals/talg/EmekHR16;article;2017-01-03;"Space-Constrained Interval Selection.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2886102";0
+journals/talg/DrmotaK12;article;2017-01-06;"A precise analysis of Cuckoo hashing.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151174";0
+journals/talg/IwamaMY10;article;2017-05-26;"Approximation algorithms for the sex-equal stable marriage problem.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868239";0
+journals/talg/BabaiF09;article;2017-01-06;"Computing rank-convolutions with a mask.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644035";0
+journals/talg/Cabello10;article;2017-09-16;"Finding shortest contractible and shortest separating cycles in embedded graphs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721840";0
+journals/talg/AzarR06;article;2016-03-09;"An improved algorithm for CIOQ switches.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1150334.1150342";0
+journals/talg/PanagiotouS10;article;2017-01-06;"Maximal biconnected subgraphs of random planar graphs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721847";0
+journals/talg/FraigniaudP13;article;2017-01-06;"Delays Induce an Exponential Memory Gap for Rendezvous in Trees.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2438645.2438649";0
+journals/talg/GiannopoulouJLS17;article;2017-08-28;"Uniform Kernelization Complexity of Hitting Forbidden Minors.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3029051";0
+journals/talg/Mathieu10;article;2017-01-06;"Foreword to special issue SODA 2009.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721839";0
+journals/talg/GortzNR15;article;2016-03-09;"Minimum Makespan Multi-Vehicle Dial-a-Ride.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629653";0
+journals/talg/BrussLW09;article;2017-01-06;"Inverse auctions: Injecting unique minima into random sets.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644036";0
+journals/talg/GandhiHKS06;article;2016-03-09;"Improved results for data migration and open shop scheduling.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1125994.1126001";0
+journals/talg/EdmondsP11;article;2017-01-06;"Cake cutting really is not a piece of cake.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000819";0
+journals/talg/KrishnaswamyS16;article;2017-01-04;"Inapproximability of the Multilevel Uncapacitated Facility Location Problem.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2907050";0
+journals/talg/CarlssonAY10;article;2017-01-06;"Finding equitable convex partitions of points in a polygon efficiently.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824792";0
+journals/talg/MartinezPV10;article;2017-01-06;"Adaptive sampling strategies for quickselects.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798606";0
+journals/talg/YeB12;article;2017-01-06;"Elimination graphs.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151177";0
+journals/talg/Pettie09;article;2017-01-06;"Low distortion spanners.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644022";0
+journals/talg/GoelMP05;article;2016-03-09;"Approximate majorization and fair online load balancing.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1103963.1103970";0
+journals/talg/HajiaghayiHLLS16;article;2017-01-03;"A Constant Factor Approximation Algorithm for Fault-Tolerant ";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2854153";0
+journals/talg/BreslauerG14;article;2016-03-09;"Real-Time Streaming String-Matching.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2635814";0
+journals/talg/HajiaghayiKRL07;article;2017-01-06;"Oblivious routing on node-capacitated and directed graphs.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290688";0
+journals/talg/ChekuriKP12;article;2017-01-06;"Improved algorithms for orienteering and related problems.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229167";0
+journals/talg/GeorgiadisKSTW11;article;2017-01-06;"Data structures for mergeable trees.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921660";0
+journals/talg/GuruswamiRS016;article;2017-01-03;"Bypassing UGC from Some Optimal Geometric Inapproximability Results.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2737729";0
+journals/talg/FattalR10;article;2017-01-06;"Approximating the distance to monotonicity in high dimensions.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798605";0
+journals/talg/IrvingKMMP06;article;2016-03-09;"Rank-maximal matchings.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198520";0
+journals/talg/SandersS08;article;2017-01-06;"An asymptotic approximation scheme for multigraph edge coloring.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361198";0
+journals/talg/AbrahamCGP16;article;2017-01-03;"Forbidden-Set Distance Labels for Graphs of Bounded Doubling Dimension.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2818694";0
+journals/talg/Segal-HaleviHA16;article;2017-01-04;"Waste Makes Haste: Bounded Time Algorithms for Envy-Free Cake Cutting with Free Disposal.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2988232";0
+journals/talg/Gonzalez-GutierrezG10;article;2017-01-06;"Approximating corridors and tours via restriction and relaxation techniques.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798609";0
+journals/talg/Nutov09;article;2017-01-06;"Approximating connectivity augmentation problems.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644020";0
+journals/talg/EvenFKN09;article;2017-01-06;"A 1.8 approximation algorithm for augmenting edge-connectivity of a graph from 1 to 2.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497297";0
+journals/talg/FerraginaV16;article;2017-01-03;"Compressed Cache-Oblivious String B-Tree.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2903141";0
+journals/talg/Albers10;article;2017-01-06;"Editorial Note.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721838";0
+journals/talg/YiZ12;article;2017-01-06;"Multidimensional online tracking.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151175";0
+journals/talg/ChuzhoyGNS08;article;2017-01-03;"On the approximability of some network design problems.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361200";0
+journals/talg/RodittyS11;article;2017-01-06;"All-pairs shortest paths with a sublinear additive error.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000813";0
+journals/talg/Lau06;article;2016-03-09;"Bipartite roots of graphs.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1150334.1150337";0
+journals/talg/ElmasryJK08;article;2017-01-06;"Multipartite priority queues.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435389";0
+journals/talg/AilonL13;article;2017-01-03;"An Almost Optimal Unrestricted Fast Johnson-Lindenstrauss Transform.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483701";0
+journals/talg/ChenLLSZ12;article;2017-01-06;"Iterative Expansion and Color Coding: An Improved Algorithm for 3D-Matching.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2071379.2071385";0
+journals/talg/Hegde06;article;2016-03-09;"Finding 3-shredders efficiently.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1125994.1125996";0
+journals/talg/PolacekS16;article;2017-01-03;"Quasi-Polynomial Local Search for Restricted Max-Min Fair Allocation.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2818695";0
+journals/talg/Fotakis11;article;2017-06-08;"Memoryless facility location in one pass.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000817";0
+journals/talg/AngeliniBFJKPR15;article;2017-06-08;"Testing Planarity of Partially Embedded Graphs.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629341";0
+journals/talg/KowalskiS08;article;2017-01-06;"Writing-all deterministically and optimally using a nontrivial number of asynchronous processors.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367073";0
+journals/talg/Chan10a;article;2017-01-06;"On the bichromatic ";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824782";0
+journals/talg/BilleFG09;article;2017-01-06;"Improved approximate string matching and regular expression matching on Ziv-Lempel compressed texts.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644018";0
+journals/talg/ElkinP16;article;2017-01-03;"A Linear-Size Logarithmic Stretch Path-Reporting Distance Oracle for General Graphs.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2888397";0
+journals/talg/Chan10;article;2017-01-06;"Comparison-based time-space lower bounds for selection.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721842";0
+journals/talg/GrabnerHPT05;article;2017-06-15;"Analysis of linear combination algorithms in cryptography.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077473";0
+journals/talg/BelazzouguiN15;article;2017-01-03;"Optimal Lower and Upper Bounds for Representing Sequences.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629339";0
+journals/talg/ChenD14;article;2017-01-03;"Envy-free pricing in multi-item markets.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2567923";0
+journals/talg/YuLW08;article;2017-01-06;"Improved algorithms for the minmax-regret 1-center and 1-median problems.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367076";0
+journals/talg/DumitrescuT16;article;2017-01-03;"The Traveling Salesman Problem for Lines, Balls, and Planes.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2850418";0
+journals/talg/ElkinK07;article;2017-01-06;"An improved algorithm for radio broadcast.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219954";0
+journals/talg/CyganP12;article;2017-01-06;"Even Faster Exact Bandwidth.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2071379.2071387";0
+journals/talg/VoronenkoP07;article;2017-01-06;"Multiplierless multiple constant multiplication.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240234";0
+journals/talg/BlandfordB08;article;2017-01-03;"Compact dictionaries for variable-length keys and data with applications.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361194";0
+journals/talg/Mestre14;article;2017-01-03;"Weighted popular matchings.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2556951";0
+journals/talg/GandhiHKS13;article;2017-01-03;"Corrigendum: Improved results for data migration and open shop scheduling.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2500123";0
+journals/talg/AlonAG09;article;2017-01-06;"Admission control to minimize rejections and online set cover with repetitions.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644026";1
+journals/talg/DvorakKT11;article;2017-06-15;"Three-coloring triangle-free planar graphs in linear time.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000809";0
+journals/talg/AronovDKLS16;article;2017-01-03;"Segmentation of Trajectories on Nonmonotone Criteria.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2660772";0
+journals/talg/Sawada06;article;2016-03-09;"Generating rooted and free plane trees.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1125994.1125995";0
+journals/talg/ArvindK12;article;2017-01-06;"Testing nilpotence of galois groups in polynomial time.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229176";0
+journals/talg/KrivelevichNSYY07;article;2017-01-06;"Approximation algorithms and hardness results for cycle packing problems.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290685";0
+journals/talg/GuerraouiLPP08;article;2017-01-06;"The collective memory of amnesic processes.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328923";0
+journals/talg/ParterP16;article;2017-01-04;"Sparse Fault-Tolerant BFS Structures.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2976741";0
+journals/talg/Williams10;article;2017-01-06;"Nondecreasing paths in a weighted graph or: How to optimally read a train schedule.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824790";0
+journals/talg/Ta-ShmaZ14;article;2016-03-09;"Deterministic Rendezvous, Treasure Hunts, and Strongly Universal Exploration Sequences.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2601068";0
+journals/talg/ChawlaGR08;article;2017-01-03;"Embeddings of negative-type metrics and an improved approximation to generalized sparsest cut.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361199";0
+journals/talg/Kratsch14;article;2016-03-09;"Co-Nondeterminism in Compositions: A Kernelization Lower Bound for a Ramsey-Type Problem.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2635808";0
+journals/talg/GuhaMV09;article;2017-01-06;"Sublinear estimation of entropy and information distances.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597038";0
+journals/talg/BelazzouguiN14;article;2016-03-09;"Alphabet-Independent Compressed Text Indexing.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2635816";0
+journals/talg/AnNS17;article;2017-06-28;"Dynamic Facility Location via Exponential Clocks.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2928272";0
+journals/talg/RabaniRSW16;article;2017-01-03;"Editorial to the Special Issue on SODA'12.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2846001";0
+journals/talg/GolubchikKKTZ09;article;2017-01-06;"Approximation algorithms for data placement on parallel disks.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597037";0
+journals/talg/Binkele-RaibleFFLSV12;article;2017-06-15;"Kernel(s) for problems with no kernel: On out-trees with many leaves.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344428";0
+journals/talg/EvenKS05;article;2016-03-09;"On network design problems: fixed cost flows and the covering steiner problem.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077470";0
+journals/talg/FanelliFM12;article;2017-01-25;"The speed of convergence in congestion games under best-response dynamics.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229169";0
+journals/talg/Marx10;article;2017-01-06;"Approximating fractional hypertree width.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721845";0
+journals/talg/AndoniK12;article;2017-01-06;"The smoothed complexity of edit distance.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344434";0
+journals/talg/BecchettiMVKSS09;article;2017-01-06;"Latency-constrained aggregation in sensor networks.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644028";0
+journals/talg/BoyarF07;article;2017-06-08;"The relative worst order ratio for online algorithms.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240245";0
+journals/talg/BenderFGT16;article;2017-01-03;"A New Approach to Incremental Cycle Detection and Related Problems.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2756553";0
+journals/talg/Har-PeledR14;article;2017-01-03;"The fréchet distance revisited and extended.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2532646";0
+journals/talg/MassbergV08;article;2017-01-06;"Approximation algorithms for a facility location problem with service capacities.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383381";0
+journals/talg/GiyoraK09;article;2017-01-06;"Optimal dynamic vertical ray shooting in rectilinear planar subdivisions.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541889";0
+journals/talg/CheriyanLNV14;article;2017-06-15;"Approximating Rooted Steiner Networks.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2650183";0
+journals/talg/Li17;article;2017-06-28;"On Uniform Capacitated ";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2983633";0
+journals/talg/AmbuhlGS13;article;2017-01-03;"Optimal lower bounds for projective list update algorithms.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2500120";0
+journals/talg/ByrkaPRST17;article;2017-06-28;"An Improved Approximation for ";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2981561";0
+journals/talg/FengZ07;article;2017-01-06;"Faster algorithms for sorting by transpositions and sorting by block interchanges.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273341";0
+journals/talg/CalinescuCKR11;article;2017-06-08;"An improved approximation algorithm for resource allocation.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000816";0
+journals/talg/Shallue16;article;2017-01-04;"Tabulating Pseudoprimes and Tabulating Liars.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2957759";0
+journals/talg/DeshpandeHK16;article;2017-01-03;"Approximation Algorithms for Stochastic Submodular Set Cover with Applications to Boolean Function Evaluation and Min-Knapsack.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2876506";0
+journals/talg/BhatiaCFN07;article;2017-01-06;"Algorithmic aspects of bandwidth trading.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219956";0
+journals/talg/AminofKL10;article;2017-01-06;"Reasoning about online algorithms with weighted automata.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721844";0
+journals/talg/CheraghchiI17;article;2017-08-28;"Nearly Optimal Deterministic Algorithm for Sparse Walsh-Hadamard Transform.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3029050";0
+journals/talg/AustrinBG16;article;2017-01-04;"Better Balance by Being Biased: A 0.8776-Approximation for Max Bisection.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2907052";0
+journals/talg/YusterZ05;article;2016-03-09;"Fast sparse matrix multiplication.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1077464.1077466";0
+journals/talg/LubbeckeMMW16;article;2017-01-04;"A New Approach to Online Scheduling: Approximating the Optimal Competitive Ratio.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2996800";0
+journals/talg/ArgeBHY08;article;2017-01-06;"The priority R-tree: A practically efficient and worst-case optimal R-tree.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328920";0
+journals/talg/ZhangO08;article;2017-01-06;"Clustering, community partition and disjoint spanning trees.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367075";0
+journals/talg/Manthey12;article;2017-01-06;"On approximating multicriteria TSP.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151180";0
+journals/talg/DamerowMHRSST12;article;2017-01-06;"Smoothed analysis of left-to-right maxima with applications.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229174";1
+journals/talg/Svitkina10;article;2017-01-06;"Lower-bounded facility location.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824789";0
+journals/talg/BobierS10;article;2017-01-06;"A fast algorithm to generate open meandric systems and meanders.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721858";0
+journals/talg/NguyenS09;article;2017-01-06;"Low-dimensional lattice basis reduction revisited.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597050";0
+journals/talg/MahdianNS12;article;2017-01-06;"Online Optimization with Uncertain Information.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2071379.2071381";0
+journals/talg/BermanR14;article;2016-03-09;"Approximation Algorithms for Min-Max Generalization Problems.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2636920";0
+journals/talg/GamzuS09;article;2017-01-06;"Improved online algorithms for the sorting buffer problem on line metrics.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644030";0
+journals/talg/ChuzhoyMVZ16;article;2017-01-03;"Approximation Algorithms and Hardness of the ";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2644814";0
+journals/talg/DieudonnePP14;article;2016-03-09;"Gathering Despite Mischief.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629656";0
+journals/talg/Albers10a;article;2017-01-06;"Editorial note.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824778";0
+journals/talg/FominLPS17;article;2017-09-16;"Representative Families of Product Families.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3039243";0
+journals/talg/HajiaghayiT10;article;2017-01-06;"Foreword to special issue on SODA 2008.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824793";0
+journals/talg/CohaviD17;article;2017-08-28;"Faster and Simpler Sketches of Valuation Functions.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3039871";0
+journals/talg/RutterW10;article;2017-06-08;"Computing large matchings fast.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868238";0
+journals/talg/PettieR08;article;2017-01-06;"Randomized minimum spanning tree algorithms using exponentially fewer random bits.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328916";0
+journals/talg/BorodinJLY17;article;2017-08-28;"Max-Sum Diversification, Monotone Submodular Functions, and Dynamic Updates.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3086464";0
+journals/talg/CarmoFKLMOPT07;article;2017-01-06;"Querying priced information in databases: The conjunctive case.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219955";0
+journals/talg/DeshpandeH12;article;2017-01-06;"Parallel pipelined filter ordering with precedence constraints.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344431";0
+journals/talg/GoelGM10;article;2017-05-26;"How to probe for an extreme value.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868250";0
+journals/talg/VerdiereS11;article;2017-01-06;"Shortest vertex-disjoint two-face paths in planar graphs.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921665";0
+journals/talg/BassinoCN12;article;2017-01-06;"Counting occurrences for a finite set of words: Combinatorial methods.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229175";0
+journals/talg/KowalikK06;article;2016-03-09;"Oracles for bounded-length shortest paths in planar graphs.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159895";0
+journals/talg/Roditty08;article;2017-01-06;"A faster and simpler fully dynamic transitive closure.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328917";0
+journals/talg/Elkin11;article;2017-01-06;"Streaming and fully dynamic centralized algorithms for constructing and maintaining sparse spanners.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921666";0
+journals/talg/MarxV15;article;2017-01-03;"Fixed-Parameter Algorithms for Minimum-Cost Edge-Connectivity Augmentation.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2700210";0
+journals/talg/BarbayK08;article;2017-06-08;"Alternation and redundancy analysis of the intersection problem.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328915";0
+journals/talg/DieudonneP14;article;2016-03-09;"Deterministic Network Exploration by Anonymous Silent Agents with Local Traffic Reports.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2594581";0
+journals/talg/AlonMS06;article;2016-03-09;"Algorithmic construction of sets for ";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1150334.1150336";0
+journals/talg/Farach-ColtonFM09;article;2017-01-06;"Bootstrapping a hop-optimal network in the weak sensor model.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597040";0
+journals/talg/PhilipRS12;article;2017-01-06;"Polynomial kernels for dominating set in graphs of bounded degeneracy and beyond.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390187";0
+journals/talg/KratschPR16;article;2017-01-03;"Point Line Cover: The Easy Kernel is Essentially Tight.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2832912";0
+journals/talg/LaberM11;article;2017-01-06;"Improved approximations for the hotlink assignment problem.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978794";0
+journals/talg/BoyarM08;article;2017-06-08;"The relative worst order ratio applied to seat reservation.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383379";0
+journals/talg/AgarwalAK06;article;2016-03-09;"Efficient algorithms for bichromatic separability.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1150334.1150338";0
+journals/talg/GordonR10;article;2017-01-06;"Competitive weighted throughput analysis of greedy protocols on DAGs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798603";0
+journals/talg/AumullerD16;article;2017-06-15;"Optimal Partitioning for Dual-Pivot Quicksort.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2743020";0
+journals/talg/KratschW14;article;2016-03-09;"Compression via Matroids: A Randomized Polynomial Kernel for Odd Cycle Transversal.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2635810";0
+journals/talg/BonifaciKMS11;article;2017-06-08;"Minimizing flow time in the wireless gathering problem.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978788";0
+journals/talg/FerraginaMMN07;article;2017-01-06;"Compressed representations of sequences and full-text indexes.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240243";0
+journals/talg/Bar-NoyLT07;article;2017-01-06;"Windows scheduling as a restricted version of bin packing.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273344";0
+journals/talg/RamanSS06;article;2016-05-27;"Faster fixed parameter tractable algorithms for finding feedback vertex sets.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159898";0
+journals/talg/Ruzic09;article;2017-01-06;"Making deterministic signatures quickly.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541887";0
+journals/talg/AlonAABN06;article;2016-03-09;"A general approach to online network optimization problems.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198522";0
+journals/talg/AlonGKS07;article;2017-01-06;"Guessing secrets efficiently via list decoding.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290679";0
+journals/talg/AndreevGGMM09;article;2017-01-06;"Simultaneous source location.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644031";0
+journals/talg/BacherBHT17;article;2017-06-28;"Generating Random Permutations by Coin Tossing: Classical Algorithms, New Analysis, and Modern Implementation.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3009909";0
+journals/talg/DemaineHMZ12;article;2017-01-06;"The price of anarchy in network creation games.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151176";0
+journals/talg/Daskalakis13;article;2017-01-03;"On the Complexity of Approximating a Nash Equilibrium.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483703";0
+journals/talg/NaorW07;article;2017-01-06;"Novel architectures for P2P applications: The continuous-discrete approach.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273350";0
+journals/talg/CabelloGKMR11;article;2017-09-16;"Geometric clustering: Fixed-parameter tractability and lower bounds with respect to the dimension.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000811";0
+journals/talg/KaoSS09;article;2017-01-06;"Randomized fast design of short DNA words.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597047";0
+journals/talg/AckermannBS10;article;2017-06-08;"Clustering for metric and nonmetric distance measures.";"";"2010";"ACM Trans. Algorithms";None;0
+journals/talg/GroheM14;article;2017-06-08;"Constraint Solving via Fractional Edge Covers.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2636918";0
+journals/talg/DoerrFS14;article;2016-11-14;"Quasirandom Rumor Spreading.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2650185";0
+journals/talg/DemaineHMSGZ09;article;2017-01-06;"Minimizing movement.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541891";0
+journals/talg/ChanW16;article;2017-01-03;"Adaptive and Approximate Orthogonal Range Counting.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2830567";0
+journals/talg/AdanyFHKSSST16;article;2017-01-03;"All-Or-Nothing Generalized Assignment with Application to Scheduling Advertising Campaigns.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2843944";0
+journals/talg/BaptisteCD12;article;2017-01-06;"Polynomial-time algorithms for minimum energy scheduling.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229170";0
+journals/talg/MadaniTZ10;article;2017-01-06;"Discounted deterministic Markov decision processes and discounted all-pairs shortest paths.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721849";0
+journals/talg/DemaineHK14;article;2016-03-09;"Node-Weighted Steiner Tree and Group Steiner Tree in Planar Graphs.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2601070";0
+journals/talg/Gabow16;article;2017-01-03;"The Minset-Poset Approach to Representations of Graph Connectivity.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2764909";0
+journals/talg/AlstrupTGRZ14;article;2017-06-08;"Union-Find with Constant Time Deletions.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2636922";0
+journals/talg/CaragiannisKK10;article;2017-06-08;"Taxes for linear atomic congestion games.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868251";0
+journals/talg/CheungLL14;article;2016-03-09;"Algebraic Algorithms for Linear Matroid Parity Problems.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2601066";0
+journals/talg/KrokhinM12;article;2017-01-06;"On the hardness of losing weight.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151182";0
+journals/talg/PanduranganU07;article;2017-01-06;"Entropy-based bounds for online algorithms.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219953";0
+journals/talg/DomLS14;article;2016-03-09;"Kernelization Lower Bounds Through Colors and IDs.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2650261";0
+journals/talg/DellHMTW14;article;2016-03-09;"Exponential Time Complexity of the Permanent and the Tutte Polynomial.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2635812";0
+journals/talg/ChangEGK11;article;2017-06-08;"Broadcast scheduling: Algorithms and complexity.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000815";0
+journals/talg/KaplanMNS17;article;2017-06-28;"Submatrix Maximum Queries in Monge Matrices and Partial Monge Matrices, and Their Applications.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3039873";0
+journals/talg/ChekuriMS07;article;2017-01-06;"Multicommodity demand flow in a tree and packing integer programs.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273343";0
+journals/talg/ColeHLT14;article;2016-03-09;"Two-Dimensional Parameterized Matching.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2650220";0
+journals/talg/BoseCHMM12;article;2017-01-06;"Succinct geometric indexes supporting point location queries.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151173";0
+journals/talg/ChitnisCHM15;article;2017-01-03;"Directed Subset Feedback Vertex Set Is Fixed-Parameter Tractable.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2700209";0
+journals/talg/ImM12;article;2017-01-06;"An online scalable algorithm for average flow time in broadcast scheduling.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2344422.2344429";0
+journals/talg/GuptaN016;article;2017-01-03;"Robust and MaxMin Optimization under Matroid and Knapsack Uncertainty Sets.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2746226";0
+journals/talg/Bille0GKSV16;article;2017-01-03;"Sparse Text Indexing in Small Space.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2836166";0
+journals/talg/BecchettiKLP07;article;2017-01-06;"Sharing the cost more efficiently: Improved approximation for multicommodity rent-or-buy.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240246";0
+journals/talg/GearyRR06;article;2017-06-08;"Succinct ordinal trees with level-ancestor queries.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198516";0
+journals/talg/JezLSS12;article;2017-03-31;"Online scheduling of packets with agreeable deadlines.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390181";0
+journals/talg/Eppstein06;article;2016-03-09;"Quasiconvex analysis of multivariate recurrence equations for backtracking algorithms.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1198513.1198515";0
+journals/talg/ChanHLS07;article;2017-09-16;"Compressed indexes for dynamic text collections.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240244";0
+journals/talg/HalldorssonKS11;article;2017-01-06;"Sum edge coloring of multigraphs via configuration LP.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921668";0
+journals/talg/RosenS11;article;2017-01-06;"Rate vs. buffer size-greedy information gathering on the line.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978787";0
+journals/talg/BerryPGN09;article;2017-01-06;"Linear time 3-approximation for the MAST problem.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497299";0
+journals/talg/Socala16;article;2017-01-03;"Tight Lower Bound for the Channel Assignment Problem.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2876505";0
+journals/talg/Nutov12;article;2017-01-06;"Approximating minimum-cost connectivity problems via uncrossable bifamilies.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390177";0
+journals/talg/EpsteinS06a;article;2016-03-09;"This side up!";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1150334.1150339";0
+journals/talg/HajiaghayiKKK16;article;2017-01-03;"Approximation Algorithms for Movement Repairmen.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2908737";0
+journals/talg/OudotGGW10;article;2017-06-08;"Geodesic delaunay triangulations in bounded planar domains.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824787";0
+journals/talg/FischerLMNY12;article;2017-01-06;"On the query complexity of testing orientations for being Eulerian.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151178";0
+journals/talg/BerenbrinkHS14;article;2016-03-09;"Distributed Selfish Load Balancing on Networks.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629671";0
+journals/talg/AlonBDFHS08;article;2017-01-06;"Ordinal embeddings of minimum relaxation: General properties, trees, and ultrametrics.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383377";0
+journals/talg/KawarabayashiK13;article;2017-01-06;"An O(log n)-Approximation Algorithm for the Edge-Disjoint Paths Problem in Eulerian Planar Graphs.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2438645.2438648";0
+journals/talg/ChoiS11;article;2017-01-06;"Constrained pattern matching.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921671";0
+journals/talg/FeigenbaumIMNSW06;article;2016-03-09;"Secure multiparty computation of approximations.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159900";0
+journals/talg/KhullerMM11;article;2017-01-06;"To fill or not to fill: The gas station problem.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978791";0
+journals/talg/ChungRV11;article;2017-01-06;"S-T connectivity on digraphs with a known stationary distribution.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978785";0
+journals/talg/HanCTZZ11;article;2017-06-22;"A new upper bound 2.5545 on 2D Online Bin Packing.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2000807.2000818";0
+journals/talg/RonT14;article;2016-03-09;"Testing Properties of Sparse Images.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2635806";0
+journals/talg/GairingMT11;article;2017-01-06;"Routing (un-) splittable flow in games with player-specific affine latency functions.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978786";0
+journals/talg/CheriyanS07;article;2017-01-06;"Packing element-disjoint steiner trees.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290684";0
+journals/talg/FusySP08;article;2017-01-03;"Dissections, orientations, and trees with applications to optimal mesh encoding and random sampling.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361196";0
+journals/talg/BuchsbaumGPV08;article;2017-01-06;"Rectangular layouts and contact graphs.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328919";0
+journals/talg/KonjevodRX16;article;2017-01-03;"Scale-Free Compact Routing Schemes in Networks of Low Doubling Dimension.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2876055";0
+journals/talg/AnshelevichZ08;article;2017-01-06;"Path decomposition under a new cost measure with applications to optical network design.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328926";0
+journals/talg/JothiR05;article;2016-03-09;"Approximation algorithms for the capacitated minimum spanning tree problem and its variants in network design.";"";"2005";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1103963.1103967";0
+journals/talg/AwerbuchRSSZ14;article;2016-03-09;"Principles of Robust Medium Access and an Application to Leader Election.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2635818";0
+journals/talg/GandhiHKS08;article;2017-01-06;"Improved bounds for scheduling conflicting jobs with minsum criteria.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328922";0
+journals/talg/GoelN14;article;2017-01-03;"Price-based protocols for fair resource allocation: Convergence time analysis and extension to leontief utilities.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2556949";0
+journals/talg/Andersen10;article;2017-01-06;"A local algorithm for finding dense subgraphs.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1824777.1824780";0
+journals/talg/EfratFMPS16;article;2017-06-08;"Improved Approximation Algorithms for Relay Placement.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2814938";0
+journals/talg/IraniSG07;article;2017-06-08;"Algorithms for power savings.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290678";0
+journals/talg/DinitzS08;article;2017-01-06;"Optimality of an algorithm solving the Bottleneck Tower of Hanoi problem.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367065";0
+journals/talg/BerendST08;article;2017-01-06;"Combinatorial dominance guarantees for problems with infeasible solutions.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435383";0
+journals/talg/Vigneron14;article;2017-06-08;"Geometric optimization and sums of algebraic functions.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2532647";0
+journals/talg/RabaniS09;article;2017-01-06;"Bicriteria approximation tradeoff for the node-cost budget problem.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497295";0
+journals/talg/Even-DarKM07;article;2017-01-06;"Convergence time to Nash equilibrium in load balancing.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273348";0
+journals/talg/GonzalezLP06;article;2016-03-09;"Minimizing total completion time on uniform machines with deadline constraints.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1125994.1126000";0
+journals/talg/0001MZ16;article;2017-01-03;"Data Structures for Path Queries.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2905368";0
+journals/talg/ScottS09;article;2017-09-16;"Polynomial constraint satisfaction problems, graph bisection, and the Ising partition function.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1597036.1597049";0
+journals/talg/Chan13;article;2017-01-03;"Persistent Predecessor Search and Orthogonal Point Location on the Word RAM.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483702";0
+journals/talg/ChawlaRR13;article;2017-01-03;"Foreword to the Special Issue on SODA'11.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483700";0
+journals/talg/IndykN07;article;2017-01-06;"Nearest-neighbor-preserving embeddings.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1273340.1273347";0
+journals/talg/EdmondsP12;article;2017-01-06;"Scalably scheduling processes with arbitrary speedup curves.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2229163.2229172";0
+journals/talg/GlacetMP17;article;2017-09-16;"Time vs. Information Tradeoffs for Leader Election in Anonymous Trees.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3039870";0
+journals/talg/FranceschiniG08;article;2017-01-06;"No sorting? better searching&excl;.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328913";0
+journals/talg/MakarychevMS14;article;2016-03-09;"Maximum Quadratic Assignment Problem: Reduction from Maximum Label Cover and LP-based Approximation Algorithm.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629672";0
+journals/talg/Vishwanathan08;article;2017-01-06;"On hard instances of approximate vertex cover.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435382";0
+journals/talg/HaywardSS07;article;2017-01-06;"Improved algorithms for weakly chordal graphs.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1240233.1240237";0
+journals/talg/EmekR16;article;2017-01-04;"Semi-Streaming Set Cover.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2957322";0
+journals/talg/AmirELPS12;article;2017-01-06;"Cycle detection and correction.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390189";0
+journals/talg/Lacki13;article;2017-01-03;"Improved Deterministic Algorithms for Decremental Reachability and Strongly Connected Components.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483707";0
+journals/talg/KormanP08;article;2017-01-06;"Dynamic routing schemes for graphs with low local density.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1383369.1383372";0
+journals/talg/GoldwasserP08;article;2017-01-06;"Online nonpreemptive scheduling of equal-length jobs on two identical machines.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435377";0
+journals/talg/GerkePSS15;article;2016-03-09;"Maximizing the Minimum Load for Random Processing Times.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2651421";0
+journals/talg/FakcharoenpholLN14;article;2017-06-15;"Faster Algorithms for Semi-Matching Problems.";"";"2014";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2601071";0
+journals/talg/ChanGMZ16;article;2017-01-03;"On Hierarchical Routing in Doubling Metrics.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2915183";0
+journals/talg/GrandoniKP08;article;2017-01-06;"Distributed weighted vertex cover via maximal matchings.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435381";0
+journals/talg/BorradaileKM09;article;2017-01-06;"An ";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1541885.1541892";0
+journals/talg/NeimanS16;article;2017-01-03;"Simple Deterministic Algorithms for Fully Dynamic Maximal Matching.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2700206";0
+journals/talg/GuptaHNR10;article;2017-01-06;"Dial a Ride from ";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1721837.1721857";0
+journals/talg/HarrisS17;article;2017-08-28;"Algorithmic and Enumerative Aspects of the Moser-Tardos Distribution.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3039869";0
+journals/talg/BabenkoGGN16;article;2017-01-04;"Algorithms for Hub Label Optimization.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2996593";0
+journals/talg/AspnesS07;article;2017-01-06;"Skip graphs.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290674";0
+journals/talg/WeimannY13;article;2017-01-06;"Replacement Paths and Distance Sensitivity Oracles via Fast Matrix Multiplication.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2438645.2438646";0
+journals/talg/EvenLRSSS08;article;2017-01-06;"Algorithms for capacitated rectangle stabbing and lot sizing with joint set-up costs.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367074";0
+journals/talg/JansonS07;article;2017-01-06;"Partial fillup and search time in LC tries.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290681";0
+journals/talg/TorngM08;article;2017-01-06;"SRPT optimally utilizes faster machines to minimize flow time.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435376";0
+journals/talg/SilvaHS16;article;2017-01-03;"Sparse Sums of Positive Semidefinite Matrices.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2746241";0
+journals/talg/Bar-NoyGKNSS09;article;2017-01-06;"Throughput maximization of real-time scheduling with batching.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497294";0
+journals/talg/HohnJ15;article;2017-01-03;"On the Performance of Smith's Rule in Single-Machine Scheduling with Nonlinear Cost.";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2629652";0
+journals/talg/BorradaileSW15;article;2016-03-09;"Min ";"";"2015";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2684068";0
+journals/talg/GrammGN06;article;2016-03-09;"Pattern matching for arc-annotated sequences.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1125994.1125997";0
+journals/talg/FriggstadS11;article;2017-01-06;"Minimizing movement in mobile facility location problems.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1978782.1978783";0
+journals/talg/AumannLMPY12;article;2017-01-06;"Dotted interval graphs.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2151171.2151172";0
+journals/talg/BonifaciCMM12;article;2017-06-08;"Algorithms and complexity for periodic real-time scheduling.";"";"2012";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2390176.2390182";0
+journals/talg/FerraginaV10;article;2017-06-08;"The compressed permuterm index.";"";"2010";"ACM Trans. Algorithms";"https://doi.org/10.1145/1868237.1868248";0
+journals/talg/HershbergerMS07;article;2017-01-06;"Finding the ";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1290672.1290682";0
+journals/talg/AielloKM08;article;2017-01-06;"Competitive buffer management for shared-memory switches.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1435375.1435378";0
+journals/talg/Jacobs11;article;2017-01-06;"Constant factor approximations for the hotlink assignment problem.";"";"2011";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1921659.1921662";0
+journals/talg/CirianiFLM07;article;2017-06-08;"A data structure for a sequence of string accesses in external memory.";"";"2007";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1219944.1219952";0
+journals/talg/AzarKP10;article;2017-01-06;"Distributed error confinement.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798601";0
+journals/talg/ImmorlicaMM08;article;2017-01-03;"Limitations of cross-monotonic cost-sharing schemes.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1361192.1361201";0
+journals/talg/ChengMV16;article;2017-01-03;"A Faster Algorithm for Computing Straight Skeletons.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2898961";0
+journals/talg/AlonG10;article;2017-01-06;"Balanced families of perfect hash functions and their applications.";"";"2010";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1798596.1798607";0
+journals/talg/Gawrychowski13;article;2017-01-03;"Optimal Pattern Matching in LZW Compressed Strings.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2483699.2483705";0
+journals/talg/AlonsoR09;article;2017-01-06;"Average-case analysis of some plurality algorithms.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1497290.1497293";0
+journals/talg/GeorgiadisILP16;article;2017-09-16;"2-Edge Connectivity in Directed Graphs.";"";"2016";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2968448";0
+journals/talg/GaspersKLT09;article;2017-01-06;"Exponential time algorithms for the minimum dominating set problem on some graph classes.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644024";0
+journals/talg/AnnamalaiKS17;article;2017-08-28;"Combinatorial Algorithm for Restricted Max-Min Fair Allocation.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3070694";0
+journals/talg/KaplanT08;article;2017-01-06;"Thin heaps, thick heaps.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1328911.1328914";0
+journals/talg/Johnson06;article;2016-03-09;"The NP-completeness column: The many limits on approximation.";"";"2006";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1159892.1159901";0
+journals/talg/GilbertLPS17;article;2017-08-28;"For-All Sparse Recovery in Near-Optimal Time.";"";"2017";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/3039872";0
+journals/talg/HassinLS09;article;2017-01-06;"Approximating the minimum quadratic assignment problems.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644033";0
+journals/talg/BateniHZ13;article;2017-01-03;"Submodular secretary problem and extensions.";"";"2013";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/2500121";0
+journals/talg/CohenRR09;article;2017-01-06;"Time-dependent multi-scheduling of multicast.";"";"2009";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1644015.1644029";0
+journals/talg/MakinenN08;article;2017-06-15;"Dynamic entropy-compressed sequences and full-text indexes.";"";"2008";"ACM Trans. Algorithms";"http://doi.acm.org/10.1145/1367064.1367072";0
