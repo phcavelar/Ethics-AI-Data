@@ -8,7 +8,7 @@ with open( "venuesb.txt", "r", encoding = "utf-8" ) as f:
 CSV_SEP = '\t'
 PATH_TO_XML = "./dblp.xml"
 CATEGORIES = set(
-	["article", "inproceedings"]
+	["article", "inproceedings", "proceedings", "book", "incollection", "phdthesis", "mastersthesis", "www"]
 )
 DATA_ITEMS = ["title", "booktitle", "journal", "volume", "year", "ee"]
 TDATA_ITEMS = ["key", "tag", "title", "booktitle", "journal", "volume", "year", "ee"]
