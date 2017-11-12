@@ -1,4 +1,4 @@
-import csv, sys
+import csv, sys, re
 
 csvfname = sys.argv[1]
 newcsvfname = sys.argv[2]
@@ -44,7 +44,8 @@ with open( csvfname, mode="r", encoding="utf-8", newline='' ) as csvf:
         writer = csv.writer( ncsvf, delimiter='\t', quotechar='"', quoting=csv.QUOTE_NONNUMERIC )
         for i, row in enumerate( reader ):
             title = row[1]
-            if check( title.lower(), kw ) > check( title.lower(), ukw ):
+#            print( re.split( "[\W\d]", title.lower() ) )
+            if check( re.split( "[\W\d]", title.lower() ), kw ) > check( re.split( "[\W\d]", title.lower() ), ukw ):
                 writer.writerow( row )
             #end if
             if i % 1000 == 0:
