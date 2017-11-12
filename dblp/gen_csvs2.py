@@ -39,7 +39,7 @@ def extract_paper_elements( iter_parser, log_file = sys.stderr ):
 def write_header(csv_file,data_items,end='\n'):
 	for data_item in data_items[:-1]:
 		csv_file.write( "{}{CS}".format( data_item, CS = CSV_SEP ) )
-	csv_file.write( "{}".format( data_item, CS = CSV_SEP ) )
+	csv_file.write( "{}".format( data_items[-1], CS = CSV_SEP ) )
 	csv_file.write( end )
 #end write_header
 
@@ -52,10 +52,10 @@ def write_entry(paper,csv_file,data_items,end='\n'):
 		#end if
 		csv_file.write( item )
 	#end for
-	if type( paper[ data_item ] ) is str:
-		item = "\"{}\"{CS}".format( paper[ data_item ], CS = CSV_SEP )
+	if type( paper[ data_items[-1] ] ) is str:
+		item = "\"{}\"{CS}".format( paper[ data_items[-1] ], CS = CSV_SEP )
 	else:
-		item = "{}{CS}".format( paper[ data_item ], CS = CSV_SEP )
+		item = "{}{CS}".format( paper[ data_items[-1] ], CS = CSV_SEP )
 	#end if
 	csv_file.write( item )
 	csv_file.write( end )
