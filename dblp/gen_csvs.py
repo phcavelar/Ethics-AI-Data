@@ -55,7 +55,7 @@ def write_entry(paper,csv_file,end='\n'):
 	)
 	for data_item in DATA_ITEMS:
 		if type( paper[ data_item ] ) is str:
-			item = "{CS}\"{}\"".format( paper[ data_item ], CS = CSV_SEP )
+			item = "{CS}\"{}\"".format( ''.join( c for c in paper[ data_item ] if c not in ['"', CSV_SEP] ), CS = CSV_SEP )
 		else:
 			item = "{CS}{}".format( paper[ data_item ], CS = CSV_SEP )
 		#end if
