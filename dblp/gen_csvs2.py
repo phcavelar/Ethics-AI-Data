@@ -46,14 +46,14 @@ def write_header(csv_file,data_items,end='\n'):
 def write_entry(paper,csv_file,data_items,end='\n'):
 	for data_item in data_items[:-1]:
 		if type( paper[ data_item ] ) is str:
-			item = "\"{}\"{CS}".format( paper[ data_item ], CS = CSV_SEP )
+			item = "\"{}\"{CS}".format( paper[ data_item ].replace('"','').replace(CSV_SEP,''), CS = CSV_SEP )
 		else:
 			item = "{}{CS}".format( paper[ data_item ], CS = CSV_SEP )
 		#end if
 		csv_file.write( item )
 	#end for
 	if type( paper[ data_items[-1] ] ) is str:
-		item = "\"{}\"{CS}".format( paper[ data_items[-1] ], CS = CSV_SEP )
+		item = "\"{}\"{CS}".format( paper[ data_items[-1] ].replace('"','').replace(CSV_SEP,''), CS = CSV_SEP )
 	else:
 		item = "{}{CS}".format( paper[ data_items[-1] ], CS = CSV_SEP )
 	#end if

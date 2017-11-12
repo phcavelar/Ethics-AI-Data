@@ -1,10 +1,12 @@
 ethic
 ethics
 ethical
+moral
+morality
 sustainability
 racist
 racism
-bias
+machine	bias
 unemployment
 employment
 workforce
@@ -16,9 +18,6 @@ fooled
 security
 secure
 safe
-control
-controllable
-controlling
 singularity
 sentient
 sentience
@@ -28,3 +27,5 @@ law
 society
 social
 responsibility
+accountability
+accountable
