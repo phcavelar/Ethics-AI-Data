@@ -4,7 +4,7 @@ import time
 import os.path
 import sys
 
-FILENAME = "aaai" #.txt
+FILENAME = "nips" #.txt
 
 # These characters will be removed from any text inside to keep CSV file consistent
 TEXT_DELIMITER = '#' # Text delimiter for csv file
@@ -18,7 +18,8 @@ def CSV_CLEAN_STRING( s ):
     return s.replace( TEXT_DELIMITER, '' ).replace( CSV_SEPARATOR, '' ).replace( CSV_END_LINE, '' )
 #end CSV_CLEAN_STRING
 
-aaai_confs_years = [2017,2016,2015,2014,2013,2012,2011,2010,2008,2007,2006,2005,2004,2002,2000,1999,1998,1997,1996,1994,1993,1992,1991,1990,1988,1987,1986,1984,1983,1982,1980]
+nips_books = list( reversed( [ ( 1988+ed, "https://papers.nips.cc/book/advances-in-neural-information-processing-systems-{ed}-{year}".format( ed = ed+1, year = 1988+ed) ) for ed in range(29) ] ) )
+nips_books.append( (1987, "https://papers.nips.cc/book/neural-information-processing-systems-1987") )
 
 def make_fname( s ):
     r = [ '_' if c.isspace() else c for c in s if c.isalnum() or c.isspace() or c == '-' ]
@@ -44,7 +45,7 @@ def find_after(s, ss):
 
 def is_paper( p ):
     try:
-        _,_,_ = p.xpath( 'a' )[0].text, p.xpath( 'i' )[0].text, p.xpath('a')[0].attrib['href']
+        _,_,_ = p.xpath( 'a' )[0].text, ",".join( filter( None, [ author.text for author in p.xpath( 'a[@class="author"]' ) ] ) ), p.xpath('a')[0].attrib['href']
     except IndexError:
         return False
     return True
@@ -79,44 +80,35 @@ def get_page( url, delay_before=5.0, delay_retry=None ):
 
 
 with open( "{fname}.txt".format( fname = FILENAME ), mode = 'w', encoding = 'utf-8' ) as conf_file:
-    for conf_year in aaai_confs_years:
+    for conf_year, conf_url in nips_books:
         conf_paper_id = 1
         print( "\n\n\n{}".format( conf_year ) )
-        conf_id = str( conf_year )[-2:]
-        conf_url = "https://www.aaai.org/Library/AAAI/aaai{conf_id}contents.php".format( conf_id = conf_id )
+        conf_id = str( conf_year )
         # Scrape nicely
-        conf_page = get_page( conf_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
+        conf_page = get_page( conf_url )
         conf_tree = html.fromstring( conf_page.content )
         conf_page.close()
-        conf_tree.make_links_absolute( "https://www.aaai.org/Library/AAAI/" )
-        conf_papers = conf_tree.xpath( '//div[@id="box6"]/div[@class="content"]/p[@class="left"]' )
-        l = [ ( ( '' if p.xpath( 'a' )[0].text is None else p.xpath( 'a' )[0].text) + ''.join( filter( None, [ subtext.text for subtext in p.xpath( 'a' )[0] ] ) ), p.xpath( 'i' )[0].text, p.xpath('a')[0].attrib['href'], p.getchildren()[1].text if has_pdf( p ) else None ) for p in conf_papers if is_paper( p ) ]
+        conf_tree.make_links_absolute( "https://papers.nips.cc/" )
+        conf_papers = conf_tree.xpath( '//div[@class="main wrapper clearfix"]/ul/li' )
+        l = [
+            (
+                p.xpath( 'a' )[0].text,
+                ",".join( filter( None, [ author.text for author in p.xpath( 'a[@class="author"]' ) ] ) ),
+                p.xpath('a')[0].attrib['href']
+            ) for p in conf_papers if is_paper( p )
+        ]
         # Create file
-        for paper, author, paper_url, commented_url in l:
-            paper_id = None
+        for paper, author, paper_url in l:
+            paper_id = find_between( paper_url, '/paper/', '-' )
+            # Extract abstract
             abstract = ''
-            if "/paper/view/" in paper_url:
-                paper_url = paper_url.replace( 'paper/view', 'paper/viewPaper' )
+            if True: #NIPS is organized, all in the same format
                 if "https://" not in paper_url:
                     paper_url = paper_url.replace( 'http://', 'https://' )
                 #end if
-                paper_id = "{conf}{year}_{paper_id}".format(
-                    conf = find_between( paper_url, 'index.php/', '/' ),
-                    year = conf_id,
-                    paper_id = find_after( paper_url, '/paper/view/' )
-                )
                 paper_page = get_page( paper_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
                 paper_tree = html.fromstring( paper_page.content )
-                abstract = "{text}".format( text = paper_tree.xpath( '//div[@id="abstract"]/div' )[0].text )
-                paper_page.close()
-            elif ".org/Library/" in paper_url:
-                if "https://" not in paper_url:
-                    paper_url = paper_url.replace( 'http://', 'https://' )
-                #end if
-                paper_id = find_between( paper_url, '/{year}/'.format( year = conf_year ), ".php" )
-                paper_page = get_page( paper_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
-                paper_tree = html.fromstring( paper_page.content )
-                abstract = "{text}".format( text = paper_tree.xpath( '//div[@id="abstract"]/p' )[1].text )
+                abstract = "{text}".format( text = paper_tree.xpath( '//p[@class="abstract"]' )[0].text )
                 paper_page.close()
             else:
                 pass
@@ -148,5 +140,6 @@ with open( "{fname}.txt".format( fname = FILENAME ), mode = 'w', encoding = 'utf
             )
             conf_paper_id += 1
         #end for
+        break
     #end for
 # end open file
