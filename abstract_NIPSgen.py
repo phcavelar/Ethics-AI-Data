@@ -120,7 +120,7 @@ with open( "{fname}.txt".format( fname = FILENAME ), mode = 'w', encoding = 'utf
                 id       = str(paper_id)[:20],
                 title    = str(paper)[:20],
                 authors  = str(author)[:20],
-                url      = str(paper_url)[11:],
+                url      = str(paper_url)[8:],
                 abstract = str(abstract)[:20],
                 td   = '',
                 tda   = '"',
@@ -140,6 +140,5 @@ with open( "{fname}.txt".format( fname = FILENAME ), mode = 'w', encoding = 'utf
             )
             conf_paper_id += 1
         #end for
-        break
     #end for
 # end open file
