@@ -122,7 +122,7 @@ with open( "{fname}.txt".format( fname = FILENAME ), mode = 'w', encoding = 'utf
                 else:
                     pass
                 #end if
-            except (lxml.etree.XMLSyntaxError, IndexError, AttributeError) as e:
+            except (etree.XMLSyntaxError, IndexError, AttributeError) as e:
                 print( "Failed to get abstract for paper. Id={id}{sep}Title={td}{title}{td}{sep}Year={year}{sep}Error={error}".format(
                     id    = paper_id,
                     title = paper,
