@@ -15,7 +15,7 @@ SCRAPE_DELAY_BEFORE = 5.0 # Seconds
 SCRAPE_DELAY_RETRY = None # Sets to be equal to SCRAPE_DELAY_BEFORE
 
 def CSV_CLEAN_STRING( s ):
-    return s.replace( TEXT_DELIMITER, '' ).replace( CSV_SEPARATOR, '' ).replace( CSV_END_LINE, '' )
+    return s.replace( TEXT_DELIMITER, '' ).replace( CSV_SEPARATOR, '' ).replace( CSV_END_LINE, ' ' )
 #end CSV_CLEAN_STRING
 
 nips_books = list( reversed( [ ( 1988+ed, "https://papers.nips.cc/book/advances-in-neural-information-processing-systems-{ed}-{year}".format( ed = ed+1, year = 1988+ed) ) for ed in range(29) ] ) )
