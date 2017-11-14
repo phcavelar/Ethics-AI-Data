@@ -102,17 +102,29 @@ with open( "{fname}.txt".format( fname = FILENAME ), mode = 'w', encoding = 'utf
             paper_id = find_between( paper_url, '/paper/', '-' )
             # Extract abstract
             abstract = ''
-            if True: #NIPS is organized, all in the same format
-                if "https://" not in paper_url:
-                    paper_url = paper_url.replace( 'http://', 'https://' )
+            try:
+                if True: #NIPS is organized, all in the same format
+                    if "https://" not in paper_url:
+                        paper_url = paper_url.replace( 'http://', 'https://' )
+                    #end if
+                    paper_page = get_page( paper_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
+                    paper_tree = html.fromstring( paper_page.content )
+                    abstract = "{text}".format( text = paper_tree.xpath( '//p[@class="abstract"]' )[0].text )
+                    paper_page.close()
+                else:
+                    pass
                 #end if
-                paper_page = get_page( paper_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
-                paper_tree = html.fromstring( paper_page.content )
-                abstract = "{text}".format( text = paper_tree.xpath( '//p[@class="abstract"]' )[0].text )
-                paper_page.close()
-            else:
-                pass
-            #end if
+            except (lxml.etree.XMLSyntaxError, IndexError, AttributeError) as e:
+                print( "Failed to get abstract for paper. Id={id}{sep}Title={td}{title}{td}{sep}Year={year}{sep}Error={error}".format(
+                    id    = paper_id,
+                    title = paper,
+                    year  = conf_year,
+                    error = e,
+                    sep   = CSV_SEPARATOR,
+                    td    = TEXT_DELIMITER),
+                    file = sys.stderr
+                )
+            #end try
             paper_id = make_fname( "{:02d}-".format( conf_paper_id ) + paper ) if paper_id is None else paper_id
             # Dump to file
             print( "{year}{sep}{td}{id}{td}{sep}{td}{title}{td}{sep}{td}{authors}{td}{sep}{td}{url}{td}{sep}{tda}{abstract}{tda}{endl}".format(
@@ -123,7 +135,7 @@ with open( "{fname}.txt".format( fname = FILENAME ), mode = 'w', encoding = 'utf
                 url      = str(paper_url)[8:],
                 abstract = str(abstract)[:20],
                 td   = '',
-                tda   = '"',
+                tda  = '"',
                 sep  = '\t',
                 endl = '\n')
             )

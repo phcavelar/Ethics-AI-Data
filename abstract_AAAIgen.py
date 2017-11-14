@@ -95,32 +95,44 @@ with open( "{fname}.txt".format( fname = FILENAME ), mode = 'w', encoding = 'utf
         for paper, author, paper_url, commented_url in l:
             paper_id = None
             abstract = ''
-            if "/paper/view/" in paper_url:
-                paper_url = paper_url.replace( 'paper/view', 'paper/viewPaper' )
-                if "https://" not in paper_url:
-                    paper_url = paper_url.replace( 'http://', 'https://' )
+            try:
+                if "/paper/view/" in paper_url:
+                    paper_url = paper_url.replace( 'paper/view', 'paper/viewPaper' )
+                    if "https://" not in paper_url:
+                        paper_url = paper_url.replace( 'http://', 'https://' )
+                    #end if
+                    paper_id = "{conf}{year}_{paper_id}".format(
+                        conf = find_between( paper_url, 'index.php/', '/' ),
+                        year = conf_id,
+                        paper_id = find_after( paper_url, '/paper/view/' )
+                    )
+                    paper_page = get_page( paper_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
+                    paper_tree = html.fromstring( paper_page.content )
+                    abstract = "{text}".format( text = paper_tree.xpath( '//div[@id="abstract"]/div' )[0].text )
+                    paper_page.close()
+                elif ".org/Library/" in paper_url:
+                    if "https://" not in paper_url:
+                        paper_url = paper_url.replace( 'http://', 'https://' )
+                    #end if
+                    paper_id = find_between( paper_url, '/{year}/'.format( year = conf_year ), ".php" )
+                    paper_page = get_page( paper_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
+                    paper_tree = html.fromstring( paper_page.content )
+                    abstract = "{text}".format( text = paper_tree.xpath( '//div[@id="abstract"]/p' )[1].text )
+                    paper_page.close()
+                else:
+                    pass
                 #end if
-                paper_id = "{conf}{year}_{paper_id}".format(
-                    conf = find_between( paper_url, 'index.php/', '/' ),
-                    year = conf_id,
-                    paper_id = find_after( paper_url, '/paper/view/' )
+            except (lxml.etree.XMLSyntaxError, IndexError, AttributeError) as e:
+                print( "Failed to get abstract for paper. Id={id}{sep}Title={td}{title}{td}{sep}Year={year}{sep}Error={error}".format(
+                    id    = paper_id,
+                    title = paper,
+                    year  = conf_year,
+                    error = e,
+                    sep   = CSV_SEPARATOR,
+                    td    = TEXT_DELIMITER),
+                    file = sys.stderr
                 )
-                paper_page = get_page( paper_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
-                paper_tree = html.fromstring( paper_page.content )
-                abstract = "{text}".format( text = paper_tree.xpath( '//div[@id="abstract"]/div' )[0].text )
-                paper_page.close()
-            elif ".org/Library/" in paper_url:
-                if "https://" not in paper_url:
-                    paper_url = paper_url.replace( 'http://', 'https://' )
-                #end if
-                paper_id = find_between( paper_url, '/{year}/'.format( year = conf_year ), ".php" )
-                paper_page = get_page( paper_url, SCRAPE_DELAY_BEFORE, SCRAPE_DELAY_RETRY )
-                paper_tree = html.fromstring( paper_page.content )
-                abstract = "{text}".format( text = paper_tree.xpath( '//div[@id="abstract"]/p' )[1].text )
-                paper_page.close()
-            else:
-                pass
-            #end if
+            #end try
             paper_id = make_fname( "{:02d}-".format( conf_paper_id ) + paper ) if paper_id is None else paper_id
             # Dump to file
             print( "{year}{sep}{td}{id}{td}{sep}{td}{title}{td}{sep}{td}{authors}{td}{sep}{td}{url}{td}{sep}{tda}{abstract}{tda}{endl}".format(
